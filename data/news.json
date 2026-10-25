@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:02:57.630543-03:00",
+ "updated": "2026-10-25T18:04:57.409071-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Votação no 2º turno foi prorrogada em todo o país, gerando confusão nas urnas",
-  "why_it_matters": "É a primeira extensão de horário desde a adoção das urnas eletrônicas e pode impactar a contagem final dos votos",
-  "big_picture": "A decisão surge em meio a uma disputa apertada entre Lula (13) e Flávio Bolsonaro (22) e já alimenta narrativas de vitória entre apoiadores de Flávio",
+  "headline": "Horário de votação é prorrogado em todo o país, gerando confusão nas urnas",
+  "why_it_matters": "A extensão inesperada pode atrasar a contagem e alimentar dúvidas sobre a legitimidade do pleito.",
+  "big_picture": "Em um segundo turno acirrado entre Lula e Flávio Bolsonaro, qualquer atraso pode influenciar a percepção pública e a estabilidade política.",
   "details": [
-   "A prorrogação foi anunciada às 20:41 UTC, provocando dúvidas em seções já encerradas e urnas já lacradas",
-   "Candidato Ramagem, em Miami, declarou que pretende voltar ao Brasil caso Flávio vença",
-   "Pesquisas recentes citadas pelo GLOBO indicam que ainda não há consenso sobre quem lidera, sem números divulgados nas manchetes",
-   "Comparativo com a apuração de 2022 (publicada pelo UOL) mostra que a contagem ainda não começou para 2026"
+   "Decisão inédita desde a adoção das urnas eletrônicas, anunciada às 20:43 UTC",
+   "Votação prolongada provocou confusão em seções já encerradas, com urnas fechadas e apurações parciais",
+   "Candidato Flávio Bolsonaro, em Miami, afirmou que pretende voltar ao Brasil caso vença, reforçando a disputa",
+   "Últimas pesquisas ainda não mostram um líder claro; o Globo traz sondagens sem indicar quem está à frente",
+   "Comparativo de apuração de 2022 é usado como referência, mas a contagem de 2026 ainda não começou"
   ],
-  "whats_next": "Os tribunais eleitorais devem validar a extensão e iniciar a apuração oficial nas próximas horas"
+  "whats_next": "Os tribunais eleitorais devem validar a prorrogação e iniciar a apuração oficial após o fechamento definitivo das urnas"
  },
  "brief_en": {
-  "headline": "Voting in the 2nd round was extended nationwide, sparking ballot confusion",
-  "why_it_matters": "First time the clock’s been pushed back since e‑voting rolled out, and it could tilt the final tally",
-  "big_picture": "The move comes as the Lula (13)‑Flávio Bolsonaro (22) race tightens, feeding win narratives among Flávio’s backers",
+  "headline": "Voting time extended nationwide, sparking ballot confusion",
+  "why_it_matters": "The surprise extension could delay tallying and fuel doubts about the election’s legitimacy.",
+  "big_picture": "In a tight runoff between Lula and Flávio Bolsonaro, any delay could sway public perception and political stability.",
   "details": [
-   "The extension was announced at 20:41 UTC, raising doubts in polls already closed and sealed ballot boxes",
-   "Candidate Ramagem, speaking from Miami, said he’ll return to Brazil if Flávio wins",
-   "Recent polls cited by GLOBO show no clear leader yet, with no headline numbers released",
-   "A comparison with the 2022 count (UOL) shows the 2026 tally hasn’t even started"
+   "Unprecedented move since electronic voting began, announced at 20:43 UTC",
+   "Extended voting caused chaos in already‑closed precincts, with sealed machines and partial tallies",
+   "Candidate Flávio Bolsonaro, in Miami, said he’ll return to Brazil if he wins, underscoring the race",
+   "Latest polls still show no clear leader; Globo reports surveys without a front‑runner",
+   "2022 tally comparison is used as a benchmark, but the 2026 count hasn’t started"
   ],
-  "whats_next": "Election courts are expected to certify the extension and kick off the official count within hours"
+  "whats_next": "Electoral courts are expected to ratify the extension and kick off the official count once the polls close for good"
  },
  "error": null
 }
