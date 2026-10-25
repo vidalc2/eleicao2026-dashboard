@@ -3,12 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' https://cdnjs.cloudflare.com; style-src 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://gamma-api.polymarket.com https://data-api.polymarket.com https://clawdio-server.tailb53fdb.ts.net:10000; frame-src https://embed.polymarket.com; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'; frame-ancestors 'none'">
 <meta name="theme-color" content="#f4f3ef" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#131312" media="(prefers-color-scheme: dark)">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='7' y='27' width='50' height='31' rx='6' fill='%231b1b1a'/%3E%3Cpath d='M17 33h30' stroke='%23fff' stroke-width='4'/%3E%3Cpath d='M20 6h24v27H20z' fill='%23fff' stroke='%231b1b1a' stroke-width='3'/%3E%3Cpath d='m25 19 5 5 10-11' fill='none' stroke='%231f7a43' stroke-width='4'/%3E%3C/svg%3E">
 <title>Voto no Exterior 2026</title>
 <meta name="description" content="2º turno 2026 no exterior: boletins de urna (G1 + Poder360, média) país a país contra o 1º turno (TSE), com cobertura, comparecimento e swing.">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" integrity="sha384-bs/nf9FbdNouRbMiFcrcZfLXYPKiPaGVGplVbv7dLGECccEXDW+S3zjqSKR5ZEaD" crossorigin="anonymous"></script>
 <style>
 :root{--bg:#f4f3ef;--surface:#fff;--ink:#1b1b1a;--ink2:#444441;--muted:#5f5f5b;--line:#d9d7d1;--grid:#e8e6e0;
   --lula:#c43c3c;--flavio:#2f6fc4;--lula-soft:rgba(196,60,60,.13);--flavio-soft:rgba(47,111,196,.13);--band:rgba(110,110,110,.2);--good:#1f7a43;--warn:#9a6411;--bad:#a83232;--focus:#8a4dff}
@@ -230,6 +231,7 @@ th[aria-sort="ascending"] button::after{content:' ↑'}th[aria-sort="descending"
 </div>
 <script>
 const $=s=>document.querySelector(s);
+const esc=v=>String(v==null?'':v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const I18N={
  pt:{scroll_hint:"Deslize a tabela para ver mais colunas",table_region:"Tabela de resultados, com rolagem",theme_label:"Alternar tema claro e escuro",language_label:"Idioma",sources_label:"Fontes das notícias",sort_label:"Ordenar países",delta_r1:"Δ 1º turno",th_state:"Estado",chart_unavailable:"Gráfico indisponível. Consulte os valores e a tabela nesta página.",skip:'Pular para o conteúdo',title:'Voto no exterior · 2º turno 2026',nav_home:'apuração nacional (TSE)',loading:'carregando…',h_bu_full:"Boletins de urna · média G1 + Poder360 · Lula cabeça-a-cabeça",h_bu:"Boletins · Lula (%)",avg2:'Média (2 fontes)',tse_off:'TSE oficial',k_countries:'Países com boletim',k_lf:'Votos reportados (L+F)',k_cov:'Cobertura dos válidos esperados',k_upd:'Atualizado',
   h_trend_full:"Tendência vs 1º turno (mesmos países)",h_trend:"Tendência no exterior",trend_sub:'swing de Lula, cabeça-a-cabeça, nos mesmos países já apurados (1º turno TSE)',h_cmp_full:"Comparação · exterior",h_cmp:"Lula · comparação",r1_all:'1º turno 2026 (todo exterior)',r1_same:'1º turno (mesmos países)',r2_2022:'2º turno 2022 (exterior)',d1l:'Diferença vs 1º turno (mesmos países)',d22l:'Diferença vs 2022 (todo exterior)',dvl:'Em votos (Lula − Flávio)',
@@ -315,7 +317,7 @@ function render(d){ D=d; const s=d.summary, m=d.rows.filter(r=>r.matched);
     const bad=r.agree===false?`<span class="badge">${T('diverge')}${r.used&&r.used!=='avg'?' · '+T('using')+' '+(r.used==='g1'?'G1':'P360'):''}</span>`:'',ns=`<span class="badge">${r.n_sources===2?'G1+P360':(r.src.g1?'G1':'P360')}</span>`;
     const sb=r.swing==null?'':`<span class="badge ${r.swing>0?'pos':'neg'}">${fmtD(r.swing,1)} pp</span>`;
     const lbl=T('rowlabel')({name:r.name,hh:fmtP(r.hh,1),lf:fmtN(r.lf),pct:fmtP(pct,0),sw:fmtD(r.swing,1)});
-    return `<div class="row" role="listitem" aria-label="${lbl.replace(/"/g,'&quot;')}"><div class="nm" title="${(r.cities||[]).join(', ')}"><span class="country-name">${r.name}</span>${sb}</div>
+    return `<div class="row" role="listitem" aria-label="${esc(lbl)}"><div class="nm" title="${esc((r.cities||[]).join(', '))}"><span class="country-name">${esc(r.name)}</span>${sb}</div>
       <div class="track" aria-hidden="true"><div class="fill" style="width:${w}%"><div class="l" style="width:${ls}%"></div><div class="g"></div><div class="f" style="flex:1"></div></div><div class="m100" style="left:${m100}%"></div><span class="pct">${fmtP(pct,0)}</span></div>
       <div class="fig mono"><span class="country-share">Lula ${fmtP(r.hh,1)}</span> · ${fmtN(r.lf)} ${T('reported')}${ns}${bad}<br>${T('expected')}: ${fmtN(r.exp_votes)} ${T('votes')} · ${fmtN(r.exp_valid)} ${T('valid')} · ${fmtN(r.exp_electorate)} ${T('voters')}</div></div>`;}).join('');
   document.querySelectorAll('.ctl .btn').forEach(b=>b.setAttribute('aria-pressed',b.dataset.s===rowSort));
@@ -324,7 +326,7 @@ function render(d){ D=d; const s=d.summary, m=d.rows.filter(r=>r.matched);
   $('#sw-desc').textContent=sr.length?T('sw_desc')({top:`${sr[0].name} ${fmtD(sr[0].swing,1)}`,bot:`${sr[sr.length-1].name} ${fmtD(sr[sr.length-1].swing,1)}`}):'';
   if(traj){const h=d.history||[];traj.data.labels=h.map(x=>x.t);traj.data.datasets[0].data=h.map(x=>x.hh);traj.data.datasets[1].data=h.map(x=>x.hh-(x.swing??0));traj.update('none');$('#traj-desc').textContent=h.length?T('traj_desc')({v:fmtP(h[h.length-1].hh)}):'';}
   const tb=$('#tbl tbody');const rs=m.map(r=>({...r,tse_hh:r.tse?r.tse.hh:null})).sort((x,y)=>{const a=x[sortK],b=y[sortK];if(a==null)return 1;if(b==null)return -1;return (a>b?1:a<b?-1:0)*sortD});
-  tb.innerHTML=rs.map(r=>`<tr><th scope="row" style="text-align:left;text-transform:none;letter-spacing:0;font-size:14px;color:var(--ink)">${r.name}</th><td>${r.n_sources}${r.agree===false?' ⚠':''}</td><td class="mono">${fmtN(r.lula)}</td><td class="mono">${fmtN(r.flavio)}</td><td class="mono">${fmtP(r.hh)}</td><td class="mono">${fmtP(r.r1_hh)}</td><td class="mono ${r.swing>0?'pos':r.swing<0?'neg':''}">${fmtD(r.swing)}</td><td class="mono">${fmtN(r.exp_votes)}</td><td class="mono">${fmtN(r.exp_valid)}</td><td class="mono">${fmtP(r.pct_of_exp_valid,0)}</td><td class="mono">${fmtP(r.r1_abst_pct,1)}</td><td class="mono">${fmtP(r.tse_hh)}</td></tr>`).join('');
+  tb.innerHTML=rs.map(r=>`<tr><th scope="row" style="text-align:left;text-transform:none;letter-spacing:0;font-size:14px;color:var(--ink)">${esc(r.name)}</th><td>${r.n_sources}${r.agree===false?' ⚠':''}</td><td class="mono">${fmtN(r.lula)}</td><td class="mono">${fmtN(r.flavio)}</td><td class="mono">${fmtP(r.hh)}</td><td class="mono">${fmtP(r.r1_hh)}</td><td class="mono ${r.swing>0?'pos':r.swing<0?'neg':''}">${fmtD(r.swing)}</td><td class="mono">${fmtN(r.exp_votes)}</td><td class="mono">${fmtN(r.exp_valid)}</td><td class="mono">${fmtP(r.pct_of_exp_valid,0)}</td><td class="mono">${fmtP(r.r1_abst_pct,1)}</td><td class="mono">${fmtP(r.tse_hh)}</td></tr>`).join('');
   finishLoading();updateSort();
 }
 document.querySelectorAll('th button[data-k]').forEach(b=>b.onclick=()=>{const k=b.dataset.k;if(sortK===k)sortD*=-1;else{sortK=k;sortD=-1;}if(D)render(D);});

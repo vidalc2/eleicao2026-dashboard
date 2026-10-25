@@ -3,12 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' https://cdnjs.cloudflare.com; style-src 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://gamma-api.polymarket.com https://data-api.polymarket.com https://clawdio-server.tailb53fdb.ts.net:10000; frame-src https://embed.polymarket.com; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'; frame-ancestors 'none'">
 <meta name="theme-color" content="#f4f3ef" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#131312" media="(prefers-color-scheme: dark)">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='7' y='27' width='50' height='31' rx='6' fill='%231b1b1a'/%3E%3Cpath d='M17 33h30' stroke='%23fff' stroke-width='4'/%3E%3Cpath d='M20 6h24v27H20z' fill='%23fff' stroke='%231b1b1a' stroke-width='3'/%3E%3Cpath d='m25 19 5 5 10-11' fill='none' stroke='%231f7a43' stroke-width='4'/%3E%3C/svg%3E">
 <title>Apuração 2º Turno 2026</title>
 <meta name="description" content="Apuração em tempo real do 2º turno presidencial 2026 (TSE) com comparação ao 1º turno e a 2022. / Live count of Brazil's 2026 presidential runoff.">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" integrity="sha384-bs/nf9FbdNouRbMiFcrcZfLXYPKiPaGVGplVbv7dLGECccEXDW+S3zjqSKR5ZEaD" crossorigin="anonymous"></script>
 <style>
 :root{
   --bg:#f4f3ef;--surface:#ffffff;--ink:#1b1b1a;--ink2:#444441;--muted:#5f5f5b;--line:#d9d7d1;--grid:#e8e6e0;
@@ -270,11 +271,11 @@ th[aria-sort="ascending"] button::after{content:' ↑'}th[aria-sort="descending"
     <p class="market-note" data-i18n="markets_method">Kalshi: último negócio de cada minuto. Polymarket: histórico de preços a cada 5 minutos. Os horários e preços podem diferir; não são normalizados entre candidatos. Atualização a cada minuto.</p>
     <details class="market-embed" id="market-embed">
       <summary data-i18n="markets_embed">Ver o mercado de Lula ao vivo no Polymarket</summary>
-      <iframe id="market-embed-frame" title="Mercado de Lula ao vivo · Polymarket" loading="lazy" referrerpolicy="no-referrer"></iframe>
+      <iframe id="market-embed-frame" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" title="Mercado de Lula ao vivo · Polymarket" loading="lazy" referrerpolicy="no-referrer"></iframe>
     </details>
     <details class="market-embed" id="market-embed-flavio">
       <summary data-i18n="markets_embed_flavio">Ver o mercado de Flávio ao vivo no Polymarket</summary>
-      <iframe id="market-embed-frame-flavio" title="Mercado de Flávio ao vivo · Polymarket" loading="lazy" referrerpolicy="no-referrer"></iframe>
+      <iframe id="market-embed-frame-flavio" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" title="Mercado de Flávio ao vivo · Polymarket" loading="lazy" referrerpolicy="no-referrer"></iframe>
     </details>
   </section>
 
@@ -306,6 +307,7 @@ th[aria-sort="ascending"] button::after{content:' ↑'}th[aria-sort="descending"
 
 <script>
 const $=s=>document.querySelector(s);
+const esc=v=>String(v==null?'':v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const I18N={
  pt:{markets_embed_flavio:'Ver o mercado de Flávio ao vivo no Polymarket',markets_embed:'Ver o mercado de Lula ao vivo no Polymarket',markets_title:"Mercados · chance de vitória",markets_note:"Últimas 24 horas · preços dos contratos, não votos apurados. Cada plataforma tem suas próprias regras.",markets_legend:"Kalshi: linha contínua · Polymarket: tracejada. Toque nos cartões para mostrar ou ocultar cada linha.",markets_kalshi:"Ver na Kalshi",markets_poly:"Ver no Polymarket",markets_method:"Kalshi: último negócio de cada minuto. Polymarket: histórico de preços a cada 5 minutos. Os horários e preços podem diferir; não são normalizados entre candidatos. Atualização a cada minuto.",markets_group:"Mostrar ou ocultar séries do gráfico",markets_sources:"Mercados de origem",markets_axis:"Chance de vitória (%)",markets_time:"Horário de Brasília (BRT)",markets_unavailable:"indisponível; consulte o site de origem",markets_previous:"falha na atualização; dados anteriores",markets_stale:"última cotação há mais de 15 minutos",markets_empty:"sem histórico nas últimas 24 horas",markets_ok:"Histórico recebido das duas plataformas.",markets_checked:"consultado",markets_chart_missing:"Gráfico indisponível. As últimas cotações estão nos cartões acima.",scroll_hint:"Deslize a tabela para ver mais colunas",table_region:"Tabela de resultados, com rolagem",theme_label:"Alternar tema claro e escuro",language_label:"Idioma",sources_label:"Fontes das notícias",sort_label:"Ordenar países",delta_r1:"Δ 1º turno",th_state:"Estado",chart_unavailable:"Gráfico indisponível. Consulte os valores e a tabela nesta página.",skip:'Pular para o conteúdo',title:'Apuração 2º turno · Presidente 2026',nav_ext:'voto no exterior',loading:'carregando…',official_full:"Apuração oficial (TSE) · votos válidos",official:"Votos válidos · TSE",sections:'Seções apuradas',voters_counted:'Eleitores apurados',blank:'Brancos',null:'Nulos',abst:'Abstenção',tse_time:'Hora TSE',
   signal_full:"Sinal (estimativa, não resultado)",signal:"Sinal · estimativa",waiting:'Aguardando apuração',waiting_ds:'Urnas fecham às 17h (Brasília). O modelo compara cada estado com o 1º turno.',swing_nat:'Swing nacional vs 1º turno',traj_full:"Trajetória da apuração · Lula cabeça-a-cabeça (%)",traj:"Evolução da apuração",
@@ -436,13 +438,13 @@ document.querySelectorAll('th button[data-k]').forEach(b=>b.onclick=()=>{const k
 function renderNews(n){newsD=n;
   $('#newsupd').textContent=n.updated?' · '+n.updated.slice(11,16)+' BRT':'';
   const b=(L==='en'&&n.brief_en)?n.brief_en:n.brief;
-  if(b){$('#brief').innerHTML=`<h3>${b.headline||''}</h3>
-    <div class="lbl">${T('why')}</div><div>${b.why_it_matters||''}</div>
-    <div class="lbl">${T('big')}</div><div>${b.big_picture||''}</div>
-    <div class="lbl">${T('details')}</div><ul>${(b.details||[]).map(x=>`<li>${x}</li>`).join('')}</ul>
-    <div class="lbl">${T('next')}</div><div>${b.whats_next||''}</div>`;}
-  else $('#brief').innerHTML=`<span class="err">${n.error||T('no_brief')}</span>`;
-  $('#links').innerHTML=(n.items||[]).map(i=>`<a href="${i.link}" target="_blank" rel="noopener"><small class="source-line"><span>${i.source}</span><time>${new Date(i.published).toLocaleTimeString(loc(),{hour:'2-digit',minute:'2-digit',timeZone:'America/Sao_Paulo'})} BRT</time></small><span class="source-title">${i.title}</span></a>`).join('');
+  if(b){$('#brief').innerHTML=`<h3>${esc(b.headline)}</h3>
+    <div class="lbl">${T('why')}</div><div>${esc(b.why_it_matters)}</div>
+    <div class="lbl">${T('big')}</div><div>${esc(b.big_picture)}</div>
+    <div class="lbl">${T('details')}</div><ul>${(b.details||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ul>
+    <div class="lbl">${T('next')}</div><div>${esc(b.whats_next)}</div>`;}
+  else $('#brief').innerHTML=`<span class="err">${esc(n.error||T('no_brief'))}</span>`;
+  $('#links').innerHTML=(n.items||[]).map(i=>`<a href="${/^https?:\/\//.test(i.link)?esc(i.link):'#'}" target="_blank" rel="noopener noreferrer"><small class="source-line"><span>${esc(i.source)}</span><time>${new Date(i.published).toLocaleTimeString(loc(),{hour:'2-digit',minute:'2-digit',timeZone:'America/Sao_Paulo'})} BRT</time></small><span class="source-title">${esc(i.title)}</span></a>`).join('');
 }
 async function refresh(){
   try{const [a,b]=await Promise.all([fetch('data/latest.json?'+Date.now()).then(r=>r.json()),fetch('data/series.json?'+Date.now()).then(r=>r.json())]);latestD=a;seriesD=b;render(a,b);}
