@@ -228,6 +228,7 @@ function render(d,series){
   $('#sw').textContent=fmtD(p.swing_nat)+' pp';
   const sig=$('#sig');let cls='tie',ic='⚖️',tt='Indefinido',ds='Faixa de erro cruza os 50%. Sem sinal claro de virada nem de manutenção.';
   if(d.sections_counted===0){ic='⏳';tt='Aguardando apuração';ds='Urnas fecham às 17h (Brasília).';}
+  else if(p.too_early){ic='⏳';tt='Cedo demais para sinal';ds=`Só ${fmtP(d.pct_sections)} das seções (as primeiras são do exterior e de capitais). Faixa ${fmtP(p.lo95)} – ${fmtP(p.hi95)}. Sinal a partir de 2% das seções.`;}
   else if(p.lo95>50){cls='lula';ic='🔄';tt='Sinal de VIRADA · Lula';ds=`Projeção ${fmtP(p.lula_share_est)} com faixa inteira acima de 50%. Swing ${fmtD(p.swing_nat)} pp vs 1º turno.`;}
   else if(p.hi95<50){cls='flavio';ic='📈';tt='Flávio mantém vantagem';ds=`Projeção Lula ${fmtP(p.lula_share_est)}; faixa inteira abaixo de 50%. Swing ${fmtD(p.swing_nat)} pp vs 1º turno.`;}
   else if(p.lula_share_est>50){ic='🟥';tt='Leve tendência · Lula';ds=`Projeção ${fmtP(p.lula_share_est)} acima de 50%, mas faixa ainda cruza 50%. Swing ${fmtD(p.swing_nat)} pp.`;}
