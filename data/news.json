@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:39:31.225625-03:00",
+ "updated": "2026-10-25T19:41:30.779500-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Apuração do segundo turno entre Lula e Flávio começa ao vivo, mas ainda sem resultados divulgados",
-  "why_it_matters": "A disputa decide quem comandará o país nos próximos quatro anos, com Lula liderando o PT e Flávio Bolsonaro representando a direita.",
-  "big_picture": "Com a votação ainda em curso, analistas aguardam os primeiros números das regiões‑chave, especialmente o Nordeste, tradicional bastião do PT.",
+  "headline": "Eleitores aguardam início da apuração do 2º turno entre Lula e Flávio Bolsonaro",
+  "why_it_matters": "A definição do presidente para os próximos quatro anos depende dos resultados que ainda não foram divulgados.",
+  "big_picture": "Com a disputa acirrada e sem números oficiais, a atenção está nos centros de transmissão ao vivo que prometem atualizar cada voto.",
   "details": [
-   "Portais como UOL, Veja e O Globo já disponibilizam transmissões ao vivo da contagem de votos",
-   "As primeiras transmissões focam nos estados do Nordeste (BA, CE, PE, MA), onde o PT costuma ter vantagem",
-   "Ainda não há números oficiais; a apuração ainda não começou oficialmente segundo as manchetes"
+   "Vários veículos (UOL, Veja, Globo) já disponibilizam páginas de acompanhamento em tempo real",
+   "As primeiras transmissões focam nos estados do Nordeste, onde a disputa pode ser decisiva",
+   "A mídia questiona o horário de término da contagem, indicando que a apuração pode se estender até altas horas"
   ],
-  "whats_next": "Os resultados preliminares devem começar a aparecer nas próximas horas, com o TSE divulgando o placar nacional"
+  "whats_next": "A apuração deve começar por volta das 22h00 UTC (19h00 Brasília) e os resultados serão divulgados gradualmente."
  },
  "brief_en": {
-  "headline": "Second‑round count between Lula and Flávio goes live, but no results yet",
-  "why_it_matters": "The race decides who will lead the country for the next four years – Lula heads the PT, Flávio Bolsonaro is the right‑wing contender.",
-  "big_picture": "With voting still underway, analysts are watching early numbers from key regions, especially the Nordeste, the PT’s traditional stronghold.",
+  "headline": "Voters await start of 2nd‑round count between Lula and Flávio Bolsonaro",
+  "why_it_matters": "The next four years of leadership hinge on results that haven’t been released yet.",
+  "big_picture": "With a tight race and no official numbers, eyes are on live‑feed hubs promising vote‑by‑vote updates.",
   "details": [
-   "Sites like UOL, Veja and O Globo are streaming the vote count live",
-   "Early streams focus on Nordeste states (BA, CE, PE, MA), where the PT usually has an edge",
-   "No official figures yet; the count hasn’t officially started, per headlines"
+   "Multiple outlets (UOL, Veja, Globo) already host real‑time tracking pages",
+   "Early streams focus on the Northeast provinces, where the race could be decisive",
+   "Media question the count’s end time, warning it could run late into the night"
   ],
-  "whats_next": "Preliminary results should start showing up in the next few hours, with the TSE releasing the national tally."
+  "whats_next": "Counting should kick off around 22:00 UTC (19:00 BRT) with results trickling out."
  },
  "error": null
 }
