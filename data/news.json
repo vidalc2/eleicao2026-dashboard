@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:12:59.420657-03:00",
+ "updated": "2026-10-25T18:15:01.427752-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -30,40 +30,44 @@
    "title": "Ao vivo: TSE pausa apuração de resultados após decisão do STF para prorrogar votação; siga - Bloomberg Línea Brasil",
    "link": "https://www.bloomberglinea.com.br/brasil/ao-vivo-brasil-vota-no-2-turno-para-escolher-entre-lula-e-flavio-bolsonaro-como-presidente/",
    "source": "Bloomberg Línea Brasil",
-   "published": "2026-10-25T21:11:00+00:00",
+   "published": "2026-10-25T21:11:15+00:00",
    "desc": " Ao vivo: TSE pausa apuração de resultados após decisão do STF para prorrogar votação; siga    Bloomberg Línea Brasil ",
    "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTWFsdUF0X3ozWUtCclBrZFNIR1dJQU9uUFFEY2Z5NzBYMUFURWxhbXdkSFVGTElvOE8yUDhmQ2JLZllwRmRvQWY5UmJqbmF2aUNVR1VDQnE0amZ1dzg2RlA3R0d5MmZTTzdJMjdHSENaaWFKUUhaQkFFcHJqVmxudi1rOUpaQnFSLVZtRjF6UnRDeUlJUjlERU9yRmxPVTUydGUwV0wwS0VCemRfMGdZZkhEWkdQLVBtdzkySjdUNVVUMzlyb1hiR0ROOEE?oc=5"
   },
   {
-   "title": "Prorrogação do horário de votação em todo o país é decisão inédita desde adoção da urna eletrônica - Folha de S.Paulo",
-   "link": "https://www1.folha.uol.com.br/poder/2026/10/prorrogacao-do-horario-de-votacao-em-todo-o-pais-e-decisao-inedita-desde-adocao-da-urna-eletronica.shtml",
-   "source": "Folha de S.Paulo",
-   "published": "2026-10-25T20:43:00+00:00",
-   "desc": " Prorrogação do horário de votação em todo o país é decisão inédita desde adoção da urna eletrônica    Folha de S.Paulo ",
-   "gnews": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTk9pckM4YVpZQWhkRkFZeHRkc0ozQ2J4MzZZUG9VWlpuQ3B6V0llYVhPb0laWTl5NWF5TVV0cmRxcl94TWgzajFEUXVMR2trOE9BYVFrdmxqa0dZWkRoUU1uTzJ3S1B1YmxiSHoxS1FraVhYSkdObjRGbTdDd2Z1dUhjbHJUWWo2aV9HUWxfQ0xwY2NLZHZsdS1rRGphTXRTOGtWS3dfTC1rai10NFp6UGpTSHhZcFB2MUZCdVhCeHlSNkEzZzd2X241eExObHJsbXRJaVBZOE9uem4xRXhUOUhn?oc=5"
+   "title": "TSE divulga primeira parcial de resultados apesar de extensão de horário de votação - UOL Notícias",
+   "link": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/25/tse-divulga-primeira-parcial-de-resultados-apesar-de-extensao-de-horario-de-votacao.htm",
+   "source": "UOL Notícias",
+   "published": "2026-10-25T20:45:23+00:00",
+   "desc": " TSE divulga primeira parcial de resultados apesar de extensão de horário de votação    UOL Notícias ",
+   "gnews": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcDIyV1VXYUdLTGpMSVZJZTdKZk10RmZ0clE4LVFOUzNMYV9JZWQ0S2VQWHJ3el9qa3BDRmFnazdUekF3YVVKSU45cVY4ZGhZLWlfbGdWQ3BZNk9HeVE4cUlyeENPNkhsd0p5NEg2Zzh0SXdnRzFxZHFmU0phQ2RPNWZSZDRFQ0VkS1RyVHdPVWctOEltS1lZczNJUHVMQzRJUUZQSDNwQm1BQlhWYmVlbEVOYkRTSnRuRWFSNG1qZzdwQmFaVUdCZ0hhQklkMVJzRmNaVjRnQTdUU1Z6UFRNZ0dSdWNydw?oc=5"
   }
  ],
  "brief": {
-  "headline": "STF autoriza prorrogação da votação no 2º turno; TSE pausa apuração",
-  "why_it_matters": "A decisão pode mudar o ritmo da contagem e abrir margem para disputas judiciais em estados críticos.",
-  "big_picture": "É a primeira extensão nacional da votação desde a adoção das urnas eletrônicas, evidenciando a tensão entre os candidatos Lula e Flávio Bolsonaro.",
+  "headline": "STF manda prorrogar votação e TSE pausa apuração no 2º turno",
+  "why_it_matters": "A extensão do horário de votação pode mudar o placar entre Lula e Flávio Bolsonaro, e a pausa na contagem aumenta a incerteza sobre o resultado final.",
+  "big_picture": "A disputa presidencial entra em fase de disputa judicial, o que pode atrasar a divulgação dos números e gerar tensão política em todo o país.",
   "details": [
-   "Flávio Bolsonaro pediu prorrogação do horário de votação em cinco estados",
-   "O TSE interrompeu a apuração após o STF determinar a prorrogação em todo o país",
-   "A lei impede a reabertura de urnas já lacradas, limitando recursos judiciais"
+   "Flávio Bolsonaro pede prorrogação da votação em cinco estados",
+   "TSE divulga primeira parcial de resultados apesar da extensão de horário",
+   "G1 reforça que urnas fechadas não podem ser reabertas",
+   "Bloomberg relata que o TSE pausou a apuração após decisão do STF",
+   "A apuração oficial ainda não começou; nenhum número está disponível nas manchetes"
   ],
-  "whats_next": "O TSE deve retomar a contagem assim que definir o novo horário de encerramento da votação."
+  "whats_next": "O TSE deve retomar a contagem após definir novo horário e publicar os resultados finais."
  },
  "brief_en": {
-  "headline": "Supreme Court OKs 2nd‑round voting extension; election board pauses count",
-  "why_it_matters": "The move could slow the tally and open the door to legal fights in key states.",
-  "big_picture": "First nationwide voting extension since electronic ballots, highlighting the clash between Lula and Flávio Bolsonaro.",
+  "headline": "Supreme Court orders voting extension, electoral court pauses 2nd‑round count",
+  "why_it_matters": "Longer voting hours could shift the race between Lula and Flávio Bolsonaro, and the pause adds uncertainty to the final tally.",
+  "big_picture": "The presidential race is now a legal battle, likely delaying results and stoking political tension nationwide.",
   "details": [
-   "Flávio Bolsonaro asked to extend voting hours in five states",
-   "The election board halted the count after the court ordered a country‑wide extension",
-   "Law bars reopening sealed ballot boxes, curbing court challenges"
+   "Flávio Bolsonaro asks for voting extension in five states",
+   "Electoral court releases first partial results despite extended hours",
+   "G1 notes sealed ballot boxes cannot be reopened",
+   "Bloomberg reports the electoral court halted the count after the Supreme Court ruling",
+   "Official count hasn't started; no numbers are in the headlines yet"
   ],
-  "whats_next": "The board will resume counting once it sets a new closing time."
+  "whats_next": "The electoral court will resume counting once a new schedule is set and publish the final results."
  },
  "error": null
 }
