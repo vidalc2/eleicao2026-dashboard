@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-25T20:34:37.938406-03:00",
+ "updated": "2026-10-25T20:36:42.411366-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Horário de votação termina, mas STF prorroga prazo para votar até as 19h - UOL Notícias",
+   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/fechamento-urnas-eleicoes-2026.ghtm",
+   "source": "UOL Notícias",
+   "published": "2026-10-25T23:30:47+00:00",
+   "desc": " Horário de votação termina, mas STF prorroga prazo para votar até as 19h    UOL Notícias ",
+   "gnews": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHJlSm1VaWEydHVSTW1adTViMjFnYkU0OUx2b2tYVS1tQXlJSkNoSjZlYXZMcFZkQ1ZrYXZWazdjQ0RLUzE5T0pWa0VETzRRbHU2ZV9xanVuY0RVQjhrNHdwS3BoYm1weUUwY0VHdUQtRVNNOGEyWUNqUEVwaHVNZExKS01ZR0xFakx3?oc=5"
+  },
   {
    "title": "Resultado das eleições 2026 em Não-Me-Toque (RS): como foi a votação no 2º turno - G1",
    "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-nao-me-toque-rs-como-foi-a-votacao-no-2o-turno.ghtml",
@@ -33,37 +41,29 @@
    "published": "2026-10-25T23:19:15+00:00",
    "desc": " Resultado da apuração em São Paulo no segundo turno: veja votação agora    UOL Notícias ",
    "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjJfelpIMHNjZUh6YnRIR2NEYTdkdTE4VUhoRGw4alZIWnZvN2JmTU5FekNrSDY0NW5JYTF1aU42cTNISU1FTjRMNklRLWhEcW1RZzFKOWpDUi1jVktwZTl6Y182RnAzQmFDT3BXdVBkOTJVZnhQckFJMnpldGllMWNtVWRLaW9TUEZMemFfZ2cxNy1pOEZmMjYzZ1I0NDlaZU5ZNGsyWXhCdVZFSXN1b1ZZOUR5QTZzWHV6NzN5aTQ?oc=5"
-  },
-  {
-   "title": "Compare evolução da apuração do 2º turno de 2026 com 2022 - G1",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/evolucao-apuracao-2o-turno-2026-flavio-bolsonaro-lula-comparacao-2022.ghtml",
-   "source": "G1",
-   "published": "2026-10-25T23:16:50+00:00",
-   "desc": " Compare evolução da apuração do 2º turno de 2026 com 2022    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0VNSEhBVTUzOXh2OUNaZnJ1bzcyclNQdWk1dTMzMEhHYU5mU2FnVDFoX0hVOUx4cDRqWnc2Z01FYWNkNXk4cDh1cDJEUlMtbFBmU3JjdzBPNUp1U1ZiMFFHTzBVZFBaZlhLU0ZCeXBMT0x1ek1zcTNSWkJQWU0yT2VXc0VxVG0zX1VpMFR5QmxJeENkZ3A1d1EtN3BERkl5N0Z3Q1VZUzJoOW96SkIyUnFBZW01X3JSMmdWRzdIdndMcmw4YzdjYnJ2MXNmWGNDRkFuMNIB4wFBVV95cUxNTjBsNTdzOFRiZ0FYWDJoNWYzeHFfNDVEU09oeTUyUnkwcnhLVGpzU2d0SG1Lc3pSanhnUktWbk5oVFVZbE9uclhOaTd5NGw1ai1JalhuVklVdkx0azBxeW8ycDJPZVc0alQwbDUyQVJxQzZucExuVm02eHlVV2UyN0VYeGNoVUY1dm1LM3dxQzFCMlpkWDFjUDVoalRrQkxRRno1VHVZNmsxejJnRnNGWURtd18za3J5WnFwUGdiLUJycDRBWHFvQzVXdmtvZDhMd0U3N3ZKNGdFTlBXSUxrTGgxQQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Apuração do 2º turno ainda sem números oficiais, mas estados começam a ser divulgados",
-  "why_it_matters": "O Brasil decide entre Lula e Flávio Bolsonaro; saber quem está na frente orienta campanhas, mercado e expectativas internacionais.",
-  "big_picture": "Com a votação ainda em curso, as primeiras apurações regionais dão indícios de como o mapa político pode se desenhar para o segundo turno de 2026.",
+  "headline": "STF estende prazo de votação e resultados começam a aparecer em Minas, SP e Nordeste",
+  "why_it_matters": "A prorrogação do horário de votação pode mudar o placar do 2º turno entre Lula e Flávio Bolsonaro, enquanto os primeiros números já surgem em estados‑chave.",
+  "big_picture": "Com a disputa acirrada, cada ponto nas urnas de Minas, São Paulo e Nordeste pode definir a vitória nacional.",
   "details": [
-   "G1 destaca a votação em Não‑Me‑Toque (RS) sem divulgar percentuais",
-   "UOL traz resultados preliminares de Minas Gerais, São Paulo e do Nordeste, mas sem números concretos",
-   "G1 compara o ritmo de apuração de 2026 com 2022, sugerindo mudanças na velocidade da contagem, porém sem dados específicos"
+   "STF autorizou votação até as 19h, apesar do horário oficial ter encerrado antes",
+   "Apurações já iniciadas em Minas Gerais, São Paulo, região Nordeste e no município de Não‑Me‑Toque (RS)",
+   "Nenhum número definitivo divulgado nas manchetes; a contagem ainda está em andamento"
   ],
-  "whats_next": "Nos próximos minutos o TSE deve liberar os primeiros percentuais nacionais, ampliando o panorama da disputa."
+  "whats_next": "A contagem nacional deve ser concluída nas próximas horas, com o TSE divulgando o resultado oficial."
  },
  "brief_en": {
-  "headline": "Second‑round count still lacks official numbers, but states are starting to be reported",
-  "why_it_matters": "Brazil is choosing between Lula and Flávio Bolsonaro; knowing who’s ahead guides campaigns, markets and global expectations.",
-  "big_picture": "With voting ongoing, early regional tallies hint at how the 2026 second‑round map could shape up.",
+  "headline": "Supreme Court extends voting deadline; results emerging in Minas, SP, Northeast",
+  "why_it_matters": "The extended voting window could shift the 2º turno between Lula and Flávio Bolsonaro, as early numbers surface in key states.",
+  "big_picture": "With the race tight, every vote in Minas, São Paulo and the Northeast could decide the national win.",
   "details": [
-   "G1 flags the vote in Não‑Me‑Toque (RS) but gives no percentages",
-   "UOL shares preliminary results from Minas Gerais, São Paulo and the Northeast, but no concrete numbers",
-   "G1 compares the 2026 count speed to 2022, suggesting a shift in pace, yet offers no specific data"
+   "STF authorized voting until 19h, even though the official deadline had passed",
+   "Counting already underway in Minas Gerais, São Paulo, the Northeast region and the town of Não‑Me‑Toque (RS)",
+   "No final figures in headlines; tally still in progress"
   ],
-  "whats_next": "In minutes, the TSE should release the first national percentages, widening the race picture."
+  "whats_next": "National tally should finish in the next few hours, with the TSE releasing the official result."
  },
  "error": null
 }
