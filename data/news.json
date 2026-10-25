@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-25T19:25:26.895872-03:00",
+ "updated": "2026-10-25T19:27:27.207322-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Zanin prorroga votação até 19 horas em todo o País após pedido de Lula - Estadão",
+   "link": "https://www.estadao.com.br/politica/eleicoes/zanin-prorroga-votacao-ate-19-horas-em-todo-o-pais/",
+   "source": "Estadão",
+   "published": "2026-10-25T22:19:34+00:00",
+   "desc": " Zanin prorroga votação até 19 horas em todo o País após pedido de Lula    Estadão ",
+   "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZm4zTms5NnNvc29fLXZsRmRaWFRmVVVyUmt6dFVzM1E1SFBTRGxqaVpZUXdvVHlZQWhSSmNjcTZwSzFOQW5ucUt6MzNsSlJua3dJbDlaWUZSb1pHd1diR0U3ckF5dU9iX0RVS3NGSlB3M0k1VlFBYTc0MWdqZng0UzZlc0hNM1JpNFFNTGFDeHQtZzVtQXlJaU5fazfSAaIBQVVfeXFMT1hWRWxqZmtZSks3SkNDX0JWZzE1dkYxVDhMU3R2RlMxMUNpZDB4R09YR2VNQ1pjY3l2ZVViVkF0alZneEhRNGkxVE0tSDlMSE5KUjRicVNYNUYzNmFwTTRlVmVzdEFkMEdwXzZHYUhrWU9MXzlSc1V5R1BMZEJ3V0dydVdFZWFWZDQxdmRxTGFYUWVsajlWbzJpNHdPZlZVVVFn?oc=5"
+  },
   {
    "title": "AO VIVO: Acompanhe a apuração do segundo turno das eleições de 2026 - VEJA",
    "link": "https://veja.abril.com.br/brasil/ao-vivo-acompanhe-a-apuracao-do-segundo-turno-das-eleicoes-de-2026/",
@@ -33,37 +41,29 @@
    "published": "2026-10-25T22:08:10+00:00",
    "desc": " Veja a evolução dos votos na apuração para presidente no 2º turno    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbUlGVkEtaVhTXzlxdE9qVUxsNlNnTnE0LTF5Z1dWbFdMM0tfTkltX29kOG9DS3BSNGZxanZIdnF2OVJzaFpRUEtLZkJZdndkdkNuVUFNQTlDbDhhcFlWU0VmMVROQndmTG9nbXFId1lSZU5fS2JzNG54QTVvMllFc1FsdWdwV1czaXc2SVhuMjVEVTE4NGNTRkZkRUJZYzVkRHAzd21QQ2NzeEQ2M3hLdFZWYzlLTVhsbDlLdVdnVFk0ZVBOT2dDdTk3ai11ckXSAd4BQVVfeXFMTTVGRzVRbXRydjhCZ3dETlhSaEtMYTk1c2FEeV9TMk9HZ2R3bW1ZXzdsYmNtTThUVVdFaGM2U1ZIaUcyZ2dBTHMwLVl5V3ZZdlBiaUVKWF9oQ01pRnNnb3hRZDZ3TGxxZDVfRGtmSzdyU3oycEFHT3lNTDZLZ0NnT092a0lBOFd6M2VDb08xOVY4Z2ZZT2tKeFlMdmFadUxUMXRvREFzUFF1MnpMUzNaSUJ5d25ERTVGYUxmRldoMkoxUGJDZjZweGhDZUw0WEY4T0wwUXM3TE9tcUdhTzJ3?oc=5"
-  },
-  {
-   "title": "Falta de ônibus na eleição: o que se sabe sobre as denúncias de falta de transporte para votar pelo Brasil - BBC",
-   "link": "https://www.bbc.com/portuguese/articles/cm93z1wyl706o",
-   "source": "BBC",
-   "published": "2026-10-25T22:07:30+00:00",
-   "desc": " Falta de ônibus na eleição: o que se sabe sobre as denúncias de falta de transporte para votar pelo Brasil    BBC ",
-   "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91UWcycHV6Z0lxVHd2U1dUWGZCTHg4V1JXSUtIdEV6S3g3TlVfX2F6a3Vjd3laWnhCbVRaTEZ6V0lRelphcFZNZ3NoamFfTjFHeFRwcWhjd21UbHVtMXFGMjZHd9IBaEFVX3lxTE5JUkk4TnFZUWNGNTJiXzdzVXQwaUExckowNGdlRUUzUk5nUFM3UE9KSEg0TVBVTzR6WkNubnVPWDEwTkplVXhRdmVWNVllXzFqdm9XWENhTGMzWVQxTlByOGNmT293MGo3?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula lidera nas primeiras contas do 2º turno, mas a apuração ainda está no início",
-  "why_it_matters": "Com apenas 0,37% das seções eleitorais apuradas, a vantagem de Lula ainda é preliminar e pode mudar à medida que os resultados avançam.",
-  "big_picture": "A disputa entre Lula (13) e Flávio Bolsonaro (22) está sendo acompanhada em tempo real, mas ainda não há margem para conclusões definitivas.",
+  "headline": "Lula lidera nas primeiras contas do 2º turno, mas a apuração ainda está nos primeiros minutos",
+  "why_it_matters": "Com apenas 0,37% das seções apuradas, a vantagem ainda é preliminar e pode mudar conforme a votação se estende até 19h.",
+  "big_picture": "A prorrogação do horário de votação, atendendo ao pedido de Lula, amplia o tempo de votação em todo o país, potencialmente afetando o resultado final.",
   "details": [
-   "TSE informa que apenas 0,37% das seções foram contabilizadas, com Lula à frente nesse primeiro lote",
-   "Portais como Veja, Estadão e G1 mantêm transmissões ao vivo das contagens, mas ainda não divulgam números consolidados",
-   "BBC destaca denúncias de falta de ônibus em várias regiões, levantando preocupações sobre acesso ao voto"
+   "TSE informa que 0,37% das seções já foram contabilizadas, colocando Lula à frente",
+   "Juiz Alexandre Zanin prorroga o horário de votação até 19h em todo o país",
+   "Portais como Veja, Estadão e G1 oferecem acompanhamento em tempo real da projeção da apuração"
   ],
-  "whats_next": "Acompanhar a evolução da apuração nas próximas horas, especialmente à medida que mais seções são contabilizadas e possíveis ajustes nas projeções são feitos."
+  "whats_next": "A contagem seguirá até o fechamento das urnas às 19h, quando mais seções serão apuradas e a tendência poderá se confirmar ou reverter"
  },
  "brief_en": {
-  "headline": "Lula leads in early 2nd‑round counts, but tally is just starting",
-  "why_it_matters": "Only 0,37% of polling stations have reported, so Lula’s edge is tentative and could shift as results roll in.",
-  "big_picture": "The race between Lula (13) and Flávio Bolsonaro (22) is being tracked live, but it’s too early for firm conclusions.",
+  "headline": "Lula leads in early 2nd‑round counts, but tally is still in its first minutes",
+  "why_it_matters": "With just 0,37% of precincts reported, the edge is provisional and could shift as voting runs until 7 p.m.",
+  "big_picture": "Extending the voting window at Lula’s request adds hours nationwide, which could sway the final outcome.",
   "details": [
-   "TSE says just 0,37% of stations are in, with Lula ahead in this first batch",
-   "Sites like Veja, Estadão and G1 stream the count live, but haven’t posted consolidated numbers yet",
-   "BBC flags reports of bus shortages in several areas, raising concerns about voter access"
+   "TSE says 0,37% of precincts are in, putting Lula ahead",
+   "Judge Alexandre Zanin extends voting to 7 p.m. across the country",
+   "Sites like Veja, Estadão and G1 stream real‑time projection updates"
   ],
-  "whats_next": "Watch the count evolve over the next hours as more stations report and projections are tweaked."
+  "whats_next": "Counting continues until polls close at 7 p.m.; more precincts will be added and the trend could hold or flip."
  },
  "error": null
 }
