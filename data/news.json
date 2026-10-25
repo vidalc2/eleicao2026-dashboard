@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:20:44.040899-03:00",
+ "updated": "2026-10-25T20:22:33.169225-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Votação do 2º turno ainda em pausa; TSE prorroga horário em 5 estados",
-  "why_it_matters": "A extensão do horário de votação pode mudar o placar da disputa entre Lula (13) e Flávio Bolsonaro (22) e abre espaço para contestações jurídicas.",
-  "big_picture": "Com o país dividido e a margem apertada, atrasos na apuração aumentam a tensão política e a pressão sobre o TSE e o STF.",
+  "headline": "Votação do 2º turno se estende em 5 estados enquanto TSE retoma a apuração",
+  "why_it_matters": "A prorrogação pode atrasar o resultado final e gerar disputas judiciais entre TSE e STF.",
+  "big_picture": "Com Lula e Flávio Bolsonaro empatados, cada hora conta para definir o presidente de 2027.",
   "details": [
-   "Justice Minister Alexandre Zanin prorrogou a votação até 19h nos locais onde as urnas ainda não foram fechadas",
-   "Flávio Bolsonaro pediu prorrogação da votação em cinco estados, intensificando o debate sobre a legalidade da medida",
-   "Após a prorrogação, a votação termina e o TSE retoma a apuração, com transmissão ao vivo no YouTube",
-   "Ministros do TSE apontam erros nas decisões do TSE e do STF, esperam contestações, mas descartam anular a eleição",
-   "O Nordeste ainda não foi apurado; os resultados ainda não começaram a ser divulgados"
+   "Governadora Zanin prorrogou até 19h a votação em municípios onde as urnas ainda não fecharam",
+   "Flávio Bolsonaro solicitou extensão do horário em cinco estados, alegando problemas logísticos",
+   "Ministros do TSE reconhecem erros na decisão de prorrogação, mas descartam anular a eleição"
   ],
-  "whats_next": "A apuração deve iniciar assim que todas as urnas forem fechadas e o TSE publicar os primeiros números oficiais."
+  "whats_next": "O TSE deve publicar os primeiros números de apuração ainda hoje, após o encerramento das urnas"
  },
  "brief_en": {
-  "headline": "2nd‑round voting still paused; TSE extends voting time in 5 states",
-  "why_it_matters": "Extending voting time could shift the race between Lula (13) and Flávio Bolsonaro (22) and open the door to legal challenges.",
-  "big_picture": "With the country split and the margin razor‑thin, counting delays heighten political tension and pressure on the TSE and the Supreme Court.",
+  "headline": "2nd‑round voting extended in 5 provinces as TSE resumes count",
+  "why_it_matters": "The extension could delay the final tally and spark court battles between the TSE and the Supreme Court.",
+  "big_picture": "With Lula and Flávio Bolsonaro dead‑locked, every hour matters to decide the 2027 president.",
   "details": [
-   "Justice Minister Alexandre Zanin extended voting to 7 p.m. in precincts where the polls haven’t closed yet",
-   "Flávio Bolsonaro asked for the extension in five states, fueling debate over its legality",
-   "After the extension, voting ends and the TSE resumes counting, live‑streamed on YouTube",
-   "TSE judges flag errors in TSE and Supreme Court rulings, expect challenges but rule out overturning the election",
-   "The Northeast still hasn’t been counted; results haven’t started to be released"
+   "Gov. Zanin extended voting to 7 p.m. in municipalities where polls are still open",
+   "Flávio Bolsonaro asked for extra hours in five provinces, citing logistical issues",
+   "TSE ministers admit the extension was a mistake but say the election won’t be voided"
   ],
-  "whats_next": "Counting will start as soon as all polls close and the TSE releases the first official figures."
+  "whats_next": "The TSE is set to release the first count numbers later today, after polls close."
  },
  "error": null
 }
