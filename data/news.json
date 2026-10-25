@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:53:16.548526-03:00",
+ "updated": "2026-10-25T18:55:16.698196-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Eleição 2026: Lula e Flávio Bolsonaro ainda sem resultados, mas a apuração começa em breve",
-  "why_it_matters": "O segundo turno definirá o rumo político e econômico do Brasil nos próximos quatro anos, e investidores, analistas e a população acompanham cada minuto.",
-  "big_picture": "A disputa está polarizada entre a esquerda de Lula e a direita de Flávio Bolsonaro, refletindo profundas divisões sociais; o resultado influenciará políticas fiscais, ambientais e relações internacionais.",
+  "headline": "Eleição 2026: segundo turno entre Lula e Flávio Bolsonaro ainda sem resultados, apuração começa em breve",
+  "why_it_matters": "A definição do próximo presidente depende do desfecho da disputa que ainda não tem números oficiais.",
+  "big_picture": "Com a votação ainda em andamento em alguns municípios, o Tribunal Superior Eleitoral ainda não iniciou a contagem nacional.",
   "details": [
-   "TSE ainda não iniciou a contagem; as primeiras urnas serão abertas para apuração em breve",
-   "UOL e O Globo publicam guias passo‑a‑passo para acompanhar o resultado em tempo real",
-   "Justiça Eleitoral prorrogou o horário de votação até 19h nos locais onde as urnas não foram fechadas",
-   "Nenhum número de votos foi divulgado nas manchetes; a apuração ainda não começou"
+   "A ministra Zanin prorrogou o horário de votação até 19h nas localidades onde as urnas ainda não foram fechadas",
+   "Portais como UOL Notícias e O Globo já disponibilizam ferramentas para acompanhar a apuração em tempo real assim que ela começar",
+   "Lula lidera em 13 estados, enquanto Flávio Bolsonaro está à frente em 22, mas sem a contagem ainda não há margem de vitória definida"
   ],
-  "whats_next": "A contagem oficial deve iniciar após 19h, com os primeiros indicadores de vitória surgindo nas próximas horas."
+  "whats_next": "A contagem oficial deve iniciar após 19h, com resultados sendo divulgados minuto a minuto pelo TSE."
  },
  "brief_en": {
-  "headline": "2026 Election: Lula and Flávio Bolsonaro still awaiting results, but counting starts soon",
-  "why_it_matters": "The runoff will set Brazil’s political and economic direction for the next four years, and investors, analysts and the public are watching every minute.",
-  "big_picture": "The race pits Lula’s left against Flávio Bolsonaro’s right, highlighting deep social divides; the outcome will shape fiscal, environmental and foreign policies.",
+  "headline": "2026 election: runoff between Lula and Flávio Bolsonaro still pending, count starts soon",
+  "why_it_matters": "The next president hinges on a race that still has no official numbers.",
+  "big_picture": "Ballots are still being cast in some towns, so Brazil’s top election court hasn’t begun the national tally.",
   "details": [
-   "TSE hasn’t begun counting; the first ballot boxes will be opened for tally soon",
-   "UOL and O Globo publish step‑by‑step guides to follow the results live",
-   "Electoral Justice extended voting hours to 19h at sites where polls remained open",
-   "No vote totals have been released; counting hasn’t started"
+   "Minister Zanin extended voting to 19h in precincts where polls remain open",
+   "Sites like UOL Notícias and O Globo now offer live‑count trackers as soon as the count begins",
+   "Lula leads in 13 states, Flávio Bolsonaro in 22, but without a count there’s no clear margin"
   ],
-  "whats_next": "Official tally should kick off after 19h, with early win indicators expected in the coming hours."
+  "whats_next": "The official count should kick off after 19h, with TSE releasing results minute‑by‑minute."
  },
  "error": null
 }
