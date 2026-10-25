@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:47:33.281600-03:00",
+ "updated": "2026-10-25T19:49:33.700643-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula pede ao TSE extensão do horário de votação enquanto apuração ao vivo ainda não revela números definitivos",
-  "why_it_matters": "A decisão pode mudar a dinâmica da disputa entre Lula (13) e Flávio Bolsonaro (22) e impactar a legitimidade do resultado.",
-  "big_picture": "Com a eleição no 2º turno a poucos minutos de encerramento, a corrida está acirrada e o TSE ainda não iniciou a contagem oficial.",
+  "headline": "Lula pede ao TSE extensão do horário de votação enquanto apuração do 2º turno ainda não tem números oficiais",
+  "why_it_matters": "A decisão pode mudar quem tem tempo para votar e a contagem ainda está em fase inicial, sem resultados definitivos.",
+  "big_picture": "Com o segundo turno entre Lula (13) e Flávio Bolsonaro (22) em andamento, a disputa permanece incerta e o TSE ainda não divulgou números.",
   "details": [
-   "Lula solicitou ao TSE prorrogação do horário de votação para garantir ampla participação",
-   "Portais como UOL e Estadão transmitem apuração em tempo real, mas ainda sem divulgar percentuais",
-   "As regiões Sul (RS, SC, PR) são monitoradas de perto, pois podem ser decisivas no resultado"
+   "Lula solicitou ao Tribunal Superior Eleitoral (TSE) a prorrogação do horário de votação.",
+   "Portais como UOL e Estadão transmitem apuração em tempo real, mas ainda não apresentam percentuais.",
+   "Cobertura regional mostra que estados do Sul (RS, SC, PR) já têm resultados preliminares, porém sem números concretos."
   ],
-  "whats_next": "Aguardamos a decisão do TSE sobre a prorrogação e o início da contagem oficial nos próximos minutos."
+  "whats_next": "O TSE deve decidir sobre a extensão do horário e iniciar a divulgação oficial dos resultados nas próximas horas."
  },
  "brief_en": {
-  "headline": "Lula asks TSE to extend voting hours while live tally shows no final numbers",
-  "why_it_matters": "The call could shift the race between Lula (13) and Flávio Bolsonaro (22) and affect the result’s legitimacy.",
-  "big_picture": "With the runoff minutes from closing, the contest is tight and TSE hasn’t begun the official count.",
+  "headline": "Lula asks TSE to extend voting hours as 2nd‑round count still lacks official numbers",
+  "why_it_matters": "The ruling could shift who can still vote and the count is still early, with no definitive results",
+  "big_picture": "With the runoff between Lula (13) and Flávio Bolsonaro (22) underway, the race remains uncertain and the TSE hasn’t released numbers",
   "details": [
-   "Lula asked TSE to extend voting hours to ensure broad participation",
-   "Sites like UOL and Estadão stream real‑time results, but no percentages yet",
-   "The South (RS, SC, PR) is under close watch as it could tip the outcome"
+   "Lula asked the Superior Electoral Court (TSE) to extend voting hours",
+   "Portals like UOL and Estadão stream live tallies but still show no percentages",
+   "Regional coverage shows southern states (RS, SC, PR) have preliminary results, yet no concrete figures"
   ],
-  "whats_next": "We await TSE’s decision on the extension and the start of the official count in the next minutes."
+  "whats_next": "The TSE will decide on the hour extension and begin releasing official results in the coming hours"
  },
  "error": null
 }
