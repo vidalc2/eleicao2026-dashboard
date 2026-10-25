@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:17:22.640959-03:00",
+ "updated": "2026-10-25T19:19:23.418860-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Eleição 2026: apuração ainda sem números e denúncias de falta de ônibus ameaçam a votação",
-  "why_it_matters": "Sem dados oficiais, eleitores e candidatos ficam no escuro; a ausência de transporte pode reduzir a participação em urnas já tensionadas.",
-  "big_picture": "O segundo turno entre Lula (13) e Flávio Bolsonaro (22) decide o futuro político do Brasil, mas a legitimidade do pleito está sendo questionada por falhas logísticas.",
+  "headline": "Eleição 2026: Lula e Flávio Bolsonaro disputam segundo turno enquanto apuração ainda não tem números oficiais",
+  "why_it_matters": "O Brasil aguarda a contagem dos votos que definirá o próximo presidente, mas as manchetes ainda não trazem resultados concretos.",
+  "big_picture": "Com a votação concluída, a disputa agora depende da apuração do TSE; ao mesmo tempo, denúncias de falta de transporte público podem impactar a percepção de legitimidade do processo.",
   "details": [
-   "O TSE ainda não divulgou resultados; as manchetes mostram apenas cobertura ao vivo sem números",
-   "Denúncias de falta de ônibus em diversas regiões podem impedir eleitores de chegar às seções",
-   "Mídia nacional (Globo, UOL, BBC) está monitorando a situação, mas ainda não há dados concretos"
+   "Apurações ao vivo são transmitidas pelo Globo e UOL, mas nenhuma manchete divulga percentuais ou líderes da corrida",
+   "A BBC destaca denúncias de falta de ônibus em várias regiões, levantando questões sobre acesso ao voto",
+   "O TSE ainda não divulgou números oficiais; a contagem deve começar oficialmente nos próximos minutos"
   ],
-  "whats_next": "A contagem oficial deve iniciar nas próximas horas, enquanto órgãos competentes investigam as reclamações de transporte insuficiente."
+  "whats_next": "Acompanhar a transmissão ao vivo da apuração do TSE nos principais veículos de mídia para obter os primeiros resultados oficiais."
  },
  "brief_en": {
-  "headline": "2026 Election: count still without numbers, bus shortages threaten voting",
-  "why_it_matters": "No official data leaves voters and candidates in the dark; missing transport could depress turnout in already tense polls.",
-  "big_picture": "The runoff between Lula (13) and Flávio Bolsonaro (22) decides Brazil’s political future, but logistical glitches are putting the election’s legitimacy into question.",
+  "headline": "2026 Election: Lula and Flávio Bolsonaro head to a runoff as results remain unofficial",
+  "why_it_matters": "Brazil is waiting on the vote count that will pick the next president, but headlines still lack concrete numbers.",
+  "big_picture": "With voting done, the race now hinges on the TSE’s tally; meanwhile, reports of missing public transport could sway perceptions of the vote’s legitimacy.",
   "details": [
-   "The TSE hasn’t released results; headlines only show live coverage, no numbers.",
-   "Reports of bus shortages across regions could keep voters from reaching polls.",
-   "National media (Globo, UOL, BBC) are monitoring, but concrete data remains absent."
+   "Live tallies are streaming on Globo and UOL, but no outlet is posting percentages or a clear leader.",
+   "The BBC flags bus shortages in several areas, raising concerns about voting access.",
+   "The TSE hasn’t released official figures; counting is set to start in minutes."
   ],
-  "whats_next": "Official tally should start in hours, as authorities probe the bus‑shortage complaints."
+  "whats_next": "Watch the TSE’s live count on major media outlets for the first official results."
  },
  "error": null
 }
