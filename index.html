@@ -323,7 +323,7 @@ async function refresh(){
   catch(e){$('#status').innerHTML=`<span class="dot off" aria-hidden="true"></span>${L==='en'?'load error':'erro ao carregar'}: ${e.message}`;}
 }
 async function refreshNews(){try{renderNews(await fetch('data/news.json?'+Date.now()).then(r=>r.json()));}catch(e){}}
-mkCharts();applyLang();refresh();refreshNews();setInterval(refresh,30000);setInterval(refreshNews,120000);
+mkCharts();applyLang();refresh();refreshNews();setInterval(refresh,30000);setInterval(refreshNews,60000);
 </script>
 </body>
 </html>
