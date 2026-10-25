@@ -325,5 +325,13 @@ async function refresh(){
 async function refreshNews(){try{renderNews(await fetch('data/news.json?'+Date.now()).then(r=>r.json()));}catch(e){}}
 mkCharts();applyLang();refresh();refreshNews();setInterval(refresh,30000);setInterval(refreshNews,60000);
 </script>
+<script>
+(function(){try{var B='https://clawdio-server.tailb53fdb.ts.net:10000/hit';var k='sid';var s=sessionStorage.getItem(k);if(!s){s=Math.random().toString(36).slice(2,12);sessionStorage.setItem(k,s);}
+var pg=location.pathname.indexOf('exterior')>=0?'exterior':'index';
+function hit(ev){var q='ev='+ev+'&page='+pg+'&lang='+encodeURIComponent((localStorage.getItem('lang')||'pt'))+'&sid='+s+'&w='+screen.width+'&h='+screen.height+'&ref='+encodeURIComponent((document.referrer||'').slice(0,100))+'&tz='+encodeURIComponent(Intl.DateTimeFormat().resolvedOptions().timeZone||'');
+ try{fetch(B+'?'+q,{method:'GET',mode:'cors',keepalive:true,credentials:'omit'}).catch(function(){});}catch(e){}}
+hit('load');setInterval(function(){if(document.visibilityState==='visible')hit('ping');},300000);
+}catch(e){}})();
+</script>
 </body>
 </html>
