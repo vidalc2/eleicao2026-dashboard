@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-25T20:18:32.716722-03:00",
+ "updated": "2026-10-25T20:20:44.040899-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Nordeste já foi apurado? Veja resultado e totalização do segundo turno ao vivo - UOL Notícias",
+   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/nordeste-ja-foi-apurado-veja-resultado-e-totalizacao-do-segundo-turno-ao-vivo.ghtm",
+   "source": "UOL Notícias",
+   "published": "2026-10-25T23:15:12+00:00",
+   "desc": " Nordeste já foi apurado? Veja resultado e totalização do segundo turno ao vivo    UOL Notícias ",
+   "gnews": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQlRCVlpJYzk5eExpaFotWDFLMUJGUmd0NHB6SWZ0YXFEWVc1VXdsZ1NUWWY3eDdKUlp6djhfTHlGQlFmRmFtYVR6Yms2U0pod2lzbzVhVXpRWUJaM0NPeE1pV003MUdFelRQS2JscmdNYmVDdU9YcTdjczQzRlVLRUt0UEljWEZlNl8xR2FROHZnZDdpeUowa3Bmd3YyYUhJWlpIdUlORGJ1eW1YZHhaX25xSmRmcF9PVm9tcGVmMFdhamhybk1wVEVR?oc=5"
+  },
   {
    "title": "Flávio Bolsonaro pede prorrogação de votação em 5 estados - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/flavio-bolsonaro-prorrogacao-horario-votacao.ghtm",
@@ -33,41 +41,33 @@
    "published": "2026-10-25T23:10:00+00:00",
    "desc": " Ministros veem erros do TSE e do STF sobre prorrogação e esperam contestações, mas descartam anular eleição    Folha de S.Paulo ",
    "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSXVzeUtMN0ZSQnhlcXJpYkFCcDFNWURydWpmejhZSmZtV3hVdy1Hc1JyOFk4NzRhOXZiRnZuTGl6MzM4eEMtSzlmVG9lWEJLcFE5UndFVzYyOVdHWE55WXhWUUw5TXI4NjloUlZxbkd0NXc2ZkNFT3RKVnFzaWFzTVluX1VONG15dE5va3hsYVhrZkNuTUpOdXNfSF9STHJPQUVhSWVXUTc2TnJtcFFySkw4XzVrSm9peEpZUzZnRm5wSDI2ZkZaa2RIUnVlRnMwbzNld1UwN2xwaGJxQVVOdXhRdWdzSUx1QkphOQ?oc=5"
-  },
-  {
-   "title": "AO VIVO: Acompanhe a apuração do segundo turno das eleições de 2026 - VEJA",
-   "link": "https://veja.abril.com.br/brasil/ao-vivo-acompanhe-a-apuracao-do-segundo-turno-das-eleicoes-de-2026/",
-   "source": "VEJA",
-   "published": "2026-10-25T23:06:58+00:00",
-   "desc": " AO VIVO: Acompanhe a apuração do segundo turno das eleições de 2026    VEJA ",
-   "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHFoUGNRNEE0WUh0ZFBRWHRVbkVWTkt5bmE0THVJS216QURlR2hpbXhzMG9rQnZOOTQtejBlTmFmNFJuRzQwT0dGaERVWFpKTFZDN2twdUF6T3hKUkJ1VHZkYXpKOVNnTURCQnNLbWpsMHoteEdMRHBTYXU4bjhMRGw2V2YzYkNWNHJ5TmwwUm9yOE1fSkRZdmhwV1ZiQ3JsOVE?oc=5"
   }
  ],
  "brief": {
-  "headline": "Votação do 2º turno é prorrogada em 5 estados e TSE retoma a apuração",
-  "why_it_matters": "A extensão do horário de votação pode mudar o ritmo da contagem e gerar disputas judiciais, enquanto o Tribunal Superior Eleitoral tenta garantir a transparência do processo.",
-  "big_picture": "Com Lula e Flávio Bolsonaro empatados, qualquer atraso ou ajuste na votação pode influenciar a percepção de legitimidade da eleição.",
+  "headline": "Votação do 2º turno ainda em pausa; TSE prorroga horário em 5 estados",
+  "why_it_matters": "A extensão do horário de votação pode mudar o placar da disputa entre Lula (13) e Flávio Bolsonaro (22) e abre espaço para contestações jurídicas.",
+  "big_picture": "Com o país dividido e a margem apertada, atrasos na apuração aumentam a tensão política e a pressão sobre o TSE e o STF.",
   "details": [
-   "Flávio Bolsonaro solicitou prorrogação da votação em cinco estados",
-   "Juiz Alexandre de Moraes (Zanin) autorizou extensão até 19h nas urnas ainda não fechadas",
-   "Ministros reconhecem erros do TSE e do STF na decisão, mas descartam anular o pleito",
-   "O TSE já retomou a apuração após a prorrogação, com transmissão ao vivo",
-   "A cobertura ao vivo segue em canais como Veja e YouTube"
+   "Justice Minister Alexandre Zanin prorrogou a votação até 19h nos locais onde as urnas ainda não foram fechadas",
+   "Flávio Bolsonaro pediu prorrogação da votação em cinco estados, intensificando o debate sobre a legalidade da medida",
+   "Após a prorrogação, a votação termina e o TSE retoma a apuração, com transmissão ao vivo no YouTube",
+   "Ministros do TSE apontam erros nas decisões do TSE e do STF, esperam contestações, mas descartam anular a eleição",
+   "O Nordeste ainda não foi apurado; os resultados ainda não começaram a ser divulgados"
   ],
-  "whats_next": "Os tribunais deverão analisar os recursos de contestação nos próximos dias, enquanto a apuração continua em tempo real."
+  "whats_next": "A apuração deve iniciar assim que todas as urnas forem fechadas e o TSE publicar os primeiros números oficiais."
  },
  "brief_en": {
-  "headline": "2nd‑round voting extended in 5 provinces, TSE resumes count",
-  "why_it_matters": "Longer voting hours could shift the count pace and spark legal fights, while the top election court works to keep the process transparent.",
-  "big_picture": "With Lula and Flávio Bolsonaro dead‑locked, any delay or tweak in voting could sway the perceived legitimacy of the election.",
+  "headline": "2nd‑round voting still paused; TSE extends voting time in 5 states",
+  "why_it_matters": "Extending voting time could shift the race between Lula (13) and Flávio Bolsonaro (22) and open the door to legal challenges.",
+  "big_picture": "With the country split and the margin razor‑thin, counting delays heighten political tension and pressure on the TSE and the Supreme Court.",
   "details": [
-   "Flávio Bolsonaro asked for a voting extension in five provinces",
-   "Judge Alexandre de Moraes (Zanin) authorized extensions until 19h at polling stations still open",
-   "Ministers acknowledge errors by the TSE and the STF, but rule out nullifying the election",
-   "The TSE has resumed the count after the extension, streaming it live",
-   "Live coverage continues on outlets like Veja and YouTube"
+   "Justice Minister Alexandre Zanin extended voting to 7 p.m. in precincts where the polls haven’t closed yet",
+   "Flávio Bolsonaro asked for the extension in five states, fueling debate over its legality",
+   "After the extension, voting ends and the TSE resumes counting, live‑streamed on YouTube",
+   "TSE judges flag errors in TSE and Supreme Court rulings, expect challenges but rule out overturning the election",
+   "The Northeast still hasn’t been counted; results haven’t started to be released"
   ],
-  "whats_next": "Courts will hear challenges in the coming days as the count proceeds in real time."
+  "whats_next": "Counting will start as soon as all polls close and the TSE releases the first official figures."
  },
  "error": null
 }
