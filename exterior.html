@@ -106,7 +106,7 @@ th button{all:unset;cursor:pointer;min-height:32px;display:inline-block}th butto
     <div class="cmp" style="grid-template-columns:repeat(3,1fr)">
       <div><div class="h" data-i18n="r1_all">1º turno 2026 (todo exterior)</div><div class="v mono" id="r1all">—</div></div>
       <div><div class="h" data-i18n="r1_same">1º turno (mesmos países)</div><div class="v mono" id="r1same">—</div></div>
-      <div><div class="h" data-i18n="r2_2022">2º turno 2022 (exterior)</div><div class="v mono">51,28%</div></div>
+      <div><div class="h" data-i18n="r2_2022">2º turno 2022 (exterior)</div><div class="v mono" id="c_22">51,28%</div></div>
     </div>
     <div class="kpi" style="margin-top:10px;flex-direction:column;gap:6px">
       <span><span data-i18n="d1l">Diferença vs 1º turno (mesmos países)</span> <b class="mono" id="d1">—</b></span>
@@ -188,7 +188,7 @@ const root=document.documentElement;try{const t=localStorage.getItem('theme');if
 const css=v=>getComputedStyle(root).getPropertyValue(v).trim();
 $('#theme').onclick=()=>{root.dataset.theme=css('--bg')==='#131312'?'light':'dark';try{localStorage.setItem('theme',root.dataset.theme)}catch(e){};location.reload();};
 function applyLang(){document.documentElement.lang=L==='en'?'en-CA':'pt-BR';document.querySelectorAll('[data-i18n]').forEach(el=>{const v=T(el.dataset.i18n);if(typeof v==='string')el.innerHTML=v;});
-  $('#lang-pt').setAttribute('aria-pressed',L==='pt');$('#lang-en').setAttribute('aria-pressed',L==='en');$('#foot').innerHTML=T('foot');
+  $('#lang-pt').setAttribute('aria-pressed',L==='pt');$('#lang-en').setAttribute('aria-pressed',L==='en');$('#foot').innerHTML=T('foot');$('#c_22').textContent=fmtP(51.28);
   if(traj){traj.data.datasets[0].label=T('lg_avg');traj.data.datasets[1].label=T('lg_r1');}
   if(D)render(D);}
 $('#lang-pt').onclick=()=>{L='pt';try{localStorage.setItem('lang','pt')}catch(e){};applyLang();};

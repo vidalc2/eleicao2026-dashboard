@@ -52,8 +52,10 @@ h1{font-size:20px;margin:0;letter-spacing:-.01em;flex:1 1 auto;min-width:200px}
 .bar .l{background:var(--lula);border-radius:8px 0 0 8px}.bar .f{background:var(--flavio);border-radius:0 8px 8px 0}
 .bar .gap{width:3px;background:var(--surface)}
 .tick{position:absolute;top:-4px;width:2px;height:24px;background:var(--ink)}
-.tick::after{content:attr(data-l);position:absolute;top:24px;left:-24px;width:52px;text-align:center;font-size:11px;color:var(--muted)}
+.tick::after{content:attr(data-l);position:absolute;top:24px;left:-26px;width:56px;text-align:center;font-size:11px;color:var(--muted)}
+#t22::after{top:-18px}
 .ticks{height:20px}
+.bar{margin-top:26px}
 .kpi{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:14px;color:var(--ink2)}
 .kpi b{color:var(--ink);font-weight:700}
 .signal{display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:12px;border:2px solid var(--line);margin-top:10px}
@@ -153,8 +155,8 @@ td:first-child,th:first-child{text-align:left}
   <section class="card c4" aria-labelledby="h-cmp">
     <h2 id="h-cmp" data-i18n="cmp">Comparação · Lula cabeça-a-cabeça</h2>
     <div class="cmp">
-      <div><div class="h" data-i18n="r1_2026">1º turno 2026</div><div class="v mono">48,99%<br><small>L 45,16 · F 47,03</small></div></div>
-      <div><div class="h" data-i18n="r2_2022">2º turno 2022</div><div class="v mono">50,90%<br><small>L 50,90 · B 49,10</small></div></div>
+      <div><div class="h" data-i18n="r1_2026">1º turno 2026</div><div class="v mono" id="c_r1">48,99%<br><small>L 45,16 · F 47,03</small></div></div>
+      <div><div class="h" data-i18n="r2_2022">2º turno 2022</div><div class="v mono" id="c_22">50,90%<br><small>L 50,90 · B 49,10</small></div></div>
       <div><div class="h" data-i18n="now">Agora</div><div class="v mono" id="cmpnow">—<br><small data-i18n="partial">parcial</small></div></div>
     </div>
     <dl class="kpi" style="margin:12px 0 0;flex-direction:column;gap:6px">
@@ -230,7 +232,7 @@ const fmtD=(n,d=2)=>n==null?'—':(n>0?'+':'')+n.toLocaleString(loc(),{minimumFr
 const UFN={ac:'Acre',al:'Alagoas',am:'Amazonas',ap:'Amapá',ba:'Bahia',ce:'Ceará',df:'Distrito Federal',es:'Espírito Santo',go:'Goiás',ma:'Maranhão',mg:'Minas Gerais',ms:'Mato Grosso do Sul',mt:'Mato Grosso',pa:'Pará',pb:'Paraíba',pe:'Pernambuco',pi:'Piauí',pr:'Paraná',rj:'Rio de Janeiro',rn:'Rio Grande do Norte',ro:'Rondônia',rr:'Roraima',rs:'Rio Grande do Sul',sc:'Santa Catarina',se:'Sergipe',sp:'São Paulo',to:'Tocantins',zz:'Exterior'};
 if(L==='en')UFN.zz='Abroad';
 function applyLang(){document.documentElement.lang=L==='en'?'en-CA':'pt-BR';document.querySelectorAll('[data-i18n]').forEach(el=>{const v=T(el.dataset.i18n);if(typeof v==='string')el.innerHTML=v;});
-  $('#lang-pt').setAttribute('aria-pressed',L==='pt');$('#lang-en').setAttribute('aria-pressed',L==='en');$('#t1').dataset.l=T('tick1');$('#foot').innerHTML=T('foot');UFN.zz=L==='en'?'Abroad':'Exterior';
+  $('#lang-pt').setAttribute('aria-pressed',L==='pt');$('#lang-en').setAttribute('aria-pressed',L==='en');$('#t1').dataset.l=T('tick1');$('#c_r1').innerHTML=`${fmtP(48.99)}<br><small>L ${fmtP(45.16)} · F ${fmtP(47.03)}</small>`;$('#c_22').innerHTML=`${fmtP(50.9)}<br><small>L ${fmtP(50.9)} · B ${fmtP(49.1)}</small>`;$('#foot').innerHTML=T('foot');UFN.zz=L==='en'?'Abroad':'Exterior';
   if(traj){traj.options.scales.x.title.text=L==='en'?'% of precincts counted':'% de seções apuradas';traj.update('none');}
   if(latestD)render(latestD,seriesD);if(newsD)renderNews(newsD);}
 $('#lang-pt').onclick=()=>{L='pt';try{localStorage.setItem('lang','pt')}catch(e){};applyLang();};

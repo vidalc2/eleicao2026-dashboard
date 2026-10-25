@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:23:48.936903-03:00",
+ "updated": "2026-10-25T17:27:01.823585-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -27,11 +27,11 @@
    "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaUw1cUJYM2tWcmVWTlJuYng5bUZmcUdaekc4cVZMS1d3dkhFMFI3Z0p1NFJFWTdnbi10QkRsQTY4a2RLZ3FPLVVxYmotX0dCX2hEY0lLbWNwRl9rNTI5U2ZxektZQ05tNVRFdkk2SFU1UllzU3ZMWVg5czVCdGVTQ09RaXBBTzlkb1JqZFVNelNZT1VaazVSRk1GWGM4WHNDTHYyaGpfZXRwR1JydElfbGF2X2xNQkhMMmVoZ1JHQlR2c0NxUXlyQmM5dE1zQdIB0wFBVV95cUxNSE9nVlVlLTFRS0dkM2FJSFFFVmNxRmhrSS1haWdMT3VnNWxFTkxFeHJ5RmJCSFNobVgwSW01bENfMVdPYkdhUm03cEtZMjd1RTdnTHpiR1R2dnhWbXFVekRkLVVNXzljWkRtV05rLUFjc2RRM2Jxcl9FRHBpZHExLUdXSVNzeXdkT0xaNjd4SzItSHhsWmtSUExHR3B0ZE9IR2lRNHByelkwazdVSWNaWnN6MUZIQVBVSGJVcG95ZU9aelIwSUNVTU94S0xuWEJaZHkw?oc=5"
   },
   {
-   "title": "Zanin prorroga votação em todo país até às 19h - G1",
+   "title": "Zanin prorroga votação em todo país até as 19h - G1",
    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/zanin-prorroga-votacao.ghtml",
    "source": "G1",
    "published": "2026-10-25T20:04:48+00:00",
-   "desc": " Zanin prorroga votação em todo país até às 19h    G1 ",
+   "desc": " Zanin prorroga votação em todo país até as 19h    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMWtRUmsxMFhTVVMtQi01RktHWkQ0eFU1SmN1RFpCTVQ5WmluRjNWTjl5aGxSLVJJTVdBa0VpU245NkMycXFFM1BRQm56eTlST1M1ZGRrdWRiRXhUWHowelRfV3dTcFlwRWZtM1FYSlhBZVJ3NDZocmJxNjlQaUw3SEdjVFFHdEJfTEczYng3SzJTTzhvTFHSAaQBQVVfeXFMUHlNLUs3UTRIUE9fNW5IYWZ2VzdqZl9YSFVjcW9wcnNTUnBjR2ZYaUt4ekNLd2lxZGhUMWxxRzZ2VFBsTVJMYjRYX0o4S1ZtWmVnTkNrNlp2dFE0MmVtYnNtLU52Vms4VzhFX1piejNLa3h1NXBMNTdBVGhXNTI4MlVZdTFQdHhNNm4xUWF4SlAxdWtncEE4Z2hMREowNHhMS3BKTnk?oc=5"
   },
   {
@@ -44,30 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula lidera entre brasileiros no exterior, mas a contagem nacional ainda não começou",
-  "why_it_matters": "O segundo turno decide quem comandará o Brasil pelos próximos quatro anos, e a disputa está extremamente acirrada.",
-  "big_picture": "Com a votação prorrogada até as 19h e as primeiras apurações mostrando 59,42% dos votos de Portugal para Lula, o cenário ainda pode mudar à medida que os resultados de todo o país forem divulgados.",
+  "headline": "Votação do 2º turno presidencial é prorrogada até 19h enquanto projeções de apuração são divulgadas",
+  "why_it_matters": "A extensão dá mais tempo para eleitores indecisos e pode mudar o ritmo da disputa; as projeções mostram tendências, mas ainda não há resultado oficial.",
+  "big_picture": "A eleição definirá o rumo político e econômico do Brasil, com Lula já liderando entre os brasileiros no exterior e o país ainda aguardando a contagem nacional.",
   "details": [
-   "Apuração nacional ainda não iniciou; a contagem oficial ainda não começou ou não está nas manchetes",
-   "Lula já tem 59,42% dos votos dos brasileiros residentes em Portugal, segundo a CartaCapital",
-   "O Tribunal Superior Eleitoral, por meio de Zanin, estendeu o horário de votação até as 19h",
-   "O Estadão oferece gráficos em tempo real e projeções da apuração para acompanhar a evolução dos resultados",
-   "A referência ao resultado de 2022 serve como pano de fundo para comparar a dinâmica atual da eleição"
+   "Justiça Eleitoral prorroga o horário de votação em todo o país até as 19h (G1)",
+   "Gráficos em tempo real do Estadão acompanham a evolução da apuração e projetam possíveis resultados (Estadão)",
+   "Lula vence Flávio Bolsonaro em Portugal com 59,42% dos votos expatriados (CartaCapital)",
+   "Nenhum número de apuração nacional foi divulgado ainda; a contagem oficial ainda não começou",
+   "Referência ao resultado do segundo turno de 2022, quando Lula venceu com 50,9% (VEJA)"
   ],
-  "whats_next": "A contagem nacional deve começar após as 19h, com os resultados completos sendo divulgados ao longo da noite."
+  "whats_next": "Os resultados oficiais começarão a ser divulgados após o fechamento das urnas às 19h, com a apuração se estendendo nas próximas horas."
  },
  "brief_en": {
-  "headline": "Lula leads among Brazilians abroad, but the national count hasn’t started yet",
-  "why_it_matters": "The runoff decides who will run Brazil for the next four years, and the race is razor‑tight.",
-  "big_picture": "Voting runs until 19h, and early tallies show 59,42% of Portugal’s Brazilian vote for Lula; the picture could shift as results pour in nationwide.",
+  "headline": "2nd‑round presidential voting extended to 7 p.m. as vote tallies are released",
+  "why_it_matters": "The extension gives undecided voters more time and could shift the race’s momentum; the tallies show trends but no official result yet.",
+  "big_picture": "The election will set Brazil’s political and economic direction, with Lula already leading among overseas Brazilians while the nation awaits the national count.",
   "details": [
-   "National tally hasn’t begun; the official count is not underway or in the headlines",
-   "Lula already has 59,42% of the votes from Brazilians living in Portugal, per CartaCapital",
-   "The Superior Electoral Court, via Zanin, extended voting to 19h",
-   "Estadão provides live charts and projection tools to track the results",
-   "2022’s result is cited as a backdrop to compare today’s election dynamics"
+   "Electoral Court pushes voting deadline nationwide to 7 p.m. (G1)",
+   "Real‑time charts from Estadão track the count and model possible outcomes (Estadão)",
+   "Lula beats Flávio Bolsonaro in Portugal with 59,42% of the expatriate vote (CartaCapital)",
+   "No national count numbers have been released yet; the official tally hasn’t started",
+   "Reference to the 2022 runoff, when Lula won with 50,9% (VEJA)"
   ],
-  "whats_next": "The national count should kick off after 19h, with full results rolling out through the night."
+  "whats_next": "Official results will start rolling out after polls close at 7 p.m., with counting continuing for hours."
  },
  "error": null
 }
