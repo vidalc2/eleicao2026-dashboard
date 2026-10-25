@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:38:39.487197-03:00",
+ "updated": "2026-10-25T20:40:40.759311-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -27,45 +27,47 @@
    "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnJCZXdXSlY4X3d4cktNbzBZalhkbWFTWkcwS2puaF9xaU5fY243Vkw0UmNLUDVWSlRzejd4dVUzUW1kSVl4TnRXN3U5VGlsbWZibUJmLXNuZlZRUXFuVUNET29XdEJCS1AwazJrZE0yajRpYkhGQzk3S0FEcmgzUWlXZFNNUVVLa0RNTmxVb3YzVDM1b3RyTFF4ZUZaRzEzdTgwS2NSdGlEN3JvdGN6WTZHdFhPbkN4NVEzU2ZvOUhkTjRD?oc=5"
   },
   {
+   "title": "Resultado das eleições 2026 em Não-Me-Toque (RS): como foi a votação no 2º turno - G1",
+   "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-nao-me-toque-rs-como-foi-a-votacao-no-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-25T23:21:29+00:00",
+   "desc": " Resultado das eleições 2026 em Não-Me-Toque (RS): como foi a votação no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOblJaR2NQN1E4eGQ1bVFGZzhTSk9hUzU3eU1rZ19MSXpUcnIxTkpiN0Z6ZUw3QUlDRjM5ZXVWS0NZaEtKcjlLUWN1V0cyblhaZ1JJSndoR2lTRXEyX2pZMzdLUGxicjBrTDY4WlVYMWpqSm9Da3ZKaTNSMnZ6Q2o1QlBFSy10OHV0RHdIZnlwU21qYVBVQmNJTjZ1eUZIVjNCQ3puWTdlVzhuRThWdEJSNGVoZE8zZnExSVNOSUlkMG5FM1ZTZTVkblB1Wm5wUGx0R3Fmc1RkenNzVnFsNHdhQzQ2ZWFNbkdrcGRBM2pHNNIB_gFBVV95cUxNZGZYUk5LZnJ4OVdXZVNnSUVTM3dJYUVYUWpFNEJfdTVqVFMzZjZHWGpabzZnZHZCd3ZuaXhtM1lfakVNanJXRnJCUHNKRzFjWGtaQnc2UjdmMy15M3lkT194dGZ3ZThjcWJvcVJnYS02dTdXeF9DNmczSHN5Z3dNNjlsQm1aX1pwUFlrcmZDcmw2Y0hjUFdQeUVESWFpNWY1TUQ4TXBYY1lGclItdDQ0QVp6WG9FaDJteFNXNlpha1pqVXdvaXpsdGcweWZnaU9KNmdWTHlCQ3RBR0RBWEJjRmE4ZjNXUnhJLVI0cW51ZW8tSG1iVzV2UEpzRzlnQQ?oc=5"
+  },
+  {
    "title": "Já foram apuradas as urnas do Nordeste? Veja resultados da apuração na região - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/ja-foram-apuradas-as-urnas-do-nordeste-veja-resultados-da-apuracao-na-regiao.ghtm",
    "source": "UOL Notícias",
    "published": "2026-10-25T23:19:41+00:00",
    "desc": " Já foram apuradas as urnas do Nordeste? Veja resultados da apuração na região    UOL Notícias ",
    "gnews": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQkV1bWFhU2xzbjBfQ1doWDdCVWdxVUY2bGVIMlF4aVVVbEt2N3doYnNvWlFja3h5UlJfbEhvMVJVTW9iSno4TjdRa3J5b0dSX24wblhEV2paMXd1WTBoZVd4Si0yNGNtUGRaY210N21HaHpQZGdocXVISVdwYk52VWRxUXFDVU1GQUxmX3RhTW1pOXpMRVZOSmJ1ekdRQm1QSWxKSmRSVGxpdnhTZGdXWmNQMEM5aUxMVW5NZFNrczNEc1dHS2Mweg?oc=5"
-  },
-  {
-   "title": "Resultado da apuração em São Paulo no segundo turno: veja votação agora - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/resultado-da-apuracao-em-sao-paulo-no-segundo-turno-veja-votacao-agora.ghtm",
-   "source": "UOL Notícias",
-   "published": "2026-10-25T23:19:15+00:00",
-   "desc": " Resultado da apuração em São Paulo no segundo turno: veja votação agora    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjJfelpIMHNjZUh6YnRIR2NEYTdkdTE4VUhoRGw4alZIWnZvN2JmTU5FekNrSDY0NW5JYTF1aU42cTNISU1FTjRMNklRLWhEcW1RZzFKOWpDUi1jVktwZTl6Y182RnAzQmFDT3BXdVBkOTJVZnhQckFJMnpldGllMWNtVWRLaW9TUEZMemFfZ2cxNy1pOEZmMjYzZ1I0NDlaZU5ZNGsyWXhCdVZFSXN1b1ZZOUR5QTZzWHV6NzN5aTQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Virada em 23 cidades e apurações regionais apontam disputa acirrada no 2º turno",
-  "why_it_matters": "Com a votação encerrada e o STF ampliando o prazo até 19h, os resultados parciais de Minas Gerais, São Paulo e do Nordeste já mostram mudanças de rumo entre Lula e Flávio Bolsonaro.",
-  "big_picture": "Ainda não há contagem nacional; o cenário pode mudar conforme os estados ainda não apurados entram na disputa.",
+  "headline": "Apuração do 2º turno ainda incipiente, mas viradas surgem em 23 cidades",
+  "why_it_matters": "A disputa entre Lula e Flávio Bolsonaro decide quem comandará o país nos próximos quatro anos; os primeiros resultados já apontam mudanças de rumo em municípios-chave.",
+  "big_picture": "Com a votação encerrada e o STF tendo prorrogado o prazo até as 19h, o Brasil aguarda a consolidação dos números que podem definir a vitória de um dos candidatos em um pleito apertado.",
   "details": [
-   "STF prorrogou o horário de votação até as 19h, encerrando oficialmente a votação às 20h38 (horário de Brasília)",
-   "Apurações concluídas em Minas Gerais e São Paulo já foram divulgadas, embora as manchetes não tragam números específicos",
-   "Em 23 cidades, o candidato que liderava perdeu a vantagem, indicando possíveis viradas regionais",
-   "Resultados do Nordeste ainda estão em fase de apuração, sem números definitivos"
+   "STF estendeu o horário de votação até as 19h, mas o prazo já expirou às 20h40 (horário de Brasília)",
+   "Apuração concluída em 23 cidades mostra virada de tendência, sem números divulgados",
+   "Resultados de Minas Gerais já disponíveis, indicando a dinâmica regional",
+   "Votação em Não-Me-Toque (RS) foi contabilizada e publicada",
+   "Primeiros números do Nordeste começam a aparecer, mas a cobertura ainda é parcial"
   ],
-  "whats_next": "A contagem nacional deve começar nas primeiras horas da manhã, definindo o vencedor do segundo turno."
+  "whats_next": "A contagem nacional deve avançar nas próximas horas, com o TSE divulgando o placar definitivo do segundo turno."
  },
  "brief_en": {
-  "headline": "Turnarounds in 23 towns and regional tallies signal a tight 2nd‑round race",
-  "why_it_matters": "With voting closed and the Supreme Court extending the deadline to 7 p.m., early returns from Minas Gerais, São Paulo and the Northeast already show shifts between Lula and Flávio Bolsonaro.",
-  "big_picture": "No national tally yet; the picture could flip as uncounted states come in.",
+  "headline": "Second‑round count still early, but flips emerging in 23 towns",
+  "why_it_matters": "Lula vs. Flávio Bolsonaro will decide Brazil’s leader for the next four years; early returns already show shifts in key municipalities.",
+  "big_picture": "With voting closed and the Supreme Court extending the deadline to 7 p.m., Brazil waits for the numbers that could lock in a tight win for either candidate.",
   "details": [
-   "Supreme Court pushed the voting deadline to 7 p.m., officially ending polls at 8:38 p.m. BRT",
-   "Counts from Minas Gerais and São Paulo are out, but headlines lack exact figures",
-   "In 23 towns, the front‑runner lost its edge, hinting at regional turnarounds",
-   "Northeast results are still being tallied, no final numbers yet"
+   "The Supreme Court pushed the voting deadline to 7 p.m., but it lapsed at 8:40 p.m. Brasília time.",
+   "Counts in 23 towns show a trend reversal, though figures aren’t released.",
+   "Minas Gerais results are in, hinting at regional dynamics.",
+   "Votes from Não‑Me‑Toque, Rio Grande do Sul, have been tallied and posted.",
+   "First Northeast numbers are surfacing, but coverage remains partial."
   ],
-  "whats_next": "The national count should kick off early morning, sealing the 2nd‑round winner."
+  "whats_next": "National tallies will pick up in the coming hours as the electoral court releases the final second‑round scoreboard."
  },
  "error": null
 }
