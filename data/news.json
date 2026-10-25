@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:56:48.328730-03:00",
+ "updated": "2026-10-25T20:58:46.442250-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Datafolha projeta vitória de Lula sobre Flávio Bolsonaro no 2º turno, garantindo um histórico 4º mandato",
-  "why_it_matters": "A reeleição de Lula marcaria a primeira vez que um presidente brasileiro completa quatro mandatos consecutivos, reforçando a agenda de esquerda e alterando o equilíbrio de poder no Congresso",
-  "big_picture": "Com a disputa polarizada entre Lula e Flávio Bolsonaro, o resultado define a direção política do país para os próximos quatro anos e influencia a dinâmica das eleições estaduais e municipais que ocorrem simultaneamente",
+  "headline": "Lula projeta vitória sobre Flávio Bolsonaro no 2º turno, garantindo histórico 4º mandato, segundo Datafolha",
+  "why_it_matters": "A possível reeleição de Lula marca a primeira vez que um presidente brasileiro completa quatro mandatos, consolidando a agenda de esquerda no país.",
+  "big_picture": "Ainda não há apuração oficial; o resultado depende da contagem que começa agora e pode mudar o cenário político nacional.",
   "details": [
-   "Datafolha ainda não divulgou números exatos; a projeção indica vitória de Lula",
-   "No primeiro turno, Lula liderou Flávio Bolsonaro por margem ainda não especificada nas manchetes",
-   "Apurações locais, como em São Vicente (SP), já mostram tendência de vitória para Lula",
-   "Governadores eleitos em 2026, divulgados pela BBC, apontam para maior presença de aliados de Lula nos estados",
-   "A lei prevê nova votação se houver empate no 2º turno, mas a probabilidade é baixa"
+   "Datafolha indica que Lula lidera o 2º turno contra Flávio Bolsonaro (candidatos 13 e 22)",
+   "A diferença entre os candidatos no 1º turno já foi analisada, mas não altera a disputa atual",
+   "Se houver empate, a legislação define procedimentos específicos para desempate"
   ],
-  "whats_next": "A apuração oficial começa ainda esta noite e deve confirmar o vencedor nas próximas horas"
+  "whats_next": "A contagem das urnas será divulgada nas próximas horas, com resultados completos previstos para a madrugada de 26/10."
  },
  "brief_en": {
-  "headline": "Datafolha projects Lula beating Flávio Bolsonaro in the 2nd round, securing a historic 4th term",
-  "why_it_matters": "Lula’s re‑election would be the first time a Brazilian president serves four straight terms, bolstering the left agenda and shifting the congressional power balance",
-  "big_picture": "The polarized Lula‑vs‑Flávio Bolsonaro race sets the country’s political course for the next four years and ripples into concurrent state and municipal elections",
+  "headline": "Lula projects win over Flávio Bolsonaro in runoff, securing historic 4th term, Datafolha says",
+  "why_it_matters": "A Lula re‑election would be the first Brazilian president to serve four terms, cementing a left‑wing agenda.",
+  "big_picture": "No official count yet; the tally starts now and could reshape the national political landscape.",
   "details": [
-   "Datafolha hasn’t released exact figures; the projection shows Lula ahead",
-   "In the first round, Lula led Flávio Bolsonaro by an unspecified margin in headlines",
-   "Local tallies, like in São Vicente (SP), already point to a Lula win",
-   "2026 governors announced by the BBC suggest a stronger Lula ally presence across states",
-   "Law mandates a new vote if the 2nd round ties, but that’s unlikely"
+   "Datafolha shows Lula ahead in the runoff against Flávio Bolsonaro (candidates 13 and 22)",
+   "The first‑round gap has been examined but doesn’t affect the current race",
+   "If there’s a tie, the law outlines specific tie‑break rules"
   ],
-  "whats_next": "Official results kick off tonight, with a winner expected in a few hours"
+  "whats_next": "Ballot counts will be released over the next few hours, with full results expected by the early morning of Oct 26."
  },
  "error": null
 }
