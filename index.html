@@ -4,273 +4,324 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Apuração 2º Turno 2026</title>
-<meta name="description" content="Apuração em tempo real do 2º turno presidencial 2026 (TSE) com comparação ao 1º turno e a 2022.">
+<meta name="description" content="Apuração em tempo real do 2º turno presidencial 2026 (TSE) com comparação ao 1º turno e a 2022. / Live count of Brazil's 2026 presidential runoff.">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
 :root{
-  --bg:#f6f5f2;--surface:#ffffff;--ink:#1b1b1a;--ink2:#555;--muted:#8a8a86;--line:#e4e2dd;--grid:#ebe9e4;
-  --lula:#d64545;--flavio:#3b7dd8;--lula-soft:rgba(214,69,69,.14);--flavio-soft:rgba(59,125,216,.14);
-  --band:rgba(120,120,120,.18);--good:#2b8a4e;--warn:#b7791f;--bad:#b23b3b;
+  --bg:#f4f3ef;--surface:#ffffff;--ink:#1b1b1a;--ink2:#444441;--muted:#5f5f5b;--line:#d9d7d1;--grid:#e8e6e0;
+  --lula:#c43c3c;--flavio:#2f6fc4;--lula-soft:rgba(196,60,60,.13);--flavio-soft:rgba(47,111,196,.13);
+  --band:rgba(110,110,110,.2);--good:#1f7a43;--warn:#9a6411;--bad:#a83232;--focus:#8a4dff;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#141413;--surface:#1f1f1e;--ink:#f1f0ec;--ink2:#c9c8c3;--muted:#8d8c87;--line:#33332f;--grid:#2a2a27;
-  --band:rgba(200,200,200,.16);
+  --bg:#131312;--surface:#1f1f1e;--ink:#f3f2ee;--ink2:#cfcec8;--muted:#a3a29c;--line:#3a3a36;--grid:#2c2c29;
+  --lula:#e05a5a;--flavio:#5b93e6;--band:rgba(200,200,200,.18);--good:#4fbf7a;--warn:#e0a63b;--bad:#e06060;--focus:#c7a6ff;
 }}
 :root[data-theme="dark"]{
-  --bg:#141413;--surface:#1f1f1e;--ink:#f1f0ec;--ink2:#c9c8c3;--muted:#8d8c87;--line:#33332f;--grid:#2a2a27;
-  --band:rgba(200,200,200,.16);
+  --bg:#131312;--surface:#1f1f1e;--ink:#f3f2ee;--ink2:#cfcec8;--muted:#a3a29c;--line:#3a3a36;--grid:#2c2c29;
+  --lula:#e05a5a;--flavio:#5b93e6;--band:rgba(200,200,200,.18);--good:#4fbf7a;--warn:#e0a63b;--bad:#e06060;--focus:#c7a6ff;
 }
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;padding:0 16px 48px}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;padding:0 16px 56px}
 .wrap{max-width:1100px;margin:0 auto}
-header{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 16px;padding:18px 0 8px}
-h1{font-size:20px;margin:0;letter-spacing:-.01em}
-.status{font-size:13px;color:var(--ink2)}
-.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--good);margin-right:6px;vertical-align:middle}
+.skip{position:absolute;left:-9999px;top:8px;background:var(--surface);color:var(--ink);padding:8px 12px;border-radius:8px;z-index:9}
+.skip:focus{left:16px}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+header{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;padding:14px 0 10px}
+h1{font-size:20px;margin:0;letter-spacing:-.01em;flex:1 1 auto;min-width:200px}
+.status{font-size:14px;color:var(--ink2);flex-basis:100%}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--good);margin-right:6px;vertical-align:middle}
 .dot.off{background:var(--bad)}
+.tools{display:flex;gap:8px;flex-wrap:wrap}
+.btn{min-height:44px;min-width:44px;font-size:14px;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:8px 12px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+.btn[aria-pressed="true"]{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.flag{font-size:20px;line-height:1}
 .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:12px}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;grid-column:span 12}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;grid-column:span 12}
 @media(min-width:760px){.c6{grid-column:span 6}.c4{grid-column:span 4}.c8{grid-column:span 8}}
-.card h2{font-size:13px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin:0 0 10px}
+.card h2{font-size:13px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin:0 0 12px}
 .hero{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.cand{padding:10px 12px;border-radius:10px;border-left:5px solid}
+@media(max-width:380px){.hero{grid-template-columns:1fr}}
+.cand{padding:12px;border-radius:12px;border-left:6px solid}
 .cand.l{border-color:var(--lula);background:var(--lula-soft)}
 .cand.f{border-color:var(--flavio);background:var(--flavio-soft)}
-.cand .nm{font-weight:600;font-size:14px}
-.cand .big{font-size:38px;font-weight:700;letter-spacing:-.02em;line-height:1.1}
-.cand .sub{font-size:12px;color:var(--ink2)}
-.bar{height:14px;border-radius:7px;display:flex;background:var(--grid);margin:12px 0 4px;position:relative}
-.bar .l{border-radius:7px 0 0 7px}.bar .f{border-radius:0 7px 7px 0}
-.bar .l{background:var(--lula)}.bar .f{background:var(--flavio)}
-.bar .gap{width:2px;background:var(--surface)}
-.tick{position:absolute;top:-4px;width:2px;height:22px;background:var(--ink)}
-.tick::after{content:attr(data-l);position:absolute;top:22px;left:-20px;width:44px;text-align:center;font-size:10px;color:var(--muted)}
-.ticks{height:18px;position:relative}
-.kpi{display:flex;flex-wrap:wrap;gap:10px 22px;font-size:13px;color:var(--ink2)}
-.kpi b{color:var(--ink);font-weight:600}
-.signal{display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:10px;border:1px solid var(--line);margin-top:8px}
-.signal .ic{font-size:26px}
-.signal .tt{font-weight:700;font-size:16px}
-.signal .ds{font-size:13px;color:var(--ink2)}
+.cand .nm{font-weight:700;font-size:15px}
+.cand .big{font-size:40px;font-weight:800;letter-spacing:-.02em;line-height:1.1}
+.cand .sub{font-size:13px;color:var(--ink2)}
+.bar{height:16px;border-radius:8px;display:flex;background:var(--grid);margin:14px 0 4px;position:relative}
+.bar .l{background:var(--lula);border-radius:8px 0 0 8px}.bar .f{background:var(--flavio);border-radius:0 8px 8px 0}
+.bar .gap{width:3px;background:var(--surface)}
+.tick{position:absolute;top:-4px;width:2px;height:24px;background:var(--ink)}
+.tick::after{content:attr(data-l);position:absolute;top:24px;left:-24px;width:52px;text-align:center;font-size:11px;color:var(--muted)}
+.ticks{height:20px}
+.kpi{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:14px;color:var(--ink2)}
+.kpi b{color:var(--ink);font-weight:700}
+.signal{display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:12px;border:2px solid var(--line);margin-top:10px}
+.signal .ic{font-size:28px;flex:0 0 auto}
+.signal .tt{font-weight:800;font-size:17px}
+.signal .ds{font-size:14px;color:var(--ink2)}
 .signal.lula{border-color:var(--lula)} .signal.flavio{border-color:var(--flavio)} .signal.tie{border-color:var(--warn)}
 .proj{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
-.proj .big{font-size:34px;font-weight:700;letter-spacing:-.02em}
-.proj .rng{font-size:13px;color:var(--ink2)}
+.proj .big{font-size:36px;font-weight:800;letter-spacing:-.02em}
+.proj .rng{font-size:14px;color:var(--ink2)}
 canvas{width:100%!important}
 .chart{position:relative;height:300px}
-.chart.tall{height:380px}
-.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--ink2);margin-bottom:6px}
-.legend span::before{content:"";display:inline-block;width:18px;height:0;border-top:2px solid var(--c);margin-right:6px;vertical-align:middle;border-style:var(--s,solid)}
+.chart.tall{height:400px}
+.legend{display:flex;gap:14px;flex-wrap:wrap;font-size:13px;color:var(--ink2);margin-bottom:8px}
+.legend span::before{content:"";display:inline-block;width:18px;height:0;border-top:3px solid var(--c);margin-right:6px;vertical-align:middle;border-style:var(--s,solid)}
 .legend .shade::before{height:10px;border:0;background:var(--band)}
-table{width:100%;border-collapse:collapse;font-size:13px}
-th,td{padding:6px 6px;text-align:right;border-bottom:1px solid var(--line);white-space:nowrap}
-th{color:var(--muted);font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.05em;cursor:pointer;position:sticky;top:0;background:var(--surface)}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{padding:8px 6px;text-align:right;border-bottom:1px solid var(--line);white-space:nowrap}
+th{color:var(--muted);font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.05em;position:sticky;top:0;background:var(--surface)}
+th button{all:unset;cursor:pointer;min-height:32px;display:inline-block}
+th button:focus-visible{outline:3px solid var(--focus)}
 td:first-child,th:first-child{text-align:left}
-.pos{color:var(--lula);font-weight:600}.neg{color:var(--flavio);font-weight:600}
-.tbl{max-height:420px;overflow:auto}
+.pos{color:var(--lula);font-weight:700}.neg{color:var(--flavio);font-weight:700}
+.tbl{max-height:460px;overflow:auto;-webkit-overflow-scrolling:touch}
 .cmp{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;text-align:center}
-.cmp div{padding:10px 6px;border-radius:10px;background:var(--bg)}
+.cmp div{padding:10px 6px;border-radius:12px;background:var(--bg)}
 .cmp .h{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
-.cmp .v{font-size:18px;font-weight:700;margin-top:4px}
+.cmp .v{font-size:19px;font-weight:800;margin-top:4px}
 .cmp .v small{font-weight:500;font-size:12px;color:var(--ink2)}
-.news h3{font-size:17px;margin:0 0 8px;line-height:1.3}
-.news .lbl{font-weight:700;font-size:13px;margin-top:10px}
-.news ul{margin:4px 0 0 18px;padding:0}
-.news li{margin:3px 0}
+.news h3{font-size:18px;margin:0 0 8px;line-height:1.3}
+.news .lbl{font-weight:800;font-size:14px;margin-top:10px}
+.news ul{margin:4px 0 0 20px;padding:0}
+.news li{margin:4px 0}
 .links{margin-top:12px;border-top:1px solid var(--line);padding-top:8px}
-.links a{display:block;color:var(--ink);text-decoration:none;font-size:13px;padding:5px 0;border-bottom:1px dashed var(--line)}
+.links a{display:block;color:var(--ink);text-decoration:underline;font-size:14px;padding:10px 0;border-bottom:1px dashed var(--line)}
 .links a small{color:var(--muted)}
-.foot{font-size:12px;color:var(--muted);margin-top:18px;line-height:1.5}
+.foot{font-size:13px;color:var(--ink2);margin-top:20px;line-height:1.55}
 .mono{font-variant-numeric:tabular-nums}
-.btn{font-size:12px;color:var(--ink2);background:none;border:1px solid var(--line);border-radius:8px;padding:4px 8px;cursor:pointer}
-.err{color:var(--bad);font-size:13px}
+.err{color:var(--bad);font-size:14px}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
+<a class="skip" href="#main" data-i18n="skip">Pular para o conteúdo</a>
 <div class="wrap">
 <header>
-  <h1>Apuração 2º turno · Presidente 2026</h1>
-  <span class="status" id="status"><span class="dot off"></span>carregando…</span>
-  <span style="flex:1"></span>
-  <a class="btn" href="exterior.html" style="text-decoration:none">🌍 voto no exterior</a>
-  <button class="btn" id="theme">🌓 tema</button>
+  <h1 data-i18n="title">Apuração 2º turno · Presidente 2026</h1>
+  <div class="tools" role="group" aria-label="Idioma / Language">
+    <button class="btn" id="lang-pt" aria-pressed="true" lang="pt-BR" aria-label="Português (Brasil)"><span class="flag" aria-hidden="true">🇧🇷</span> PT</button>
+    <button class="btn" id="lang-en" aria-pressed="false" lang="en-CA" aria-label="English (Canada)"><span class="flag" aria-hidden="true">🇨🇦</span> EN</button>
+    <a class="btn" href="exterior.html" id="navext"><span aria-hidden="true">🌍</span> <span data-i18n="nav_ext">voto no exterior</span></a>
+    <button class="btn" id="theme" aria-label="Tema claro/escuro · Light/dark theme"><span aria-hidden="true">🌓</span></button>
+  </div>
+  <p class="status" id="status" role="status" aria-live="polite"><span class="dot off" aria-hidden="true"></span><span data-i18n="loading">carregando…</span></p>
 </header>
 
-<div class="grid">
-  <div class="card c8">
-    <h2>Apuração oficial (TSE) · votos válidos</h2>
+<main id="main" class="grid">
+  <section class="card c8" aria-labelledby="h-official">
+    <h2 id="h-official" data-i18n="official">Apuração oficial (TSE) · votos válidos</h2>
     <div class="hero">
       <div class="cand l"><div class="nm">Lula · 13</div><div class="big mono" id="lp">—</div><div class="sub mono" id="lv">—</div></div>
       <div class="cand f"><div class="nm">Flávio Bolsonaro · 22</div><div class="big mono" id="fp">—</div><div class="sub mono" id="fv">—</div></div>
     </div>
-    <div class="bar"><div class="l" id="barl" style="width:50%"></div><div class="gap"></div><div class="f" id="barf" style="width:50%"></div>
-      <div class="tick" id="t1" data-l="1º turno" style="left:48.99%"></div><div class="tick" id="t22" data-l="2022" style="left:50.9%"></div></div>
-    <div class="ticks"></div>
-    <div class="kpi">
-      <span>Seções apuradas <b class="mono" id="sec">—</b></span>
-      <span>Eleitores apurados <b class="mono" id="ele">—</b></span>
-      <span>Brancos <b class="mono" id="bl">—</b></span>
-      <span>Nulos <b class="mono" id="nu">—</b></span>
-      <span>Abstenção <b class="mono" id="ab">—</b></span>
-      <span>Hora TSE <b class="mono" id="tse">—</b></span>
-    </div>
-  </div>
+    <div class="bar" role="img" id="barimg" aria-label=""><div class="l" id="barl" style="width:50%"></div><div class="gap"></div><div class="f" id="barf" style="width:50%"></div>
+      <div class="tick" id="t1" data-l="1º turno" style="left:48.99%" aria-hidden="true"></div><div class="tick" id="t22" data-l="2022" style="left:50.9%" aria-hidden="true"></div></div>
+    <div class="ticks" aria-hidden="true"></div>
+    <dl class="kpi">
+      <div><dt data-i18n="sections" style="display:inline">Seções apuradas</dt> <dd class="mono" style="display:inline;margin:0"><b id="sec">—</b></dd></div>
+      <div><dt data-i18n="voters_counted" style="display:inline">Eleitores apurados</dt> <dd class="mono" style="display:inline;margin:0"><b id="ele">—</b></dd></div>
+      <div><dt data-i18n="blank" style="display:inline">Brancos</dt> <dd class="mono" style="display:inline;margin:0"><b id="bl">—</b></dd></div>
+      <div><dt data-i18n="null" style="display:inline">Nulos</dt> <dd class="mono" style="display:inline;margin:0"><b id="nu">—</b></dd></div>
+      <div><dt data-i18n="abst" style="display:inline">Abstenção</dt> <dd class="mono" style="display:inline;margin:0"><b id="ab">—</b></dd></div>
+      <div><dt data-i18n="tse_time" style="display:inline">Hora TSE</dt> <dd class="mono" style="display:inline;margin:0"><b id="tse">—</b></dd></div>
+    </dl>
+  </section>
 
-  <div class="card c4">
-    <h2>Sinal (estimativa, não resultado)</h2>
-    <div class="proj"><span class="big mono" id="est">—</span><span class="rng mono" id="rng">Lula, cabeça-a-cabeça, projeção final</span></div>
-    <div class="signal tie" id="sig"><div class="ic">⏳</div><div><div class="tt">Aguardando apuração</div><div class="ds">Urnas fecham às 17h (Brasília). O modelo compara cada estado com o 1º turno.</div></div></div>
-    <div class="kpi" style="margin-top:10px">
-      <span>Swing nacional vs 1º turno <b class="mono" id="sw">—</b></span>
-    </div>
-  </div>
+  <section class="card c4" aria-labelledby="h-signal">
+    <h2 id="h-signal" data-i18n="signal">Sinal (estimativa, não resultado)</h2>
+    <div class="proj"><span class="big mono" id="est">—</span><span class="rng mono" id="rng"></span></div>
+    <div class="signal tie" id="sig" role="status" aria-live="polite"><div class="ic" aria-hidden="true">⏳</div><div><div class="tt" data-i18n="waiting">Aguardando apuração</div><div class="ds" data-i18n="waiting_ds">Urnas fecham às 17h (Brasília). O modelo compara cada estado com o 1º turno.</div></div></div>
+    <p class="kpi" style="margin:10px 0 0"><span><span data-i18n="swing_nat">Swing nacional vs 1º turno</span> <b class="mono" id="sw">—</b></span></p>
+  </section>
 
-  <div class="card c8">
-    <h2>Trajetória da apuração · Lula cabeça-a-cabeça (%)</h2>
-    <div class="legend">
-      <span style="--c:var(--lula)">parcial apurada (Lula %)</span>
-      <span style="--c:var(--ink);--s:dotted">projeção final (modelo)</span>
-      <span class="shade">faixa de erro estimada (95%)</span>
-      <span style="--c:var(--muted);--s:dashed">referências: 50% · 1º turno 48,99 · 2022 50,90</span>
+  <section class="card c8" aria-labelledby="h-traj">
+    <h2 id="h-traj" data-i18n="traj">Trajetória da apuração · Lula cabeça-a-cabeça (%)</h2>
+    <div class="legend" aria-hidden="true">
+      <span style="--c:var(--lula)" data-i18n="lg_partial">parcial apurada (Lula %)</span>
+      <span style="--c:var(--ink);--s:dotted" data-i18n="lg_proj">projeção final (modelo)</span>
+      <span class="shade" data-i18n="lg_band">faixa de erro estimada (95%)</span>
+      <span style="--c:var(--muted);--s:dashed" data-i18n="lg_refs">referências: 50% · 1º turno 48,99 · 2022 50,90</span>
     </div>
-    <div class="chart"><canvas id="traj"></canvas></div>
-  </div>
+    <div class="chart"><canvas id="traj" role="img" aria-labelledby="traj-desc"></canvas></div>
+    <p id="traj-desc" class="sr-only"></p>
+  </section>
 
-  <div class="card c4">
-    <h2>Comparação · Lula cabeça-a-cabeça</h2>
+  <section class="card c4" aria-labelledby="h-cmp">
+    <h2 id="h-cmp" data-i18n="cmp">Comparação · Lula cabeça-a-cabeça</h2>
     <div class="cmp">
-      <div><div class="h">1º turno 2026</div><div class="v mono">48,99%<br><small>L 45,16 · F 47,03</small></div></div>
-      <div><div class="h">2º turno 2022</div><div class="v mono">50,90%<br><small>L 50,90 · B 49,10</small></div></div>
-      <div><div class="h">Agora</div><div class="v mono" id="cmpnow">—<br><small id="cmpnow2">parcial</small></div></div>
+      <div><div class="h" data-i18n="r1_2026">1º turno 2026</div><div class="v mono">48,99%<br><small>L 45,16 · F 47,03</small></div></div>
+      <div><div class="h" data-i18n="r2_2022">2º turno 2022</div><div class="v mono">50,90%<br><small>L 50,90 · B 49,10</small></div></div>
+      <div><div class="h" data-i18n="now">Agora</div><div class="v mono" id="cmpnow">—<br><small data-i18n="partial">parcial</small></div></div>
     </div>
-    <div class="kpi" style="margin-top:12px;flex-direction:column;gap:6px">
-      <span>Diferença vs 1º turno <b class="mono" id="d1">—</b></span>
-      <span>Diferença vs 2022 <b class="mono" id="d22">—</b></span>
-      <span>Em votos (Lula − Flávio) <b class="mono" id="dv">—</b></span>
-    </div>
-  </div>
+    <dl class="kpi" style="margin:12px 0 0;flex-direction:column;gap:6px">
+      <div><dt style="display:inline" data-i18n="diff_r1">Diferença vs 1º turno</dt> <dd style="display:inline;margin:0"><b class="mono" id="d1">—</b></dd></div>
+      <div><dt style="display:inline" data-i18n="diff_22">Diferença vs 2022</dt> <dd style="display:inline;margin:0"><b class="mono" id="d22">—</b></dd></div>
+      <div><dt style="display:inline" data-i18n="diff_votes">Em votos (Lula − Flávio)</dt> <dd style="display:inline;margin:0"><b class="mono" id="dv">—</b></dd></div>
+    </dl>
+  </section>
 
-  <div class="card c6">
-    <h2>Swing por estado vs 1º turno (pontos, Lula cabeça-a-cabeça)</h2>
-    <div class="legend"><span style="--c:var(--lula)">Lula ganhou</span><span style="--c:var(--flavio)">Flávio ganhou</span><span style="--c:var(--muted)">barra clara = &lt;25% apurado</span></div>
-    <div class="chart tall"><canvas id="swing"></canvas></div>
-  </div>
+  <section class="card c6" aria-labelledby="h-swing">
+    <h2 id="h-swing" data-i18n="swing_h">Swing por estado vs 1º turno (pontos, Lula cabeça-a-cabeça)</h2>
+    <div class="legend" aria-hidden="true"><span style="--c:var(--lula)" data-i18n="lg_lula_gain">Lula ganhou</span><span style="--c:var(--flavio)" data-i18n="lg_flavio_gain">Flávio ganhou</span><span style="--c:var(--muted)" data-i18n="lg_light">barra clara = &lt;25% apurado</span></div>
+    <div class="chart tall"><canvas id="swing" role="img" aria-labelledby="swing-desc"></canvas></div>
+    <p id="swing-desc" class="sr-only"></p>
+  </section>
 
-  <div class="card c6 news">
-    <h2>Top 5 notícias · formato Axios <small id="newsupd" style="text-transform:none;letter-spacing:0;font-weight:400"></small></h2>
-    <div id="brief"><em>carregando…</em></div>
-    <div class="links" id="links"></div>
-  </div>
+  <section class="card c6 news" aria-labelledby="h-news">
+    <h2 id="h-news"><span data-i18n="news">Top 5 notícias · formato Axios</span> <small id="newsupd" style="text-transform:none;letter-spacing:0;font-weight:400"></small></h2>
+    <div id="brief"><em data-i18n="loading">carregando…</em></div>
+    <nav class="links" id="links" aria-label="Fontes / Sources"></nav>
+  </section>
 
-  <div class="card">
-    <h2>Por estado</h2>
-    <div class="tbl"><table id="tbl"><thead><tr>
-      <th data-k="uf">UF</th><th data-k="f">Apurado</th><th data-k="lula">Lula</th><th data-k="flavio">Flávio</th><th data-k="share_now">Lula %</th>
-      <th data-k="share_r1">1º turno</th><th data-k="d1">Δ 1ºT</th><th data-k="share_2022">2022</th><th data-k="d22">Δ 2022</th><th data-k="est">Est. final</th>
+  <section class="card" aria-labelledby="h-tbl">
+    <h2 id="h-tbl" data-i18n="by_state">Por estado</h2>
+    <div class="tbl"><table id="tbl"><caption class="sr-only" data-i18n="tbl_caption">Resultados por estado, com comparação ao 1º turno e a 2022. Cabeçalhos ordenam a tabela.</caption><thead><tr>
+      <th scope="col"><button data-k="uf">UF</button></th><th scope="col"><button data-k="f" data-i18n="th_counted">Apurado</button></th><th scope="col"><button data-k="lula">Lula</button></th><th scope="col"><button data-k="flavio">Flávio</button></th><th scope="col"><button data-k="share_now">Lula %</button></th>
+      <th scope="col"><button data-k="share_r1" data-i18n="th_r1">1º turno</button></th><th scope="col"><button data-k="d1">Δ 1ºT</button></th><th scope="col"><button data-k="share_2022">2022</button></th><th scope="col"><button data-k="d22">Δ 2022</button></th><th scope="col"><button data-k="est" data-i18n="th_est">Est. final</button></th>
     </tr></thead><tbody></tbody></table></div>
-  </div>
-</div>
+  </section>
+</main>
 
-<div class="foot">
-  <b>Como ler.</b> "Cabeça-a-cabeça" = votos de Lula ÷ (Lula + Flávio). No 1º turno isso foi 48,99% (Lula 45,16% × Flávio 47,03% dos válidos); em 2022, 50,90%.
-  A <b>projeção</b> aplica, estado a estado, o swing observado em relação ao 1º turno sobre o peso de votos de cada estado; estados pouco apurados herdam o swing nacional. A faixa sombreada é um erro estimado (encolhe conforme a apuração avança) e a linha pontilhada é estimativa, não resultado.
-  Seções apuradas cedo tendem a ser urbanas e do Sul/Sudeste, então parciais iniciais costumam favorecer Flávio — o modelo tenta corrigir isso, mas só o TSE dá o resultado. Fonte: resultados.tse.jus.br (atualiza a cada 30 s). Uso pessoal.
-</div>
+<footer class="foot" id="foot"></footer>
 </div>
 
 <script>
 const $=s=>document.querySelector(s);
-const fmtN=n=>n==null?'—':n.toLocaleString('pt-BR');
-const fmtP=(n,d=2)=>n==null?'—':n.toLocaleString('pt-BR',{minimumFractionDigits:d,maximumFractionDigits:d})+'%';
-const fmtD=(n,d=2)=>n==null?'—':(n>0?'+':'')+n.toLocaleString('pt-BR',{minimumFractionDigits:d,maximumFractionDigits:d});
+const I18N={
+ pt:{skip:'Pular para o conteúdo',title:'Apuração 2º turno · Presidente 2026',nav_ext:'voto no exterior',loading:'carregando…',official:'Apuração oficial (TSE) · votos válidos',sections:'Seções apuradas',voters_counted:'Eleitores apurados',blank:'Brancos',null:'Nulos',abst:'Abstenção',tse_time:'Hora TSE',
+  signal:'Sinal (estimativa, não resultado)',waiting:'Aguardando apuração',waiting_ds:'Urnas fecham às 17h (Brasília). O modelo compara cada estado com o 1º turno.',swing_nat:'Swing nacional vs 1º turno',traj:'Trajetória da apuração · Lula cabeça-a-cabeça (%)',
+  lg_partial:'parcial apurada (Lula %)',lg_proj:'projeção final (modelo)',lg_band:'faixa de erro estimada (95%)',lg_refs:'referências: 50% · 1º turno 48,99 · 2022 50,90',cmp:'Comparação · Lula cabeça-a-cabeça',r1_2026:'1º turno 2026',r2_2022:'2º turno 2022',now:'Agora',partial:'parcial',
+  diff_r1:'Diferença vs 1º turno',diff_22:'Diferença vs 2022',diff_votes:'Em votos (Lula − Flávio)',swing_h:'Swing por estado vs 1º turno (pontos, Lula cabeça-a-cabeça)',lg_lula_gain:'Lula ganhou',lg_flavio_gain:'Flávio ganhou',lg_light:'barra clara = <25% apurado',news:'Top 5 notícias · formato Axios',by_state:'Por estado',
+  tbl_caption:'Resultados por estado, com comparação ao 1º turno e a 2022. Cabeçalhos ordenam a tabela.',th_counted:'Apurado',th_r1:'1º turno',th_est:'Est. final',
+  votes:'votos',updated:'atualizado',final:'TOTALIZAÇÃO FINAL',too_early:'Cedo demais para sinal',too_early_ds:s=>`Só ${s.pct} das seções (as primeiras são do exterior e de capitais). Faixa ${s.lo} – ${s.hi}. Sinal a partir de 2% das seções.`,
+  flip:'Sinal de VIRADA · Lula',flip_ds:s=>`Projeção ${s.est} com faixa inteira acima de 50%. Swing ${s.sw} pp vs 1º turno.`,hold:'Flávio mantém vantagem',hold_ds:s=>`Projeção Lula ${s.est}; faixa inteira abaixo de 50%. Swing ${s.sw} pp vs 1º turno.`,
+  lean_l:'Leve tendência · Lula',lean_l_ds:s=>`Projeção ${s.est} acima de 50%, mas faixa ainda cruza 50%. Swing ${s.sw} pp.`,lean_f:'Leve tendência · Flávio',lean_f_ds:s=>`Projeção Lula ${s.est} abaixo de 50%, faixa ainda cruza 50%. Swing ${s.sw} pp.`,
+  undecided:'Indefinido',undecided_ds:'Faixa de erro cruza os 50%. Sem sinal claro de virada nem de manutenção.',final_w:w=>`Resultado final: ${w}`,final_ds:s=>`Totalização encerrada pelo TSE. Lula ${s.l} × Flávio ${s.f}.`,
+  rng:s=>`faixa ${s.lo} – ${s.hi} · Lula cabeça-a-cabeça, projeção final`,abst_r1:'(1ºT 21,08%)',why:'Por que importa',big:'Visão geral',details:'Detalhes',next:'O que vem a seguir',no_brief:'sem briefing ainda',
+  bar_label:s=>`Lula ${s.l} contra Flávio ${s.f} dos votos válidos. Referências: 1º turno 48,99%, 2022 50,90%.`,
+  traj_desc:s=>`Gráfico de linha: parcial de Lula ${s.hh} com ${s.pct} das seções; projeção final ${s.est}, faixa ${s.lo} a ${s.hi}.`,swing_desc:s=>`Gráfico de barras com o swing por estado. Maior ganho de Lula: ${s.top}. Maior ganho de Flávio: ${s.bot}.`,
+  foot:'<b>Como ler.</b> "Cabeça-a-cabeça" = votos de Lula ÷ (Lula + Flávio). No 1º turno isso foi 48,99% (Lula 45,16% × Flávio 47,03% dos válidos); em 2022, 50,90%. A <b>projeção</b> aplica, estado a estado, o swing observado em relação ao 1º turno sobre o peso de votos de cada estado; estados pouco apurados herdam o swing nacional. A faixa sombreada é um erro estimado (encolhe conforme a apuração avança) e a linha pontilhada é estimativa, não resultado. Seções apuradas cedo tendem a ser urbanas e do Sul/Sudeste, então parciais iniciais costumam favorecer Flávio; o modelo tenta corrigir isso, mas só o TSE dá o resultado. Fonte: resultados.tse.jus.br (atualiza a cada 30 s). Uso pessoal.',
+  tick1:'1º turno'},
+ en:{skip:'Skip to content',title:'Runoff count · Brazil President 2026',nav_ext:'overseas vote',loading:'loading…',official:'Official count (TSE) · valid votes',sections:'Precincts counted',voters_counted:'Voters counted',blank:'Blank',null:'Spoiled',abst:'Abstention',tse_time:'TSE time',
+  signal:'Signal (estimate, not a result)',waiting:'Waiting for the count',waiting_ds:'Polls close at 17:00 Brasília. The model compares each state with the 1st round.',swing_nat:'National swing vs 1st round',traj:'Count trajectory · Lula head-to-head (%)',
+  lg_partial:'partial count (Lula %)',lg_proj:'projected final (model)',lg_band:'estimated error band (95%)',lg_refs:'references: 50% · 1st round 48.99 · 2022 50.90',cmp:'Comparison · Lula head-to-head',r1_2026:'1st round 2026',r2_2022:'2022 runoff',now:'Now',partial:'partial',
+  diff_r1:'Difference vs 1st round',diff_22:'Difference vs 2022',diff_votes:'In votes (Lula − Flávio)',swing_h:'Swing by state vs 1st round (points, Lula head-to-head)',lg_lula_gain:'Lula gained',lg_flavio_gain:'Flávio gained',lg_light:'light bar = <25% counted',news:'Top 5 news · Axios format',by_state:'By state',
+  tbl_caption:'Results by state, compared with the 1st round and 2022. Headers sort the table.',th_counted:'Counted',th_r1:'1st round',th_est:'Est. final',
+  votes:'votes',updated:'updated',final:'FINAL COUNT',too_early:'Too early for a signal',too_early_ds:s=>`Only ${s.pct} of precincts (the first are from abroad and state capitals). Band ${s.lo} – ${s.hi}. Signal starts at 2% of precincts.`,
+  flip:'FLIP signal · Lula',flip_ds:s=>`Projection ${s.est} with the whole band above 50%. Swing ${s.sw} pts vs 1st round.`,hold:'Flávio keeps the lead',hold_ds:s=>`Lula projected at ${s.est}; whole band below 50%. Swing ${s.sw} pts vs 1st round.`,
+  lean_l:'Slight lean · Lula',lean_l_ds:s=>`Projection ${s.est} above 50%, but the band still crosses 50%. Swing ${s.sw} pts.`,lean_f:'Slight lean · Flávio',lean_f_ds:s=>`Lula projected at ${s.est} below 50%, band still crosses 50%. Swing ${s.sw} pts.`,
+  undecided:'Undecided',undecided_ds:'The error band crosses 50%. No clear sign of a flip or of a hold.',final_w:w=>`Final result: ${w}`,final_ds:s=>`Count closed by the TSE. Lula ${s.l} × Flávio ${s.f}.`,
+  rng:s=>`band ${s.lo} – ${s.hi} · Lula head-to-head, projected final`,abst_r1:'(1st round 21.08%)',why:'Why it matters',big:'The big picture',details:'Details',next:"What's next",no_brief:'no brief yet',
+  bar_label:s=>`Lula ${s.l} versus Flávio ${s.f} of valid votes. References: 1st round 48.99%, 2022 50.90%.`,
+  traj_desc:s=>`Line chart: Lula partial ${s.hh} with ${s.pct} of precincts; projected final ${s.est}, band ${s.lo} to ${s.hi}.`,swing_desc:s=>`Bar chart of swing by state. Largest Lula gain: ${s.top}. Largest Flávio gain: ${s.bot}.`,
+  foot:'<b>How to read.</b> "Head-to-head" = Lula votes ÷ (Lula + Flávio). In the 1st round that was 48.99% (Lula 45.16% × Flávio 47.03% of valid votes); in 2022, 50.90%. The <b>projection</b> applies, state by state, the swing observed against the 1st round to each state\'s vote weight; barely-counted states inherit the national swing. The shaded band is an estimated error (it shrinks as the count advances) and the dotted line is an estimate, not a result. Early precincts tend to be urban and from the South/Southeast, so early partials usually favour Flávio; the model tries to correct for that, but only the TSE gives the result. Source: resultados.tse.jus.br (updates every 30 s). Personal use.',
+  tick1:'1st round'}
+};
+let L='pt';try{L=localStorage.getItem('lang')||((navigator.language||'').startsWith('en')?'en':'pt');}catch(e){}
+const T=k=>I18N[L][k];
+const loc=()=>L==='en'?'en-CA':'pt-BR';
+const fmtN=n=>n==null?'—':n.toLocaleString(loc());
+const fmtP=(n,d=2)=>n==null?'—':n.toLocaleString(loc(),{minimumFractionDigits:d,maximumFractionDigits:d})+'%';
+const fmtD=(n,d=2)=>n==null?'—':(n>0?'+':'')+n.toLocaleString(loc(),{minimumFractionDigits:d,maximumFractionDigits:d});
 const UFN={ac:'Acre',al:'Alagoas',am:'Amazonas',ap:'Amapá',ba:'Bahia',ce:'Ceará',df:'Distrito Federal',es:'Espírito Santo',go:'Goiás',ma:'Maranhão',mg:'Minas Gerais',ms:'Mato Grosso do Sul',mt:'Mato Grosso',pa:'Pará',pb:'Paraíba',pe:'Pernambuco',pi:'Piauí',pr:'Paraná',rj:'Rio de Janeiro',rn:'Rio Grande do Norte',ro:'Rondônia',rr:'Roraima',rs:'Rio Grande do Sul',sc:'Santa Catarina',se:'Sergipe',sp:'São Paulo',to:'Tocantins',zz:'Exterior'};
-// theme
+if(L==='en')UFN.zz='Abroad';
+function applyLang(){document.documentElement.lang=L==='en'?'en-CA':'pt-BR';document.querySelectorAll('[data-i18n]').forEach(el=>{const v=T(el.dataset.i18n);if(typeof v==='string')el.innerHTML=v;});
+  $('#lang-pt').setAttribute('aria-pressed',L==='pt');$('#lang-en').setAttribute('aria-pressed',L==='en');$('#t1').dataset.l=T('tick1');$('#foot').innerHTML=T('foot');UFN.zz=L==='en'?'Abroad':'Exterior';
+  if(traj){traj.options.scales.x.title.text=L==='en'?'% of precincts counted':'% de seções apuradas';traj.update('none');}
+  if(latestD)render(latestD,seriesD);if(newsD)renderNews(newsD);}
+$('#lang-pt').onclick=()=>{L='pt';try{localStorage.setItem('lang','pt')}catch(e){};applyLang();};
+$('#lang-en').onclick=()=>{L='en';try{localStorage.setItem('lang','en')}catch(e){};applyLang();};
 const root=document.documentElement;
 try{const t=localStorage.getItem('theme');if(t)root.dataset.theme=t;}catch(e){}
-$('#theme').onclick=()=>{const dark=getComputedStyle(root).getPropertyValue('--bg').trim()==='#141413';root.dataset.theme=dark?'light':'dark';try{localStorage.setItem('theme',root.dataset.theme)}catch(e){};restyle();};
 const css=v=>getComputedStyle(root).getPropertyValue(v).trim();
+$('#theme').onclick=()=>{const dark=css('--bg')==='#131312';root.dataset.theme=dark?'light':'dark';try{localStorage.setItem('theme',root.dataset.theme)}catch(e){};restyle();};
 
-let traj,swing,sortK='weight',sortD=-1,lastUF={};
+let traj,swing,sortK='weight',sortD=-1,lastUF={},latestD=null,seriesD=[],newsD=null;
 function mkCharts(){
   if(!window.Chart){return;}
-  Chart.defaults.font.family=getComputedStyle(document.body).fontFamily;Chart.defaults.font.size=12;
+  Chart.defaults.font.family=getComputedStyle(document.body).fontFamily;Chart.defaults.font.size=13;
   traj=new Chart($('#traj'),{type:'line',data:{datasets:[
-    {label:'Parcial (Lula %)',data:[],borderColor:css('--lula'),borderWidth:2,pointRadius:0,pointHitRadius:12,tension:.15,parsing:{xAxisKey:'x',yAxisKey:'y'}},
-    {label:'Projeção final',data:[],borderColor:css('--ink'),borderDash:[3,4],borderWidth:2,pointRadius:0,pointHitRadius:12,tension:.15},
-    {label:'faixa sup.',data:[],borderWidth:0,pointRadius:0,backgroundColor:css('--band'),fill:'+1',tension:.15},
-    {label:'faixa inf.',data:[],borderWidth:0,pointRadius:0,tension:.15},
+    {label:'Lula %',data:[],borderColor:css('--lula'),borderWidth:2.5,pointRadius:0,pointHitRadius:14,tension:.15},
+    {label:'proj',data:[],borderColor:css('--ink'),borderDash:[3,4],borderWidth:2,pointRadius:0,pointHitRadius:14,tension:.15},
+    {label:'hi',data:[],borderWidth:0,pointRadius:0,backgroundColor:css('--band'),fill:'+1',tension:.15},
+    {label:'lo',data:[],borderWidth:0,pointRadius:0,tension:.15},
     {label:'50%',data:[{x:0,y:50},{x:100,y:50}],borderColor:css('--muted'),borderDash:[6,4],borderWidth:1,pointRadius:0},
-    {label:'1º turno 48,99',data:[{x:0,y:48.99},{x:100,y:48.99}],borderColor:css('--lula'),borderDash:[2,4],borderWidth:1,pointRadius:0},
-    {label:'2022 50,90',data:[{x:0,y:50.9},{x:100,y:50.9}],borderColor:css('--lula'),borderDash:[2,4],borderWidth:1,pointRadius:0},
+    {label:'r1',data:[{x:0,y:48.99},{x:100,y:48.99}],borderColor:css('--lula'),borderDash:[2,4],borderWidth:1,pointRadius:0},
+    {label:'2022',data:[{x:0,y:50.9},{x:100,y:50.9}],borderColor:css('--lula'),borderDash:[2,4],borderWidth:1,pointRadius:0},
   ]},options:{animation:false,maintainAspectRatio:false,interaction:{mode:'nearest',axis:'x',intersect:false},
-    scales:{x:{type:'linear',min:0,max:100,title:{display:true,text:'% de seções apuradas'},grid:{color:css('--grid')},ticks:{color:css('--muted'),callback:v=>v+'%'}},
-            y:{min:40,max:60,grid:{color:css('--grid')},ticks:{color:css('--muted'),callback:v=>v+'%'}}},
-    plugins:{legend:{display:false},tooltip:{filter:i=>i.datasetIndex<4,callbacks:{title:it=>it.length?`${it[0].parsed.x.toFixed(2)}% apurado · ${it[0].raw.t||''}`:'',label:i=>`${i.dataset.label}: ${i.parsed.y.toFixed(2)}%`}}}}});
-  swing=new Chart($('#swing'),{type:'bar',data:{labels:[],datasets:[{data:[],backgroundColor:[],borderRadius:4,borderSkipped:false,barThickness:9}]},
-    options:{animation:false,indexAxis:'y',maintainAspectRatio:false,scales:{x:{grid:{color:css('--grid')},ticks:{color:css('--muted'),callback:v=>fmtD(v,1)+' pp'}},y:{grid:{display:false},ticks:{color:css('--ink2'),font:{size:11}}}},
-    plugins:{legend:{display:false},tooltip:{callbacks:{label:i=>{const r=lastUF[i.label];return r?[`swing vs 1ºT: ${fmtD(r.d1)} pp`,`vs 2022: ${fmtD(r.d22)} pp`,`apurado: ${(r.f*100).toFixed(1)}%`,`Lula ${fmtP(r.share_now)} (1ºT ${fmtP(r.share_r1)})`]:''}}}}}});
+    scales:{x:{type:'linear',min:0,max:100,title:{display:true,text:'% de seções apuradas',color:css('--ink2')},grid:{color:css('--grid')},ticks:{color:css('--ink2'),callback:v=>v+'%'}},
+            y:{min:40,max:60,grid:{color:css('--grid')},ticks:{color:css('--ink2'),callback:v=>v+'%'}}},
+    plugins:{legend:{display:false},tooltip:{filter:i=>i.datasetIndex<4,callbacks:{title:it=>it.length?`${it[0].parsed.x.toFixed(2)}% · ${it[0].raw.t||''}`:'',label:i=>`${[T('lg_partial'),T('lg_proj'),'max','min'][i.datasetIndex]}: ${i.parsed.y.toFixed(2)}%`}}}}});
+  swing=new Chart($('#swing'),{type:'bar',data:{labels:[],datasets:[{data:[],backgroundColor:[],borderRadius:4,borderSkipped:false,barThickness:10}]},
+    options:{animation:false,indexAxis:'y',maintainAspectRatio:false,scales:{x:{grid:{color:css('--grid')},ticks:{color:css('--ink2'),callback:v=>fmtD(v,1)+' pp'}},y:{grid:{display:false},ticks:{color:css('--ink2'),font:{size:12}}}},
+    plugins:{legend:{display:false},tooltip:{callbacks:{label:i=>{const r=lastUF[i.label];return r?[`${T('diff_r1')}: ${fmtD(r.d1)} pp`,`vs 2022: ${fmtD(r.d22)} pp`,`${T('th_counted')}: ${(r.f*100).toFixed(1)}%`,`Lula ${fmtP(r.share_now)} (${T('th_r1')} ${fmtP(r.share_r1)})`]:''}}}}}});
 }
-function restyle(){if(!traj)return;[traj,swing].forEach(c=>{c.options.scales.x.grid.color=css('--grid');c.options.scales.y.grid.color=css('--grid');c.update('none')});traj.data.datasets[1].borderColor=css('--ink');traj.data.datasets[2].backgroundColor=css('--band');traj.update('none');}
+function restyle(){if(!traj)return;[traj,swing].forEach(c=>{c.options.scales.x.grid.color=css('--grid');c.options.scales.y.grid.color=css('--grid');c.options.scales.x.ticks.color=css('--ink2');c.options.scales.y.ticks.color=css('--ink2');});traj.data.datasets[1].borderColor=css('--ink');traj.data.datasets[2].backgroundColor=css('--band');traj.data.datasets[0].borderColor=css('--lula');traj.update('none');if(latestD)render(latestD,seriesD);}
 
 function render(d,series){
   const ok=!d.errors||Object.keys(d.errors).length===0;
-  $('#status').innerHTML=`<span class="dot ${ok?'':'off'}"></span>atualizado ${d.t} · TSE ${d.tse_time}${d.final?' · <b>TOTALIZAÇÃO FINAL</b>':''}`;
+  $('#status').innerHTML=`<span class="dot ${ok?'':'off'}" aria-hidden="true"></span>${T('updated')} ${d.t} · TSE ${d.tse_time}${d.final?' · <b>'+T('final')+'</b>':''}`;
   $('#lp').textContent=fmtP(d.lula_pct);$('#fp').textContent=fmtP(d.flavio_pct);
-  $('#lv').textContent=fmtN(d.lula)+' votos';$('#fv').textContent=fmtN(d.flavio)+' votos';
+  $('#lv').textContent=fmtN(d.lula)+' '+T('votes');$('#fv').textContent=fmtN(d.flavio)+' '+T('votes');
   const hh=d.lula_hh;
   if(hh!=null){$('#barl').style.width=hh+'%';$('#barf').style.width=(100-hh)+'%';}
+  $('#barimg').setAttribute('aria-label',T('bar_label')({l:fmtP(d.lula_pct),f:fmtP(d.flavio_pct)}));
   $('#sec').textContent=`${fmtN(d.sections_counted)} / ${fmtN(d.sections_total)} (${fmtP(d.pct_sections)})`;
   $('#ele').textContent=d.electorate?fmtP(100*(d.total+d.abst)/d.electorate):'—';
-  $('#bl').textContent=d.valid?fmtP(100*d.blank/d.total):'—';$('#nu').textContent=d.valid?fmtP(100*d.null/d.total):'—';
-  $('#ab').textContent=(d.total+d.abst)>0?fmtP(100*d.abst/(d.total+d.abst))+' (1ºT 21,08%)':'—';
+  $('#bl').textContent=d.total?fmtP(100*d.blank/d.total):'—';$('#nu').textContent=d.total?fmtP(100*d.null/d.total):'—';
+  $('#ab').textContent=(d.total+d.abst)>0?fmtP(100*d.abst/(d.total+d.abst))+' '+T('abst_r1'):'—';
   $('#tse').textContent=d.tse_time;
-  const p=d.proj;$('#est').textContent=fmtP(p.lula_share_est);$('#rng').textContent=`faixa ${fmtP(p.lo95)} – ${fmtP(p.hi95)} · Lula cabeça-a-cabeça, projeção final`;
+  const p=d.proj;$('#est').textContent=fmtP(p.lula_share_est);$('#rng').textContent=T('rng')({lo:fmtP(p.lo95),hi:fmtP(p.hi95)});
   $('#sw').textContent=fmtD(p.swing_nat)+' pp';
-  const sig=$('#sig');let cls='tie',ic='⚖️',tt='Indefinido',ds='Faixa de erro cruza os 50%. Sem sinal claro de virada nem de manutenção.';
-  if(d.sections_counted===0){ic='⏳';tt='Aguardando apuração';ds='Urnas fecham às 17h (Brasília).';}
-  else if(p.too_early){ic='⏳';tt='Cedo demais para sinal';ds=`Só ${fmtP(d.pct_sections)} das seções (as primeiras são do exterior e de capitais). Faixa ${fmtP(p.lo95)} – ${fmtP(p.hi95)}. Sinal a partir de 2% das seções.`;}
-  else if(p.lo95>50){cls='lula';ic='🔄';tt='Sinal de VIRADA · Lula';ds=`Projeção ${fmtP(p.lula_share_est)} com faixa inteira acima de 50%. Swing ${fmtD(p.swing_nat)} pp vs 1º turno.`;}
-  else if(p.hi95<50){cls='flavio';ic='📈';tt='Flávio mantém vantagem';ds=`Projeção Lula ${fmtP(p.lula_share_est)}; faixa inteira abaixo de 50%. Swing ${fmtD(p.swing_nat)} pp vs 1º turno.`;}
-  else if(p.lula_share_est>50){ic='🟥';tt='Leve tendência · Lula';ds=`Projeção ${fmtP(p.lula_share_est)} acima de 50%, mas faixa ainda cruza 50%. Swing ${fmtD(p.swing_nat)} pp.`;}
-  else if(d.sections_counted>0){ic='🟦';tt='Leve tendência · Flávio';ds=`Projeção Lula ${fmtP(p.lula_share_est)} abaixo de 50%, faixa ainda cruza 50%. Swing ${fmtD(p.swing_nat)} pp.`;}
-  if(d.final){const w=hh>50?'Lula':'Flávio';cls=hh>50?'lula':'flavio';ic='✅';tt=`Resultado final: ${w}`;ds=`Totalização encerrada pelo TSE. Lula ${fmtP(d.lula_pct)} × Flávio ${fmtP(d.flavio_pct)}.`;}
-  sig.className='signal '+cls;sig.innerHTML=`<div class="ic">${ic}</div><div><div class="tt">${tt}</div><div class="ds">${ds}</div></div>`;
-  $('#cmpnow').innerHTML=`${fmtP(hh)}<br><small id="cmpnow2">L ${fmtP(d.lula_pct)} · F ${fmtP(d.flavio_pct)}</small>`;
+  const sig=$('#sig');let cls='tie',ic='⚖️',tt=T('undecided'),ds=T('undecided_ds');const S={est:fmtP(p.lula_share_est),sw:fmtD(p.swing_nat),lo:fmtP(p.lo95),hi:fmtP(p.hi95),pct:fmtP(d.pct_sections)};
+  if(d.sections_counted===0){ic='⏳';tt=T('waiting');ds=T('waiting_ds');}
+  else if(p.too_early){ic='⏳';tt=T('too_early');ds=T('too_early_ds')(S);}
+  else if(p.lo95>50){cls='lula';ic='🔄';tt=T('flip');ds=T('flip_ds')(S);}
+  else if(p.hi95<50){cls='flavio';ic='📈';tt=T('hold');ds=T('hold_ds')(S);}
+  else if(p.lula_share_est>50){ic='🟥';tt=T('lean_l');ds=T('lean_l_ds')(S);}
+  else {ic='🟦';tt=T('lean_f');ds=T('lean_f_ds')(S);}
+  if(d.final){const w=hh>50?'Lula':'Flávio';cls=hh>50?'lula':'flavio';ic='✅';tt=T('final_w')(w);ds=T('final_ds')({l:fmtP(d.lula_pct),f:fmtP(d.flavio_pct)});}
+  sig.className='signal '+cls;sig.innerHTML=`<div class="ic" aria-hidden="true">${ic}</div><div><div class="tt">${tt}</div><div class="ds">${ds}</div></div>`;
+  $('#cmpnow').innerHTML=`${fmtP(hh)}<br><small>L ${fmtP(d.lula_pct)} · F ${fmtP(d.flavio_pct)}</small>`;
   $('#d1').textContent=hh==null?'—':fmtD(hh-48.99)+' pp';$('#d22').textContent=hh==null?'—':fmtD(hh-50.9)+' pp';
   $('#dv').textContent=hh==null?'—':(d.lula-d.flavio>0?'+':'')+fmtN(d.lula-d.flavio);
-  // trajectory
   if(traj){const s=series.filter(q=>q.hh!=null);
     traj.data.datasets[0].data=s.map(q=>({x:q.ps,y:q.hh,t:q.t}));traj.data.datasets[1].data=s.map(q=>({x:q.ps,y:q.est,t:q.t}));
     traj.data.datasets[2].data=s.map(q=>({x:q.ps,y:q.hi,t:q.t}));traj.data.datasets[3].data=s.map(q=>({x:q.ps,y:q.lo,t:q.t}));
     const ys=s.flatMap(q=>[q.hh,q.lo,q.hi]).concat([48,52]);traj.options.scales.y.min=Math.floor(Math.min(...ys)-1);traj.options.scales.y.max=Math.ceil(Math.max(...ys)+1);traj.update('none');}
-  // UF rows
+  $('#traj-desc').textContent=T('traj_desc')({hh:fmtP(hh),pct:fmtP(d.pct_sections),est:S.est,lo:S.lo,hi:S.hi});
   const rows=Object.entries(d.proj_by_uf).map(([uf,r])=>({uf,name:UFN[uf]||uf,...r,d1:r.share_now==null?null:r.share_now-r.share_r1,d22:(r.share_now==null||r.share_2022==null)?null:r.share_now-r.share_2022}));
   lastUF={};rows.forEach(r=>lastUF[r.name]=r);
-  if(swing){const sr=rows.filter(r=>r.d1!=null).sort((a,b)=>b.d1-a.d1);swing.data.labels=sr.map(r=>r.name);swing.data.datasets[0].data=sr.map(r=>r.d1);
+  const sr=rows.filter(r=>r.d1!=null).sort((a,b)=>b.d1-a.d1);
+  if(swing){swing.data.labels=sr.map(r=>r.name);swing.data.datasets[0].data=sr.map(r=>r.d1);
     swing.data.datasets[0].backgroundColor=sr.map(r=>{const c=r.d1>=0?css('--lula'):css('--flavio');return r.f<.25?c+'66':c});swing.update('none');}
+  $('#swing-desc').textContent=sr.length?T('swing_desc')({top:`${sr[0].name} ${fmtD(sr[0].d1,1)}`,bot:`${sr[sr.length-1].name} ${fmtD(sr[sr.length-1].d1,1)}`}):'';
   const tb=$('#tbl tbody');const srt=rows.slice().sort((a,b)=>{const x=a[sortK],y=b[sortK];if(x==null)return 1;if(y==null)return -1;return (x>y?1:x<y?-1:0)*sortD});
-  tb.innerHTML=srt.map(r=>`<tr><td>${r.name}</td><td class="mono">${(r.f*100).toFixed(1)}%</td><td class="mono">${fmtN(r.lula)}</td><td class="mono">${fmtN(r.flavio)}</td><td class="mono">${fmtP(r.share_now)}</td><td class="mono">${fmtP(r.share_r1)}</td><td class="mono ${r.d1>0?'pos':r.d1<0?'neg':''}">${fmtD(r.d1)}</td><td class="mono">${fmtP(r.share_2022)}</td><td class="mono ${r.d22>0?'pos':r.d22<0?'neg':''}">${fmtD(r.d22)}</td><td class="mono">${fmtP(r.est)} ±${r.sigma.toFixed(1)}</td></tr>`).join('');
+  tb.innerHTML=srt.map(r=>`<tr><th scope="row" style="text-align:left;position:static;text-transform:none;letter-spacing:0;font-size:14px;color:var(--ink)">${r.name}</th><td class="mono">${(r.f*100).toFixed(1)}%</td><td class="mono">${fmtN(r.lula)}</td><td class="mono">${fmtN(r.flavio)}</td><td class="mono">${fmtP(r.share_now)}</td><td class="mono">${fmtP(r.share_r1)}</td><td class="mono ${r.d1>0?'pos':r.d1<0?'neg':''}">${fmtD(r.d1)}</td><td class="mono">${fmtP(r.share_2022)}</td><td class="mono ${r.d22>0?'pos':r.d22<0?'neg':''}">${fmtD(r.d22)}</td><td class="mono">${fmtP(r.est)} ±${r.sigma.toFixed(1)}</td></tr>`).join('');
 }
-document.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(sortK===k)sortD*=-1;else{sortK=k;sortD=-1;}refresh();});
+document.querySelectorAll('th button[data-k]').forEach(b=>b.onclick=()=>{const k=b.dataset.k;if(sortK===k)sortD*=-1;else{sortK=k;sortD=-1;}if(latestD)render(latestD,seriesD);});
 
-function renderNews(n){
+function renderNews(n){newsD=n;
   $('#newsupd').textContent=n.updated?' · '+n.updated.slice(11,16):'';
-  const b=n.brief;
+  const b=(L==='en'&&n.brief_en)?n.brief_en:n.brief;
   if(b){$('#brief').innerHTML=`<h3>${b.headline||''}</h3>
-    <div class="lbl">Por que importa</div><div>${b.why_it_matters||''}</div>
-    <div class="lbl">Visão geral</div><div>${b.big_picture||''}</div>
-    <div class="lbl">Detalhes</div><ul>${(b.details||[]).map(x=>`<li>${x}</li>`).join('')}</ul>
-    <div class="lbl">O que vem a seguir</div><div>${b.whats_next||''}</div>`;}
-  else $('#brief').innerHTML=`<span class="err">${n.error||'sem briefing ainda'}</span>`;
+    <div class="lbl">${T('why')}</div><div>${b.why_it_matters||''}</div>
+    <div class="lbl">${T('big')}</div><div>${b.big_picture||''}</div>
+    <div class="lbl">${T('details')}</div><ul>${(b.details||[]).map(x=>`<li>${x}</li>`).join('')}</ul>
+    <div class="lbl">${T('next')}</div><div>${b.whats_next||''}</div>`;}
+  else $('#brief').innerHTML=`<span class="err">${n.error||T('no_brief')}</span>`;
   $('#links').innerHTML=(n.items||[]).map(i=>`<a href="${i.link}" target="_blank" rel="noopener">${i.title}<br><small>${i.source} · ${i.published.slice(11,16)} UTC</small></a>`).join('');
 }
-let latestD=null,seriesD=[];
 async function refresh(){
   try{const [a,b]=await Promise.all([fetch('data/latest.json?'+Date.now()).then(r=>r.json()),fetch('data/series.json?'+Date.now()).then(r=>r.json())]);latestD=a;seriesD=b;render(a,b);}
-  catch(e){$('#status').innerHTML=`<span class="dot off"></span>erro ao carregar: ${e.message}`;}
+  catch(e){$('#status').innerHTML=`<span class="dot off" aria-hidden="true"></span>${L==='en'?'load error':'erro ao carregar'}: ${e.message}`;}
 }
 async function refreshNews(){try{renderNews(await fetch('data/news.json?'+Date.now()).then(r=>r.json()));}catch(e){}}
-mkCharts();refresh();refreshNews();setInterval(refresh,30000);setInterval(refreshNews,120000);
+mkCharts();applyLang();refresh();refreshNews();setInterval(refresh,30000);setInterval(refreshNews,120000);
 </script>
 </body>
 </html>
