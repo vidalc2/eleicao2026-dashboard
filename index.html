@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'sha256-Rj9huOYSZ7XJ3VBZvnEmNQLnF0SHC3ycHwzaGjwHffk=' 'sha256-OAvma2DkMJw3DHXZWCSTVi1+pXEIgouKSwy80QS6UeA=' https://cdnjs.cloudflare.com; style-src 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://gamma-api.polymarket.com https://data-api.polymarket.com https://clawdio-server.tailb53fdb.ts.net:10000; frame-src https://embed.polymarket.com; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'; frame-ancestors 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'sha256-0JeR7bjksvwn/TLe7eMSScZ3jjzvTtYkeMAhLgH+tXg=' 'sha256-OAvma2DkMJw3DHXZWCSTVi1+pXEIgouKSwy80QS6UeA=' https://cdnjs.cloudflare.com; style-src 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://gamma-api.polymarket.com https://data-api.polymarket.com https://clawdio-server.tailb53fdb.ts.net:10000; frame-src https://embed.polymarket.com; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'; frame-ancestors 'none'">
 <meta name="theme-color" content="#f4f3ef" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#131312" media="(prefers-color-scheme: dark)">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='7' y='27' width='50' height='31' rx='6' fill='%231b1b1a'/%3E%3Cpath d='M17 33h30' stroke='%23fff' stroke-width='4'/%3E%3Cpath d='M20 6h24v27H20z' fill='%23fff' stroke='%231b1b1a' stroke-width='3'/%3E%3Cpath d='m25 19 5 5 10-11' fill='none' stroke='%231f7a43' stroke-width='4'/%3E%3C/svg%3E">
@@ -458,7 +458,7 @@ function render(d,series){
   else if(p.hi95<50){cls='flavio';ic='↘';tt=T('hold');ds=T('hold_ds')(S);}
   else if(p.lula_share_est>50){ic='↗';tt=T('lean_l');ds=T('lean_l_ds')(S);}
   else {ic='↘';tt=T('lean_f');ds=T('lean_f_ds')(S);}
-  if(p.p_lula!=null&&!p.too_early&&d.sections_counted>0){const pl=p.p_lula,pf=1-pl;S.pl=fmtP(100*pl,pl>=0.995?1:0);S.pf=fmtP(100*pf,pf>=0.995?1:0);S.mce=fmtP(p.mc_est);S.mlo=fmtP(p.mc_lo95);S.mhi=fmtP(p.mc_hi95);S.be=fmtD(p.break_even_swing,1);S.us=fmtD(p.uniform_swing,1);
+  if(p.p_lula!=null&&!p.too_early&&d.sections_counted>0){const pl=p.p_lula,pf=1-pl;S.pl=pl>=0.99?'>99%':(pl<0.01?'<1%':fmtP(100*pl,0));S.pf=pf>=0.99?'>99%':(pf<0.01?'<1%':fmtP(100*pf,0));S.mce=fmtP(p.mc_est);S.mlo=fmtP(p.mc_lo95);S.mhi=fmtP(p.mc_hi95);S.be=fmtD(p.break_even_swing,1);S.us=fmtD(p.uniform_swing,1);
     if(pl>=0.97){cls='lula';ic='✅';tt=T('win_vl')('Lula',S.pl);ds=T('win_ds')({...S,who:'Lula',p:S.pl});}
     else if(pl>=0.85){cls='lula';ic='↗';tt=T('fav')('Lula',S.pl);ds=T('win_ds')({...S,who:'Lula',p:S.pl});}
     else if(pf>=0.97){cls='flavio';ic='✅';tt=T('win_vl')('Flávio',S.pf);ds=T('win_ds')({...S,who:'Flávio',p:S.pf});}
