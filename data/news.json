@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-25T18:06:59.281861-03:00",
+ "updated": "2026-10-25T18:09:01.825840-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Apuração dos votos: urnas fechadas não podem ser reabertas - G1",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/apuracao-dos-votos-urnas-fechadas-nao-podem-ser-reabertas.ghtml",
+   "source": "G1",
+   "published": "2026-10-25T20:48:02+00:00",
+   "desc": " Apuração dos votos: urnas fechadas não podem ser reabertas    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU3FTWXNfUXc0QkVjZThyWDFZeGY4TmhLTE9pLVdTSnFtSjNnMlpUQlRsTG1tUUx2UmpjUFZidFREUHVpaFE3M1N0d0RVODk0U0dIcU9VUllUUFdFMy1uck5LekYzUElnb2x6dVF0YXl4UjBpdThqeGRScndfVEV5MkdvRFlnal9jZk9aSmQwREk2dUJLOW5vRG5waGlMMURxOVdfRHhNMXlDOGwzRjEyVjJJVFByRUN6X0FoSFpVU2NFT2tJ0gHTAUFVX3lxTE9BX3J2QVlGdUJoUjEzT3M2LXlLUDhCcEl0dkJaeGlJMXk0VUM1MlVyazN2ZVF0SmRtZ2hJam9CNk5JLS1mVloxU2JUUXR2cDhuRzcwa0VmQ2llTTdTMjFhWnRvdkVMNFo3bUd6QUNSa19PR0R1NjR6a3JZd3A1UUFnVEF6SVRTTTlEdG9HQmhXQ1NPNkliMmRrNHdLSlJhS29iVzJ4YS1MbXpmZmlXczRHXzBvZGRyWDE2dEJXTDB5Yks0Qko5SG83NkY2QlhJTUFCV2M?oc=5"
+  },
   {
    "title": "Prorrogação do horário de votação em todo o país é decisão inédita desde adoção da urna eletrônica - Folha de S.Paulo",
    "link": "https://www1.folha.uol.com.br/poder/2026/10/prorrogacao-do-horario-de-votacao-em-todo-o-pais-e-decisao-inedita-desde-adocao-da-urna-eletronica.shtml",
@@ -33,39 +41,31 @@
    "published": "2026-10-25T21:01:08+00:00",
    "desc": " Eleições 2026 | Zanin prorroga horário das eleições do segundo turno    Senado ",
    "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcHd3YzdOZko5SWN3X2JfcHR3Ymt5eEozcUJwYTl0RnJjcXVPVTlwbGhzWGVjaVQwcGVxS3FxcG9xOTNoYkdtSlpnTDFSa1JpWnNHUF9NRXFndjN0Ty1PZ0FOVUZvY3p3RFVhZEstNjlad2h2ZUlRekdINXZOX3p1U2xVNGxsU0x2b3laa0wtV3B2N0dYdVVPelZIdjA1MU9sSkxHZkMyNVFhYkJwVFVGRkNhVFgyOVhpYVZhR1g5ZV9lRVl3NEVr?oc=5"
-  },
-  {
-   "title": "Quem está na frente nas eleições 2026? As últimas pesquisas de Flávio Bolsonaro x Lula - O GLOBO",
-   "link": "https://oglobo.globo.com/blogs/pulso/noticia/2026/10/25/quem-esta-na-frente-nas-eleicoes-2026-as-ultimas-pesquisas-de-flavio-bolsonaro-x-lula.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-25T20:31:02+00:00",
-   "desc": " Quem está na frente nas eleições 2026? As últimas pesquisas de Flávio Bolsonaro x Lula    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1BDOC00OG9jVHAwNHExZHI2amJfSll3QTdGQjZmRUluaV9VYzlKUVJSWG9Rb2l6cXJKTDg2dG5wTC1PcTRWVnRvV2JJTmp0dnNCYzVQWHoteVVzS3pILUE1M0lqQ2Mwc05yTmNQdm9ZZGNFSHdETklZeUxTY0hwUFdEUmJQSXhpUDRndi1PcDR2d0FLWHp0bzF3WGR6Ymo2TTZxMW55SFF5WkhkVVRibUMxc1VGUmI2OWpRSVNZWEZvTU9BR3VkWk9pX0xMYnQtbTl1N1dwSEJYZzFJVjd0Z9IB7wFBVV95cUxQV0JxOVpyZXJaMEVnTm9HVjBJSkZzam96QTlWeXVjZUFVRVdPZXM2cWRBdFpfX1hrRW9RaC00bER5R2FITThLQUxoU05EM0t4TmhaclEyck4wT3NOTGxtTjRxd0Q1Y1lsZThPakFkUkoxb3BTT2cwNUtGNVpJX3Q0NXhnWEZ0eGNHblhDeUFiSjlvMzVjQzR0TzFGcEF6ZVVXV0RyM1Q5MXdIN2dBMGYzTXlqSk50RURVOEMwSWtaSTgyOHlpODJGSGp3cEd4dnVid3FON3huMlhfZEFZSEZ3Y3lFRDJYWVp6cFBaS1AyQQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Horário de votação é prorrogado em todo o Brasil, primeira vez desde a urna eletrônica",
-  "why_it_matters": "A extensão inesperada pode mudar o ritmo da disputa e já gerou confusão nas seções que já haviam encerrado a votação",
-  "big_picture": "A medida reflete a pressão sobre o TSE em um pleito polarizado entre Lula e Flávio Bolsonaro, enquanto as pesquisas ainda não definem um favorito claro",
+  "headline": "Horário de votação do 2º turno é prorrogado e gera confusão sobre urnas fechadas",
+  "why_it_matters": "A extensão inédita do horário pode impactar a credibilidade do pleito e abrir espaço para contestações jurídicas.",
+  "big_picture": "É a primeira vez desde a adoção da urna eletrônica que o Tribunal Superior Eleitoral altera o prazo de votação, criando precedentes para futuras eleições.",
   "details": [
-   "TSE, liderado por Alexandre Zanin, anunciou a prorrogação do segundo turno em todo o país",
-   "A mudança provocou caos nas urnas já lacradas e nas seções que já haviam sido apuradas",
-   "Ramagem, em Miami, afirmou que pretende voltar ao Brasil com vitória de Flávio Bolsonaro",
-   "As últimas pesquisas divulgadas não apontam um líder definitivo entre Lula e Flávio"
+   "O presidente do TSE, Alexandre Zanin, autorizou a prorrogação do horário em todo o país (Folha, Senado).",
+   "A mudança provocou dúvidas: urnas já declaradas fechadas não podem ser reabertas, segundo decisão do G1.",
+   "A prorrogação causou confusão nas seções já apuradas, com relatos de eleitores e mesários incertos sobre a validade dos votos já computados (Folha).",
+   "Em entrevista em Miami, o vice‑presidente da chapa de Flávio Bolsonaro, Ramagem, afirmou que pretende voltar ao Brasil com vitória da aliança (Folha)."
   ],
-  "whats_next": "A apuração oficial deve começar na madrugada de 26/10, após o término da votação prorrogada"
+  "whats_next": "O TSE deve concluir a apuração e, se houver contestação, levar o caso aos tribunais superiores."
  },
  "brief_en": {
-  "headline": "Voting time extended nationwide, first time since electronic ballots",
-  "why_it_matters": "The surprise extension could shift the race’s tempo and has already confused precincts that had closed",
-  "big_picture": "The move shows pressure on the TSE in a polarized contest between Lula and Flávio Bolsonaro, with polls still without a clear favourite",
+  "headline": "Second‑round voting time extended, sparking confusion over closed ballot boxes",
+  "why_it_matters": "The unprecedented extension could dent election credibility and invite legal challenges.",
+  "big_picture": "It's the first time the Superior Electoral Court has altered voting hours since electronic voting began, setting a precedent for future polls.",
   "details": [
-   "TSE, led by Alexandre Zanin, announced the second‑round extension nationwide",
-   "The change sparked chaos at sealed ballot boxes and in precincts already tallied",
-   "Ramagem, speaking from Miami, said he’ll return to Brazil if Flávio Bolsonaro wins",
-   "The latest polls still show no definitive leader between Lula and Flávio"
+   "TSE chief Alexandre Zanin approved the extension nationwide (Folha, Senate).",
+   "The move raised questions: closed ballot boxes can’t be reopened, per G1.",
+   "The extension sowed confusion in already‑counted precincts, with voters and poll workers unsure if earlier votes remain valid (Folha).",
+   "In a Miami interview, Flávio Bolsonaro’s running‑mate Ramagem said he’ll return to Brazil with the alliance’s win (Folha)."
   ],
-  "whats_next": "Official results are set to start in the early hours of 10/26, after the extended voting ends"
+  "whats_next": "TSE will finish the count and, if challenged, take the case to higher courts."
  },
  "error": null
 }
