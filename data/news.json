@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-25T19:13:20.283372-03:00",
+ "updated": "2026-10-25T19:15:24.038291-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Falta de ônibus na eleição: o que se sabe sobre as denúncias de falta de transporte para votar pelo Brasil - BBC",
+   "link": "https://www.bbc.com/portuguese/articles/cm93z1wyl706o",
+   "source": "BBC",
+   "published": "2026-10-25T22:07:30+00:00",
+   "desc": " Falta de ônibus na eleição: o que se sabe sobre as denúncias de falta de transporte para votar pelo Brasil    BBC ",
+   "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91UWcycHV6Z0lxVHd2U1dUWGZCTHg4V1JXSUtIdEV6S3g3TlVfX2F6a3Vjd3laWnhCbVRaTEZ6V0lRelphcFZNZ3NoamFfTjFHeFRwcWhjd21UbHVtMXFGMjZHd9IBaEFVX3lxTE5JUkk4TnFZUWNGNTJiXzdzVXQwaUExckowNGdlRUUzUk5nUFM3UE9KSEg0TVBVTzR6WkNubnVPWDEwTkplVXhRdmVWNVllXzFqdm9XWENhTGMzWVQxTlByOGNmT293MGo3?oc=5"
+  },
   {
    "title": "Como está apuração dos votos? Veja resultados do segundo turno de Lula x Flávio - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/como-esta-apuracao-dos-votos-veja-resultados-do-segundo-turno-de-lula-x-flavio.ghtm",
@@ -33,37 +41,31 @@
    "published": "2026-10-25T21:53:49+00:00",
    "desc": " Apuração ao vivo: resultados do 2º turno das eleições presidenciais de 2026    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZE9IYl9UT0FqdXk2MEhZVWVyaE9FTEhKdTBYZXlOOXFXZnRGLThsajVlRFlubE5BdWVYcFk1VDZ4ZmJLcU1KaDBvV3NwRFhIcXRpWDQwQzVqWEpKMGxvamJOV1BBeTRidjRnSHQ2bk9MWXZhTFB0UXZaa1JvS1NfN3RzWXpKdkZJQWJtZXRveWtUazZFdXZ2Nzd0bVdieVM1ZFlOWVhseFQ4RDNaZmJxX0dESEYxbUxoMEY5aGxEUV9pWWJNMi1XbUg2RWh1M1FIYmdrbVA1OHdMSDdGY2dVT9IB7wFBVV95cUxNLUFEY1A5XzhkaEZyV0FzT3dSOEt2NGZxY1lzaDEwU3IyVzFJckRUbm1tbzBLOVdHY2tvUEo1NUtJREpIOVFoNXVRQS15bGN0eTk0VE9zVk12VHc3TlZYUGdhNEtPSUNKTG15OV9na0lFVW10Q3lzc2xwTTE0Y0FUZThLVU8wOVhDQ041TkZMZkRKLTRoWTVjbE80MDhJaWlURlVuVDhrUWpaOUtYZEpnRnJwZmZ6TDRrcG0ybl9HcE5MUUhxQWRicHo5N2RRVWc0eTg5dEZtTTlxUGp6U0c1Sk5UOTFUeW1hTUhoTTJkbw?oc=5"
-  },
-  {
-   "title": "TSE diz que contagem dos votos será retomada às 19h - Agência Brasil",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-diz-que-contagem-dos-votos-sera-retomada-19h",
-   "source": "Agência Brasil",
-   "published": "2026-10-25T21:48:00+00:00",
-   "desc": " TSE diz que contagem dos votos será retomada às 19h    Agência Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjNqT2FmR2VIdDJ3T0F3Y1c2OXd2NmRsd0FaRktvZ3MyejNaczlGam5aMTJwdmN4UllRSm1VR1hzVzhyODVkcTQ4c013YjhkUkR0YndPN1J6V0RMN3pLWnpzOUk4UnlrTHFreGZOYjlUSmlVV1ZDSVFyVlQyTHI5dUEwR2tYY3d6Y3oydHZySXdBcTBBelBsOWZFR0pHaHhENlJLc0pTVkFmQQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Apuração dos votos do 2º turno Lula x Flávio ainda sem números, mas TSE retoma contagem às 19h",
-  "why_it_matters": "O resultado definirá quem comandará o Brasil nos próximos quatro anos, em um pleito marcado por forte polarização.",
-  "big_picture": "A disputa entre o ex‑presidente Lula e Flávio Bolsonaro representa o embate entre esquerda e direita, com repercussões nas políticas internas e externas do país.",
+  "headline": "Eleição 2026: apuração ao vivo começa enquanto denúncias de falta de ônibus atrapalham o voto",
+  "why_it_matters": "A contagem dos votos determinará se Lula ou Flávio Bolsonaro assumirá a presidência, e a logística de transporte pode influenciar a participação dos eleitores",
+  "big_picture": "O segundo turno reflete a polarização do país e a capacidade das instituições de garantir um pleito livre e acessível",
   "details": [
-   "TSE anunciou que a contagem dos votos será retomada às 19h (Agência Brasil).",
-   "Portais como UOL e O Globo mantêm páginas de apuração ao vivo, mas ainda não divulgam números.",
-   "A expectativa é de que a apuração avance rapidamente após a retomada, seguindo o histórico de contagens anteriores."
+   "Denúncias de falta de ônibus em várias regiões levantam preocupações sobre acesso ao voto – cobertura da BBC",
+   "UOL e O Globo mantêm páginas de apuração ao vivo, mas ainda não divulgam números concretos",
+   "O TSE atualiza resultados em tempo real, mas a apuração oficial ainda não começou oficialmente",
+   "Cobertura em tempo real indica que a disputa está acirrada, sem indicação clara de liderança"
   ],
-  "whats_next": "Acompanhar a atualização dos resultados ao vivo nos sites de notícias e no portal do TSE nas próximas horas."
+  "whats_next": "Os resultados finais deverão ser publicados pelo TSE nas próximas horas, após a conclusão da apuração"
  },
  "brief_en": {
-  "headline": "2nd‑round vote count for Lula vs Flávio still empty, but TSE resumes tally at 7 p.m.",
-  "why_it_matters": "The outcome decides Brazil’s leader for the next four years in a deeply polarized race.",
-  "big_picture": "Lula vs Flávio Bolsonaro pits left against right, shaping Brazil’s domestic and foreign policy.",
+  "headline": "2026 Election: live count kicks off as bus shortages hinder voting",
+  "why_it_matters": "The tally will decide if Lula or Flávio Bolsonaro takes the helm, and transport logistics could sway turnout",
+  "big_picture": "The runoff highlights national polarization and tests institutions’ ability to deliver a free, accessible vote",
   "details": [
-   "TSE says the count resumes at 7 p.m. (Agência Brasil).",
-   "Sites like UOL and O Globo host live tallies but have no numbers yet.",
-   "Expect the count to speed up after the restart, as in past rounds."
+   "Reports of bus shortages across regions raise concerns about voting access – BBC coverage",
+   "UOL and O Globo host live results pages but haven’t posted concrete numbers",
+   "Brazil’s TSE updates results in real time, yet the official count hasn’t formally started",
+   "Live coverage shows a tight race with no clear leader"
   ],
-  "whats_next": "Watch live updates on news sites and the TSE portal over the next few hours."
+  "whats_next": "Final results are expected from the TSE in the next few hours once counting wraps up"
  },
  "error": null
 }
