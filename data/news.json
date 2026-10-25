@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-25T19:37:29.533198-03:00",
+ "updated": "2026-10-25T19:39:31.225625-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Apuração segundo turno das Eleições em tempo real: veja agora resultados ao vivo - UOL Notícias",
+   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/apuracao-segundo-turno-das-eleicoes-em-tempo-real-veja-agora-resultados-ao-vivo.ghtm",
+   "source": "UOL Notícias",
+   "published": "2026-10-25T22:32:29+00:00",
+   "desc": " Apuração segundo turno das Eleições em tempo real: veja agora resultados ao vivo    UOL Notícias ",
+   "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2hmV25WR2R5TExpV2tQVk14bDlWQU81bFYwUlJrd1NnM0Y3TXVQUEZIUVB5ckNyZjh1elNYOUVkVUVXLU5fLVdfOS14THFEdVV1enc3X2xnRktCMGRZa1lLT1htRmVhaGtNUGlHYVVXWV94MXZ5ZHZrSzl0d3ZadEFpRzBiTWJMY1lQRVd4S0Vpek1xajJUYUtESVJCVGprTXd5VkNIemFOZlhYVHpVU0JMODhvMWhjOUQycC1LU1E4elJIRUlOY3FKdXg?oc=5"
+  },
   {
    "title": "Resultado TSE ao vivo agora: veja apuração do segundo turno entre Lula e Flávio - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/resultado-tse-ao-vivo-agora-veja-apuracao-do-segundo-turno-entre-lula-e-flavio.ghtm",
@@ -33,37 +41,29 @@
    "published": "2026-10-25T22:21:12+00:00",
    "desc": " Que horas acaba a apuração dos votos nas eleições 2026?    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFNkcGJkdi1pQUlvbmtCRG9fejNGVlFXbHF4TkdmT3I1NmpBRE1wR0tDY0djNktXbmRkbXJhakpkd05fQ2pTbmNNdWtXM2ttYXJlblFnVEszRk9VRHhCQ29WU1hjTmhFeVhYdXpfQ2dTVUJObmVVeEJqR3d1VVJ3SW4xRnFtNWFsSHRtQnB5M0d0QU15WkV0UW5CR3RDMWpWZ2p3RzN0NHAxR1lGdm1jUUtiNNIBwgFBVV95cUxPTFYxVHVJcTJfUHlfNk43ZjhoVVNhMm5sOEE4R2doSGtwNFJoLWVXUmVMU3B2M0FrM3pPVC0zME9yZ0ZSSEZoYkFyTlBVdVA0eUFHMnlYa09uSGVGemVLcVVEaGZ4LUY4Y190U3ZjVTF2Sko2UmVncWtaX1dKOXJ1S3h4VHpBMlZDRm9FeEY0TXBoTUcxUWRPa1ZHbmRkb1NCQXRxckZoeEpBQ0VXNUswZU8ybTZOQjVaSnJGeXg1andJZw?oc=5"
-  },
-  {
-   "title": "TSE retoma contagem de votos em todo o país - Agência Brasil",
-   "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-retoma-contagem-de-votos-em-todo-o-pais",
-   "source": "Agência Brasil",
-   "published": "2026-10-25T22:21:00+00:00",
-   "desc": " TSE retoma contagem de votos em todo o país    Agência Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDhUaTV2VTVIWXExSWQ4S2JjaS11Vk1IU3dSeW5ZZm1ZTEgzMmctYy1DWDI2TVotRXhFVGhuOHJsWmh6TTNMMlhuOEFqdnNaV1dyM0w1QklleFBneFh0VF8zUGVCM21TTXdVNHVrRzRQc2thLVNiOFNQZmJwTmZVMGN4dEVfWWRSS2FsR0hRWFYwYmdiTnpYVHAwcTJjc1Z1Y0E?oc=5"
   }
  ],
  "brief": {
-  "headline": "TSE retoma a contagem de votos no 2º turno entre Lula e Flávio Bolsonaro",
-  "why_it_matters": "A disputa presidencial está em aberto e a definição do próximo presidente depende da apuração que ainda não revelou números.",
-  "big_picture": "Com Lula à frente no 1º turno e Flávio buscando virar o placar, a contagem nacional será decisiva para a estabilidade política e econômica do Brasil.",
+  "headline": "Apuração do segundo turno entre Lula e Flávio começa ao vivo, mas ainda sem resultados divulgados",
+  "why_it_matters": "A disputa decide quem comandará o país nos próximos quatro anos, com Lula liderando o PT e Flávio Bolsonaro representando a direita.",
+  "big_picture": "Com a votação ainda em curso, analistas aguardam os primeiros números das regiões‑chave, especialmente o Nordeste, tradicional bastião do PT.",
   "details": [
-   "TSE anunciou a retomada da contagem de votos em todo o país",
-   "Portais como UOL, VEJA e Agência Brasil transmitem a apuração ao vivo",
-   "Painéis regionais, como o Nordeste, já exibem resultados preliminares, mas sem números divulgados"
+   "Portais como UOL, Veja e O Globo já disponibilizam transmissões ao vivo da contagem de votos",
+   "As primeiras transmissões focam nos estados do Nordeste (BA, CE, PE, MA), onde o PT costuma ter vantagem",
+   "Ainda não há números oficiais; a apuração ainda não começou oficialmente segundo as manchetes"
   ],
-  "whats_next": "A contagem deve avançar nas próximas horas, com projeções preliminares esperadas após a meia‑noite (horário de Brasília)."
+  "whats_next": "Os resultados preliminares devem começar a aparecer nas próximas horas, com o TSE divulgando o placar nacional"
  },
  "brief_en": {
-  "headline": "TSE resumes vote count in 2nd round between Lula and Flávio Bolsonaro",
-  "why_it_matters": "The presidential race is still up in the air, and the next president hinges on a count that hasn’t posted numbers yet.",
-  "big_picture": "Lula leads after the 1st round, Flávio is trying to flip the script; the national tally will be decisive for Brazil’s political and economic stability.",
+  "headline": "Second‑round count between Lula and Flávio goes live, but no results yet",
+  "why_it_matters": "The race decides who will lead the country for the next four years – Lula heads the PT, Flávio Bolsonaro is the right‑wing contender.",
+  "big_picture": "With voting still underway, analysts are watching early numbers from key regions, especially the Nordeste, the PT’s traditional stronghold.",
   "details": [
-   "TSE announced the vote count is back on nationwide",
-   "Sites like UOL, VEJA and Agência Brasil are streaming the count live",
-   "Regional panels, such as the Northeast, show early results but no figures released"
+   "Sites like UOL, Veja and O Globo are streaming the vote count live",
+   "Early streams focus on Nordeste states (BA, CE, PE, MA), where the PT usually has an edge",
+   "No official figures yet; the count hasn’t officially started, per headlines"
   ],
-  "whats_next": "The count should move forward over the next few hours, with early projections due after midnight Brasília time."
+  "whats_next": "Preliminary results should start showing up in the next few hours, with the TSE releasing the national tally."
  },
  "error": null
 }
