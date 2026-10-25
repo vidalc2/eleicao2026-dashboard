@@ -155,7 +155,6 @@ th[aria-sort="ascending"] button::after{content:' ↑'}th[aria-sort="descending"
   .cmp .h{font-size:12px;letter-spacing:0;text-transform:none}
 }
 
-
 .cand .big{font-size:clamp(28px,8vw,40px);white-space:nowrap}
 .cand .nm{min-height:45px;line-height:1.4}
 .bar> .l,.bar> .f{flex-shrink:1}.bar .gap{flex-shrink:0}
@@ -182,7 +181,7 @@ th[aria-sort="ascending"] button::after{content:' ↑'}th[aria-sort="descending"
 .market-embed iframe{display:block;width:100%;height:300px;border:0;border-radius:10px;margin-top:10px}
 @media(max-width:600px){.market-legend{grid-template-columns:repeat(2,minmax(0,1fr))}.market-chart{height:280px}}
 .reg{display:grid;grid-template-columns:repeat(6,1fr);gap:8px}
-@media(max-width:759px){.reg{grid-template-columns:repeat(2,1fr)}#card-official{order:-2}#card-region{order:-1}}
+@media(max-width:759px){.reg{grid-template-columns:repeat(2,1fr)}#card-official{order:-3}#card-markets{order:-2}#card-region{order:-1}}
 .rt{background:var(--bg);border-radius:12px;padding:10px 10px 8px;min-width:0}
 .rt .nm{font-weight:700;font-size:14px;display:flex;justify-content:space-between;align-items:baseline;gap:6px}
 .rt .nm small{font-weight:600;font-size:12px;color:var(--ink2)}
@@ -236,6 +235,35 @@ th[aria-sort="ascending"] button::after{content:' ↑'}th[aria-sort="descending"
     <div class="signal tie" id="sig" role="status" aria-live="polite" aria-atomic="true"><div class="ic" aria-hidden="true">…</div><div><div class="tt" data-i18n="waiting">Aguardando apuração</div><div class="ds" data-i18n="waiting_ds">Urnas fecham às 17h (Brasília). O modelo compara cada estado com o 1º turno.</div></div></div>
     <p class="kpi" style="margin:10px 0 0"><span><span data-i18n="swing_nat">Swing nacional vs 1º turno</span> <b class="mono is-loading" id="sw" aria-hidden="true">—</b></span></p>
   </section>
+  <section id="card-markets" class="card" id="markets" aria-labelledby="h-markets">
+    <h2 id="h-markets" data-i18n="markets_title">Mercados · chance de vitória</h2>
+    <p class="market-note" data-i18n="markets_note">Últimas 24 horas · preços dos contratos, não votos apurados. Cada plataforma tem suas próprias regras.</p>
+    <div class="market-legend" role="group" aria-label="Séries do gráfico" id="market-legend">
+      <button class="btn market-series" data-market-series="0" aria-pressed="true" style="--series-color:var(--lula)"><span>Lula · Kalshi</span><strong id="market-value-0">—</strong><small id="market-time-0"></small></button>
+      <button class="btn market-series" data-market-series="1" aria-pressed="true" style="--series-color:var(--flavio)"><span>Flávio · Kalshi</span><strong id="market-value-1">—</strong><small id="market-time-1"></small></button>
+      <button class="btn market-series poly" data-market-series="2" aria-pressed="true" style="--series-color:var(--lula)"><span>Lula · Polymarket</span><strong id="market-value-2">—</strong><small id="market-time-2"></small></button>
+      <button class="btn market-series poly" data-market-series="3" aria-pressed="true" style="--series-color:var(--flavio)"><span>Flávio · Polymarket</span><strong id="market-value-3">—</strong><small id="market-time-3"></small></button>
+    </div>
+    <div class="ctl" role="group" aria-label="Janela / Window" style="margin:6px 0"><button class="btn" data-market-window="1" aria-pressed="true">1H</button><button class="btn" data-market-window="6" aria-pressed="false">6H</button></div>
+    <p class="market-note" data-i18n="markets_legend">Kalshi: linha contínua · Polymarket: tracejada. Toque nos cartões para mostrar ou ocultar cada linha.</p>
+    <div class="chart market-chart"><canvas id="market-chart" role="img" aria-describedby="market-description"></canvas></div>
+    <p class="sr-only" id="market-description"></p>
+    <p id="market-status" role="status" aria-live="polite">carregando…</p>
+    <div class="market-source-times"><span id="market-kalshi-time"></span><span id="market-poly-time"></span></div>
+    <nav class="market-source-links" id="market-sources" aria-label="Mercados de origem">
+      <a class="btn" id="market-kalshi-link" href="https://kalshi.com/markets/kxbrpres/brazil-presidential-election-winner/kxbrpres-26" target="_blank" rel="noopener noreferrer"><span data-i18n="markets_kalshi">Ver na Kalshi</span> ↗</a>
+      <a class="btn" id="market-poly-link" href="https://polymarket.com/event/brazil-presidential-election" target="_blank" rel="noopener noreferrer"><span data-i18n="markets_poly">Ver no Polymarket</span> ↗</a>
+    </nav>
+    <p class="market-note" data-i18n="markets_method">Kalshi: último negócio de cada minuto. Polymarket: histórico de preços a cada 5 minutos. Os horários e preços podem diferir; não são normalizados entre candidatos. Atualização a cada minuto.</p>
+    <details class="market-embed" id="market-embed">
+      <summary data-i18n="markets_embed">Ver o mercado de Lula ao vivo no Polymarket</summary>
+      <iframe id="market-embed-frame" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" title="Mercado de Lula ao vivo · Polymarket" loading="lazy" referrerpolicy="no-referrer"></iframe>
+    </details>
+    <details class="market-embed" id="market-embed-flavio">
+      <summary data-i18n="markets_embed_flavio">Ver o mercado de Flávio ao vivo no Polymarket</summary>
+      <iframe id="market-embed-frame-flavio" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" title="Mercado de Flávio ao vivo · Polymarket" loading="lazy" referrerpolicy="no-referrer"></iframe>
+    </details>
+  </section>
   <section class="card" id="card-region" aria-labelledby="h-region">
     <h2 id="h-region" data-i18n="region_h">Por região · apurado, resultado e tendência vs 1º turno</h2>
     <div class="reg" id="reg"></div>
@@ -267,36 +295,7 @@ th[aria-sort="ascending"] button::after{content:' ↑'}th[aria-sort="descending"
     </dl>
   </section>
 
-
-  <section class="card" id="markets" aria-labelledby="h-markets">
-    <h2 id="h-markets" data-i18n="markets_title">Mercados · chance de vitória</h2>
-    <p class="market-note" data-i18n="markets_note">Últimas 24 horas · preços dos contratos, não votos apurados. Cada plataforma tem suas próprias regras.</p>
-    <div class="market-legend" role="group" aria-label="Séries do gráfico" id="market-legend">
-      <button class="btn market-series" data-market-series="0" aria-pressed="true" style="--series-color:var(--lula)"><span>Lula · Kalshi</span><strong id="market-value-0">—</strong><small id="market-time-0"></small></button>
-      <button class="btn market-series" data-market-series="1" aria-pressed="true" style="--series-color:var(--flavio)"><span>Flávio · Kalshi</span><strong id="market-value-1">—</strong><small id="market-time-1"></small></button>
-      <button class="btn market-series poly" data-market-series="2" aria-pressed="true" style="--series-color:var(--lula)"><span>Lula · Polymarket</span><strong id="market-value-2">—</strong><small id="market-time-2"></small></button>
-      <button class="btn market-series poly" data-market-series="3" aria-pressed="true" style="--series-color:var(--flavio)"><span>Flávio · Polymarket</span><strong id="market-value-3">—</strong><small id="market-time-3"></small></button>
-    </div>
-    <div class="ctl" role="group" aria-label="Janela / Window" style="margin:6px 0"><button class="btn" data-market-window="1" aria-pressed="true">1H</button><button class="btn" data-market-window="6" aria-pressed="false">6H</button></div>
-    <p class="market-note" data-i18n="markets_legend">Kalshi: linha contínua · Polymarket: tracejada. Toque nos cartões para mostrar ou ocultar cada linha.</p>
-    <div class="chart market-chart"><canvas id="market-chart" role="img" aria-describedby="market-description"></canvas></div>
-    <p class="sr-only" id="market-description"></p>
-    <p id="market-status" role="status" aria-live="polite">carregando…</p>
-    <div class="market-source-times"><span id="market-kalshi-time"></span><span id="market-poly-time"></span></div>
-    <nav class="market-source-links" id="market-sources" aria-label="Mercados de origem">
-      <a class="btn" id="market-kalshi-link" href="https://kalshi.com/markets/kxbrpres/brazil-presidential-election-winner/kxbrpres-26" target="_blank" rel="noopener noreferrer"><span data-i18n="markets_kalshi">Ver na Kalshi</span> ↗</a>
-      <a class="btn" id="market-poly-link" href="https://polymarket.com/event/brazil-presidential-election" target="_blank" rel="noopener noreferrer"><span data-i18n="markets_poly">Ver no Polymarket</span> ↗</a>
-    </nav>
-    <p class="market-note" data-i18n="markets_method">Kalshi: último negócio de cada minuto. Polymarket: histórico de preços a cada 5 minutos. Os horários e preços podem diferir; não são normalizados entre candidatos. Atualização a cada minuto.</p>
-    <details class="market-embed" id="market-embed">
-      <summary data-i18n="markets_embed">Ver o mercado de Lula ao vivo no Polymarket</summary>
-      <iframe id="market-embed-frame" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" title="Mercado de Lula ao vivo · Polymarket" loading="lazy" referrerpolicy="no-referrer"></iframe>
-    </details>
-    <details class="market-embed" id="market-embed-flavio">
-      <summary data-i18n="markets_embed_flavio">Ver o mercado de Flávio ao vivo no Polymarket</summary>
-      <iframe id="market-embed-frame-flavio" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" title="Mercado de Flávio ao vivo · Polymarket" loading="lazy" referrerpolicy="no-referrer"></iframe>
-    </details>
-  </section>
+  
 
   <section class="card c6" aria-labelledby="h-swing">
     <h2 id="h-swing" data-i18n="swing_h" data-i18n-title="swing_h_full" title="Swing por estado vs 1º turno (pontos, Lula cabeça-a-cabeça)">Mudança por estado</h2>
