@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:21:25.456350-03:00",
+ "updated": "2026-10-25T19:23:22.018135-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula lidera nas primeiras 0,37% das seções, mas a apuração ainda está no início",
-  "why_it_matters": "Com a maioria dos municípios ainda sem resultados, a vantagem de Lula pode mudar; a disputa entre Lula (13) e Flávio Bolsonaro (22) está em aberto.",
-  "big_picture": "O segundo turno decide se o PT retoma o poder ou se a família Bolsonaro avança, enquanto problemas logísticos como a falta de ônibus podem afetar a participação dos eleitores.",
+  "headline": "Lula abre vantagem mínima nas primeiras 0,37% das seções, mas a apuração ainda está no início",
+  "why_it_matters": "Com apenas 0,37% dos boletins contabilizados, a liderança de Lula ainda é preliminar e pode mudar à medida que o voto é apurado em todo o país.",
+  "big_picture": "A disputa entre Lula (13) e Flávio Bolsonaro (22) está sendo acompanhada em tempo real, enquanto denúncias de falta de ônibus podem impactar a participação em áreas vulneráveis.",
   "details": [
-   "TSE indica que apenas 0,37% das seções foram contabilizadas, com Lula à frente",
-   "Portais como Veja, Globo, G1 e UOL mantêm cobertura ao vivo da contagem",
-   "Denúncias de falta de transporte público em várias regiões levantam preocupações sobre abstenção"
+   "TSE indica que Lula lidera com 0,37% das seções apuradas, segundo UOL Notícias",
+   "Apuração ao vivo está disponível nas plataformas da Veja, O Globo e do TSE",
+   "BBC destaca relatos de escassez de transporte público para eleitores em várias regiões",
+   "G1 oferece acompanhamento da contagem no Vale do Paraíba e região"
   ],
-  "whats_next": "A apuração deve ganhar ritmo nas próximas horas, com resultados mais representativos surgindo após a meia-noite."
+  "whats_next": "À medida que mais seções forem declaradas, o TSE divulgará atualizações de resultados ao longo da noite."
  },
  "brief_en": {
-  "headline": "Lula leads in the first 0.37% of precincts, but the count is just starting",
-  "why_it_matters": "Most municipalities still lack results, so Lula’s edge could shift; the race between Lula (13) and Flávio Bolsonaro (22) remains open.",
-  "big_picture": "The runoff will decide if PT regains power or the Bolsonaro family moves forward, while logistical hiccups like missing buses could dent turnout.",
+  "headline": "Lula holds a slim lead in the first 0.37% of precincts, but the count is just starting",
+  "why_it_matters": "With only 0.37% of ballots tallied, Lula’s lead is provisional and could shift as votes are counted nationwide",
+  "big_picture": "The race between Lula (13) and Flávio Bolsonaro (22) is being tracked live, as reports of bus shortages could curb turnout in vulnerable areas",
   "details": [
-   "TSE says only 0.37% of precincts have been tallied, with Lula ahead",
-   "Sites like Veja, Globo, G1 and UOL are streaming live results",
-   "Reports of no public transport in several areas raise turnout concerns"
+   "TSE says Lula leads with 0.37% of precincts counted, per UOL News",
+   "Live results are on Veja, O Globo and TSE platforms",
+   "BBC flags public‑transport shortages for voters in several regions",
+   "G1 provides count updates for Vale do Paraíba and surrounding area"
   ],
-  "whats_next": "Counting should pick up in the next hours, with more representative results after midnight."
+  "whats_next": "As more precincts report, TSE will post result updates throughout the night."
  },
  "error": null
 }
