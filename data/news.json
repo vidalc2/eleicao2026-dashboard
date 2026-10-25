@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-25T19:29:28.110263-03:00",
+ "updated": "2026-10-25T19:31:29.041365-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "Zanin prorroga votação até 19 horas em todo o País após pedido de Lula - Estadão",
-   "link": "https://www.estadao.com.br/politica/eleicoes/zanin-prorroga-votacao-ate-19-horas-em-todo-o-pais/",
-   "source": "Estadão",
-   "published": "2026-10-25T22:19:34+00:00",
-   "desc": " Zanin prorroga votação até 19 horas em todo o País após pedido de Lula    Estadão ",
-   "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZm4zTms5NnNvc29fLXZsRmRaWFRmVVVyUmt6dFVzM1E1SFBTRGxqaVpZUXdvVHlZQWhSSmNjcTZwSzFOQW5ucUt6MzNsSlJua3dJbDlaWUZSb1pHd1diR0U3ckF5dU9iX0RVS3NGSlB3M0k1VlFBYTc0MWdqZng0UzZlc0hNM1JpNFFNTGFDeHQtZzVtQXlJaU5fazfSAaIBQVVfeXFMT1hWRWxqZmtZSks3SkNDX0JWZzE1dkYxVDhMU3R2RlMxMUNpZDB4R09YR2VNQ1pjY3l2ZVViVkF0alZneEhRNGkxVE0tSDlMSE5KUjRicVNYNUYzNmFwTTRlVmVzdEFkMEdwXzZHYUhrWU9MXzlSc1V5R1BMZEJ3V0dydVdFZWFWZDQxdmRxTGFYUWVsajlWbzJpNHdPZlZVVVFn?oc=5"
-  },
   {
    "title": "AO VIVO: Acompanhe a apuração do segundo turno das eleições de 2026 - VEJA",
    "link": "https://veja.abril.com.br/brasil/ao-vivo-acompanhe-a-apuracao-do-segundo-turno-das-eleicoes-de-2026/",
@@ -41,29 +33,37 @@
    "published": "2026-10-25T22:08:10+00:00",
    "desc": " Veja a evolução dos votos na apuração para presidente no 2º turno    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbUlGVkEtaVhTXzlxdE9qVUxsNlNnTnE0LTF5Z1dWbFdMM0tfTkltX29kOG9DS3BSNGZxanZIdnF2OVJzaFpRUEtLZkJZdndkdkNuVUFNQTlDbDhhcFlWU0VmMVROQndmTG9nbXFId1lSZU5fS2JzNG54QTVvMllFc1FsdWdwV1czaXc2SVhuMjVEVTE4NGNTRkZkRUJZYzVkRHAzd21QQ2NzeEQ2M3hLdFZWYzlLTVhsbDlLdVdnVFk0ZVBOT2dDdTk3ai11ckXSAd4BQVVfeXFMTTVGRzVRbXRydjhCZ3dETlhSaEtMYTk1c2FEeV9TMk9HZ2R3bW1ZXzdsYmNtTThUVVdFaGM2U1ZIaUcyZ2dBTHMwLVl5V3ZZdlBiaUVKWF9oQ01pRnNnb3hRZDZ3TGxxZDVfRGtmSzdyU3oycEFHT3lNTDZLZ0NnT092a0lBOFd6M2VDb08xOVY4Z2ZZT2tKeFlMdmFadUxUMXRvREFzUFF1MnpMUzNaSUJ5d25ERTVGYUxmRldoMkoxUGJDZjZweGhDZUw0WEY4T0wwUXM3TE9tcUdhTzJ3?oc=5"
+  },
+  {
+   "title": "Falta de ônibus na eleição: o que se sabe sobre as denúncias de falta de transporte para votar pelo Brasil - BBC",
+   "link": "https://www.bbc.com/portuguese/articles/cm93z1wyl706o",
+   "source": "BBC",
+   "published": "2026-10-25T22:07:30+00:00",
+   "desc": " Falta de ônibus na eleição: o que se sabe sobre as denúncias de falta de transporte para votar pelo Brasil    BBC ",
+   "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91UWcycHV6Z0lxVHd2U1dUWGZCTHg4V1JXSUtIdEV6S3g3TlVfX2F6a3Vjd3laWnhCbVRaTEZ6V0lRelphcFZNZ3NoamFfTjFHeFRwcWhjd21UbHVtMXFGMjZHd9IBaEFVX3lxTE5JUkk4TnFZUWNGNTJiXzdzVXQwaUExckowNGdlRUUzUk5nUFM3UE9KSEg0TVBVTzR6WkNubnVPWDEwTkplVXhRdmVWNVllXzFqdm9XWENhTGMzWVQxTlByOGNmT293MGo3?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula lidera nas primeiras contagens do 2º turno, mas apuração ainda está no início",
-  "why_it_matters": "Com apenas 0,37% das seções apuradas, a vantagem ainda é preliminar e pode mudar à medida que o TSE divulga mais resultados.",
-  "big_picture": "A disputa entre Lula (13) e Flávio Bolsonaro (22) define o rumo político do Brasil para os próximos quatro anos, em um cenário de alta polarização.",
+  "headline": "Lula lidera nas primeiras contas do 2º turno, mas ainda é madrugada de apuração",
+  "why_it_matters": "Com apenas 0,37% das seções eleitorais apuradas, o candidato do PT já aparece à frente, mas a margem é mínima e pode mudar rapidamente.",
+  "big_picture": "A disputa entre Lula e Flávio Bolsonaro segue incerta; o resultado dependerá de dezenas de milhares de municípios ainda sem voto contabilizado.",
   "details": [
-   "TSE informou que 0,37% das seções já foram contabilizadas, colocando Lula à frente",
-   "Juiz eleitoral Zanin prorrogou o horário de votação até 19h em todo o país, após pedido de Lula",
-   "Portais como VEJA, Estadão e G1 já oferecem acompanhamento em tempo real das projeções de apuração"
+   "Apuração ao vivo sendo acompanhada em tempo real por VEJA, Estadão e G1",
+   "TSE informa que Lula lidera com 0,37% das seções apuradas",
+   "BBC destaca denúncias de falta de ônibus, o que pode reduzir a participação em áreas rurais"
   ],
-  "whats_next": "A contagem deve acelerar nas próximas horas, com resultados mais claros a partir da metade da noite"
+  "whats_next": "Os primeiros números consolidados devem surgir nas primeiras horas da manhã, com projeções mais estáveis a partir das 02h00 (horário de Brasília)."
  },
  "brief_en": {
-  "headline": "Lula leads in early 2nd round counts, but tally is just starting",
-  "why_it_matters": "With only 0,37% of precincts reported, the lead is tentative and could shift as the TSE releases more results.",
-  "big_picture": "The contest between Lula (13) and Flávio Bolsonaro (22) will shape Brazil’s political path for the next four years amid sharp polarization.",
+  "headline": "Lula leads early 2nd‑round tallies, but it’s still the wee hours of counting",
+  "why_it_matters": "With just 0,37% of polling stations reported, the PT candidate is ahead, but the margin is razor‑thin and could flip fast.",
+  "big_picture": "The Lula‑Flávio Bolsonaro race remains wide open; tens of thousands of municipalities still have no votes counted.",
   "details": [
-   "TSE reports 0,37% of precincts counted, putting Lula ahead",
-   "Election judge Zanin extended voting hours to 19h nationwide after Lula’s request",
-   "Sites like VEJA, Estadão and G1 now stream real‑time tally projections"
+   "Live results tracked in real time by VEJA, Estadão and G1",
+   "TSE says Lula leads with 0,37% of stations reported",
+   "BBC flags bus shortages that could curb rural turnout"
   ],
-  "whats_next": "Counting should speed up over the next few hours, with clearer results by late night"
+  "whats_next": "First consolidated numbers should appear in the early morning, with steadier projections from 02h00 (Brasília time)."
  },
  "error": null
 }
