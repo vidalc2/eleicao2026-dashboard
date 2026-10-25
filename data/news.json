@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-25T18:59:18.082364-03:00",
+ "updated": "2026-10-25T19:01:16.996776-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "Chefe da campanha de Flávio Bolsonaro fala em 'golpe judiciário', e aliados sugerem fraude sem provas - Folha de S.Paulo",
-   "link": "https://www1.folha.uol.com.br/poder/2026/10/chefe-da-campanha-de-flavio-bolsonaro-fala-em-golpe-judiciario-e-aliados-sugerem-fraude-sem-provas.shtml",
-   "source": "Folha de S.Paulo",
-   "published": "2026-10-25T21:46:00+00:00",
-   "desc": " Chefe da campanha de Flávio Bolsonaro fala em 'golpe judiciário', e aliados sugerem fraude sem provas    Folha de S.Paulo ",
-   "gnews": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcS1zektSUU9rLUNyYk9QWlJ1dXFoSm0xRF8wNlBfMG4tNWk0ejYxdFY3dmd2ZVJiWU55NTJJaG1HeWpxQXB4NmlsOGQ5Tld0Q1VoSi1pOEU4WExzYlFHUktZc285cXJqNXlmRnZSN2JfUDh6VUUwSGR0ZzNmUldGM2hVZkoyM2hDV2c1Z0hCUXJmMUNPUE9wQ1ZqZkZ1MEFoN0JaUWoxcHJpLXJzVXhqS1BuRVBHVW96WkpIRU1SN1dnbHpycmNiTnpQRHYyQWdiYmRja3Q2em04Vy1CVnlVaWxn?oc=5"
-  },
   {
    "title": "Apuração TSE 2026: veja como acompanhar resultado em tempo real do segundo turno - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/apuracao-tse-2026-veja-como-acompanhar-resultado-em-tempo-real-do-segundo-turno.ghtm",
@@ -41,6 +33,14 @@
    "published": "2026-10-25T21:40:12+00:00",
    "desc": " Quem está na frente, Lula ou Flávio Bolsonaro? Veja resultado da apuração ao vivo    UOL Notícias ",
    "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN2NDZTNZUVZDcXRVN2tPakJJdjl0NHI0TXE3TTBvbEwxNk1mb1I1UDdGVlVhWjhhMGxwNDBQaXA4X2F3VzdRTjl1UVd6Q01uR0k4OWw0cHNzdVUyS3gtZVRRWDdkZFFiT3M5UVduZUhrc1Z5ZWlCUXRESTVXS1BqRF9Ua2diMXhTSHdGQlJucGVQQ2ZEd25NSXpra2RjYUtQN3JEcDduNGk2NWxWenZOYUt2UF9Dd1pudjI5UWVTU0ZTMTVQcEdUcGJrYnI?oc=5"
+  },
+  {
+   "title": "Quem está ganhando a eleição para presidente? Acompanhe a apuração dos votos - O GLOBO",
+   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/quem-esta-ganhando-a-eleicao-para-presidente-acompanhe-a-apuracao-dos-votos.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-25T21:39:14+00:00",
+   "desc": " Quem está ganhando a eleição para presidente? Acompanhe a apuração dos votos    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSlNJLVNnV0hyZy1FZFFyeFVBa1JoaVRhMDY3c3I2ajFrNkhRWVhsb3B2MGxBOENqaS1kLS1YWkpWRjV3R2x4RWVjbExQNF9VQzZGTE16SWxHUDlNLVhHY3BUOGlUTHBMQVItTVpTT3ltUGpISmZrRVBOeUY5WW5DLUtSZEd6M1d0S0JRdXJyRTBfUUw3bS1PMy1sRlAyaGs1eHg5bDB3VWo5RWNiWWl5T0RRaG5YZGlmclpRRXQ1SXNYSXh3UzE1Tk51aUxMM280RXFLTDF4bHdoeXE2dnlRY0t30gHwAUFVX3lxTE4zR1hrR045RmxHV3FwQk1NS3pEMkVKZ3RQc3RhN1daOFlsQjh2cHB2TlRDY0xPc3BvTGVRNzU3UG9CcnlYM3h1emZvYUpHM2RxTEN5NGFBY2dkc0FwS1hsUC1pSUtFSDVwQU9LVnZiM2dpTl80d196RUhUMGJCZlA1WmFHV0d0UGlxMXVONXJHZThmYUFKc3NTMDkxNXNNdkZxM2RXd3ZHRHc5ZlE0cUs0aUQwMDBzNHhWRHVsNk4yMnpRTHYzMjdCSks1elVTWlRVWi1iMnhhcmNBa2dBZHlOUHRwY2NpQUFacDhmSVJXSg?oc=5"
   }
  ],
  "brief": {
@@ -67,5 +67,5 @@
   ],
   "whats_next": "The official count kicks off at 20h; TSE will post preliminary results shortly after."
  },
- "error": null
+ "error": "Expecting ',' delimiter: line 1 column 776 (char 775)"
 }
