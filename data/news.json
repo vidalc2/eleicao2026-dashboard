@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:10:52.626099-03:00",
+ "updated": "2026-10-25T20:11:42.993016-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -65,5 +65,5 @@
   ],
   "whats_next": "First numbers should drop in a few hours, with full projections later today"
  },
- "error": null
+ "error": "Expecting ',' delimiter: line 1 column 771 (char 770)"
 }
