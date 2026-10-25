@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-25T17:56:56.193374-03:00",
+ "updated": "2026-10-25T17:58:56.669190-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Prorrogação do horário de votação em todo o país é decisão inédita desde adoção da urna eletrônica - Folha de S.Paulo",
+   "link": "https://www1.folha.uol.com.br/poder/2026/10/prorrogacao-do-horario-de-votacao-em-todo-o-pais-e-decisao-inedita-desde-adocao-da-urna-eletronica.shtml",
+   "source": "Folha de S.Paulo",
+   "published": "2026-10-25T20:43:00+00:00",
+   "desc": " Prorrogação do horário de votação em todo o país é decisão inédita desde adoção da urna eletrônica    Folha de S.Paulo ",
+   "gnews": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTk9pckM4YVpZQWhkRkFZeHRkc0ozQ2J4MzZZUG9VWlpuQ3B6V0llYVhPb0laWTl5NWF5TVV0cmRxcl94TWgzajFEUXVMR2trOE9BYVFrdmxqa0dZWkRoUU1uTzJ3S1B1YmxiSHoxS1FraVhYSkdObjRGbTdDd2Z1dUhjbHJUWWo2aV9HUWxfQ0xwY2NLZHZsdS1rRGphTXRTOGtWS3dfTC1rai10NFp6UGpTSHhZcFB2MUZCdVhCeHlSNkEzZzd2X241eExObHJsbXRJaVBZOE9uem4xRXhUOUhn?oc=5"
+  },
   {
    "title": "Ramagem diz em Miami que quer voltar ao Brasil com vitória de Flávio - Folha de S.Paulo",
    "link": "https://www1.folha.uol.com.br/poder/2026/10/ramagem-diz-em-miami-que-quer-voltar-ao-brasil-com-vitoria-de-flavio.shtml",
@@ -33,41 +41,33 @@
    "published": "2026-10-25T20:26:15+00:00",
    "desc": " STF atropela TSE e prorroga eleição em 2h    Poder360 ",
    "gnews": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG1PWDlkQWwtZkpPMnI3UDlaWS1xUDlkeUZ1c1ZVNnV6bGJtTE5DaGxFcWpvUTRmVnEzak5lQkd4Zk9Ycnk3NEVDblBwelRIQTY2TVA4czRJRTBTRDdLTmhFLWZNbnRsU2pWMHo4ZFFVNTFGV0dTeVVqX084bUVuNkYwSzBZaUQtQnhZRkdEVWQ1RW9XeUE?oc=5"
-  },
-  {
-   "title": "Apuração do 2º turno em Brasília: veja o resultado para presidente em tempo real - Exame",
-   "link": "https://exame.com/brasil/apuracao-do-2o-turno-em-brasilia-veja-o-resultado-para-presidente-em-tempo-real/",
-   "source": "Exame",
-   "published": "2026-10-25T20:48:45+00:00",
-   "desc": " Apuração do 2º turno em Brasília: veja o resultado para presidente em tempo real    Exame ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY2daTEMxUncwZmhzMUhtZmpHT29ZNkNmemR1cldsMDl5cjZiTklaX3ZTZEhuOWYxd2ZmSWd6N2tpUjJWODdyUmtQZEVJYlhoOV85eEl5TjR1ekJUQUVDLUtuWXFqWWlGZkd4dzgzVFhNVVNxSk1PdVh2Um92SDQxRlRvbVBJNVM2MW9yMWhrWXE5ajZmT08wZGEwQzZCTmFBNjVqZTlLWG4?oc=5"
   }
  ],
  "brief": {
-  "headline": "STF prorroga votação em 2h e deixa apuração ainda sem números",
-  "why_it_matters": "A extensão do horário pode mudar o placar do segundo turno apertado entre Lula e Flávio Bolsonaro, enquanto atrasos nas urnas do Rio alimentam dúvidas sobre a lisura do processo.",
-  "big_picture": "Com a disputa a 13 a 22 pontos, cada voto conta; atrasos e decisões judiciais podem influenciar a legitimidade da vitória final.",
+  "headline": "STF estende horário de votação no 2º turno, gerando confusão nas urnas",
+  "why_it_matters": "A decisão inédita de prorrogar a votação por duas horas pode alterar o ritmo da apuração e levantar dúvidas sobre a lisura do pleito.",
+  "big_picture": "O segundo turno já está em curso, mas a disputa entre Lula e Flávio Bolsonaro ganha novo capítulo com a intervenção do STF sobre o calendário eleitoral e falhas operacionais em algumas seções.",
   "details": [
-   "STF concedeu 2 horas extras após decisão de Zanin não chegar a tempo;",
-   "Votação foi encerrada prematuramente em parte das seções eleitorais do Rio, gerando fila e reclamações;",
-   "Ramagem, em Miami, afirmou que voltará ao Brasil caso Flávio vença, sinalizando mobilização de apoiadores;",
-   "Exame oferece feed em tempo real de Brasília, mas ainda não há números oficiais de apuração;",
-   "Apuração ainda não começou oficialmente; nenhum percentual ou total de votos foi divulgado."
+   "STF determina prorrogação de 2 horas no horário de votação em todo o país – primeira vez desde a adoção das urnas eletrônicas;",
+   "No Rio de Janeiro, a decisão de Alexandre de Moraes (Zanin) chegou tarde demais, e parte das seções encerrou antes do novo prazo;",
+   "Ramagem, candidato a vice‑presidente de Flávio, está em Miami e declara que retornará ao Brasil caso a chapa vença;",
+   "Apuração ainda não começou; as manchetes lembram que, em 2022, a contagem já estava em andamento às 20h30;",
+   "A extensão pode atrasar a divulgação dos resultados oficiais."
   ],
-  "whats_next": "TSE deve publicar os resultados oficiais assim que o período estendido encerrar, provavelmente após as 22h30 (horário de Brasília)."
+  "whats_next": "Os resultados deverão começar a ser divulgados após a conclusão da apuração, prevista para depois da meia‑noite."
  },
  "brief_en": {
-  "headline": "STF adds 2 h to voting, count still lacks numbers",
-  "why_it_matters": "The extra time could flip the tight runoff between Lula and Flávio Bolsonaro, while Rio ballot delays fuel doubts about the process’s fairness.",
-  "big_picture": "With the race at 13‑22 points, every vote matters; delays and court rulings could sway the legitimacy of the final win.",
+  "headline": "STF extends voting hours in 2nd round, causing confusion at polls",
+  "why_it_matters": "The unprecedented two‑hour extension could shift the count’s pace and raise questions about the election’s fairness.",
+  "big_picture": "The runoff is underway, but the Lula‑Flávio Bolsonaro face‑off gets a new twist as the STF steps in on the calendar and some stations hit glitches.",
   "details": [
-   "STF granted 2 h extra after Zanin’s ruling missed the deadline;",
-   "Voting was cut short in some Rio precincts, sparking lines and complaints;",
-   "Ramagem, in Miami, said he’ll return to Brazil if Flávio wins, hinting at supporter mobilization;",
-   "Exame provides a real‑time feed from Brasília, but no official count yet;",
-   "Count hasn’t officially started; no vote percentages or totals released."
+   "STF orders a 2‑hour voting extension nationwide – first time since electronic ballots were introduced;",
+   "In Rio de Janeiro, Alexandre de Moraes’ (Zanin) ruling arrived too late, and some stations closed before the new deadline;",
+   "Ramagem, Flávio’s vice‑presidential pick, is in Miami and says he’ll fly back to Brazil if the ticket wins;",
+   "Counting hasn’t started yet; headlines note that in 2022 the tally was already rolling by 8:30 p.m.;",
+   "The extension could push back the release of official results."
   ],
-  "whats_next": "TSE will post official results once the extended period ends, likely after 10:30 p.m. Brasília time."
+  "whats_next": "Results should start coming out after counting wraps, likely after midnight."
  },
  "error": null
 }
