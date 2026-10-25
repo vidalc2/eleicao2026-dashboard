@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:51:16.453652-03:00",
+ "updated": "2026-10-25T18:53:16.548526-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Apuração do 2º turno presidencial começa; Lula 13 x Flávio 22",
-  "why_it_matters": "Com a disputa entre Lula e Flávio Bolsonaro em jogo, o resultado definirá a direção política e econômica do Brasil nos próximos quatro anos.",
-  "big_picture": "A eleição de 2026 marca um ponto de inflexão entre a agenda progressista de Lula e a proposta conservadora de Flávio, influenciando políticas internas e relações externas.",
+  "headline": "Eleição 2026: Lula e Flávio Bolsonaro ainda sem resultados, mas a apuração começa em breve",
+  "why_it_matters": "O segundo turno definirá o rumo político e econômico do Brasil nos próximos quatro anos, e investidores, analistas e a população acompanham cada minuto.",
+  "big_picture": "A disputa está polarizada entre a esquerda de Lula e a direita de Flávio Bolsonaro, refletindo profundas divisões sociais; o resultado influenciará políticas fiscais, ambientais e relações internacionais.",
   "details": [
-   "TSE disponibiliza transmissão ao vivo da contagem de votos em todo o país (UOL e O Globo)",
-   "Portais como UOL e O Globo oferecem guias para acompanhar a apuração em tempo real",
-   "Presidente do TSE, ministro Zanin, prorroga até 19h a votação nas seções onde as urnas ainda não foram fechadas"
+   "TSE ainda não iniciou a contagem; as primeiras urnas serão abertas para apuração em breve",
+   "UOL e O Globo publicam guias passo‑a‑passo para acompanhar o resultado em tempo real",
+   "Justiça Eleitoral prorrogou o horário de votação até 19h nos locais onde as urnas não foram fechadas",
+   "Nenhum número de votos foi divulgado nas manchetes; a apuração ainda não começou"
   ],
-  "whats_next": "A partir das 19h, o TSE iniciará a divulgação oficial dos resultados, com atualizações contínuas ao longo da noite."
+  "whats_next": "A contagem oficial deve iniciar após 19h, com os primeiros indicadores de vitória surgindo nas próximas horas."
  },
  "brief_en": {
-  "headline": "Presidential runoff count starts; Lula 13 vs Flávio 22",
-  "why_it_matters": "With Lula vs Flávio Bolsonaro on the line, the outcome will set Brazil’s political and economic course for the next four years.",
-  "big_picture": "The 2026 vote is a fork between Lula’s progressive agenda and Flávio’s conservative platform, shaping domestic policy and foreign ties.",
+  "headline": "2026 Election: Lula and Flávio Bolsonaro still awaiting results, but counting starts soon",
+  "why_it_matters": "The runoff will set Brazil’s political and economic direction for the next four years, and investors, analysts and the public are watching every minute.",
+  "big_picture": "The race pits Lula’s left against Flávio Bolsonaro’s right, highlighting deep social divides; the outcome will shape fiscal, environmental and foreign policies.",
   "details": [
-   "TSE streams the vote count live nationwide (UOL and O Globo)",
-   "Sites like UOL and O Globo provide real‑time tracking guides",
-   "TSE head Minister Zanin extends voting in open sections until 7 p.m."
+   "TSE hasn’t begun counting; the first ballot boxes will be opened for tally soon",
+   "UOL and O Globo publish step‑by‑step guides to follow the results live",
+   "Electoral Justice extended voting hours to 19h at sites where polls remained open",
+   "No vote totals have been released; counting hasn’t started"
   ],
-  "whats_next": "From 7 p.m., TSE will release official results, with rolling updates through the night."
+  "whats_next": "Official tally should kick off after 19h, with early win indicators expected in the coming hours."
  },
  "error": null
 }
