@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:42:42.247288-03:00",
+ "updated": "2026-10-25T20:44:39.047558-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "STF estende prazo de votação enquanto resultados parciais já mostram viradas em 23 cidades",
-  "why_it_matters": "A extensão mantém eleitores na fila e pode mudar o placar final; as primeiras apurações já indicam mudanças de apoio entre Lula e Flávio Bolsonaro.",
-  "big_picture": "Com a votação ainda em curso e a apuração apenas iniciada em Minas Gerais, São Paulo e Nordeste, o resultado final do segundo turno permanece incerto.",
+  "headline": "Flávio Bolsonaro vira em 23 cidades enquanto apurações de Minas, SP e Nordeste começam",
+  "why_it_matters": "A virada em 23 municípios mostra que o candidato ainda tem força, mas ainda não há quadro nacional definido.",
+  "big_picture": "O segundo turno ainda está aberto; os resultados parciais são limitados a algumas regiões e ainda não indicam o vencedor final.",
   "details": [
-   "STF prorrogou horário de votação até as 19h, após término oficial",
-   "Apurações concluídas em 23 municípios já registram virada de vantagem para um dos candidatos",
-   "Resultados parciais já disponíveis para Minas Gerais, São Paulo e Nordeste, mas ainda não cobrem a maioria do eleitorado"
+   "STF prorrogou o prazo de votação até as 19h, mas o horário já se encerrou",
+   "Apurações já disponíveis em Minas Gerais, São Paulo e no Nordeste",
+   "Em 23 cidades com apuração concluída, Flávio Bolsonaro superou Lula"
   ],
-  "whats_next": "A contagem nacional deve avançar nas próximas horas, definindo se Lula ou Flávio Bolsonaro levará a Presidência"
+  "whats_next": "Apurações continuarão nas demais cidades nas próximas horas, definindo o resultado final da eleição"
  },
  "brief_en": {
-  "headline": "STF extends voting deadline as partial results already show turnarounds in 23 cities",
-  "why_it_matters": "The extension keeps voters in line and could flip the final tally; early counts already show shifts in support between Lula and Flávio Bolsonaro.",
-  "big_picture": "With voting still underway and counting just starting in Minas Gerais, São Paulo and the Northeast, the second‑round outcome remains up in the air.",
+  "headline": "Flávio Bolsonaro flips 23 towns as counts start in Minas, SP and the Northeast",
+  "why_it_matters": "The 23‑town swing shows he still has pull, but a national picture isn’t clear yet.",
+  "big_picture": "The runoff is still open; partial results cover only a few regions and don’t yet point to a winner.",
   "details": [
-   "STF pushed voting cutoff to 7 p.m., after the official end",
-   "Counts completed in 23 municipalities now show a lead change for one of the candidates",
-   "Partial results are in for Minas Gerais, São Paulo and the Northeast, but they don’t yet cover most voters"
+   "STF extended voting deadline to 19h, but the clock has now run out",
+   "Results already in for Minas Gerais, São Paulo and the Northeast",
+   "In the 23 towns with completed counts, Flávio Bolsonaro beat Lula"
   ],
-  "whats_next": "National tallies should pick up in the next few hours, deciding whether Lula or Flávio Bolsonaro takes the presidency"
+  "whats_next": "Counts will keep coming in from other towns over the next hours, shaping the final outcome"
  },
  "error": null
 }
