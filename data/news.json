@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:16:11.995477-03:00",
+ "updated": "2026-10-25T20:16:28.767291-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Votação do 2º turno é prorrogada em 5 estados enquanto contagem segue ao vivo",
-  "why_it_matters": "A extensão da votação pode mudar o ritmo da apuração e gerar dúvidas sobre a lisura do processo eleitoral.",
-  "big_picture": "Mesmo com atrasos e críticas à atuação do TSE e STF, autoridades descartam anular a eleição; o pleito segue em curso.",
+  "headline": "Flávio Bolsonaro pede prorrogação da votação em 5 estados enquanto TSE e STF reconhecem erros nas decisões",
+  "why_it_matters": "A extensão pode atrasar a divulgação dos resultados finais de um segundo turno apertado (13 x 22) e alimentar disputas legais",
+  "big_picture": "A disputa presidencial de 2026 entra na fase de contagem, mas divergências entre candidatos, a Justiça Eleitoral e o Supremo Tribunal Federal ameaçam a percepção de legitimidade do pleito",
   "details": [
-   "Flávio Bolsonaro pediu prorrogação da votação em cinco estados",
-   "Ministra Zanin autorizou extensão até 19h nos locais onde as urnas ainda não foram fechadas",
-   "Ministros reconhecem erros do TSE e STF na decisão, mas afirmam que a eleição não será anulada",
-   "Veículos como Veja e Globo mantêm cobertura ao vivo da apuração",
-   "Expectativa de contestações judiciais sobre a prorrogação"
+   "Flávio Bolsonaro solicitou prorrogação da votação em cinco estados (UOL Notícias)",
+   "Zanin, do TSE, prorrogou até 19h a votação em locais onde as urnas ainda não foram fechadas (UOL Notícias)",
+   "Ministros do TSE e do STF apontam erros nas decisões de prorrogação, esperam contestações, mas descartam anular a eleição (Folha de S.Paulo)",
+   "Veja e O Globo mantêm cobertura ao vivo da apuração, mas ainda não há números oficiais divulgados (VEJA; O Globo)"
   ],
-  "whats_next": "Tribunais decidirão sobre a validade das extensões e a contagem final será divulgada após o encerramento definitivo da votação."
+  "whats_next": "Tribunais analisarão os recursos contra as prorrogações; a apuração completa deve ser concluída após 19h, com resultados definitivos divulgados ainda esta noite"
  },
  "brief_en": {
-  "headline": "2nd‑round voting extended in 5 states as count stays live",
-  "why_it_matters": "Extended voting could shift the count pace and raise questions about election integrity.",
-  "big_picture": "Despite delays and criticism of the TSE and Supreme Court, officials say the election won’t be voided; the race stays on track.",
+  "headline": "Flávio Bolsonaro asks to extend voting in 5 states as TSE and STF flag decision errors",
+  "why_it_matters": "The extension could delay final results of a tight runoff (13 x 22) and fuel legal battles",
+  "big_picture": "The 2026 presidential race moves into counting, but rifts among candidates, the election court and the Supreme Court threaten the election’s legitimacy perception",
   "details": [
-   "Flávio Bolsonaro asked to extend voting in five states",
-   "Minister Zanin approved extensions until 7 p.m. where ballot boxes remain open",
-   "Ministers acknowledge TSE and Supreme Court missteps but say the election won’t be nullified",
-   "Outlets like Veja and Globo keep live count coverage",
-   "Legal challenges to the extensions are expected"
+   "Flávio Bolsonaro requested a voting extension in five states (UOL News)",
+   "TSE’s Zanin extended voting until 7 p.m. in precincts where machines remain open (UOL News)",
+   "TSE and STF ministers cite errors in the extensions, expect challenges but rule out overturning the election (Folha de S.Paulo)",
+   "Veja and O Globo stream live results, but no official numbers yet (Veja; O Globo)"
   ],
-  "whats_next": "Courts will rule on the extensions’ validity and the final tally will be released after voting fully closes."
+  "whats_next": "Courts will review appeals against the extensions; full count should finish after 7 p.m., with final results expected later tonight"
  },
  "error": null
 }
