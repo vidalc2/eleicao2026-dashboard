@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:07:18.872349-03:00",
+ "updated": "2026-10-25T19:09:21.587910-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -35,35 +35,37 @@
    "gnews": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcS1zektSUU9rLUNyYk9QWlJ1dXFoSm0xRF8wNlBfMG4tNWk0ejYxdFY3dmd2ZVJiWU55NTJJaG1HeWpxQXB4NmlsOGQ5Tld0Q1VoSi1pOEU4WExzYlFHUktZc285cXJqNXlmRnZSN2JfUDh6VUUwSGR0ZzNmUldGM2hVZkoyM2hDV2c1Z0hCUXJmMUNPUE9wQ1ZqZkZ1MEFoN0JaUWoxcHJpLXJzVXhqS1BuRVBHVW96WkpIRU1SN1dnbHpycmNiTnpQRHYyQWdiYmRja3Q2em04Vy1CVnlVaWxn?oc=5"
   },
   {
-   "title": "Apuração TSE 2026: veja como acompanhar resultado em tempo real do segundo turno - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/apuracao-tse-2026-veja-como-acompanhar-resultado-em-tempo-real-do-segundo-turno.ghtm",
-   "source": "UOL Notícias",
-   "published": "2026-10-25T21:42:49+00:00",
-   "desc": " Apuração TSE 2026: veja como acompanhar resultado em tempo real do segundo turno    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkhRbXZZU3UwUHZqa2RySksyOTkwOVp0RVJ3eWI5bzNlSGNPbmRqZllHWEtPQTZodjdUWHZuQTZxa2NPY0JoenJ6MGl0Ul9fQzZMRHkyUEdpdVp5VGpJUTZNaWpZSklTS2lhOUhBcmZLcjMzc0xqeWpzRzFjZzhRaXBqZllUR3FVNWpENVhaSVROa2d4bGJNRWw5WE5UVEpzUkZNWXZBSU93RVZuRjJ1T1dVdk1MeE1Dcll2a0EycWNQVzQzbTduRUxqYUI?oc=5"
+   "title": "ELEIÇÕES 2026 | Os candidatos à Presidência da República falaram com jornalistas depois de votarem na manhã desde domingo de segundo turno.⁣ ⁣ 📲 Acompanhe a cobertura no site do #Estadão - Instagram",
+   "link": "https://www.instagram.com/reel/De7FRiUgbC-/",
+   "source": "Instagram",
+   "published": "2026-10-25T22:08:12+00:00",
+   "desc": " ELEIÇÕES 2026 | Os candidatos à Presidência da República falaram com jornalistas depois de votarem na manhã desde domingo de segundo turno.⁣ ⁣ 📲 Acompanhe a cobertura no site do #Estadão    Instagram ",
+   "gnews": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BbHJjZkEtUXRPR3JzVTdJYm5PNXBDUDZPd0I0cHVpMDUyb3o2WDNNS3B0eEtSWWhWNHU2RXloUThDMUEtSEtjcUNvc0syZGVsdUZycVBn?oc=5"
   }
  ],
  "brief": {
-  "headline": "Apuração do 2º turno ainda não começou; TSE indica retomada às 19h",
-  "why_it_matters": "A contagem dos votos definirá se Lula (13) ou Flávio Bolsonaro (22) vencerá a disputa presidencial de 2026.",
-  "big_picture": "Com a apuração ainda parada, candidatos e eleitores aguardam os primeiros números que podem mudar o clima político nacional.",
+  "headline": "Apuração dos votos do 2º turno ainda não tem números, mas tensão aumenta entre candidatos",
+  "why_it_matters": "O Tribunal Superior Eleitoral só retomará a contagem às 19h, enquanto a campanha de Flávio Bolsonaro já acusa golpe judiciário sem provas.",
+  "big_picture": "A disputa entre Lula e Flávio Bolsonaro está no centro de um clima de desconfiança que pode impactar a legitimidade da eleição.",
   "details": [
-   "TSE informou que a contagem dos votos será retomada às 19h (horário de Brasília).",
-   "UOL e O Globo disponibilizam plataformas de acompanhamento em tempo real da apuração.",
-   "Chefe da campanha de Flávio Bolsonaro acusa ‘golpe judiciário’ e aliados insinuam fraude, mas sem provas concretas."
+   "UOL e O Globo mantêm páginas de apuração ao vivo, mas ainda não divulgam resultados.",
+   "TSE informou que a contagem dos votos será retomada às 19h, horário de Brasília.",
+   "Chefe da campanha de Flávio Bolsonaro acusa \"golpe judiciário\" e aliados insinuam fraude sem evidências.",
+   "Candidatos participaram de entrevistas com a imprensa logo após a votação, conforme cobertura do Estadão."
   ],
-  "whats_next": "A partir das 19h a contagem será reativada e os resultados começarão a ser divulgados oficialmente."
+  "whats_next": "Acompanhar a contagem a partir das 19h e observar se as alegações de fraude ganham força."
  },
  "brief_en": {
-  "headline": "2nd‑round count hasn’t started; TSE says it will resume at 7 p.m.",
-  "why_it_matters": "The tally will decide if Lula (13) or Flávio Bolsonaro (22) wins the 2026 presidential race.",
-  "big_picture": "With the count paused, candidates and voters await the first numbers that could shift the national political climate.",
+  "headline": "2nd‑round vote count still empty, but tension rises between candidates",
+  "why_it_matters": "The TSE will resume counting at 19h, as Flávio Bolsonaro’s team already claims a judicial coup without proof.",
+  "big_picture": "The Lula‑Flávio Bolsonaro showdown sits at the heart of a trust deficit that could undermine the election’s legitimacy.",
   "details": [
-   "TSE says vote counting will restart at 7 p.m. (Brasília time).",
-   "UOL and O Globo provide real‑time tracking dashboards.",
-   "Flávio Bolsonaro’s campaign chief decries a ‘judicial coup’; allies hint at fraud, but no concrete evidence."
+   "UOL and O Globo keep live results pages up, but no numbers yet.",
+   "TSE says vote tally will restart at 19h Brasília time.",
+   "Flávio Bolsonaro’s campaign chief accuses a “judicial coup,” and allies hint at fraud with no evidence.",
+   "Candidates gave press interviews right after voting, per Estadão coverage."
   ],
-  "whats_next": "Counting resumes at 7 p.m., and official results will start rolling out."
+  "whats_next": "Watch the count from 19h and see if fraud claims gain traction."
  },
  "error": null
 }
