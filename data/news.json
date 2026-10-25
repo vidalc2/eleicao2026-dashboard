@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:31:08.143364-03:00",
+ "updated": "2026-10-25T18:33:08.960614-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -19,6 +19,14 @@
    "gnews": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG1PWDlkQWwtZkpPMnI3UDlaWS1xUDlkeUZ1c1ZVNnV6bGJtTE5DaGxFcWpvUTRmVnEzak5lQkd4Zk9Ycnk3NEVDblBwelRIQTY2TVA4czRJRTBTRDdLTmhFLWZNbnRsU2pWMHo4ZFFVNTFGV0dTeVVqX084bUVuNkYwSzBZaUQtQnhZRkdEVWQ1RW9XeUE?oc=5"
   },
   {
+   "title": "TSE: seções eleitorais ainda abertas devem manter votação até as 19h - Agência Brasil",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-secoes-eleitorais-ainda-abertas-devem-manter-votacao-ate-19h",
+   "source": "Agência Brasil",
+   "published": "2026-10-25T21:15:00+00:00",
+   "desc": " TSE: seções eleitorais ainda abertas devem manter votação até as 19h    Agência Brasil ",
+   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWdLX1Q5ZmdGdkhCUHVfNWR5U3lydF9Ua0Znczg1alNoR3BrTkU5ODNCN043NnFkRkR1RDZfcUE0b3VvdVFFREF6UmY4LWVjc0F3Ym1vYWpJMHRaRXg2WlNYZEp1WHFMQXQtR28xSVp5OC1rQ2ROZ3cyb2NfbU5Yc3RCczRXMDhUMFQxN3RhU1o4Z0QtOEd6aDVLWnRYaThNQ1I0ZmdyVm52cFBKR2d3S3lxWWtTLXNtblZuNkZaTQ?oc=5"
+  },
+  {
    "title": "Flávio Bolsonaro pede prorrogação de votação em 5 estados - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/flavio-bolsonaro-prorrogacao-horario-votacao.ghtm",
    "source": "UOL Notícias",
@@ -27,47 +35,39 @@
    "gnews": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnZNVThjcUlOYUtPSVVWN1FSeDc3NXRsQWpRRzdFYU1HQWZpNHUzV18zcll3czVuX1NBTjVsdWlJejY3OHdlM0FoaUhRVUk5TVZIc2JVY19KQV9scjJjeGh4clRJQXNWTmlVRFFUS3pMME5kR2tKS2NPN3BNTFdZUTh1eGF0ZVFjRVFkYVV6d0h5Nm10VUN4bVhncEJLdw?oc=5"
   },
   {
-   "title": "Apuração dos votos: após prorrogar votação até 19h, Zanin esclarece que decisão afeta apenas locais com urnas ainda abertas - G1",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/apuracao-dos-votos-apos-prorrogar-votacao-ate-19h-zanin-esclarece-que-decisao-afeta-apenas-locais-com-urnas-que-ainda-estavam-abertas.ghtml",
-   "source": "G1",
-   "published": "2026-10-25T21:02:47+00:00",
-   "desc": " Apuração dos votos: após prorrogar votação até 19h, Zanin esclarece que decisão afeta apenas locais com urnas ainda abertas    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbGxDRGRvMG9IQ210aDRCRnBaVUZnb1VReENZejFYUktKQ25xS2VYSlloS09lZnRGZXJCU21YX3FfWldSV1V2YXB0SHY5dnh3ZlVWRUZtWmRwU0Q5NEJvcHJWNTRoU3dWWDVfaUxkc2pLdzVYQmJfVkhZeVVYTGowV0pMUUNrdE5FelNNVGRzUGNld2Q0ZEdYd0U2dHV2QjgwX3BQTzJPajNVQU82TFdVbDAtRUpiY3d4VkRBZHNMbjVObDUzUEp6RkhKUnl2RWwxVFltVlZ3MmZ4NTdraFJCd25LMndQSUw0c0Y1ejlJSWN2czNjdU1oZGUwQk4zQ2ZRVnNuaWtQMTlpYWhLSmhQRHFJRTJyME5USF9QLXdtS3Y5LXdybHZMdGx30gG4AkFVX3lxTE1obzRfSXp3R2czOUJDaEVDa3I5NVd6dUNDUUdTaUhzRjAxQWZpMkltSEoxcnZrWF9xT1VWVTFhVzZHMnVHNXZvQjJpUFdEbTNhUGU5NHpyeFdLamczbFVVVE9seFRjbWlKOWxDcFhGQ1FILTU2NXRzZDNtOXIwRnNUY1l4X004a3pkdFF6UTZUMG1WRVAwSURmbTVnTE1rVzEyX0xOZk95SWlWNklwcGxORThOckNuOHNWREtkM2NOZnkzdzNMYnIzd01RanFaZWtTZTdRSkl4OVBqRTRpQ29xWGNOc1kzVUZWZU84WU9GQ0hZdHp4VEd0eldBZHY5YkhzU01rNnZ1TmdId2psT2M3ZEgyYW9aaVhFR2ZFai1veU80WHk0N0pCWlhYQ1VNZ0hKV2FyNHpwVw?oc=5"
-  },
-  {
-   "title": "Como estava apuração para presidente às 21h em 2022? Veja resultado e apuração - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/apuracao-para-presidente-em-2022-as-21h-como-estava-resultado-do-segundo-turno.ghtm",
-   "source": "UOL Notícias",
-   "published": "2026-10-25T21:00:00+00:00",
-   "desc": " Como estava apuração para presidente às 21h em 2022? Veja resultado e apuração    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1QxNS1nMEQ3amRqQVdFOFgyb01VRkJmU1lBTTZ4QU1nSVZqc0NUUFlkUWI2cDZBSzZLTTNHOWxjLW56X2UzdzlsMkhvZmNYZW9SVW5NV0t5a0NmOFRmN0dybUdKWHd6eWstQUVxbHh5VXdlQURjVF9kMUdtNWFyd2tGWDZoX1RXWHdCdWF1MUFkQlVwcVFicjBYeWJGZ3VMQTFiVzNRV2RMTUM2RlRmbGFfa3ZNamtMcTBnN014SEtGQWZBbXladjdiTQ?oc=5"
+   "title": "Após Zanin prorrogar votação, presidente do TSE orienta TREs a fecharem as urnas às 19h - O GLOBO",
+   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apos-zanin-prorrogar-votacao-presidente-do-tse-comunica-tres-para-fechamento-das-urnas-as-19h.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-25T21:05:21+00:00",
+   "desc": " Após Zanin prorrogar votação, presidente do TSE orienta TREs a fecharem as urnas às 19h    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNFpjaURTYUJLTVBTdXE1bjFtREZ6dG5zTmllYkhMdjc1ek9WNVIxc3dyZE1fWnpZM21WbWlzb3lFdUNYQ1p1dVhoeDhHak1MYjRxSDNKa001bDNDWnNiLUFrZ0s4WkNUNDFEWmR0U0UyN094VmZzOUdiT3VhNEktM3RZdFBZV0Yzam5VcWdzYkMzZWc0TnQyQUVoVkJRQ094RHJBLWdpYXVyNjVvQndnSHEyNTg2WTlwN0R0OXlnaEtiUXdUYnBLTnFGNF9lVTZYSDBybVNOeEx1cnh1OTVpbmh4WlpnUXRLWjRUR19DN2dkOHhhY1k5LTd30gGIAkFVX3lxTFBRbnljdzZ1bEdrbzB5ZFg3ZHJXN2ZMVUFac3BZbTlKc2NFeUxmT2Q3MlByNmRLUkEzaTUxLWlNMHZRVWRqd2FlMDVYSlBnSy1MdmtBMGw4STZ3RmhobkFqdXNDNWEtTVhkZWd3VnJwdTFidGo4SmJabDBqckZKMzdIdkhMa0tiT1Z6SE82emRpZmRuMFY0LWlabEZyME5xd1ZYendaUWsyenpYWFJEQnZ0UUtXbjRMcXpxWmxFNFc3cXRrUUdGSkZHbTFLeWJEUUlEMFVGWE01T09NUHBORFlYRHVXdEdOOGpLU0ZwcEYxbGFnUkJVZm9yckx4RE5DNWpDX04xdTlIWQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "STF estende horário de votação do 2º turno por 2 horas após pedidos de Lula e Flávio Bolsonaro",
-  "why_it_matters": "A prorrogação pode mudar o número de votos contabilizados e evidencia a disputa entre as campanhas e as instituições eleitorais",
-  "big_picture": "A eleição ainda está em curso; a apuração oficial ainda não começou e não há números divulgados",
+  "headline": "STF estende horário da votação da 2ª volta até as 19h",
+  "why_it_matters": "A prorrogação mantém abertas as urnas em seções ainda não encerradas, podendo mudar o placar final entre Lula e Flávio Bolsonaro.",
+  "big_picture": "A disputa está tão apertada que candidatos e partidos recorrem ao Judiciário para ganhar minutos extras de votação, refletindo a tensão política do país.",
   "details": [
-   "Campanha de Lula pediu ao STF que a votação fosse prorrogada até as 19h",
-   "Flávio Bolsonaro solicitou extensão do horário em cinco estados",
-   "STF concedeu a prorrogação, adicionando duas horas ao prazo de votação, \"atropelando\" o TSE",
-   "Vice‑presidente Zanin esclareceu que a decisão afeta apenas locais onde as urnas ainda estavam abertas",
-   "Nenhuma apuração de votos foi divulgada até o momento"
+   "Campanha de Lula pediu ao STF que prorrogasse a votação até as 19h",
+   "STF \"atropelou\" o TSE e concedeu extensão de 2 horas à eleição",
+   "TSE determinou que as seções ainda abertas permaneçam em funcionamento até as 19h",
+   "Flávio Bolsonaro solicitou prorrogação da votação em cinco estados",
+   "Presidente do TSE, após decisão de Zanin, orientou os TREs a encerrarem as urnas às 19h"
   ],
-  "whats_next": "A contagem dos votos deve iniciar após o fechamento definitivo das urnas, previsto para cerca de 22h"
+  "whats_next": "A apuração completa deve começar após o fechamento oficial às 19h, com possibilidade de novos recursos judiciais."
  },
  "brief_en": {
-  "headline": "Brazil's Supreme Court adds 2 hours to 2nd‑round voting after requests from Lula and Flávio Bolsonaro",
-  "why_it_matters": "The extra time could shift vote totals and highlights the clash between campaigns and election bodies",
-  "big_picture": "The race is still underway; official tally hasn't started and no results are out",
+  "headline": "Supreme Court extends 2nd‑round voting to 19h",
+  "why_it_matters": "The extension keeps open polls in still‑running precincts, which could flip the final tally between Lula and Flávio Bolsonaro.",
+  "big_picture": "The race is that tight that candidates and parties are turning to the courts for extra voting minutes, underscoring the country’s political strain.",
   "details": [
-   "Lula's campaign asked the court to keep polls open until 7 p.m.",
-   "Flávio Bolsonaro sought an extension in five states",
-   "The court granted it, tacking on two hours and overrunning the electoral court",
-   "Vice‑president Zanin said it only applies where ballot boxes were still open",
-   "No vote counts have been released yet"
+   "Lula’s campaign asked the Supreme Court to push the voting deadline to 19h",
+   "The Court “steamrolled” the electoral authority, granting a two‑hour extension",
+   "The electoral authority ordered still‑open stations to stay active until 19h",
+   "Flávio Bolsonaro sought a voting extension in five states",
+   "The TSE president, after Zanin’s ruling, told regional courts to close polls at 19h"
   ],
-  "whats_next": "Counting should begin after the final poll closure, expected around 10 p.m."
+  "whats_next": "Full results will start rolling in after the official 19h close, with more legal challenges possible."
  },
  "error": null
 }
