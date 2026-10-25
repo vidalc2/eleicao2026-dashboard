@@ -308,7 +308,7 @@ function render(d,series){
 document.querySelectorAll('th button[data-k]').forEach(b=>b.onclick=()=>{const k=b.dataset.k;if(sortK===k)sortD*=-1;else{sortK=k;sortD=-1;}if(latestD)render(latestD,seriesD);});
 
 function renderNews(n){newsD=n;
-  $('#newsupd').textContent=n.updated?' · '+n.updated.slice(11,16):'';
+  $('#newsupd').textContent=n.updated?' · '+n.updated.slice(11,16)+' BRT':'';
   const b=(L==='en'&&n.brief_en)?n.brief_en:n.brief;
   if(b){$('#brief').innerHTML=`<h3>${b.headline||''}</h3>
     <div class="lbl">${T('why')}</div><div>${b.why_it_matters||''}</div>
@@ -316,7 +316,7 @@ function renderNews(n){newsD=n;
     <div class="lbl">${T('details')}</div><ul>${(b.details||[]).map(x=>`<li>${x}</li>`).join('')}</ul>
     <div class="lbl">${T('next')}</div><div>${b.whats_next||''}</div>`;}
   else $('#brief').innerHTML=`<span class="err">${n.error||T('no_brief')}</span>`;
-  $('#links').innerHTML=(n.items||[]).map(i=>`<a href="${i.link}" target="_blank" rel="noopener">${i.title}<br><small>${i.source} · ${i.published.slice(11,16)} UTC</small></a>`).join('');
+  $('#links').innerHTML=(n.items||[]).map(i=>`<a href="${i.link}" target="_blank" rel="noopener">${i.title}<br><small>${i.source} · ${new Date(i.published).toLocaleTimeString(loc(),{hour:'2-digit',minute:'2-digit',timeZone:'America/Sao_Paulo'})} BRT</small></a>`).join('');
 }
 async function refresh(){
   try{const [a,b]=await Promise.all([fetch('data/latest.json?'+Date.now()).then(r=>r.json()),fetch('data/series.json?'+Date.now()).then(r=>r.json())]);latestD=a;seriesD=b;render(a,b);}
