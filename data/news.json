@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:55:35.601568-03:00",
+ "updated": "2026-10-25T19:57:35.696786-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula lidera nas primeiras 5,56% das seções no 2º turno, mas a contagem ainda está no início",
-  "why_it_matters": "Com apenas 5,56% das urnas apuradas, a vantagem de Lula ainda pode mudar, e a disputa contra Flávio Bolsonaro permanece acirrada.",
-  "big_picture": "A corrida presidencial de 2026 entra na fase decisiva, enquanto candidatos pedem extensão do horário de votação para garantir transparência.",
+  "headline": "Lula abre vantagem nas primeiras contagens do 2º turno",
+  "why_it_matters": "Com apenas 5,56% das seções eleitorais apuradas, o ex-presidente já lidera, mas a maioria dos votos ainda será contabilizada.",
+  "big_picture": "A disputa entre Lula (13) e Flávio Bolsonaro (22) define o rumo político e econômico do Brasil nos próximos quatro anos.",
   "details": [
-   "TSE informa que 5,56% das seções já foram contabilizadas, com Lula à frente",
-   "Candidatos, inclusive Lula, solicitaram ao TSE a prorrogação do horário de votação",
-   "Portais como UOL e Estadão oferecem acompanhamento em tempo real da apuração"
+   "TSE divulga que 5,56% das seções já foram contabilizadas, colocando Lula à frente.",
+   "Portais como UOL, G1, Veja e Estadão mantêm transmissão ao vivo e projeções da apuração.",
+   "Lula solicitou ao TSE a prorrogação do horário de votação, pressionando por maior participação eleitoral."
   ],
-  "whats_next": "A apuração deve avançar nas próximas horas, com projeções se ajustando à medida que mais seções são divulgadas."
+  "whats_next": "A apuração deve acelerar nas próximas horas, com projeções mais confiáveis surgindo ao longo da madrugada."
  },
  "brief_en": {
-  "headline": "Lula leads in the first 5,56% of precincts in the 2nd round, but the count is just starting",
-  "why_it_matters": "With only 5,56% of ballots counted, Lula’s edge could still shift, and the race against Flávio Bolsonaro stays tight.",
-  "big_picture": "The 2026 presidential race hits the decisive phase as candidates push to extend voting hours for transparency.",
+  "headline": "Lula opens lead in early 2nd‑round counts",
+  "why_it_matters": "With just 5.56% of precincts reported, the former president is ahead, but most votes are still pending.",
+  "big_picture": "The Lula (13) vs Flávio Bolsonaro (22) showdown will shape Brazil’s political and economic path for the next four years.",
   "details": [
-   "TSE says 5,56% of precincts are in, with Lula ahead",
-   "Candidates, including Lula, have asked TSE to extend voting hours",
-   "Sites like UOL and Estadão provide live vote tracking"
+   "TSE reports 5.56% of precincts counted, putting Lula in front.",
+   "Sites like UOL, G1, Veja and Estadão are streaming live results and projections.",
+   "Lula asked the TSE to extend voting hours, pushing for higher turnout."
   ],
-  "whats_next": "Count should pick up over the next hours, with projections adjusting as more precincts report."
+  "whats_next": "Counting should speed up over the next hours, with more reliable projections emerging through the night."
  },
  "error": null
 }
