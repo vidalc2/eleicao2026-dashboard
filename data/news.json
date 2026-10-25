@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:27:27.207322-03:00",
+ "updated": "2026-10-25T19:29:28.110263-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula lidera nas primeiras contas do 2º turno, mas a apuração ainda está nos primeiros minutos",
-  "why_it_matters": "Com apenas 0,37% das seções apuradas, a vantagem ainda é preliminar e pode mudar conforme a votação se estende até 19h.",
-  "big_picture": "A prorrogação do horário de votação, atendendo ao pedido de Lula, amplia o tempo de votação em todo o país, potencialmente afetando o resultado final.",
+  "headline": "Lula lidera nas primeiras contagens do 2º turno, mas apuração ainda está no início",
+  "why_it_matters": "Com apenas 0,37% das seções apuradas, a vantagem ainda é preliminar e pode mudar à medida que o TSE divulga mais resultados.",
+  "big_picture": "A disputa entre Lula (13) e Flávio Bolsonaro (22) define o rumo político do Brasil para os próximos quatro anos, em um cenário de alta polarização.",
   "details": [
-   "TSE informa que 0,37% das seções já foram contabilizadas, colocando Lula à frente",
-   "Juiz Alexandre Zanin prorroga o horário de votação até 19h em todo o país",
-   "Portais como Veja, Estadão e G1 oferecem acompanhamento em tempo real da projeção da apuração"
+   "TSE informou que 0,37% das seções já foram contabilizadas, colocando Lula à frente",
+   "Juiz eleitoral Zanin prorrogou o horário de votação até 19h em todo o país, após pedido de Lula",
+   "Portais como VEJA, Estadão e G1 já oferecem acompanhamento em tempo real das projeções de apuração"
   ],
-  "whats_next": "A contagem seguirá até o fechamento das urnas às 19h, quando mais seções serão apuradas e a tendência poderá se confirmar ou reverter"
+  "whats_next": "A contagem deve acelerar nas próximas horas, com resultados mais claros a partir da metade da noite"
  },
  "brief_en": {
-  "headline": "Lula leads in early 2nd‑round counts, but tally is still in its first minutes",
-  "why_it_matters": "With just 0,37% of precincts reported, the edge is provisional and could shift as voting runs until 7 p.m.",
-  "big_picture": "Extending the voting window at Lula’s request adds hours nationwide, which could sway the final outcome.",
+  "headline": "Lula leads in early 2nd round counts, but tally is just starting",
+  "why_it_matters": "With only 0,37% of precincts reported, the lead is tentative and could shift as the TSE releases more results.",
+  "big_picture": "The contest between Lula (13) and Flávio Bolsonaro (22) will shape Brazil’s political path for the next four years amid sharp polarization.",
   "details": [
-   "TSE says 0,37% of precincts are in, putting Lula ahead",
-   "Judge Alexandre Zanin extends voting to 7 p.m. across the country",
-   "Sites like Veja, Estadão and G1 stream real‑time projection updates"
+   "TSE reports 0,37% of precincts counted, putting Lula ahead",
+   "Election judge Zanin extended voting hours to 19h nationwide after Lula’s request",
+   "Sites like VEJA, Estadão and G1 now stream real‑time tally projections"
   ],
-  "whats_next": "Counting continues until polls close at 7 p.m.; more precincts will be added and the trend could hold or flip."
+  "whats_next": "Counting should speed up over the next few hours, with clearer results by late night"
  },
  "error": null
 }
