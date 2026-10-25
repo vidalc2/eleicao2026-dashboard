@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:01:16.996776-03:00",
+ "updated": "2026-10-25T19:03:16.013318-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Chefe da campanha de Flávio Bolsonaro denuncia ‘golpe judiciário’ enquanto a apuração ainda não começou",
-  "why_it_matters": "Acusações de golpe e fraude sem provas podem elevar a tensão política antes da divulgação dos resultados.",
-  "big_picture": "O clima de contestação já se instala no segundo turno, com candidatos preparando argumentos legais antes mesmo da contagem oficial.",
+  "headline": "Eleição 2026: Brasil acompanha apuração ao vivo enquanto candidatos pedem prorrogação",
+  "why_it_matters": "O segundo turno entre Lula e Flávio Bolsonaro decide o futuro político e econômico do país, e a disputa por extensão da votação pode atrasar a divulgação dos resultados.",
+  "big_picture": "Com a votação ainda em andamento e a apuração oficial ainda não iniciada, o foco está nos mecanismos de transmissão dos resultados e nas estratégias legais dos candidatos.",
   "details": [
-   "Chefe da campanha de Flávio Bolsonaro fala em ‘golpe judiciário’ e aliados sugerem fraude sem evidências",
-   "TSE ainda não iniciou a apuração; os primeiros números só serão divulgados após a abertura das urnas às 20h",
-   "UOL orienta eleitores a acompanhar a apuração em tempo real pelos canais oficiais",
-   "Lula e Flávio solicitaram prorrogação da votação, gerando debate sobre procedimentos eleitorais"
+   "TSE disponibiliza portal para acompanhamento em tempo real da apuração",
+   "Lula e Flávio Bolsonaro solicitaram prorrogação da votação, gerando debate jurídico",
+   "UOL e O Globo oferecem streams ao vivo mostrando quem está na frente, mas sem números oficiais ainda"
   ],
-  "whats_next": "A contagem oficial começa às 20h; o TSE publicará os resultados preliminares em seguida."
+  "whats_next": "A apuração oficial deve começar nas próximas horas, definindo se haverá extensão e quem será declarado vencedor"
  },
  "brief_en": {
-  "headline": "Flávio Bolsonaro campaign chief decries ‘judicial coup’ as vote count hasn’t started",
-  "why_it_matters": "Unsubstantiated coup and fraud claims could heighten political tension ahead of results.",
-  "big_picture": "A contestation vibe is already set for the runoff, with candidates lining up legal arguments before the official tally.",
+  "headline": "2026 Election: Brazil watches live count as candidates ask for extension",
+  "why_it_matters": "The runoff between Lula and Flávio Bolsonaro decides Brazil’s political and economic future, and the push for a vote extension could delay results.",
+  "big_picture": "With voting still underway and official tallies not started, attention is on result‑delivery mechanisms and the candidates’ legal tactics.",
   "details": [
-   "Flávio Bolsonaro campaign chief warns of a ‘judicial coup’ and allies hint at fraud with no evidence",
-   "TSE hasn’t begun counting; the first numbers will be released after the polls open at 20h",
-   "UOL advises voters to follow the count live via official channels",
-   "Lula and Flávio asked for a voting extension, sparking debate over election procedures"
+   "TSE offers a real‑time results portal",
+   "Lula and Flávio Bolsonaro have asked to extend voting, sparking legal debate",
+   "UOL and O Globo stream live leaderboards, but no official numbers yet"
   ],
-  "whats_next": "The official count kicks off at 20h; TSE will post preliminary results shortly after."
+  "whats_next": "Official tallies should start in hours, deciding any extension and the winner"
  },
- "error": "Expecting ',' delimiter: line 1 column 776 (char 775)"
+ "error": null
 }
