@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:52:53.674810-03:00",
+ "updated": "2026-10-25T17:54:53.751382-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,32 @@
   }
  ],
  "brief": {
-  "headline": "STF estende horário de votação em todo o país, decisão inédita que pode mudar o rumo do 2º turno",
-  "why_it_matters": "A prorrogação de duas horas, imposta pelo STF, altera a dinâmica da disputa entre Lula (13) e Flávio Bolsonaro (22) e levanta dúvidas sobre a lisura do processo.",
-  "big_picture": "O pleito já enfrenta tensões institucionais: decisões judiciais de última hora, seções encerradas no Rio e a campanha de Flávio ainda em Miami, tudo sem números de apuração disponíveis.",
+  "headline": "STF estende horário de votação no 2º turno, criando primeira prorrogação desde as urnas eletrônicas",
+  "why_it_matters": "A decisão adiciona duas horas ao pleito, podendo alterar a participação e o resultado entre Lula (13) e Flávio Bolsonaro (22).",
+  "big_picture": "A medida evidencia a intervenção do Judiciário em um momento de alta polarização e coloca em foco a logística e a legitimidade do processo eleitoral.",
   "details": [
-   "Prorrogação do horário de votação em todo o país – primeira vez desde a adoção das urnas eletrônicas;",
-   "STF \"atropela\" o TSE e determina extensão de 2h, gerando críticas de ambos os candidatos;",
-   "Algumas seções no Rio tiveram a votação encerrada antes do horário oficial por falha na comunicação da decisão;",
-   "Equipe de Flávio Bolsonaro, liderada por Ramagem, declara que pretende voltar ao Brasil com vitória, mesmo estando em Miami;",
-   "Apuração ainda não começou ou não está nas manchetes; referência à apuração de 2022 como pano de fundo."
+   "STF determina prorrogação de 2h em todo o país, medida inédita desde a adoção das urnas eletrônicas",
+   "No Rio, parte das seções teve votação encerrada antes do horário oficial por atraso na decisão de Zanin",
+   "Equipe de campanha de Flávio Bolsonaro, em Miami, declara que retornará ao Brasil caso vença",
+   "Apuração ainda não começou; as manchetes não trazem números de votos",
+   "A extensão pode beneficiar candidatos com eleitorado concentrado em áreas que ainda não votaram",
+   ""
   ],
-  "whats_next": "Os resultados começarão a ser divulgados após o término da contagem, prevista para altas horas da madrugada de 26/10."
+  "whats_next": "Apuração oficial terá início após o encerramento definitivo às 22h, com primeiros resultados esperados na madrugada"
  },
  "brief_en": {
-  "headline": "STF extends voting hours nationwide, an unprecedented move that could flip the 2nd‑round race",
-  "why_it_matters": "A two‑hour extension ordered by the STF reshapes the contest between Lula (13) and Flávio Bolsonaro (22) and sparks fairness concerns",
-  "big_picture": "The election already faces institutional strain: last‑minute court rulings, Rio precincts closed early and Flávio’s campaign operating from Miami, with no vote counts yet",
+  "headline": "STF extends voting hours in 2nd round, creating first extension since electronic voting machines",
+  "why_it_matters": "The decision adds two hours to the election, potentially shifting turnout and the outcome between Lula (13) and Flávio Bolsonaro (22).",
+  "big_picture": "The move shows the judiciary stepping in during a highly polarized moment, spotlighting election logistics and legitimacy.",
   "details": [
-   "Nationwide voting‑hour extension – first time since electronic ballots were introduced;",
-   "STF “overrides” TSE, adds 2 h, drawing fire from both candidates;",
-   "Some Rio precincts shut down before the official deadline due to a communication glitch;",
-   "Flávio Bolsonaro’s team, led by Ramagem, says they’ll return to Brazil with a win, even while in Miami;",
-   "Counting hasn’t started or hit the headlines; 2022 tally referenced as backdrop."
+   "STF orders a 2‑hour extension nationwide, a first since electronic voting was introduced",
+   "In Rio, some polling stations closed early before the official time due to Zanin’s delayed ruling",
+   "Flávio Bolsonaro’s campaign team in Miami says it will return to Brazil if he wins",
+   "Counting hasn’t started; headlines contain no vote totals",
+   "The extension could help candidates whose base is in areas that haven’t voted yet",
+   ""
   ],
-  "whats_next": "Results will start rolling in after counting finishes, expected in the early hours of Oct 26"
+  "whats_next": "Official results will start after the final close at 10 p.m., with first numbers expected in the early morning"
  },
  "error": null
 }
