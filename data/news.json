@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:50:43.970900-03:00",
+ "updated": "2026-10-25T20:52:46.347834-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Segunda volta presidencial entre Lula e Flávio Bolsonaro ainda sem resultados nacionais",
-  "why_it_matters": "A disputa decide o rumo político do Brasil e, se houver empate, a lei define procedimentos que podem gerar novo turno ou decisão judicial.",
-  "big_picture": "A eleição ocorre em clima de polarização intensa, com atenção ao que a legislação prevê para um eventual empate no 2º turno.",
+  "headline": "Lula e Flávio Bolsonaro disputam o 2º turno enquanto a contagem ainda está em curso",
+  "why_it_matters": "A eleição decidirá o rumo político e econômico do Brasil nos próximos quatro anos, com risco de empate que tem solução legal específica.",
+  "big_picture": "Com a primeira rodada mostrando diferença ainda não detalhada nas manchetes, a corrida agora depende da apuração em municípios-chave e da consolidação dos resultados estaduais.",
   "details": [
-   "Apuração nacional ainda não começou; nenhum número de votos foi divulgado nas manchetes",
-   "São Vicente (SP) já tem resultados de apuração local publicados",
-   "Em 23 cidades com apuração concluída, houve virada de resultados a favor de um dos candidatos",
-   "A lei estabelece que, em caso de empate, o TSE pode convocar novo turno ou decidir por sorteio"
+   "São Vicente (SP) já tem apuração do 2º turno divulgada, mas sem números específicos",
+   "Em 23 cidades a contagem está concluída e indica virada de resultados entre os candidatos",
+   "A lei prevê procedimento claro caso haja empate no segundo turno"
   ],
-  "whats_next": "A contagem nacional deve iniciar nas próximas horas, trazendo os primeiros números de votação."
+  "whats_next": "A apuração nacional deve se intensificar nas próximas horas, com resultados finais esperados ainda hoje."
  },
  "brief_en": {
-  "headline": "Presidential runoff between Lula and Flávio Bolsonaro still lacks national results",
-  "why_it_matters": "The race sets Brazil’s political direction, and a tie triggers legal steps that could force a new round or a court ruling.",
-  "big_picture": "The vote unfolds amid sharp polarization, with eyes on what the law says about a possible runoff tie.",
+  "headline": "Lula and Flávio Bolsonaro battle the 2nd round as counting continues",
+  "why_it_matters": "The vote will set Brazil’s political and economic course for the next four years, with a tie‑breaker already spelled out in law.",
+  "big_picture": "After a first round that left the gap vague in headlines, the race now hinges on counts in key towns and state‑level tallies.",
   "details": [
-   "National tally hasn’t started; no vote totals in headlines",
-   "São Vicente (SP) already posted local results",
-   "In 23 cities with completed counts, results flipped toward one candidate",
-   "Law says a tie lets TSE call a new round or decide by draw"
+   "São Vicente (SP) has released its 2nd‑round count, but no figures yet",
+   "In 23 cities counting is done, showing a swing between the candidates",
+   "The law outlines a clear process if the second round ends in a tie"
   ],
-  "whats_next": "National count should kick off in the next few hours, delivering the first vote numbers."
+  "whats_next": "National tally will ramp up over the next hours, with final results due later today."
  },
  "error": null
 }
