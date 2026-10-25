@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-25T19:05:18.350016-03:00",
+ "updated": "2026-10-25T19:07:18.872349-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Como está apuração dos votos? Veja resultados do segundo turno de Lula x Flávio - UOL Notícias",
+   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/como-esta-apuracao-dos-votos-veja-resultados-do-segundo-turno-de-lula-x-flavio.ghtm",
+   "source": "UOL Notícias",
+   "published": "2026-10-25T22:01:05+00:00",
+   "desc": " Como está apuração dos votos? Veja resultados do segundo turno de Lula x Flávio    UOL Notícias ",
+   "gnews": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZklsSkQ3WTFJYy1DOUZIdk45bWc1YVpaTkVXUWpNLTNCZWdLT1MzWkNsU2R1QURXTTRnSXEyTERqbFRJYTBXWWVOSk1adTVpOXo5UWxuT0VBa3VqUnlTWFQwUlpSTU41Y0JkWF9VZ2NpdHNVUHVoNF9MV0djbnJPX1o4QzBhOUFzaWlDQ1V3M2NmdzlaTjRybnAtVmZmQmRhbFhadTQwUzFmZl9FTEktTjBuRVpMTlRDYk5ybl93Y3BtZlZ6dG44b21Xbw?oc=5"
+  },
   {
    "title": "Apuração ao vivo: resultados do 2º turno das eleições presidenciais de 2026 - O GLOBO",
    "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/apuracao-ao-vivo-resultados-do-2o-turno-das-eleicoes-presidenciais-de-2026.ghtml",
@@ -33,39 +41,29 @@
    "published": "2026-10-25T21:42:49+00:00",
    "desc": " Apuração TSE 2026: veja como acompanhar resultado em tempo real do segundo turno    UOL Notícias ",
    "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkhRbXZZU3UwUHZqa2RySksyOTkwOVp0RVJ3eWI5bzNlSGNPbmRqZllHWEtPQTZodjdUWHZuQTZxa2NPY0JoenJ6MGl0Ul9fQzZMRHkyUEdpdVp5VGpJUTZNaWpZSklTS2lhOUhBcmZLcjMzc0xqeWpzRzFjZzhRaXBqZllUR3FVNWpENVhaSVROa2d4bGJNRWw5WE5UVEpzUkZNWXZBSU93RVZuRjJ1T1dVdk1MeE1Dcll2a0EycWNQVzQzbTduRUxqYUI?oc=5"
-  },
-  {
-   "title": "Quem pediu a prorrogação da votação? Entenda as solicitações de Lula e Flávio - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/quem-pediu-a-prorrogacao-da-votacao-entenda-solicitacoes-ao-tse-e-ao-stf.ghtm",
-   "source": "UOL Notícias",
-   "published": "2026-10-25T21:41:54+00:00",
-   "desc": " Quem pediu a prorrogação da votação? Entenda as solicitações de Lula e Flávio    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeklNRXFkRkV4aXJobjN0SWNLaXN3aTIySkZ3elo5TmtRc3FLaXR6elRrUlB6OEJIc3FIOTRiZG5Mb0o1amJSeURvblJwYllMVnlsTXVILU5ZS25neHFuSHRfbGhPT2gyS3p0ZkRiZVBsdWpPdHBOTTBfMjF2RmFzQXVkaWprdDBTMWJabnlfVHdlMTNVb1NwcG9TV3MydlFxaUtBQUJaUzF3UF9IQndZZElmNWpFOEJJc2xTSmdiQjhXUjg?oc=5"
   }
  ],
  "brief": {
-  "headline": "Contagem dos votos do 2º turno será retomada às 19h, enquanto candidatos acusam golpe e fraude",
-  "why_it_matters": "A decisão do TSE de reiniciar a apuração define quando o Brasil saberá quem será presidente, e as alegações de fraude aumentam a tensão política.",
-  "big_picture": "Com Lula e Flávio Bolsonaro empatados nas urnas, a legitimidade do processo eleitoral está sob escrutínio nacional e internacional.",
+  "headline": "Apuração do 2º turno ainda não começou; TSE indica retomada às 19h",
+  "why_it_matters": "A contagem dos votos definirá se Lula (13) ou Flávio Bolsonaro (22) vencerá a disputa presidencial de 2026.",
+  "big_picture": "Com a apuração ainda parada, candidatos e eleitores aguardam os primeiros números que podem mudar o clima político nacional.",
   "details": [
-   "TSE anunciou que a contagem dos votos será retomada às 19h (horário de Brasília).",
-   "Chefe da campanha de Flávio Bolsonaro acusou 'golpe judiciário' e aliados insinuaram fraude sem evidências.",
-   "O GLOBO e UOL oferecem acompanhamento em tempo real da apuração, mas ainda não há resultados divulgados.",
-   "Lula e Flávio solicitaram prorrogação da votação; a motivação de cada pedido está sendo analisada."
+   "TSE informou que a contagem dos votos será retomada às 19h (horário de Brasília).",
+   "UOL e O Globo disponibilizam plataformas de acompanhamento em tempo real da apuração.",
+   "Chefe da campanha de Flávio Bolsonaro acusa ‘golpe judiciário’ e aliados insinuam fraude, mas sem provas concretas."
   ],
-  "whats_next": "A contagem será reaberta às 19h; resultados preliminares deverão aparecer nas próximas horas, seguidos de possíveis contestações jurídicas."
+  "whats_next": "A partir das 19h a contagem será reativada e os resultados começarão a ser divulgados oficialmente."
  },
  "brief_en": {
-  "headline": "Vote count for the 2nd round will resume at 7 p.m., as candidates allege coup and fraud",
-  "why_it_matters": "The TSE’s decision to restart the tally sets when Brazil will learn who becomes president, and fraud claims are stoking political tension.",
-  "big_picture": "With Lula and Flávio Bolsonaro dead‑locked in the vote, the election’s legitimacy is under national and international scrutiny.",
+  "headline": "2nd‑round count hasn’t started; TSE says it will resume at 7 p.m.",
+  "why_it_matters": "The tally will decide if Lula (13) or Flávio Bolsonaro (22) wins the 2026 presidential race.",
+  "big_picture": "With the count paused, candidates and voters await the first numbers that could shift the national political climate.",
   "details": [
-   "TSE said the vote count will restart at 7 p.m. Brasília time.",
-   "Flávio Bolsonaro’s campaign chief called it a ‘judicial coup’ and allies hinted at fraud without proof.",
-   "GLOBO and UOL are providing live tallies, but no results have been released yet.",
-   "Lula and Flávio have asked for a vote extension; each request’s rationale is under review."
+   "TSE says vote counting will restart at 7 p.m. (Brasília time).",
+   "UOL and O Globo provide real‑time tracking dashboards.",
+   "Flávio Bolsonaro’s campaign chief decries a ‘judicial coup’; allies hint at fraud, but no concrete evidence."
   ],
-  "whats_next": "The count reopens at 7 p.m.; preliminary results should appear in the next few hours, followed by possible legal challenges."
+  "whats_next": "Counting resumes at 7 p.m., and official results will start rolling out."
  },
  "error": null
 }
