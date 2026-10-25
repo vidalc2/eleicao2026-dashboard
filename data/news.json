@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:26:35.166952-03:00",
+ "updated": "2026-10-25T20:28:34.129229-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -19,6 +19,14 @@
    "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjJfelpIMHNjZUh6YnRIR2NEYTdkdTE4VUhoRGw4alZIWnZvN2JmTU5FekNrSDY0NW5JYTF1aU42cTNISU1FTjRMNklRLWhEcW1RZzFKOWpDUi1jVktwZTl6Y182RnAzQmFDT3BXdVBkOTJVZnhQckFJMnpldGllMWNtVWRLaW9TUEZMemFfZ2cxNy1pOEZmMjYzZ1I0NDlaZU5ZNGsyWXhCdVZFSXN1b1ZZOUR5QTZzWHV6NzN5aTQ?oc=5"
   },
   {
+   "title": "Compare evolução da apuração do 2º turno de 2026 com 2022 - G1",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/evolucao-apuracao-2o-turno-2026-flavio-bolsonaro-lula-comparacao-2022.ghtml",
+   "source": "G1",
+   "published": "2026-10-25T23:16:50+00:00",
+   "desc": " Compare evolução da apuração do 2º turno de 2026 com 2022    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0VNSEhBVTUzOXh2OUNaZnJ1bzcyclNQdWk1dTMzMEhHYU5mU2FnVDFoX0hVOUx4cDRqWnc2Z01FYWNkNXk4cDh1cDJEUlMtbFBmU3JjdzBPNUp1U1ZiMFFHTzBVZFBaZlhLU0ZCeXBMT0x1ek1zcTNSWkJQWU0yT2VXc0VxVG0zX1VpMFR5QmxJeENkZ3A1d1EtN3BERkl5N0Z3Q1VZUzJoOW96SkIyUnFBZW01X3JSMmdWRzdIdndMcmw4YzdjYnJ2MXNmWGNDRkFuMNIB4wFBVV95cUxNTjBsNTdzOFRiZ0FYWDJoNWYzeHFfNDVEU09oeTUyUnkwcnhLVGpzU2d0SG1Lc3pSanhnUktWbk5oVFVZbE9uclhOaTd5NGw1ai1JalhuVklVdkx0azBxeW8ycDJPZVc0alQwbDUyQVJxQzZucExuVm02eHlVV2UyN0VYeGNoVUY1dm1LM3dxQzFCMlpkWDFjUDVoalRrQkxRRno1VHVZNmsxejJnRnNGWURtd18za3J5WnFwUGdiLUJycDRBWHFvQzVXdmtvZDhMd0U3N3ZKNGdFTlBXSUxrTGgxQQ?oc=5"
+  },
+  {
    "title": "Resultado das eleições 2026 em Figueirópolis (TO): como foi a votação no 2º turno - G1",
    "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-figueiropolis-to-como-foi-a-votacao-no-2o-turno.ghtml",
    "source": "G1",
@@ -33,37 +41,29 @@
    "published": "2026-10-25T23:15:12+00:00",
    "desc": " Nordeste já foi apurado? Veja resultado e totalização do segundo turno ao vivo    UOL Notícias ",
    "gnews": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQlRCVlpJYzk5eExpaFotWDFLMUJGUmd0NHB6SWZ0YXFEWVc1VXdsZ1NUWWY3eDdKUlp6djhfTHlGQlFmRmFtYVR6Yms2U0pod2lzbzVhVXpRWUJaM0NPeE1pV003MUdFelRQS2JscmdNYmVDdU9YcTdjczQzRlVLRUt0UEljWEZlNl8xR2FROHZnZDdpeUowa3Bmd3YyYUhJWlpIdUlORGJ1eW1YZHhaX25xSmRmcF9PVm9tcGVmMFdhamhybk1wVEVR?oc=5"
-  },
-  {
-   "title": "Resultado das eleições no Brasil: veja apuração de votos para presidente em 2026 - O GLOBO",
-   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/resultado-das-eleicoes-no-brasil-veja-apuracao-de-votos-para-presidente-em-2026.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-25T23:14:35+00:00",
-   "desc": " Resultado das eleições no Brasil: veja apuração de votos para presidente em 2026    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbDJHVzkyY2YweTl2ME8tTF9MZmppcS02cEVXOUFMYnRkU015YjA5MmFDSEl5eEpSZE11RjFhUGJNaEI5TGdrUjJ4NFVrMjZVTUV6RWNUUk1NSnJ2TE5GUDk0cllNSk5OdnN5TWk5YjlyTnZ4OTVIcGU5MXB3RFota0VRZ2FRVHFnbUpCOC00a2N4Mk5KNUZmQU1uUDJwUEJ2aGhxcEhTSnBMT2dwc0RCSmY4RF9lZ3REUTRvMWhheW5wR1g1Yk16LUNkaDRJa05YN3FPaWVhMDVLYXhYNS1rRkllUkIyREXSAfYBQVVfeXFMT3l6Z2x5UEdRbXVNVkNPck5KM28tUFVWOVpXUUtHS3hzX3JJbnZrd05HTnJlcHJ0ZXpPZ0ZzT2hQUmtuQ0NBSTVJVGFiMl91RUVTZDRQMGxlYTFCcmJfOVUtRFhhUXBfNW9QWHBWekt1dURaNHlQU0RRNVFLMnZQTHRHQXc0QWpFeC0tR0tOTklKMXpxYkYzeDVMZTVNUnUyYXZacnRYeG1jTUR1dzlXU3U5blNETU9hNzBLQS1Pd2p6UkVOaXB6OVZ5RWRNYnpwUDA3TFVpNzF1Mkp2NUEzM3pIclk4dnRValBJbElkVEczV1h1aldB?oc=5"
   }
  ],
  "brief": {
-  "headline": "Brasil aguarda primeiros números da apuração presidencial no 2º turno",
-  "why_it_matters": "A disputa entre Lula (13) e Flávio Bolsonaro (22) define o rumo político e econômico do país.",
-  "big_picture": "Com a votação ainda em curso, os resultados de Minas, São Paulo e Nordeste são monitorados como indicadores chave.",
+  "headline": "Apurações do 2º turno começam a pingar, mas ainda sem números definitivos",
+  "why_it_matters": "A disputa entre Lula (13) e Flávio Bolsonaro (22) decide quem comandará o país nos próximos quatro anos. Cada ponto nas principais regiões pode mudar o placar final.",
+  "big_picture": "Com Minas Gerais, São Paulo e o Nordeste já em contagem, o ritmo de apuração segue o padrão de 2022, mas ainda é cedo para prever vencedor.",
   "details": [
-   "Apuração ainda não divulgou números oficiais;",
-   "Portais como UOL, G1 e O Globo oferecem cobertura ao vivo de Minas, São Paulo, Nordeste e de Figueirópolis (TO);",
-   "Expectativa de que os primeiros resultados dos maiores estados eleitores cheguem nas próximas horas"
+   "UOL traz transmissão ao vivo da apuração em Minas Gerais e São Paulo",
+   "UOL também disponibiliza totalização em tempo real para o Nordeste",
+   "G1 publica comparação da evolução da apuração de 2026 com a de 2022 e resultados locais de Figueirópolis (TO)"
   ],
-  "whats_next": "Os boletins de apuração nacional devem começar a ser publicados a partir da meia-noite (UTC)."
+  "whats_next": "A apuração nacional deve avançar nas próximas horas, com resultados consolidados esperados na madrugada de 26/10."
  },
  "brief_en": {
-  "headline": "Brazil awaits first presidential runoff results",
-  "why_it_matters": "The race between Lula (13) and Flávio Bolsonaro (22) sets the country’s political and economic direction.",
-  "big_picture": "With voting still underway, results from Minas, São Paulo and the Northeast are watched as key gauges.",
+  "headline": "2nd‑round results start trickling in, but no final numbers yet",
+  "why_it_matters": "The race between Lula (13) and Flávio Bolsonaro (22) will decide who runs the country for the next four years. Every point in key regions can swing the final tally.",
+  "big_picture": "With Minas Gerais, São Paulo and the Northeast already counting, the pace mirrors 2022, but it’s still early to call a winner.",
   "details": [
-   "Vote count hasn't released official numbers yet;",
-   "Sites like UOL, G1 and O Globo stream live results from Minas, São Paulo, the Northeast and Figueirópolis (TO);",
-   "First results from the biggest voter states are expected in the coming hours"
+   "UOL streams live results from Minas Gerais and São Paulo",
+   "UOL also offers real‑time totals for the Northeast",
+   "G1 posts a side‑by‑side look at 2026 vs 2022 counts and local results from Figueirópolis (TO)"
   ],
-  "whats_next": "National tally bulletins should start rolling out from midnight (UTC)."
+  "whats_next": "National totals should pick up over the next few hours, with consolidated results expected in the early morning of 26/10."
  },
  "error": null
 }
