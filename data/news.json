@@ -1,22 +1,14 @@
 {
- "updated": "2026-10-25T19:51:34.135366-03:00",
+ "updated": "2026-10-25T19:53:36.466089-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
-   "title": "Apuração para Presidente - 2º turno - Eleições 2026 - CNN Brasil",
-   "link": "https://www.cnnbrasil.com.br/eleicoes/2026/apuracao/br/segundo-turno/",
-   "source": "CNN Brasil",
-   "published": "2026-10-25T22:49:08+00:00",
-   "desc": " Apuração para Presidente - 2º turno - Eleições 2026    CNN Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tOGswUnpua1hrTEdIOUFwRkM1V1NyMldYZktHaWhkRDl5azBuUEpFVGJYTzk1X0o2MUJDamlKallWMHFmRk5Vek5pM3RLS0V4b1lDR0NuMHB0eE91TEwzdmhYa01xbGpvNHh0Rjh0bW1YNzkzS2NLSw?oc=5"
-  },
-  {
-   "title": "Lula lidera apuração do 2º turno da eleição presidencial com 5,56% das seções eleitorais apuradas, diz TSE - UOL Notícias",
-   "link": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/25/lula-lidera-apuracao-do-2-turno-da-eleicao-presidencial-com-556-das-secoes-eleitorais-apuradas-diz-tse.htm",
-   "source": "UOL Notícias",
-   "published": "2026-10-25T22:44:06+00:00",
-   "desc": " Lula lidera apuração do 2º turno da eleição presidencial com 5,56% das seções eleitorais apuradas, diz TSE    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPU1JVME83THFmYURGR2hKT19FbWd6NkN0ZnMwNWdsWXFZSmpqMlRRTFhDdk11ME43TzBJZzlKM0c0YkItUkx6bEEzdUFmVV9ZaXpzM2hFRjMwajBZT01PUlFlZ0VlbU50UEc4VEltUWJaZktNc1BPYmQwZ1l0aGRxNHZMa29sbDJBbjZILWtsM3ZOdGlKV0ZjSEk1NXJKbGtjemduTXFGV2o5eHhRYk95c25jTmNqdm5JUlJRV3VmOTdGbV9ONTFfMVNnN0VkWFBxQWo5LVVHVEZwM3pObXlXLTFvcURFMGg0RlhCOFYzdEhDRi1nWGc2cEtzOGNkcTQ?oc=5"
+   "title": "Resultado das eleições 2026 em Santa Teresinha (PB): como foi a votação no 2º turno - G1",
+   "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-santa-teresinha-pb-como-foi-a-votacao-no-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-25T22:41:31+00:00",
+   "desc": " Resultado das eleições 2026 em Santa Teresinha (PB): como foi a votação no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV2NNd3k2R1BLN1pxaEl4RGkxaE53VzV6emJVamlORDJLdmczR0hHTEtvdWJOMlhqWVpSSjc2NnR4N0M2LUtPdW9CenVOa0RyUkg5WnMwRnVJSHR1LTVFd0VmR0dsZ3AtbUZrUmtzV1pxSjN4WmVidmJXUno1YW5maW85WC1YTTFQaDIybmxTLTZfWlhFSlFvTHFOXzRUM2dBRVpFTXF5bUd3bldyLWVudHFpTVpDTkJDcUZBYWFKN3BYbWUtRUwxWUxVYjhvc2M1SXBfTmp6cFFQU0xiZ3Z2YlMzNFUxd9IB9AFBVV95cUxOV29WNW92ckRHYWt1X2xWSXVzUWJlajFKVU9Gc0RUdGY4Y3BoNDVwM3prd01NcXJuNWhzSzVBNGlGVGFiUEhVVEJ0MkxnMnRSYWlnTGZ3eHF5QmxnQjBEVjZaRFhFUm5UeGFRUlJ2ZDY0RGVJRTBfOHpxbG9SdTJ5Vkx1QnZxYzVabEh4TjhuQWxoTG1LdXRJUk5acEJtTUp6VFhOU0tPWVF0TkxnRWFkdFFVV2NxU2l3dkxWb3RNR2VIUXl2dFEzc0pmcVRRdFhYLUp6d1FjazFwMDJBMTI4aUNpTkQyRHNIS0ktNk5QY1RacWZU?oc=5"
   },
   {
    "title": "Lula confirma pedido ao TSE por prorrogação do horário de votação - VEJA",
@@ -27,45 +19,51 @@
    "gnews": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY013LVNzYnFFdXZHdUU1NG4wcU5WTUo1azdnRENjSi13OE5OTF9QVmpEOXFEWWJ5a2tFMjRxckxGSkxaaHlXcVNNV0toYUgyekVlQXVTVmZ5Uk5ZeUNwTGNhaXMwS2JjZnpWODBWLTRNb1I1VWlBMkdCNGRvMkMtLTFPTnIzQmZobk5qVG9yOExzcUlQdlY3RlZ2M010Q0thWmRR?oc=5"
   },
   {
+   "title": "Resultado das eleições 2026 em Presidente Kennedy (TO): como foi a votação no 2º turno - G1",
+   "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-presidente-kennedy-to-como-foi-a-votacao-no-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-25T22:38:49+00:00",
+   "desc": " Resultado das eleições 2026 em Presidente Kennedy (TO): como foi a votação no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR09YaGJHbHc5U1J6b0FocUlld1JmeVZ2Q2VvUVNmTWdFUHhwRXA2ZDkwdTBHdlhKclBsVmh0MVhjUTZmOWl1cDB1U2p1eXVQa1ZqRWVDbS1MMl9yZDgzTjlKT1FJTE1lWGJhbklwc2VHX3gzbmNxemJvU2pyRDN2RjZob09xR2VZc1hScWdPelFPUWp0OUtfR042Y2pUVmNTWDRoUW9CbndEYURmZHN0bUlLLTNnRWRnMWt6aXBjM0REeGxMdWNpOWZXYXpnZlhqMFZNS3NHZ3NvOERUcVJpUW1Qci1CU1VTTEtRb9IB-wFBVV95cUxQNEFhc3ZiS1hJTGRxVUxIakVOaEtTdU9WQkVXRllMT0FOZFhwQ1FzOWhKWGhJNjd6UDJSUzF4NTRYRS10THctM1AwRWpIZFl5VzhuRFF5X2t4UmoxdW9DSUdIR1BReXB3QVMtTVRta1J5ZjdNZXRxck5kNmJjSXk3TGNyV2UwMExhaXR5cXo2WVpWZTAyUk1GbmRIbXlWS1U1eFE4T3VfdkF4cEFSTVRuQ2tSSm9uaXYtQ2VOZXNHcWdHcW1LVFRockNUOXNCUFlLWGZsWXlTZGtLcFpoTnRKY19ha1hvRElweFlKTUduX0MtN29Zd2JRNHd4SQ?oc=5"
+  },
+  {
+   "title": "Resultado das eleições 2026 em Ribeirão Corrente (SP): como foi a votação no 2º turno - G1",
+   "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-ribeirao-corrente-sp-como-foi-a-votacao-no-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-25T22:36:31+00:00",
+   "desc": " Resultado das eleições 2026 em Ribeirão Corrente (SP): como foi a votação no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOczVkemdqVXJSSU9WX2FaamZmZzhlMmI4TzJFMGZLUzFSWk1XbzA1c0tOSWEzV3ZxMmVoY0ZfbDF6ZTVSY3lnX3ZiU19wNmRCSkhhQy1FMU1OSnNydDBaRlEwME1PWndBcjA4NVFaS2tKZXI5Z1pCRFM5czVNVl9rQnpQMjBNWW5Xck8wZUF2VmhTc1BNakJmeVN5N1I2QXUzS252bVhXNHBMYVdzNEJhTGRoZ0MtWlh1bGtYUm1nb3dwRjY5aDVmMHRocFB4eklTa09TOVdtVUJ6WjhJaVRXWHZTQ1NKQUxSQUhn0gH6AUFVX3lxTE5XeW5oM1VHUHRodERLZkR0NDdBQ3pwUmJzRUx2TUdPVGxTd3RWZk9VbGQzdFhZNkJLUzdOVGEwWWVXQ1JWYmlLbTNNeHF6dFp1ZFo5TXVwZHpZVnhaMWxYQWctcGY4S1pxZVl0dUwzdHZad2J0Yk5PelM2MW9DY2J3SVNpNFNjTVYwZVJOQmtDQk5fZlZfWjNZY2pOY1JTRGdnMXhmWl9DTW9UUVp4bHRpcFNjZkJQN0IxMkhpb1VOZmhMOFowbWhxQkJ5NU50RkRiY29qRHc2U1lMNUZGeDlmeDRJUTBaaXlIX3RiNnB1VVI0LXJ0bkdDS3c?oc=5"
+  },
+  {
    "title": "Apuração segundo turno das Eleições em tempo real: veja agora resultados ao vivo - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/apuracao-segundo-turno-das-eleicoes-em-tempo-real-veja-agora-resultados-ao-vivo.ghtm",
    "source": "UOL Notícias",
    "published": "2026-10-25T22:32:29+00:00",
    "desc": " Apuração segundo turno das Eleições em tempo real: veja agora resultados ao vivo    UOL Notícias ",
    "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2hmV25WR2R5TExpV2tQVk14bDlWQU81bFYwUlJrd1NnM0Y3TXVQUEZIUVB5ckNyZjh1elNYOUVkVUVXLU5fLVdfOS14THFEdVV1enc3X2xnRktCMGRZa1lLT1htRmVhaGtNUGlHYVVXWV94MXZ5ZHZrSzl0d3ZadEFpRzBiTWJMY1lQRVd4S0Vpek1xajJUYUtESVJCVGprTXd5VkNIemFOZlhYVHpVU0JMODhvMWhjOUQycC1LU1E4elJIRUlOY3FKdXg?oc=5"
-  },
-  {
-   "title": "Em tempo real: projeção da apuração mostra possível resultado do 2º turno para presidente - Estadão",
-   "link": "https://www.estadao.com.br/politica/eleicoes/em-tempo-real-projecao-da-apuracao-mostra-possivel-resultado-do-2-turno-para-presidente/",
-   "source": "Estadão",
-   "published": "2026-10-25T22:32:03+00:00",
-   "desc": " Em tempo real: projeção da apuração mostra possível resultado do 2º turno para presidente    Estadão ",
-   "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaUw1cUJYM2tWcmVWTlJuYng5bUZmcUdaekc4cVZMS1d3dkhFMFI3Z0p1NFJFWTdnbi10QkRsQTY4a2RLZ3FPLVVxYmotX0dCX2hEY0lLbWNwRl9rNTI5U2ZxektZQ05tNVRFdkk2SFU1UllzU3ZMWVg5czVCdGVTQ09RaXBBTzlkb1JqZFVNelNZT1VaazVSRk1GWGM4WHNDTHYyaGpfZXRwR1JydElfbGF2X2xNQkhMMmVoZ1JHQlR2c0NxUXlyQmM5dE1zQdIB0wFBVV95cUxNSE9nVlVlLTFRS0dkM2FJSFFFVmNxRmhrSS1haWdMT3VnNWxFTkxFeHJ5RmJCSFNobVgwSW01bENfMVdPYkdhUm03cEtZMjd1RTdnTHpiR1R2dnhWbXFVekRkLVVNXzljWkRtV05rLUFjc2RRM2Jxcl9FRHBpZHExLUdXSVNzeXdkT0xaNjd4SzItSHhsWmtSUExHR3B0ZE9IR2lRNHByelkwazdVSWNaWnN6MUZIQVBVSGJVcG95ZU9aelIwSUNVTU94S0xuWEJaZHkw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula lidera o 2º turno com 5,56% das seções apuradas",
-  "why_it_matters": "A primeira parcela da apuração já coloca o ex‑presidente à frente de Flávio Bolsonaro, mas ainda é muito cedo para definir o vencedor.",
-  "big_picture": "Com a votação ainda em andamento, o TSE pode decidir sobre o pedido de prorrogação do horário de votação, o que pode mudar o ritmo da contagem.",
+  "headline": "Segunda volta presidencial ainda sem apuração oficial; candidatos buscam prorrogação de horário de votação",
+  "why_it_matters": "Com Lula (13) e Flávio Bolsonaro (22) na disputa, a definição do vencedor depende da contagem dos votos, que ainda não começou oficialmente.",
+  "big_picture": "A corrida ocorre em clima de polarização e pedidos de extensão do horário de votação, enquanto municípios já divulgam resultados locais isolados.",
   "details": [
-   "Apuração oficial começou; TSE informa que 5,56% das seções já foram contabilizadas.",
-   "Lula aparece na frente nas primeiras seções divulgadas.",
-   "Lula solicitou ao TSE a extensão do horário de votação para garantir maior participação.",
-   "Portais como CNN Brasil, UOL e Estadão já oferecem acompanhamento em tempo real."
+   "Santa Teresinha (PB), Presidente Kennedy (TO) e Ribeirão Corrente (SP) já publicaram resultados municipais, mas não há números nacionais consolidados",
+   "Lula confirmou pedido ao TSE para prorrogar o horário de votação, argumentando necessidade de garantir acesso ao eleitorado",
+   "UOL mantém cobertura em tempo real, mas a apuração oficial ainda não foi iniciada"
   ],
-  "whats_next": "O TSE deve anunciar ainda hoje se aprova a prorrogação e, em seguida, a contagem continuará até o fechamento definitivo."
+  "whats_next": "O TSE deve iniciar a apuração oficial nas próximas horas e decidir sobre o pedido de prorrogação do horário de votação."
  },
  "brief_en": {
-  "headline": "Lula leads 2nd round with 5,56% of precincts counted",
-  "why_it_matters": "The first batch of results already puts the former president ahead of Flávio Bolsonaro, but it’s still too early to call a winner.",
-  "big_picture": "With voting still underway, the TSE could rule on a request to extend polling hours, which might shift the counting pace.",
+  "headline": "Presidential runoff still without official count; candidates push for extended voting hours",
+  "why_it_matters": "With Lula (13) and Flávio Bolsonaro (22) in the race, the winner hinges on a vote count that hasn’t started yet.",
+  "big_picture": "The contest unfolds amid polarization and calls to extend voting hours, as municipalities release isolated local results.",
   "details": [
-   "Official tally started; TSE says 5,56% of precincts have been counted.",
-   "Lula is ahead in the early‑reported precincts.",
-   "Lula asked the TSE to extend voting hours to boost turnout.",
-   "Sites like CNN Brazil, UOL and Estadão are providing live updates."
+   "Santa Teresinha (PB), Presidente Kennedy (TO) and Ribeirão Corrente (SP) have posted municipal results, but no national totals yet.",
+   "Lula confirmed a request to the TSE to extend voting hours, citing the need to ensure voter access.",
+   "UOL is providing live coverage, but the official count hasn’t begun."
   ],
-  "whats_next": "The TSE is expected to decide today on the extension, after which counting will continue until the final close."
+  "whats_next": "The TSE is expected to start the official count in the next few hours and rule on the extended‑hours request."
  },
  "error": null
 }
