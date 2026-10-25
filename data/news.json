@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:30:36.978201-03:00",
+ "updated": "2026-10-25T20:32:37.199615-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Apuração do 2º turno ainda não tem números oficiais; portais exibem telas de votação em Minas, SP e Nordeste",
-  "why_it_matters": "A disputa entre Lula (13) e Flávio Bolsonaro (22) está em jogo e os primeiros indicadores moldam a narrativa nacional.",
-  "big_picture": "Em 2022 o segundo turno foi decidido nos últimos minutos; comparar a evolução da apuração de 2026 com 2022 pode indicar se o padrão de disputa acirrada se repete.",
+  "headline": "Apurações do 2º turno começam a aparecer em Minas, São Paulo e Nordeste, mas ainda sem números definitivos",
+  "why_it_matters": "O Brasil aguarda o desfecho da disputa entre Lula e Flávio Bolsonaro, e as primeiras contagens regionais dão o tom da corrida.",
+  "big_picture": "Com a votação ainda em curso, os resultados preliminares de estados‑chave podem indicar tendências, mas a apuração nacional ainda não tem dados consolidados.",
   "details": [
-   "UOL Notícias disponibiliza telas de votação em tempo real para Minas Gerais, São Paulo e a região Nordeste, mas sem números consolidados ainda",
-   "G1 publica ferramenta que compara a velocidade da apuração de 2026 com a do pleito de 2022",
-   "G1 traz cobertura dos resultados municipais de Figueirópolis (TO), porém sem divulgar totais de votos"
+   "UOL publica painéis de votação ao vivo para Minas Gerais, São Paulo e a região Nordeste",
+   "G1 lança ferramenta que compara a velocidade da apuração de 2026 com a de 2022",
+   "G1 traz o resultado local de Figueirópolis (TO), mostrando como o segundo turno se desenrolou em municípios menores"
   ],
-  "whats_next": "A contagem oficial começa após a abertura das urnas, às 21h, e deve ganhar ritmo nas primeiras horas da madrugada."
+  "whats_next": "A apuração nacional deve avançar nas próximas horas, com o TSE divulgando resultados consolidados."
  },
  "brief_en": {
-  "headline": "2nd‑round tally still lacks official numbers; sites show live vote screens for Minas, SP and the Northeast",
-  "why_it_matters": "The race between Lula (13) and Flávio Bolsonaro (22) is on the line, and early indicators are shaping the national narrative.",
-  "big_picture": "In 2022 the runoff was decided in the final minutes; tracking 2026’s count against 2022 could reveal whether the tight‑race pattern repeats.",
+  "headline": "2nd‑round tallies start showing up in Minas, São Paulo and the Northeast, but no final numbers yet",
+  "why_it_matters": "Brazil is waiting on the Lula vs. Flávio Bolsonaro showdown, and early regional counts set the tone.",
+  "big_picture": "With voting still underway, early results from key states hint at trends, but the national count isn’t consolidated yet.",
   "details": [
-   "UOL Notícias offers real‑time vote screens for Minas Gerais, São Paulo and the Northeast, but no consolidated figures yet",
-   "G1 releases a tool that pits the speed of the 2026 count against the 2022 election",
-   "G1 covers municipal results in Figueirópolis (TO) but doesn’t publish vote totals"
+   "UOL rolls out live vote dashboards for Minas Gerais, São Paulo and the Northeast",
+   "G1 launches a tool that pits 2026 tally speed against 2022",
+   "G1 shares Figueirópolis (TO) results, showing how the second round unfolded in smaller towns"
   ],
-  "whats_next": "Official counting starts after polls open at 9 p.m. and should pick up pace in the early hours of the morning."
+  "whats_next": "The national count should move forward in the next few hours as the TSE releases consolidated results."
  },
  "error": null
 }
