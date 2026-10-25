@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:29:06.089351-03:00",
+ "updated": "2026-10-25T18:31:08.143364-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "STF estende votação do 2º turno por 2 horas após pedidos de Lula e Flávio Bolsonaro",
-  "why_it_matters": "A prorrogação altera o prazo de fechamento das urnas em locais ainda com votação em andamento, podendo mudar o ritmo da apuração.",
-  "big_picture": "Com a disputa apertada entre Lula (13) e Flávio Bolsonaro (22), qualquer mudança no horário pode influenciar a percepção pública e a estratégia das campanhas.",
+  "headline": "STF estende horário de votação do 2º turno por 2 horas após pedidos de Lula e Flávio Bolsonaro",
+  "why_it_matters": "A prorrogação pode mudar o número de votos contabilizados e evidencia a disputa entre as campanhas e as instituições eleitorais",
+  "big_picture": "A eleição ainda está em curso; a apuração oficial ainda não começou e não há números divulgados",
   "details": [
-   "Lula pediu ao STF que a votação fosse prorrogada até 19h",
-   "Flávio Bolsonaro solicitou extensão em cinco estados",
-   "O STF decidiu prorrogar a eleição em duas horas, afetando apenas as seções ainda abertas",
-   "O ministro Zanin esclareceu que a decisão não altera a contagem dos votos já encerrados",
-   "A apuração oficial ainda não começou; os resultados ainda não são divulgados"
+   "Campanha de Lula pediu ao STF que a votação fosse prorrogada até as 19h",
+   "Flávio Bolsonaro solicitou extensão do horário em cinco estados",
+   "STF concedeu a prorrogação, adicionando duas horas ao prazo de votação, \"atropelando\" o TSE",
+   "Vice‑presidente Zanin esclareceu que a decisão afeta apenas locais onde as urnas ainda estavam abertas",
+   "Nenhuma apuração de votos foi divulgada até o momento"
   ],
   "whats_next": "A contagem dos votos deve iniciar após o fechamento definitivo das urnas, previsto para cerca de 22h"
  },
  "brief_en": {
-  "headline": "STF extends 2nd‑round voting by 2 hours after requests from Lula and Flávio Bolsonaro",
-  "why_it_matters": "The extra two hours pushes closing times in precincts still voting, which could shift the tally’s pace.",
-  "big_picture": "With a tight race between Lula (13) and Flávio Bolsonaro (22), any timing tweak can sway public perception and campaign tactics.",
+  "headline": "Brazil's Supreme Court adds 2 hours to 2nd‑round voting after requests from Lula and Flávio Bolsonaro",
+  "why_it_matters": "The extra time could shift vote totals and highlights the clash between campaigns and election bodies",
+  "big_picture": "The race is still underway; official tally hasn't started and no results are out",
   "details": [
-   "Lula asked the STF to keep polls open until 7 p.m.",
-   "Flávio Bolsonaro sought extensions in five provinces",
-   "The STF granted a two‑hour extension, affecting only still‑open stations",
-   "Justice Zanin said the move doesn’t change counts for polls already closed",
-   "Official tally hasn’t started; results aren’t out yet"
+   "Lula's campaign asked the court to keep polls open until 7 p.m.",
+   "Flávio Bolsonaro sought an extension in five states",
+   "The court granted it, tacking on two hours and overrunning the electoral court",
+   "Vice‑president Zanin said it only applies where ballot boxes were still open",
+   "No vote counts have been released yet"
   ],
-  "whats_next": "Vote counting should kick off after the final 10 p.m. closure"
+  "whats_next": "Counting should begin after the final poll closure, expected around 10 p.m."
  },
  "error": null
 }
