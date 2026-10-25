@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#f4f3ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#131312" media="(prefers-color-scheme: dark)">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='7' y='27' width='50' height='31' rx='6' fill='%231b1b1a'/%3E%3Cpath d='M17 33h30' stroke='%23fff' stroke-width='4'/%3E%3Cpath d='M20 6h24v27H20z' fill='%23fff' stroke='%231b1b1a' stroke-width='3'/%3E%3Cpath d='m25 19 5 5 10-11' fill='none' stroke='%231f7a43' stroke-width='4'/%3E%3C/svg%3E">
 <title>Voto no Exterior 2026</title>
 <meta name="description" content="2º turno 2026 no exterior: boletins de urna (G1 + Poder360, média) país a país contra o 1º turno (TSE), com cobertura, comparecimento e swing.">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
@@ -61,6 +64,75 @@ td:first-child,th:first-child{text-align:left} .tbl{max-height:480px;overflow:au
 th button{all:unset;cursor:pointer;min-height:32px;display:inline-block}th button:focus-visible{outline:3px solid var(--focus)}
 .tools{display:flex;gap:8px;flex-wrap:wrap}
 .ctl{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px;font-size:12px}
+
+/* Phone layout and accessible control colours are independent of chart colours. */
+html{-webkit-text-size-adjust:100%;color-scheme:light}
+:root{--control:#807d75;--positive:#a52b2b;--negative:#20599f;--focus:#7134d5}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--control:#85857d;--positive:#f07878;--negative:#80b1f6;--good:#4fbf7a;--warn:#e0a63b;--bad:#e06060;--focus:#c7a6ff}}
+:root[data-theme="dark"]{color-scheme:dark;--control:#85857d;--positive:#f07878;--negative:#80b1f6;--good:#4fbf7a;--warn:#e0a63b;--bad:#e06060;--focus:#c7a6ff}
+body{font-variant-numeric:tabular-nums}
+.grid{grid-template-columns:repeat(12,minmax(0,1fr))}
+.card,.hero>*{min-width:0}
+.card h2{font-size:14px;line-height:1.4;letter-spacing:.025em;text-transform:none;color:var(--ink2);font-weight:750}
+.card-note{font-size:13px;color:var(--ink2);margin:-4px 0 14px}
+.btn{border-color:var(--control)}
+.status{min-height:42px;margin:4px 0 8px}
+.signal{align-items:flex-start;padding:16px;gap:12px;background:var(--bg);border-width:2px;border-left-width:6px;min-height:174px}
+.signal .ic{display:grid;place-items:center;flex:0 0 40px;height:40px;font:700 28px/1 sans-serif;color:var(--ink);border:2px solid currentColor;border-radius:50%}
+.signal .tt{font-size:20px;line-height:1.3;font-weight:800}
+.signal .ds{font-size:15px;line-height:1.55;margin-top:8px}
+.signal.lula{border-color:var(--positive)}.signal.flavio{border-color:var(--negative)}
+.signal.tie{border-color:var(--warn)}
+.pos,.badge.pos{color:var(--positive)}.neg,.badge.neg{color:var(--negative)}
+.badge.pos{border-color:var(--positive)}.badge.neg{border-color:var(--negative)}
+.scroll-hint{display:flex;gap:8px;align-items:center;color:var(--ink2);font-size:13px;margin:0 0 10px}
+.scroll-hint::before{content:'↔';font-size:22px;line-height:1}
+.tbl{border:1px solid var(--control);border-radius:8px;isolation:isolate;scroll-padding:8px}
+table{border-collapse:separate;border-spacing:0;font-size:14px;font-variant-numeric:tabular-nums}
+th,td{padding:8px}
+th{font-size:12px;z-index:2}
+th button{min-width:44px;min-height:44px;display:inline-flex;align-items:center;justify-content:flex-end}
+th button:focus-visible{outline-offset:-3px;border-radius:4px}
+tbody th:first-child,thead th:first-child{position:sticky;left:0;background:var(--surface);box-shadow:3px 0 0 var(--line);z-index:1}
+thead th:first-child{z-index:3}
+tbody th:first-child{top:auto;max-width:150px;white-space:normal;min-width:100px}
+th[aria-sort="ascending"] button::after{content:' ↑'}th[aria-sort="descending"] button::after{content:' ↓'}
+.cmp>div{min-width:0}
+.cmp .v{overflow-wrap:anywhere}
+.cmp .v small{display:inline-block;line-height:1.5}
+.kpi{font-size:14px}
+.kpi>div,.kpi>span{max-width:100%;overflow-wrap:anywhere}
+.foot{font-size:14px}
+.is-loading{display:inline-block;position:relative;min-width:3.5em;min-height:1.2em;color:transparent!important;border-radius:5px;background:var(--grid);overflow:hidden}
+.chart{min-width:0;contain:layout}
+.chart.is-pending::after{content:'';position:absolute;inset:16px;border-radius:8px;background:var(--grid)}
+@media(max-width:600px){
+  body{padding-left:12px;padding-right:12px}
+  .card{padding:16px 14px}
+  h1{font-size:22px;line-height:1.3;flex-basis:100%}
+  .tools{gap:6px}
+  .btn{padding:8px 10px}
+  .signal{padding:14px 12px;gap:10px}
+  .signal .ic{flex-basis:32px;height:32px;font-size:23px}
+  .signal .tt{font-size:19px}
+  .cmp .h{font-size:12px;letter-spacing:0;text-transform:none}
+}
+
+
+.comparison-three{grid-template-columns:repeat(3,minmax(0,1fr))}
+.row{grid-template-columns:minmax(170px,1fr) minmax(160px,1.4fr) minmax(190px,1fr);padding:14px 0;border-bottom:1px solid var(--line);gap:12px}
+.row .nm{display:flex;flex-wrap:wrap;align-items:center;gap:5px 8px;font-size:15px}
+.country-name{flex:1;min-width:0;overflow-wrap:anywhere}
+.row .nm small{flex-basis:100%;font-size:13px}
+.badge{margin-left:0;white-space:nowrap;font-size:12px}
+.fig .badge{margin:4px 0 0 4px}
+.row .fig{font-size:13px;line-height:1.7}
+.track{margin-right:54px;height:20px}
+.track .pct{left:calc(100% + 8px);right:auto;top:0;line-height:20px;white-space:nowrap;color:var(--ink);font-size:13px}
+.track .m100{opacity:1;height:26px}
+.sub{font-size:14px;line-height:1.55;margin-top:8px}
+@media(max-width:900px){.row{grid-template-columns:1fr;gap:10px}.row .fig{text-align:left}.row .nm small{flex-basis:auto}.country-name{flex:1}.row .nm .badge{margin-left:auto}.row .nm small{flex-basis:100%}}
+@media(max-width:600px){.comparison-three{grid-template-columns:1fr}.comparison-three>div{display:grid;grid-template-columns:1fr 1.2fr;align-items:center;text-align:left;gap:8px}.comparison-three .v{margin-top:0}.comparison-three .h{font-size:13px}}
 </style>
 </head>
 <body>
@@ -79,73 +151,76 @@ th button{all:unset;cursor:pointer;min-height:32px;display:inline-block}th butto
 
 <main id="main" class="grid">
   <div class="card c8">
-    <h2 data-i18n="h_bu">Boletins de urna · média G1 + Poder360 · Lula cabeça-a-cabeça</h2>
+    <h2 data-i18n="h_bu" data-i18n-title="h_bu_full" title="Boletins de urna · média G1 + Poder360 · Lula cabeça-a-cabeça">Boletins · Lula (%)</h2>
+    <p class="card-note" data-i18n="h_bu_full">Boletins de urna · média G1 + Poder360 · Lula cabeça-a-cabeça</p>
     <div class="cmp">
-      <div><div class="h" data-i18n="avg2">Média (2 fontes)</div><div class="v mono" id="avg">—</div></div>
-      <div><div class="h">G1</div><div class="v mono" id="g1">—</div></div>
-      <div><div class="h">Poder360</div><div class="v mono" id="p360">—</div></div>
-      <div><div class="h" data-i18n="tse_off">TSE oficial</div><div class="v mono" id="tse">—</div></div>
+      <div><div class="h" data-i18n="avg2">Média (2 fontes)</div><div class="v mono is-loading" id="avg" aria-hidden="true">—</div></div>
+      <div><div class="h">G1</div><div class="v mono is-loading" id="g1" aria-hidden="true">—</div></div>
+      <div><div class="h">Poder360</div><div class="v mono is-loading" id="p360" aria-hidden="true">—</div></div>
+      <div><div class="h" data-i18n="tse_off">TSE oficial</div><div class="v mono is-loading" id="tse" aria-hidden="true">—</div></div>
     </div>
     <div class="kpi" style="margin-top:10px">
-      <span><span data-i18n="k_countries">Países com boletim</span> <b class="mono" id="nc">—</b></span>
-      <span><span data-i18n="k_lf">Votos reportados (L+F)</span> <b class="mono" id="lf">—</b></span>
-      <span><span data-i18n="k_cov">Cobertura dos válidos esperados</span> <b class="mono" id="cov">—</b></span>
-      <span><span data-i18n="k_upd">Atualizado</span> <b class="mono" id="upd">—</b></span>
+      <span><span data-i18n="k_countries">Países com boletim</span> <b class="mono is-loading" id="nc" aria-hidden="true">—</b></span>
+      <span><span data-i18n="k_lf">Votos reportados (L+F)</span> <b class="mono is-loading" id="lf" aria-hidden="true">—</b></span>
+      <span><span data-i18n="k_cov">Cobertura dos válidos esperados</span> <b class="mono is-loading" id="cov" aria-hidden="true">—</b></span>
+      <span><span data-i18n="k_upd">Atualizado</span> <b class="mono is-loading" id="upd" aria-hidden="true">—</b></span>
     </div>
   </div>
 
   <div class="card c4">
-    <h2 data-i18n="h_trend">Tendência vs 1º turno (mesmos países)</h2>
-    <div class="big mono" id="swing">—</div>
+    <h2 data-i18n="h_trend" data-i18n-title="h_trend_full" title="Tendência vs 1º turno (mesmos países)">Tendência no exterior</h2>
+    <div class="big mono is-loading" id="swing" aria-hidden="true">—</div>
     <div class="sub" data-i18n="trend_sub">swing de Lula, cabeça-a-cabeça, nos mesmos países já apurados (1º turno TSE)</div>
-    <div class="signal tie" id="sig" role="status" aria-live="polite"><div class="ic">⏳</div><div><div class="tt">—</div><div class="ds"></div></div></div>
+    <div class="signal tie" id="sig" role="status" aria-live="polite" aria-atomic="true"><div class="ic" aria-hidden="true">…</div><div><div class="tt" data-i18n="wait">Aguardando boletins</div><div class="ds"></div></div></div>
   </div>
 
   <div class="card c6">
-    <h2 data-i18n="h_cmp">Comparação · exterior</h2>
-    <div class="cmp" style="grid-template-columns:repeat(3,1fr)">
-      <div><div class="h" data-i18n="r1_all">1º turno 2026 (todo exterior)</div><div class="v mono" id="r1all">—</div></div>
-      <div><div class="h" data-i18n="r1_same">1º turno (mesmos países)</div><div class="v mono" id="r1same">—</div></div>
+    <h2 data-i18n="h_cmp" data-i18n-title="h_cmp_full" title="Comparação · exterior">Lula · comparação</h2>
+    <div class="cmp comparison-three">
+      <div><div class="h" data-i18n="r1_all">1º turno 2026 (todo exterior)</div><div class="v mono is-loading" id="r1all" aria-hidden="true">—</div></div>
+      <div><div class="h" data-i18n="r1_same">1º turno (mesmos países)</div><div class="v mono is-loading" id="r1same" aria-hidden="true">—</div></div>
       <div><div class="h" data-i18n="r2_2022">2º turno 2022 (exterior)</div><div class="v mono" id="c_22">51,28%</div></div>
     </div>
     <div class="kpi" style="margin-top:10px;flex-direction:column;gap:6px">
-      <span><span data-i18n="d1l">Diferença vs 1º turno (mesmos países)</span> <b class="mono" id="d1">—</b></span>
-      <span><span data-i18n="d22l">Diferença vs 2022 (todo exterior)</span> <b class="mono" id="d22">—</b></span>
-      <span><span data-i18n="dvl">Em votos (Lula − Flávio)</span> <b class="mono" id="dv">—</b></span>
+      <span><span data-i18n="d1l">Diferença vs 1º turno (mesmos países)</span> <b class="mono is-loading" id="d1" aria-hidden="true">—</b></span>
+      <span><span data-i18n="d22l">Diferença vs 2022 (todo exterior)</span> <b class="mono is-loading" id="d22" aria-hidden="true">—</b></span>
+      <span><span data-i18n="dvl">Em votos (Lula − Flávio)</span> <b class="mono is-loading" id="dv" aria-hidden="true">—</b></span>
     </div>
   </div>
 
   <div class="card c6">
-    <h2 data-i18n="h_turn">Comparecimento e abstenção (proxy)</h2>
-    <div class="big mono" id="turn">—</div>
+    <h2 data-i18n="h_turn" data-i18n-title="h_turn_full" title="Comparecimento e abstenção (proxy)">Participação · estimativa</h2>
+    <div class="big mono is-loading" id="turn" aria-hidden="true">—</div>
     <div class="sub" data-i18n="turn_sub">votos Lula+Flávio reportados ÷ votos válidos do 1º turno, nos mesmos países (&gt;100% = mais gente votou que no 1º turno)</div>
     <div class="kpi" style="margin-top:10px;flex-direction:column;gap:6px">
-      <span><span data-i18n="ab1l">Abstenção 1º turno no exterior</span> <b class="mono" id="ab1">—</b></span>
-      <span><span data-i18n="ab2l">Abstenção implícita 2º turno (mesmos países)</span> <b class="mono" id="ab2">—</b></span>
-      <span><span data-i18n="abtl">Abstenção TSE oficial 2º turno</span> <b class="mono" id="abt">—</b></span>
+      <span><span data-i18n="ab1l">Abstenção 1º turno no exterior</span> <b class="mono is-loading" id="ab1" aria-hidden="true">—</b></span>
+      <span><span data-i18n="ab2l">Abstenção implícita 2º turno (mesmos países)</span> <b class="mono is-loading" id="ab2" aria-hidden="true">—</b></span>
+      <span><span data-i18n="abtl">Abstenção TSE oficial 2º turno</span> <b class="mono is-loading" id="abt" aria-hidden="true">—</b></span>
     </div>
   </div>
 
   <div class="card">
-    <h2 data-i18n="h_rows">País a país · barra = votos reportados como % dos válidos esperados (1º turno) · cor = proporção Lula/Flávio</h2>
+    <h2 data-i18n="h_rows" data-i18n-title="h_rows_full" title="País a país · barra = votos reportados como % dos válidos esperados (1º turno) · cor = proporção Lula/Flávio">País a país</h2>
+    <p class="card-note" data-i18n="h_rows_full">País a país · barra = votos reportados como % dos válidos esperados (1º turno) · cor = proporção Lula/Flávio</p>
     <div class="legend" aria-hidden="true"><span style="--c:var(--lula)">Lula</span><span style="--c:var(--flavio)">Flávio</span><span style="--c:var(--ink)" data-i18n="lg_mark">marca = 100% dos válidos do 1º turno</span></div>
     <div class="ctl" role="group" aria-label="Ordenar / Sort"><button class="btn" data-s="exp" aria-pressed="true" data-i18n="s_exp">ordenar: tamanho</button><button class="btn" data-s="swing" aria-pressed="false" data-i18n="s_swing">ordenar: swing</button><button class="btn" data-s="pct" aria-pressed="false" data-i18n="s_pct">ordenar: % apurado</button></div>
-    <div class="rows" id="rows" role="list"></div>
+    <div class="rows" id="rows" role="list" style="min-height:320px"></div>
   </div>
 
   <div class="card c6">
-    <h2 data-i18n="h_sw">Swing por país vs 1º turno (pontos, Lula cabeça-a-cabeça)</h2>
-    <div class="chart"><canvas id="sw" role="img" aria-labelledby="sw-desc"></canvas></div><p id="sw-desc" class="sr-only"></p>
+    <h2 data-i18n="h_sw" data-i18n-title="h_sw_full" title="Swing por país vs 1º turno (pontos, Lula cabeça-a-cabeça)">Mudança por país</h2>
+    <div class="chart is-pending"><canvas id="sw" role="img" aria-labelledby="sw-desc"></canvas></div><p id="sw-desc" class="sr-only"></p>
   </div>
 
   <div class="card c6">
-    <h2 data-i18n="h_traj">Trajetória da média (Lula %) ao longo do dia</h2>
-    <div class="chart"><canvas id="traj" role="img" aria-labelledby="traj-desc"></canvas></div><p id="traj-desc" class="sr-only"></p>
+    <h2 data-i18n="h_traj" data-i18n-title="h_traj_full" title="Trajetória da média (Lula %) ao longo do dia">Média ao longo do dia</h2>
+    <div class="chart is-pending"><canvas id="traj" role="img" aria-labelledby="traj-desc"></canvas></div><p id="traj-desc" class="sr-only"></p>
   </div>
 
   <div class="card">
     <h2 data-i18n="h_tbl">Tabela</h2>
-    <div class="tbl"><table id="tbl"><thead><tr>
+    <p class="scroll-hint" id="table-hint" data-i18n="scroll_hint">Deslize a tabela para ver mais colunas</p>
+    <div class="tbl" role="region" tabindex="0" aria-label="Tabela de resultados, com rolagem" aria-describedby="table-hint"><table id="tbl"><thead><tr>
       <th scope="col"><button data-k="name" data-i18n="t_country">País</button></th><th scope="col"><button data-k="n_sources" data-i18n="t_src">Fontes</button></th><th scope="col"><button data-k="lula">Lula</button></th><th scope="col"><button data-k="flavio">Flávio</button></th><th scope="col"><button data-k="hh">Lula %</button></th><th scope="col"><button data-k="r1_hh" data-i18n="t_r1">1ºT %</button></th><th scope="col"><button data-k="swing">Swing</button></th>
       <th scope="col"><button data-k="exp_votes" data-i18n="t_expv">Esperado votos</button></th><th scope="col"><button data-k="exp_valid" data-i18n="t_expvv">Esperado válidos</button></th><th scope="col"><button data-k="pct_of_exp_valid" data-i18n="t_pct">% apurado</button></th><th scope="col"><button data-k="r1_abst_pct" data-i18n="t_ab1">Abst. 1ºT</button></th><th scope="col"><button data-k="tse_hh" data-i18n="t_tse">TSE 2ºT %</button></th>
     </tr></thead><tbody></tbody></table></div>
@@ -156,10 +231,10 @@ th button{all:unset;cursor:pointer;min-height:32px;display:inline-block}th butto
 <script>
 const $=s=>document.querySelector(s);
 const I18N={
- pt:{skip:'Pular para o conteúdo',title:'Voto no exterior · 2º turno 2026',nav_home:'apuração nacional (TSE)',loading:'carregando…',h_bu:'Boletins de urna · média G1 + Poder360 · Lula cabeça-a-cabeça',avg2:'Média (2 fontes)',tse_off:'TSE oficial',k_countries:'Países com boletim',k_lf:'Votos reportados (L+F)',k_cov:'Cobertura dos válidos esperados',k_upd:'Atualizado',
-  h_trend:'Tendência vs 1º turno (mesmos países)',trend_sub:'swing de Lula, cabeça-a-cabeça, nos mesmos países já apurados (1º turno TSE)',h_cmp:'Comparação · exterior',r1_all:'1º turno 2026 (todo exterior)',r1_same:'1º turno (mesmos países)',r2_2022:'2º turno 2022 (exterior)',d1l:'Diferença vs 1º turno (mesmos países)',d22l:'Diferença vs 2022 (todo exterior)',dvl:'Em votos (Lula − Flávio)',
-  h_turn:'Comparecimento e abstenção (proxy)',turn_sub:'votos Lula+Flávio reportados ÷ votos válidos do 1º turno, nos mesmos países (>100% = mais gente votou que no 1º turno)',ab1l:'Abstenção 1º turno no exterior',ab2l:'Abstenção implícita 2º turno (mesmos países)',abtl:'Abstenção TSE oficial 2º turno',
-  h_rows:'País a país · barra = votos reportados como % dos válidos esperados (1º turno) · cor = proporção Lula/Flávio',lg_mark:'marca = 100% dos válidos do 1º turno',s_exp:'ordenar: tamanho',s_swing:'ordenar: swing',s_pct:'ordenar: % apurado',h_sw:'Swing por país vs 1º turno (pontos, Lula cabeça-a-cabeça)',h_traj:'Trajetória da média (Lula %) ao longo do dia',h_tbl:'Tabela',
+ pt:{scroll_hint:"Deslize a tabela para ver mais colunas",table_region:"Tabela de resultados, com rolagem",theme_label:"Alternar tema claro e escuro",language_label:"Idioma",sources_label:"Fontes das notícias",sort_label:"Ordenar países",delta_r1:"Δ 1º turno",th_state:"Estado",chart_unavailable:"Gráfico indisponível. Consulte os valores e a tabela nesta página.",skip:'Pular para o conteúdo',title:'Voto no exterior · 2º turno 2026',nav_home:'apuração nacional (TSE)',loading:'carregando…',h_bu_full:"Boletins de urna · média G1 + Poder360 · Lula cabeça-a-cabeça",h_bu:"Boletins · Lula (%)",avg2:'Média (2 fontes)',tse_off:'TSE oficial',k_countries:'Países com boletim',k_lf:'Votos reportados (L+F)',k_cov:'Cobertura dos válidos esperados',k_upd:'Atualizado',
+  h_trend_full:"Tendência vs 1º turno (mesmos países)",h_trend:"Tendência no exterior",trend_sub:'swing de Lula, cabeça-a-cabeça, nos mesmos países já apurados (1º turno TSE)',h_cmp_full:"Comparação · exterior",h_cmp:"Lula · comparação",r1_all:'1º turno 2026 (todo exterior)',r1_same:'1º turno (mesmos países)',r2_2022:'2º turno 2022 (exterior)',d1l:'Diferença vs 1º turno (mesmos países)',d22l:'Diferença vs 2022 (todo exterior)',dvl:'Em votos (Lula − Flávio)',
+  h_turn_full:"Comparecimento e abstenção (proxy)",h_turn:"Participação · estimativa",turn_sub:'votos Lula+Flávio reportados ÷ votos válidos do 1º turno, nos mesmos países (>100% = mais gente votou que no 1º turno)',ab1l:'Abstenção 1º turno no exterior',ab2l:'Abstenção implícita 2º turno (mesmos países)',abtl:'Abstenção TSE oficial 2º turno',
+  h_rows_full:"País a país · barra = votos reportados como % dos válidos esperados (1º turno) · cor = proporção Lula/Flávio",h_rows:"País a país",lg_mark:'marca = 100% dos válidos do 1º turno',s_exp:'ordenar: tamanho',s_swing:'ordenar: swing',s_pct:'ordenar: % apurado',h_sw_full:"Swing por país vs 1º turno (pontos, Lula cabeça-a-cabeça)",h_sw:"Mudança por país",h_traj_full:"Trajetória da média (Lula %) ao longo do dia",h_traj:"Média ao longo do dia",h_tbl:'Tabela',
   t_country:'País',t_src:'Fontes',t_r1:'1ºT %',t_expv:'Esperado votos',t_expvv:'Esperado válidos',t_pct:'% apurado',t_ab1:'Abst. 1ºT',t_tse:'TSE 2ºT %',
   countries:'países',of:'de',status:s=>`${s.n} de ${s.t} países · atualizado ${s.at}`,err_in:'erro em',after17:'após 17h',sections:'seções',wait:'Aguardando boletins',nochange:'Sem mudança clara',lula_up:'Lula melhora vs 1º turno',flavio_up:'Flávio melhora vs 1º turno',
   sig_ds:s=>`Nos mesmos ${s.n} países, Lula tinha ${s.r1} no 1º turno e tem ${s.now} agora. Cobertura: ${s.cov} dos válidos esperados do exterior. Fora do Brasil o eleitorado é mais pró-Lula; o sinal útil é a direção, não o nível.`,
@@ -167,10 +242,10 @@ const I18N={
   rowlabel:s=>`${s.name}: Lula ${s.hh}, ${s.lf} votos reportados, ${s.pct} dos válidos esperados, swing ${s.sw} pontos.`,
   sw_desc:s=>`Gráfico de barras com o swing por país. Maior ganho de Lula: ${s.top}. Maior ganho de Flávio: ${s.bot}.`,traj_desc:s=>`Linha da média de Lula ao longo do dia, último valor ${s.v}.`,lg_avg:'Lula % (média)',lg_r1:'1º turno mesmos países',
   foot:'<b>Fontes.</b> Boletins de urna fotografados nas seções no exterior, compilados por G1 e Poder360 (parciais; cada veículo atualiza em horários diferentes; quando os dois têm o país, usamos a média e marcamos divergência). "Esperado" = eleitorado, votos e votos válidos do mesmo país no 1º turno (TSE, 186 locais agrupados por país). Cabeça-a-cabeça = Lula ÷ (Lula+Flávio). O exterior tem ~0,25% do eleitorado e sempre foi mais Lula (52,24% no 1º turno; 51,28% em 2022): serve para medir <i>mudança de humor</i>, não o resultado nacional. Abstenção "implícita" assume o mesmo eleitorado do 1º turno. Uso pessoal.'},
- en:{skip:'Skip to content',title:'Overseas vote · 2026 runoff',nav_home:'national count (TSE)',loading:'loading…',h_bu:'Paper tallies · G1 + Poder360 average · Lula head-to-head',avg2:'Average (2 sources)',tse_off:'TSE official',k_countries:'Countries with tallies',k_lf:'Votes reported (L+F)',k_cov:'Coverage of expected valid votes',k_upd:'Updated',
-  h_trend:'Trend vs 1st round (same countries)',trend_sub:'Lula swing, head-to-head, in the same countries already tallied (TSE 1st round)',h_cmp:'Comparison · abroad',r1_all:'1st round 2026 (all abroad)',r1_same:'1st round (same countries)',r2_2022:'2022 runoff (abroad)',d1l:'Difference vs 1st round (same countries)',d22l:'Difference vs 2022 (all abroad)',dvl:'In votes (Lula − Flávio)',
-  h_turn:'Turnout and abstention (proxy)',turn_sub:'Lula+Flávio votes reported ÷ 1st-round valid votes, same countries (>100% = more people voted than in the 1st round)',ab1l:'1st-round abstention abroad',ab2l:'Implied runoff abstention (same countries)',abtl:'TSE official runoff abstention',
-  h_rows:'Country by country · bar = votes reported as % of expected valid votes (1st round) · colour = Lula/Flávio share',lg_mark:'mark = 100% of 1st-round valid votes',s_exp:'sort: size',s_swing:'sort: swing',s_pct:'sort: % counted',h_sw:'Swing by country vs 1st round (points, Lula head-to-head)',h_traj:'Average trajectory (Lula %) through the day',h_tbl:'Table',
+ en:{scroll_hint:"Swipe the table to see more columns",table_region:"Scrollable results table",theme_label:"Switch light and dark theme",language_label:"Language",sources_label:"News sources",sort_label:"Sort countries",delta_r1:"Δ 1st round",th_state:"State",chart_unavailable:"Chart unavailable. See the figures and table on this page.",skip:'Skip to content',title:'Overseas vote · 2026 runoff',nav_home:'national count (TSE)',loading:'loading…',h_bu_full:"Paper tallies · G1 + Poder360 average · Lula head-to-head",h_bu:"Paper tallies · Lula (%)",avg2:'Average (2 sources)',tse_off:'TSE official',k_countries:'Countries with tallies',k_lf:'Votes reported (L+F)',k_cov:'Coverage of expected valid votes',k_upd:'Updated',
+  h_trend_full:"Trend vs 1st round (same countries)",h_trend:"Overseas trend",trend_sub:'Lula swing, head-to-head, in the same countries already tallied (TSE 1st round)',h_cmp_full:"Comparison · abroad",h_cmp:"Lula · comparison",r1_all:'1st round 2026 (all abroad)',r1_same:'1st round (same countries)',r2_2022:'2022 runoff (abroad)',d1l:'Difference vs 1st round (same countries)',d22l:'Difference vs 2022 (all abroad)',dvl:'In votes (Lula − Flávio)',
+  h_turn_full:"Turnout and abstention (proxy)",h_turn:"Turnout · estimate",turn_sub:'Lula+Flávio votes reported ÷ 1st-round valid votes, same countries (>100% = more people voted than in the 1st round)',ab1l:'1st-round abstention abroad',ab2l:'Implied runoff abstention (same countries)',abtl:'TSE official runoff abstention',
+  h_rows_full:"Country by country · bar = votes reported as % of expected valid votes (1st round) · colour = Lula/Flávio share",h_rows:"Country by country",lg_mark:'mark = 100% of 1st-round valid votes',s_exp:'sort: size',s_swing:'sort: swing',s_pct:'sort: % counted',h_sw_full:"Swing by country vs 1st round (points, Lula head-to-head)",h_sw:"Swing by country",h_traj_full:"Average trajectory (Lula %) through the day",h_traj:"Average through the day",h_tbl:'Table',
   t_country:'Country',t_src:'Sources',t_r1:'1st rd %',t_expv:'Expected votes',t_expvv:'Expected valid',t_pct:'% counted',t_ab1:'Abst. 1st rd',t_tse:'TSE runoff %',
   countries:'countries',of:'of',status:s=>`${s.n} of ${s.t} countries · updated ${s.at}`,err_in:'error in',after17:'after 17:00',sections:'precincts',wait:'Waiting for tallies',nochange:'No clear change',lula_up:'Lula improves vs 1st round',flavio_up:'Flávio improves vs 1st round',
   sig_ds:s=>`In the same ${s.n} countries, Lula had ${s.r1} in the 1st round and has ${s.now} now. Coverage: ${s.cov} of expected valid votes abroad. Voters abroad lean Lula; the useful signal is the direction, not the level.`,
@@ -179,20 +254,30 @@ const I18N={
   sw_desc:s=>`Bar chart of swing by country. Largest Lula gain: ${s.top}. Largest Flávio gain: ${s.bot}.`,traj_desc:s=>`Line of Lula's average through the day, latest value ${s.v}.`,lg_avg:'Lula % (average)',lg_r1:'1st round same countries',
   foot:'<b>Sources.</b> Paper tallies photographed at polling stations abroad, compiled by G1 and Poder360 (partial; each outlet updates at different times; when both have a country we use the average and flag disagreement). "Expected" = electorate, votes and valid votes of the same country in the 1st round (TSE, 186 locations grouped by country). Head-to-head = Lula ÷ (Lula+Flávio). Voters abroad are ~0.25% of the electorate and have always leaned Lula (52.24% in the 1st round; 51.28% in 2022): this measures a <i>mood change</i>, not the national result. "Implied" abstention assumes the same electorate as the 1st round. Personal use.'}
 };
-let L='pt';try{L=localStorage.getItem('lang')||((navigator.language||'').startsWith('en')?'en':'pt');}catch(e){}
+let L='pt';try{L=localStorage.getItem('lang')==='en'?'en':'pt';}catch(e){}
 const T=k=>I18N[L][k];const loc=()=>L==='en'?'en-CA':'pt-BR';
 const fmtN=n=>n==null?'—':Math.round(n).toLocaleString(loc());
 const fmtP=(n,d=2)=>n==null?'—':n.toLocaleString(loc(),{minimumFractionDigits:d,maximumFractionDigits:d})+'%';
 const fmtD=(n,d=2)=>n==null?'—':(n>0?'+':'')+n.toLocaleString(loc(),{minimumFractionDigits:d,maximumFractionDigits:d});
 const root=document.documentElement;try{const t=localStorage.getItem('theme');if(t)root.dataset.theme=t;}catch(e){}
 const css=v=>getComputedStyle(root).getPropertyValue(v).trim();
-$('#theme').onclick=()=>{root.dataset.theme=css('--bg')==='#131312'?'light':'dark';try{localStorage.setItem('theme',root.dataset.theme)}catch(e){};location.reload();};
-function applyLang(){document.documentElement.lang=L==='en'?'en-CA':'pt-BR';document.querySelectorAll('[data-i18n]').forEach(el=>{const v=T(el.dataset.i18n);if(typeof v==='string')el.innerHTML=v;});
+function syncTheme(){document.querySelectorAll('meta[name="theme-color"]').forEach(m=>m.content=css('--bg'));}
+syncTheme();
+function finishLoading(){document.querySelectorAll('.is-loading').forEach(el=>{el.classList.remove('is-loading');el.removeAttribute('aria-hidden');});document.querySelectorAll('.is-pending').forEach(el=>el.classList.remove('is-pending'));}
+function updateSort(){document.querySelectorAll('th button[data-k]').forEach(b=>{b.parentElement.setAttribute('aria-sort',b.dataset.k===sortK?(sortD===1?'ascending':'descending'):'none');});}
+
+$('#theme').onclick=()=>{root.dataset.theme=css('--bg')==='#131312'?'light':'dark';try{localStorage.setItem('theme',root.dataset.theme)}catch(e){};syncTheme();restyle();};
+function applyLang(){document.querySelectorAll('.chart').forEach(el=>{let note=el.querySelector('.chart-error');if(!window.Chart&&!note){note=document.createElement('p');note.className='card-note chart-error';el.append(note);}if(note)note.textContent=T('chart_unavailable');});document.documentElement.lang=L==='en'?'en-CA':'pt-BR';document.querySelectorAll('[data-i18n]').forEach(el=>{const v=T(el.dataset.i18n);if(typeof v==='string'&&el.innerHTML!==v)el.innerHTML=v;});
+  document.querySelectorAll('[data-i18n-title]').forEach(el=>el.title=T(el.dataset.i18nTitle));
+  $('#theme').setAttribute('aria-label',T('theme_label'));$('.tools').setAttribute('aria-label',T('language_label'));$('.tbl').setAttribute('aria-label',T('table_region'));document.title=T('title');
+  if($('.ctl'))$('.ctl').setAttribute('aria-label',T('sort_label'));if($('#links'))$('#links').setAttribute('aria-label',T('sources_label'));
   $('#lang-pt').setAttribute('aria-pressed',L==='pt');$('#lang-en').setAttribute('aria-pressed',L==='en');$('#foot').innerHTML=T('foot');$('#c_22').textContent=fmtP(51.28);
   if(traj){traj.data.datasets[0].label=T('lg_avg');traj.data.datasets[1].label=T('lg_r1');}
   if(D)render(D);}
 $('#lang-pt').onclick=()=>{L='pt';try{localStorage.setItem('lang','pt')}catch(e){};applyLang();};
 $('#lang-en').onclick=()=>{L='en';try{localStorage.setItem('lang','en')}catch(e){};applyLang();};
+function restyle(){if(sw)sw.destroy();if(traj)traj.destroy();mk();applyLang();}
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>{syncTheme();restyle();});
 let sw,traj,sortK='exp_valid',sortD=-1,rowSort='exp',D=null;
 function mk(){ if(!window.Chart)return; Chart.defaults.font.size=13;
   sw=new Chart($('#sw'),{type:'bar',data:{labels:[],datasets:[{data:[],backgroundColor:[],borderRadius:4,borderSkipped:false,barThickness:8}]},options:{animation:false,indexAxis:'y',maintainAspectRatio:false,
@@ -201,7 +286,7 @@ function mk(){ if(!window.Chart)return; Chart.defaults.font.size=13;
   traj=new Chart($('#traj'),{type:'line',data:{datasets:[{label:T('lg_avg'),data:[],borderColor:css('--lula'),borderWidth:2.5,pointRadius:3,tension:.2},
     {label:T('lg_r1'),data:[],borderColor:css('--muted'),borderDash:[4,4],borderWidth:1.5,pointRadius:0}]},
     options:{animation:false,maintainAspectRatio:false,interaction:{mode:'nearest',axis:'x',intersect:false},scales:{x:{type:'category',grid:{color:css('--grid')},ticks:{color:css('--ink2')}},y:{grid:{color:css('--grid')},ticks:{color:css('--ink2'),callback:v=>v+'%'}}},
-    plugins:{legend:{display:true,labels:{color:css('--ink2')}},tooltip:{callbacks:{label:i=>`${i.dataset.label}: ${i.parsed.y.toFixed(2)}%`}}}}});
+    plugins:{legend:{display:true,labels:{color:css('--ink2')}},tooltip:{callbacks:{label:i=>`${i.dataset.label}: ${fmtP(i.parsed.y)}`}}}}});
 }
 function render(d){ D=d; const s=d.summary, m=d.rows.filter(r=>r.matched);
   $('#status').textContent=T('status')({n:s.countries_reported,t:s.countries_total,at:s.t})+(Object.keys(s.errors||{}).length?` · ${T('err_in')} `+Object.keys(s.errors).join(','):'');
@@ -211,10 +296,13 @@ function render(d){ D=d; const s=d.summary, m=d.rows.filter(r=>r.matched);
   $('#tse').innerHTML=t.available?`${fmtP(t.hh)}<br><small>${fmtN(t.sections)}/${fmtN(t.sections_total)} ${T('sections')}</small>`:`—<br><small>${T('after17')}</small>`;
   $('#nc').textContent=`${s.countries_reported}`;$('#lf').textContent=fmtN(s.coverage.lf_reported);$('#cov').textContent=`${fmtP(s.coverage.pct_valid_covered,1)} (${fmtN(s.coverage.exp_valid_reported)} ${T('of')} ${fmtN(s.coverage.exp_valid_all)})`;$('#upd').textContent=s.t;
   const swg=s.swing_same_countries;$('#swing').textContent=fmtD(swg)+' pp';
-  const sig=$('#sig');let cls='tie',ic='⚖️',tt=T('nochange');
-  if(swg==null){tt=T('wait');ic='⏳';}else if(swg>=1.5){cls='lula';ic='🟥';tt=T('lula_up');}else if(swg<=-1.5){cls='flavio';ic='🟦';tt=T('flavio_up');}
+  const sig=$('#sig');let cls='tie',ic='≈',tt=T('nochange');
+  if(swg==null){tt=T('wait');ic='…';}else if(swg>=1.5){cls='lula';ic='↗';tt=T('lula_up');}else if(swg<=-1.5){cls='flavio';ic='↘';tt=T('flavio_up');}
   const ds=T('sig_ds')({n:s.countries_reported,r1:fmtP(s.same_countries_r1.hh),now:fmtP(a.hh),cov:fmtP(s.coverage.pct_valid_covered,0)});
-  sig.className='signal '+cls;sig.innerHTML=`<div class="ic" aria-hidden="true">${ic}</div><div><div class="tt">${tt}</div><div class="ds">${ds}</div></div>`;
+  sig.className='signal '+cls;
+  // Keep the live region intact when polling returns the same signal text.
+  const signalText=tt+'\n'+ds;
+  if(sig.dataset.text!==signalText){sig.dataset.text=signalText;sig.innerHTML=`<div class="ic" aria-hidden="true">${ic}</div><div><div class="tt">${tt}</div><div class="ds">${ds}</div></div>`;}
   $('#r1all').innerHTML=`${fmtP(s.abroad_r1.hh)}<br><small>L ${fmtN(s.abroad_r1.lula)} · F ${fmtN(s.abroad_r1.flavio)}</small>`;
   $('#r1same').innerHTML=`${fmtP(s.same_countries_r1.hh)}<br><small>L ${fmtN(s.same_countries_r1.lula)} · F ${fmtN(s.same_countries_r1.flavio)}</small>`;
   $('#d1').textContent=fmtD(swg)+' pp';$('#d22').textContent=a.hh==null?'—':fmtD(a.hh-51.28)+' pp';$('#dv').textContent=(a.lula-a.flavio>0?'+':'')+fmtN(a.lula-a.flavio);
@@ -227,20 +315,21 @@ function render(d){ D=d; const s=d.summary, m=d.rows.filter(r=>r.matched);
     const bad=r.agree===false?`<span class="badge">${T('diverge')}${r.used&&r.used!=='avg'?' · '+T('using')+' '+(r.used==='g1'?'G1':'P360'):''}</span>`:'',ns=`<span class="badge">${r.n_sources===2?'G1+P360':(r.src.g1?'G1':'P360')}</span>`;
     const sb=r.swing==null?'':`<span class="badge ${r.swing>0?'pos':'neg'}">${fmtD(r.swing,1)} pp</span>`;
     const lbl=T('rowlabel')({name:r.name,hh:fmtP(r.hh,1),lf:fmtN(r.lf),pct:fmtP(pct,0),sw:fmtD(r.swing,1)});
-    return `<div class="row" role="listitem" aria-label="${lbl.replace(/"/g,'&quot;')}"><div class="nm" title="${(r.cities||[]).join(', ')}">${r.name} <small>${fmtP(r.hh,1)} Lula</small>${sb}</div>
+    return `<div class="row" role="listitem" aria-label="${lbl.replace(/"/g,'&quot;')}"><div class="nm" title="${(r.cities||[]).join(', ')}"><span class="country-name">${r.name}</span>${sb}</div>
       <div class="track" aria-hidden="true"><div class="fill" style="width:${w}%"><div class="l" style="width:${ls}%"></div><div class="g"></div><div class="f" style="flex:1"></div></div><div class="m100" style="left:${m100}%"></div><span class="pct">${fmtP(pct,0)}</span></div>
-      <div class="fig mono" aria-hidden="true">${fmtN(r.lf)} ${T('reported')}${ns}${bad}<br>${T('expected')}: ${fmtN(r.exp_votes)} ${T('votes')} · ${fmtN(r.exp_valid)} ${T('valid')} · ${fmtN(r.exp_electorate)} ${T('voters')}</div></div>`;}).join('');
+      <div class="fig mono"><span class="country-share">Lula ${fmtP(r.hh,1)}</span> · ${fmtN(r.lf)} ${T('reported')}${ns}${bad}<br>${T('expected')}: ${fmtN(r.exp_votes)} ${T('votes')} · ${fmtN(r.exp_valid)} ${T('valid')} · ${fmtN(r.exp_electorate)} ${T('voters')}</div></div>`;}).join('');
   document.querySelectorAll('.ctl .btn').forEach(b=>b.setAttribute('aria-pressed',b.dataset.s===rowSort));
   const sr=m.filter(r=>r.swing!=null).sort((x,y)=>y.swing-x.swing);
   if(sw){sw.data.labels=sr.map(r=>r.name);sw.data.datasets[0].data=sr.map(r=>r.swing);sw.data.datasets[0].backgroundColor=sr.map(r=>r.swing>=0?css('--lula'):css('--flavio'));sw.update('none');}
   $('#sw-desc').textContent=sr.length?T('sw_desc')({top:`${sr[0].name} ${fmtD(sr[0].swing,1)}`,bot:`${sr[sr.length-1].name} ${fmtD(sr[sr.length-1].swing,1)}`}):'';
   if(traj){const h=d.history||[];traj.data.labels=h.map(x=>x.t);traj.data.datasets[0].data=h.map(x=>x.hh);traj.data.datasets[1].data=h.map(x=>x.hh-(x.swing??0));traj.update('none');$('#traj-desc').textContent=h.length?T('traj_desc')({v:fmtP(h[h.length-1].hh)}):'';}
   const tb=$('#tbl tbody');const rs=m.map(r=>({...r,tse_hh:r.tse?r.tse.hh:null})).sort((x,y)=>{const a=x[sortK],b=y[sortK];if(a==null)return 1;if(b==null)return -1;return (a>b?1:a<b?-1:0)*sortD});
-  tb.innerHTML=rs.map(r=>`<tr><th scope="row" style="text-align:left;position:static;text-transform:none;letter-spacing:0;font-size:14px;color:var(--ink)">${r.name}</th><td>${r.n_sources}${r.agree===false?' ⚠':''}</td><td class="mono">${fmtN(r.lula)}</td><td class="mono">${fmtN(r.flavio)}</td><td class="mono">${fmtP(r.hh)}</td><td class="mono">${fmtP(r.r1_hh)}</td><td class="mono ${r.swing>0?'pos':r.swing<0?'neg':''}">${fmtD(r.swing)}</td><td class="mono">${fmtN(r.exp_votes)}</td><td class="mono">${fmtN(r.exp_valid)}</td><td class="mono">${fmtP(r.pct_of_exp_valid,0)}</td><td class="mono">${fmtP(r.r1_abst_pct,1)}</td><td class="mono">${fmtP(r.tse_hh)}</td></tr>`).join('');
+  tb.innerHTML=rs.map(r=>`<tr><th scope="row" style="text-align:left;text-transform:none;letter-spacing:0;font-size:14px;color:var(--ink)">${r.name}</th><td>${r.n_sources}${r.agree===false?' ⚠':''}</td><td class="mono">${fmtN(r.lula)}</td><td class="mono">${fmtN(r.flavio)}</td><td class="mono">${fmtP(r.hh)}</td><td class="mono">${fmtP(r.r1_hh)}</td><td class="mono ${r.swing>0?'pos':r.swing<0?'neg':''}">${fmtD(r.swing)}</td><td class="mono">${fmtN(r.exp_votes)}</td><td class="mono">${fmtN(r.exp_valid)}</td><td class="mono">${fmtP(r.pct_of_exp_valid,0)}</td><td class="mono">${fmtP(r.r1_abst_pct,1)}</td><td class="mono">${fmtP(r.tse_hh)}</td></tr>`).join('');
+  finishLoading();updateSort();
 }
 document.querySelectorAll('th button[data-k]').forEach(b=>b.onclick=()=>{const k=b.dataset.k;if(sortK===k)sortD*=-1;else{sortK=k;sortD=-1;}if(D)render(D);});
 document.querySelectorAll('.ctl .btn').forEach(b=>b.onclick=()=>{rowSort=b.dataset.s;if(D)render(D);});
-async function refresh(){try{render(await fetch('data/exterior.json?'+Date.now()).then(r=>r.json()));}catch(e){$('#status').textContent=(L==='en'?'load error: ':'erro: ')+e.message;}}
+async function refresh(){try{render(await fetch('data/exterior.json?'+Date.now()).then(r=>r.json()));}catch(e){finishLoading();$('#status').textContent=(L==='en'?'load error: ':'erro: ')+e.message;}}
 mk();applyLang();refresh();setInterval(refresh,60000);
 </script>
 <script>

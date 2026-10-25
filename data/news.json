@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-25T18:57:17.061810-03:00",
+ "updated": "2026-10-25T18:59:18.082364-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "TSE diz que contagem dos votos será retomada às 19h - Agência Brasil",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-diz-que-contagem-dos-votos-sera-retomada-19h",
-   "source": "Agência Brasil",
-   "published": "2026-10-25T21:48:00+00:00",
-   "desc": " TSE diz que contagem dos votos será retomada às 19h    Agência Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjNqT2FmR2VIdDJ3T0F3Y1c2OXd2NmRsd0FaRktvZ3MyejNaczlGam5aMTJwdmN4UllRSm1VR1hzVzhyODVkcTQ4c013YjhkUkR0YndPN1J6V0RMN3pLWnpzOUk4UnlrTHFreGZOYjlUSmlVV1ZDSVFyVlQyTHI5dUEwR2tYY3d6Y3oydHZySXdBcTBBelBsOWZFR0pHaHhENlJLc0pTVkFmQQ?oc=5"
-  },
   {
    "title": "Chefe da campanha de Flávio Bolsonaro fala em 'golpe judiciário', e aliados sugerem fraude sem provas - Folha de S.Paulo",
    "link": "https://www1.folha.uol.com.br/poder/2026/10/chefe-da-campanha-de-flavio-bolsonaro-fala-em-golpe-judiciario-e-aliados-sugerem-fraude-sem-provas.shtml",
@@ -25,6 +17,14 @@
    "published": "2026-10-25T21:42:49+00:00",
    "desc": " Apuração TSE 2026: veja como acompanhar resultado em tempo real do segundo turno    UOL Notícias ",
    "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkhRbXZZU3UwUHZqa2RySksyOTkwOVp0RVJ3eWI5bzNlSGNPbmRqZllHWEtPQTZodjdUWHZuQTZxa2NPY0JoenJ6MGl0Ul9fQzZMRHkyUEdpdVp5VGpJUTZNaWpZSklTS2lhOUhBcmZLcjMzc0xqeWpzRzFjZzhRaXBqZllUR3FVNWpENVhaSVROa2d4bGJNRWw5WE5UVEpzUkZNWXZBSU93RVZuRjJ1T1dVdk1MeE1Dcll2a0EycWNQVzQzbTduRUxqYUI?oc=5"
+  },
+  {
+   "title": "Quem pediu a prorrogação da votação? Entenda as solicitações de Lula e Flávio - UOL Notícias",
+   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/quem-pediu-a-prorrogacao-da-votacao-entenda-solicitacoes-ao-tse-e-ao-stf.ghtm",
+   "source": "UOL Notícias",
+   "published": "2026-10-25T21:41:54+00:00",
+   "desc": " Quem pediu a prorrogação da votação? Entenda as solicitações de Lula e Flávio    UOL Notícias ",
+   "gnews": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeklNRXFkRkV4aXJobjN0SWNLaXN3aTIySkZ3elo5TmtRc3FLaXR6elRrUlB6OEJIc3FIOTRiZG5Mb0o1amJSeURvblJwYllMVnlsTXVILU5ZS25neHFuSHRfbGhPT2gyS3p0ZkRiZVBsdWpPdHBOTTBfMjF2RmFzQXVkaWprdDBTMWJabnlfVHdlMTNVb1NwcG9TV3MydlFxaUtBQUJaUzF3UF9IQndZZElmNWpFOEJJc2xTSmdiQjhXUjg?oc=5"
   },
   {
    "title": "Apuração em tempo real do 2º turno: veja como acompanhar resultados de Lula x Flávio - UOL Notícias",
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Contagem dos votos do 2º turno será retomada às 19h enquanto campanha de Flávio Bolsonaro denuncia suposto “golpe judiciário” sem evidências",
-  "why_it_matters": "A retomada marca o início da divulgação oficial dos resultados que decidirão a presidência; as alegações de fraude podem inflamar a tensão política.",
-  "big_picture": "Com a eleição ainda sem apuração, o Brasil observa um processo eleitoral sob escrutínio intenso e discursos de contestação que lembram crises anteriores.",
+  "headline": "Chefe da campanha de Flávio Bolsonaro denuncia ‘golpe judiciário’ enquanto a apuração ainda não começou",
+  "why_it_matters": "Acusações de golpe e fraude sem provas podem elevar a tensão política antes da divulgação dos resultados.",
+  "big_picture": "O clima de contestação já se instala no segundo turno, com candidatos preparando argumentos legais antes mesmo da contagem oficial.",
   "details": [
-   "TSE informou que a contagem dos votos, interrompida para verificação, será reiniciada às 19h (horário de Brasília).",
-   "Chefe da campanha de Flávio Bolsonaro acusou um “golpe judiciário” e aliados insinuaram fraude, mas não apresentaram provas.",
-   "Portais como UOL oferecem guias para acompanhar a apuração em tempo real, mas ainda não há números divulgados."
+   "Chefe da campanha de Flávio Bolsonaro fala em ‘golpe judiciário’ e aliados sugerem fraude sem evidências",
+   "TSE ainda não iniciou a apuração; os primeiros números só serão divulgados após a abertura das urnas às 20h",
+   "UOL orienta eleitores a acompanhar a apuração em tempo real pelos canais oficiais",
+   "Lula e Flávio solicitaram prorrogação da votação, gerando debate sobre procedimentos eleitorais"
   ],
-  "whats_next": "Acompanhar a transmissão da contagem a partir das 19h e observar reações dos candidatos conforme os resultados surgem."
+  "whats_next": "A contagem oficial começa às 20h; o TSE publicará os resultados preliminares em seguida."
  },
  "brief_en": {
-  "headline": "2nd‑round vote count resumes at 7 p.m. as Flávio Bolsonaro’s campaign alleges a “judicial coup” with no evidence",
-  "why_it_matters": "The restart kicks off the official tally that will decide the presidency; fraud claims could stoke political tension.",
-  "big_picture": "With the election still uncounted, Brazil watches an intensely scrutinized vote and contestation rhetoric reminiscent of past crises.",
+  "headline": "Flávio Bolsonaro campaign chief decries ‘judicial coup’ as vote count hasn’t started",
+  "why_it_matters": "Unsubstantiated coup and fraud claims could heighten political tension ahead of results.",
+  "big_picture": "A contestation vibe is already set for the runoff, with candidates lining up legal arguments before the official tally.",
   "details": [
-   "TSE said the vote count, paused for verification, will restart at 7 p.m. Brasília time.",
-   "Flávio Bolsonaro’s campaign chief called it a “judicial coup” and allies hinted at fraud, but offered no proof.",
-   "Sites like UOL provide live‑count guides, though no numbers have been released yet."
+   "Flávio Bolsonaro campaign chief warns of a ‘judicial coup’ and allies hint at fraud with no evidence",
+   "TSE hasn’t begun counting; the first numbers will be released after the polls open at 20h",
+   "UOL advises voters to follow the count live via official channels",
+   "Lula and Flávio asked for a voting extension, sparking debate over election procedures"
   ],
-  "whats_next": "Watch the 7 p.m. count broadcast and track candidate reactions as results emerge."
+  "whats_next": "The official count kicks off at 20h; TSE will post preliminary results shortly after."
  },
  "error": null
 }
