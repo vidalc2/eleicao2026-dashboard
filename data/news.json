@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:58:58.263382-03:00",
+ "updated": "2026-10-26T07:01:00.001828-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -9,6 +9,14 @@
    "published": "2026-10-26T09:46:41+00:00",
    "desc": " TSE afirma ter imagens de fiscais do PL durante apuração    Poder360 ",
    "gnews": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWhvcG1YQVVJOUJlX0RSQ3V5U2VKZXFMNHBlaUtoT2g4Mm1sUEFYMWNzcGpRMExWZWtuUzUxNFU0a0NmUDl2N2w4SDZSM0J1VjUzQnYyaWZCTVo4azNfM01sbzVJR1c1ak5kZGVMQjR6c1c0SzU0WDhvcTY2SkhWWmVSV3VQMzNIM0tXSl9EOEZGdFNIMTZwM0JIV0cxLURhZi14WDRkWW0?oc=5"
+  },
+  {
+   "title": "Votação prorrogada: veja cronologia que levou a impasse entre STF e TSE - CNN Brasil",
+   "link": "https://www.cnnbrasil.com.br/eleicoes/votacao-prorrogada-veja-cronologia-que-levou-a-impasse-entre-stf-e-tse/",
+   "source": "CNN Brasil",
+   "published": "2026-10-26T09:42:34+00:00",
+   "desc": " Votação prorrogada: veja cronologia que levou a impasse entre STF e TSE    CNN Brasil ",
+   "gnews": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE16QVVTbUpuQ1Ftalk5Y0xIMEQySkJYWWlCOHVJbkxpOXN6UHdlMzdJZG15UjU2akVIbWtYQTZPRXpSVWVGYUc5c3Jrc2ZXNzhkQjJjNXVid0JlQndaeTItODdWTjB1QnZ6eUpOT2cxQlJhbXVaNnNhakZVOW9JbER6MTlia0NlZFFBS0NZTDU5bndaaExYVHo4TGNjazVkNExYRDk3ei01QXZMNFE?oc=5"
   },
   {
    "title": "74ª zona eleitoral de Lago dos Rodrigues (MA): votos por local de votação no 2º turno - G1",
@@ -27,45 +35,35 @@
    "gnews": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeWRKaWFHY21ROTIwZ1VaVGRvUnlBNl9aM3ZLcVZoU2JLX3hmWDluTERTQTQzUE9MTTN2cGRIZlA3S0I2MzB1d0ZlRF9BeS1Od1dmZnoyOFdQWE9DWU9uQlhhX2hIRFpfdno4N0tnbUNVZG1vVnduVWozVk4wZHRJRXQ1WVU4R0RfX1pLZEI5S2lvLXE0b2doSTMxNEdEclVaS3BDbGsxZkd6YUNLaklCZ1FFRDkzTGJXSHBDS3dNV2xsZUFFbnNmd09NbWU5b2tsYm5zSE05QTM0V2dKMDN4Nmt4TzYzcGNOcU9mVTJsNTlMNmdmUG1yYkJ30gGIAkFVX3lxTFBRcFBVOVNKTm45N0hWcTQyRGdjX0VPZmFHOEFURXZkTXUyRXBlZV92Q2l4bWNyTVBIb21mb000N0RJMzBUQjlmZ09PX1h2UlJULXlXeHZSYlVLR1B2aFphTVQ1ODlQSDlUX3dkeXltNnpJVEV3N0tJY0pkeFRDZ1I2TlZKeTJPU0pVOXBDT0pzZmZVUVlpbDdmaHZwb2sxQVlMS0lNMFhwMi16b1Fqb3FkVWh4UjBwVEpadmVsdWhnaVh3ZEZLUTdWNEx6RVgyRFMxd2MyZGNqbU5lLW9jSVJnWlMtUG1ONmtrTTB3S0lzdFdjZEN1Y2FSS1hENkdIWDJMb09SY1dNVA?oc=5"
   },
   {
-   "title": "Mapa da virada: onde Lula avançou e como mudou a votação de Flávio Bolsonaro entre o 1º e o 2º turno - G1",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/mapa-virada-lula-flavio-bolsonaro-votos-primeiro-segundo-turno.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T09:27:09+00:00",
-   "desc": " Mapa da virada: onde Lula avançou e como mudou a votação de Flávio Bolsonaro entre o 1º e o 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOby16QW9TNkFiMDQwUGtuTEctYmVIZjZFWmtTZVMxM1NtNzBPVXp2Qi1NRjNEQUpXcDFLYkNlbWhZcUZuLWc3dktFWTVyY3ZrSWhseTJNZDFuNGhmYWFqYmsxSldNd240VVJBejNfSjZXU2REUmd5QXBZMTZtRV9GdWs4QlpTZm1OX1p6OXI4a1NPcXdpX0dFMFdudFhCZ2RBT3N0LVVYMlRDUDFnZnMzNU1NSThQa1RyZVlqc3F0bHBiOTB3ZnhvSnI3b9IB2gFBVV95cUxQUGFBZlRMTmV6dmZVOHlsUTFzUFBZc3p4NE5udjFWUkVlRlY5eW44YXFLbjFtUEQwVEljODJxbHVCY0ZKcnBnaGNiWUJQa3RJd0psY2V5d1Q0UUhNUHgzcVpiRE1JRVZIUWpHZ2x0VjQwM0UyNGpfRk55YU5jTlJZbUJPVzJjdmRmbVoyenduLUhjbWxrbkl2d181ZWhnel9JY0M5cmJ4cHQwUDlXUXdfMmQwMmVGV3NSSmtiWDc5elpwRDBRYVFKMy1CY0N3OUpvamdYd1pNY3Nxdw?oc=5"
-  },
-  {
-   "title": "Gararu escolhe Lula para presidente no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/127709/gararu-escolhe-lula-para-presidente-no-segundo-turno",
+   "title": "Brumado escolhe Lula para presidente no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127925/brumado-escolhe-lula-para-presidente-no-segundo-turno",
    "source": "Congresso em Foco",
-   "published": "2026-10-26T09:29:09+00:00",
-   "desc": " Gararu escolhe Lula para presidente no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQclBnX2M0UGhManE0Nl91c3JQQXV0My1LZ253dmJmbGpvanQteUpKN2tzOGxMTjlGTWM0NDYtZkkyazkwYjNaOHltQ0RJbE0xUElWVEJKUjRteEtYMkRRVFhkQ2pLVXFUZVVrUDFxVkRfSlREc0Q3TUwyWG82a0lOQWR6QTJIeGxqOWJLeE1UYmFQdTZBYzlKZFUzOVkyMlcwQXhDTg?oc=5"
+   "published": "2026-10-26T09:53:28+00:00",
+   "desc": " Brumado escolhe Lula para presidente no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXZSc1VKT1dzZ3RnWFk4ZG5LN1VpSDJWYzNnbzdhUTNVaDNiR0lESWFGaFVvdE1yQVdCRzcyNHdJX3BhZlBLMWpxZlM2VGw4TS1Ia2RaRnNhMUVEeGIwTTJxd3dLOUphT0ttUnhQdW1tVXJsWVRTYlpHQWxIT3N6dUVjOGEyTDV1dV9QbUtmZFBtdkZkLUpoYTdHNUhwU1FQMU84TmhR?oc=5"
   }
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a candidatura de Flávio Bolsonaro, que ficou com 48,21% dos votos válidos.",
-  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete a polarização regional, destacando ganhos decisivos no Nordeste e reviravoltas em áreas antes favoráveis a Bolsonaro.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro.",
+  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, Lula supera a marca dos 50% e consolida apoio em regiões estratégicas do país.",
   "details": [
-   "TSE divulgou imagens de fiscais do PL monitorando a apuração, reforçando a transparência do processo.",
-   "Resultados de zonas eleitorais no Maranhão – Lago dos Rodrigues e Imperatriz – mostraram ganhos decisivos para Lula no segundo turno.",
-   "Mapa da virada indica que Lula avançou em municípios que antes favoreciam Bolsonaro, revertendo a tendência do primeiro turno.",
-   "Gararu (Bahia) consolidou a preferência por Lula, simbolizando a força da base no Nordeste."
+   "TSE confirma a totalização com 100% das seções apuradas e divulga imagens de fiscais do PL monitorando a apuração",
+   "O impasse entre STF e TSE que prorrogou a votação foi resolvido, permitindo a divulgação dos resultados finais",
+   "Resultados locais – como Brumado (Bahia) e municípios do Maranhão – reforçaram a vantagem de Lula nas zonas rurais e urbanas"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial."
+  "whats_next": "Lula assume a presidência em 1º de janeiro de 2027, enquanto o Congresso se prepara para a nova composição legislativa"
  },
  "brief_en": {
   "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro, who got 48,21% of valid votes.",
-  "big_picture": "A 4,430,191‑vote margin and 19,22% abstention show regional polarization, with decisive gains in the Northeast and turn‑arounds in former Bolsonaro strongholds.",
+  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro’s conservative push.",
+  "big_picture": "With a 4,430,191‑vote margin and 19,22% abstention, Lula clears the 50% threshold and solidifies support in key regions.",
   "details": [
-   "TSE released footage of PL poll watchers monitoring the count, underscoring process transparency.",
-   "Results from Maranhão precincts – Lago dos Rodrigues and Imperatriz – delivered decisive gains for Lula in the runoff.",
-   "The swing map shows Lula making inroads in municipalities that backed Bolsonaro in round one, flipping the trend.",
-   "Gararu, Bahia cemented support for Lula, highlighting the Northeast base’s strength."
+   "TSE confirms full count with 100% of precincts reported and releases footage of PL poll watchers monitoring the tally",
+   "The STF‑TSE deadlock that delayed voting was resolved, clearing the way for final results",
+   "Local outcomes – like Brumado (Bahia) and towns in Maranhão – bolstered Lula’s edge in both rural and urban zones"
   ],
-  "whats_next": "Lula will be inaugurated on Jan 1 2027, while Flávio Bolsonaro readies a legal challenge."
+  "whats_next": "Lula takes office on Jan. 1, 2027, as Parliament gears up for a new legislative makeup"
  },
  "error": null
 }
