@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:59:20.573069-03:00",
+ "updated": "2026-10-26T08:01:20.574482-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos e margem de 4,43 milhões",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede que Flávio Bolsonaro tente anular o pleito, apesar de suas alegações de fraude.",
-  "big_picture": "Com 100% das seções apuradas e abstência de 19,22%, o resultado reflete a profunda polarização, mas também a mobilização de eleitores, sobretudo em estados como a Bahia, que reduziu a abstenção entre turnos.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de governo e evita uma crise institucional, enquanto a contestação de Flávio pode gerar instabilidade política",
+  "big_picture": "Com 100 % das seções apuradas e abstenção de 19,22%, o pleito foi concluído; a comunidade internacional já reconheceu o resultado",
   "details": [
-   "Flávio Bolsonaro classificou o resultado de ‘sacanagem’ e prometeu buscar anulação, apesar da certificação total do TSE",
-   "Líderes mundiais enviaram mensagens de parabéns a Lula, reforçando sua legitimidade internacional",
-   "Bahia liderou a queda da abstência entre os turnos, indicando maior engajamento nas regiões favoráveis ao candidato da esquerda",
-   "Presidente do TSE fez balanço destacando transparência e negou retirada de fiscais do PL durante a apuração",
-   "Diferença de 4.430.191 votos supera margens históricas, consolidando a vitória de Lula"
+   "TSE confirma totalização final e nega retirada de fiscais do PL durante a apuração",
+   "Flávio Bolsonaro chama o resultado de ‘sacanagem’, afirma que é ‘impossível’ aceitar a derrota e promete buscar anulação",
+   "Líderes mundiais, entre eles presidentes dos EUA e da França, parabenizam Lula pela vitória",
+   "Bahia lidera queda na abstenção entre turnos, sinalizando maior engajamento dos eleitores",
+   "Presidente do TSE faz balanço do segundo turno, reforçando a legitimidade do processo eleitoral"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio prepara recursos legais contra o resultado"
+  "whats_next": "Flávio deve apresentar recursos ao TSE; a posse de Lula está marcada para 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of the vote and a 4,43‑million margin",
-  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro from trying to overturn the election, despite his fraud claims.",
-  "big_picture": "With 100% of precincts counted and abstention at 19,22%, the result shows deep polarization but also strong voter mobilisation, especially in states like Bahia, which cut abstention between rounds.",
+  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 mi votes",
+  "why_it_matters": "The win secures the government’s agenda and averts an institutional crisis, while Flávio’s challenge could spark political instability",
+  "big_picture": "With 100 % of precincts counted and 19,22% abstention, the vote is final; the world has already recognized the result",
   "details": [
-   "Flávio Bolsonaro called the result a ‘scam’ and vowed to seek an annulment, even though the TSE has fully certified it",
-   "World leaders sent congratulations to Lula, bolstering his international legitimacy",
-   "Bahia led the drop in abstention between rounds, signalling higher engagement in left‑leaning areas",
-   "The TSE chief highlighted transparency and denied any removal of PL poll watchers during counting",
-   "A 4,430,191‑vote gap eclipses historic margins, cementing Lula’s victory"
+   "TSE confirms final tally and denies removal of PL poll watchers during count",
+   "Flávio Bolsonaro calls the result ‘sacanagem’, says it’s ‘impossible’ to accept defeat and vows to seek annulment",
+   "World leaders, including the US and French presidents, congratulate Lula on his win",
+   "Bahia leads the drop in abstention between rounds, signalling higher voter engagement",
+   "TSE president reviews the runoff, reinforcing the election’s legitimacy"
   ],
-  "whats_next": "Lula will be inaugurated on Jan. 1, 2027, while Flávio gears up for legal challenges"
+  "whats_next": "Flávio will file appeals with TSE; Lula’s inauguration is set for Jan 1, 2027"
  },
  "error": null
 }
