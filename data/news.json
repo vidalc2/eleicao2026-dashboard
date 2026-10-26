@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:34:59.287100-03:00",
+ "updated": "2026-10-25T21:36:59.864639-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -19,53 +19,53 @@
    "gnews": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelVRaFNfVGREdWJtQklFWHp6QnBUOG4zWENmTHVaNU9MRFNoMURKVlR6YzI0QmQ5MXZnS3k5VnpXMFJRWVBoOEN1Z0JNWG5tM1FieTVyLTNnWk1sTnVwNk9lbUVxWFN2cXk3Y2tINlZpLWstWXFQSXBSa3pDZkZaSHJDTS02OFdNd2hyM1lWLUhkd2x1QUVTRXJLOENMbU5SRWdROVRWTGxEdk85R1hZWG1BWmItXzdUa2RZdzdJUkZvOU9KbHhyNVcyaV92Tm1LNnBva2Jn0gHkAUFVX3lxTE9vUmkyME1aSy1YMDBWOFhiU3dBRE05ck56TXdkbUhiYXVmeVBGREFfeDg4M01mVjhhbkhiSk1DMGtvYkR1X3hBQkYxSHVKYkRqMHJRY2NrdWZPODB6eHFKUzlFU0xUeVhOYlhuSnBWSnZOcW80SUM4VWIxU0hfbGt6V1ptVS1QTTB4ak5CazNua1JTeS0tYjJPZ2F5UkZUQlNlakI0VzZwSlNJUUJ1NnEtMDQ4dkozX0lpenB2eGxQYlRzMWpsOUJneUJNUXYxc3dSZlc3S2ltWUY4bnJzQjlkdEhMdw?oc=5"
   },
   {
-   "title": "Lula reeleito: imprensa internacional repercute resultado do 2º turno da eleição no Brasil - G1",
-   "link": "https://g1.globo.com/mundo/noticia/2026/10/25/lula-reeleito-imprensa-internacional-repercute-resultado-do-2o-turno-da-eleicao-no-brasil.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T00:20:08+00:00",
-   "desc": " Lula reeleito: imprensa internacional repercute resultado do 2º turno da eleição no Brasil    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQi1mWVdYMEc4cFBucTNOeVFZam1KZV9zTmtaWlE0UUp2Ml91Rkd4UkVDX1JiQnBGdkNXREt6VmdPQk1uY1RVOERMU3B3ZU1KUXVQaTJ6LWZxWWE3ajRpczd0M0xpc1hmb09xNmNQejhxdmI2cWd5N0hFb2lmUzFPQkgxTE1EeWkwQm5mSGp4bVVQaUVseFA0SHlaOS1wR2doVkxpODZXRTZIMzhRWFlOQm9PbzR4bnVqWDhxek1Vb2RhMzJld0N5ZXd3aksyZFVsWk9JdjVhcjjSAecBQVVfeXFMTlE0c1hWRUhLOEdQUXRLTDZ4Y1ZyQWViQVgzWlFxSXhiOWU2d1k0LWNITVdadGhzekY5cC1vX2tLbFk5Mlp3S1F6eGxWTDlLTXdfbm44WGJ3SFBWOXM5MjlfV0Zua0JrN1Awd01acHpCMjFtajdwdGc1ZVZybUdDSXRkdkQ2VXE4S2VRak9SbTNxUWxDSE5RMG90NExHeEhqTWZTekc2YXdGbE9DR1hpMlVCNk5icVFhQmNybk50YzY3M2dVZ2VxX0RPTFlZS2NtelBVNDhtbXVLZ1lhcDVMS0tUeUpYUDZv?oc=5"
-  },
-  {
-   "title": "Resultado das eleições 2026 em Canápolis (MG): como foi a votação no 2º turno - G1",
-   "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-canapolis-mg-como-foi-a-votacao-no-2o-turno.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T00:17:05+00:00",
-   "desc": " Resultado das eleições 2026 em Canápolis (MG): como foi a votação no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYmt4dU5tOE9tdDNDcHBMX210UHkwTGFWMDl4TzJtWUt6aFVRd2cydU84ZGFpblNwUXBjQkRDUEluT0lJNDJyOThPSDdIN0xtMENSVEZXM3ZaQXdSY2gtY2pDYV9yX0ZYRUZjQ2NheEhNcEluSFpTNkdBcXR0Nk9ScDBJUm55Z294WFZPRVBBYkRWclJkMk9wWW1zYklneGZSd1l3WWEtODZRQUUwYngtNW51WUQ1d0RreG5UZ0hzd09DUTZzX1hlOWg0dF9zV05SRGRUSVdIY09JcUVIbkFQcE1lWnjSAfMBQVVfeXFMTzgteVkzSnJDejR4YjZEdGhLN3NHRWJXMTlza2FTUmh2UnQzZ3lYQjdtZm41U3lTNWdvQVdOOTBkY19HY3h1dWV6Qk1kclNLX0tJMDhsQnZpMlNTbjBuRlpPaHZSM25zZVdPU3U0dlF6d0xZcWhneDliZlVhUThDVDNfdE1mYUVCdzBuSms4Z2ZDSnZseHB2RHlpRVo1dnRwbGpGRmZWdVJsZm0yLTFHSWE0SnV4WldyaXFudnJfOEtBa0REY2dHcWVta1FFTTYwd2wwZXgwLThmNkRvUDU3UUVtNy15NjVWNmdxZDluLWRvWV9F?oc=5"
-  },
-  {
    "title": "Veja os horários das viradas na apuração presidencial entre Lula e Flávio - Folha de S.Paulo",
    "link": "https://www1.folha.uol.com.br/poder/2026/10/veja-os-horarios-das-viradas-na-apuracao-presidencial-entre-lula-e-flavio.shtml",
    "source": "Folha de S.Paulo",
    "published": "2026-10-26T00:17:00+00:00",
    "desc": " Veja os horários das viradas na apuração presidencial entre Lula e Flávio    Folha de S.Paulo ",
    "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM25tMlFzZ2E3b18wZHhlU29aTkp6LWkxTEJDQWZYLUl3LUI2TUM0dWJ0QnBLSmpTUVE1V3NTSC1Pa3NibXhKSU9xelFiQ09NUnhWNUlaN0c4LTJkcmQ2alctd0Z3WkgxZXpabzRMMU9OSElfU1pNNkpjZkFVaGsxZjZDMXRSbkJxWTBwUEtkZDMwV2FZZlBpTkdVVHdUN0FhcnFKajBNeWtpUUlDcEN4UGRWZHVnaHpRZnYyOFFPdG0?oc=5"
+  },
+  {
+   "title": "Apuração no Nordeste: veja como foi a votação de Lula e Flávio na região - O GLOBO",
+   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apuracao-no-nordeste-veja-como-foi-a-votacao-de-lula-e-flavio-na-regiao.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T00:15:32+00:00",
+   "desc": " Apuração no Nordeste: veja como foi a votação de Lula e Flávio na região    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUsyUGtlMy1PM0x3ZDBkWHRnc1MtVm9hWXZLOVU2Q3Jta2hSUEdUS1RaQnB2S1dUaW5VdTAyOUYxVTlXTTcySXk5VVpaOG9IV1pzN0IzUFhjMVA2dS1hMDVmdXhrVXE3ZEM0QU9YQVRxZ3huQW5Qem05OWZKYzNOQVJSY2FhUDIzVEdsRjlMODJmcHJJejg0OGpreGZSUjkyS3ZjcFlLOXFRMUROZEJsVmFKd1hYV1NqM194MFNhS3Nrd3VHd0k3QjZrd0RaMXQ3ei1jMzhzZDQ0U2c40gHrAUFVX3lxTFBzcmx0UmE0RGx1bEtBNDJmZVJiXzJDeTBRT3RCMGw5UnVOUmRIV3VCTFpLYU5iR2MyMjRNcmF5bW5ZRzMtaWVIRUI2cVM1TllWRTJxZHJSUzdOdEpiRG1IUHNONGZsenVyNS1VRjBPTlZ6U3g1QVAxT3ZrNVg3c3Q4UTc5ZHB1bTYybElkM21FWXNxYXRXRjM0MkR1YTdtMmpmZnlaZllPNF90SGhDdG5ZM2FfelZCTFgyTmh0MWtkWkpodHlwYzBFTDdPOWd2aHFYWjZGM25tVmtidnVXYmFMb1RNcWZRbkxyTTA?oc=5"
+  },
+  {
+   "title": "Em tempo real: projeção da apuração mostra possível resultado do 2º turno para presidente - Estadão",
+   "link": "https://www.estadao.com.br/politica/eleicoes/em-tempo-real-projecao-da-apuracao-mostra-possivel-resultado-do-2-turno-para-presidente/",
+   "source": "Estadão",
+   "published": "2026-10-26T00:15:20+00:00",
+   "desc": " Em tempo real: projeção da apuração mostra possível resultado do 2º turno para presidente    Estadão ",
+   "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaUw1cUJYM2tWcmVWTlJuYng5bUZmcUdaekc4cVZMS1d3dkhFMFI3Z0p1NFJFWTdnbi10QkRsQTY4a2RLZ3FPLVVxYmotX0dCX2hEY0lLbWNwRl9rNTI5U2ZxektZQ05tNVRFdkk2SFU1UllzU3ZMWVg5czVCdGVTQ09RaXBBTzlkb1JqZFVNelNZT1VaazVSRk1GWGM4WHNDTHYyaGpfZXRwR1JydElfbGF2X2xNQkhMMmVoZ1JHQlR2c0NxUXlyQmM5dE1zQdIB0wFBVV95cUxNSE9nVlVlLTFRS0dkM2FJSFFFVmNxRmhrSS1haWdMT3VnNWxFTkxFeHJ5RmJCSFNobVgwSW01bENfMVdPYkdhUm03cEtZMjd1RTdnTHpiR1R2dnhWbXFVekRkLVVNXzljWkRtV05rLUFjc2RRM2Jxcl9FRHBpZHExLUdXSVNzeXdkT0xaNjd4SzItSHhsWmtSUExHR3B0ZE9IR2lRNHByelkwazdVSWNaWnN6MUZIQVBVSGJVcG95ZU9aelIwSUNVTU94S0xuWEJaZHkw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence no 2º turno e imprensa internacional celebra vitória",
-  "why_it_matters": "A reeleição de Lula define a direção política do Brasil para os próximos quatro anos e influencia a agenda global.",
-  "big_picture": "Com a contagem ainda em início, resultados de municípios como Presidente Epitácio (SP), Canápolis (MG) e Santa Catarina já mostram a tendência de vitória de Lula, enquanto a Folha divulga os horários críticos de virada na apuração.",
+  "headline": "Apuração do 2º turno entre Lula e Flávio ainda sem números, mas projeções já circulam",
+  "why_it_matters": "A disputa presidencial define o rumo político e econômico do Brasil nos próximos quatro anos.",
+  "big_picture": "Lula aparece à frente nos últimos levantamentos, enquanto Flávio ganha força no Nordeste, deixando a corrida apertada.",
   "details": [
-   "Resultados preliminares de zonas eleitorais em Presidente Epitácio (SP) e Canápolis (MG) já publicados",
-   "Dados de votação em Santa Catarina confirmam tendência favorável a Lula",
-   "Imprensa internacional destaca a reeleição de Lula como marco para a política latino‑americana",
-   "A Folha de S.Paulo disponibiliza cronograma das viradas na apuração presidencial"
+   "G1 divulga votos por local de votação em Presidente Epitácio (SP) e em Santa Catarina",
+   "Folha de S.Paulo publica os horários das viradas na apuração entre os candidatos",
+   "O Globo traz o panorama da votação de Lula e Flávio na região Nordeste",
+   "Estadão apresenta projeção em tempo real do possível resultado do segundo turno"
   ],
-  "whats_next": "A apuração nacional deve avançar nas próximas horas, consolidando o placar definitivo entre Lula e Flávio Bolsonaro"
+  "whats_next": "A contagem oficial deve iniciar nas primeiras horas da manhã, com resultados consolidados ao longo do dia."
  },
  "brief_en": {
-  "headline": "Lula wins in 2nd round, international press celebrates",
-  "why_it_matters": "Lula’s re‑election sets Brazil’s political course for the next four years and ripples onto the global agenda.",
-  "big_picture": "With counting just starting, results from Presidente Epitácio (SP), Canápolis (MG) and Santa Catarina already point to a Lula win, as Folha releases the key swing‑timelines.",
+  "headline": "2nd‑round count between Lula and Flávio still missing numbers, but projections are already circulating",
+  "why_it_matters": "The presidential race sets Brazil’s political and economic direction for the next four years.",
+  "big_picture": "Lula leads in the latest polls, while Flávio is gaining ground in the Northeast, keeping the race tight.",
   "details": [
-   "Preliminary results from precincts in Presidente Epitácio (SP) and Canápolis (MG) released",
-   "Santa Catarina vote data confirm a Lula‑leaning trend",
-   "International press flags Lula’s re‑election as a milestone for Latin‑American politics",
-   "Folha de S.Paulo provides a timeline of presidential count turn‑points"
+   "G1 releases vote counts by precinct in Presidente Epitácio (SP) and Santa Catarina",
+   "Folha de S.Paulo posts timing of lead changes in the count",
+   "O Globo provides a snapshot of Lula and Flávio’s vote share in the Northeast",
+   "Estadão offers a real‑time projection of the possible second‑round outcome"
   ],
-  "whats_next": "National tally will keep moving over the next hours, cementing the final score between Lula and Flávio Bolsonaro"
+  "whats_next": "Official tally should start early morning, with consolidated results rolling out through the day."
  },
  "error": null
 }
