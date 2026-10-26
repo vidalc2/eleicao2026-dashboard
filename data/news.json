@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:51:26.836963-03:00",
+ "updated": "2026-10-26T02:53:27.890667-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -9,6 +9,14 @@
    "published": "2026-10-26T05:27:41+00:00",
    "desc": " Quantas eleições para presidente Lula venceu? Veja histórico do petista    UOL Notícias ",
    "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOU9DcGRmb1BFOVotcTVQRDBmcFBzclpfanNLSVM1bktPLWRrU3Bfd1otMWY2TWVvQ3FZYk1Cb1RzNHU5c1I4WlZUdzZ2TnlTTDFNb1lWekJUaWgzT0lrNFRjUTZyUk1SUV9heXd2b29LQXJ1RlJkWjd1YURmaGZIUFhSVzNVUTB0UktzQ182RElxVlZ5UGJfNVA3TVBJaGpFam9wenlpUEp0YWcxRVVGVUtHeWVzWFk0UFByQ1VNNGE?oc=5"
+  },
+  {
+   "title": "Os primeiros líderes mundiais a parabenizarem Lula pela vitória - BBC",
+   "link": "https://www.bbc.com/portuguese/articles/c679prgnn48qo",
+   "source": "BBC",
+   "published": "2026-10-26T05:25:50+00:00",
+   "desc": " Os primeiros líderes mundiais a parabenizarem Lula pela vitória    BBC ",
+   "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41U3ExNFZyMjctd2JoaGdDSGE3UWNDS2xfSjN1d1JMUHhuSGJFeGtEc0RXYk1ERG4ycEtBSkk2U3dqRG0wX0FzYW04SThCOEd4dzBGcTV6TTgzVWV6MlAzeHV4MNIBaEFVX3lxTE5xNlpuTGJhOUFad3k2WW0yUzBzREFkbmpLUEpnY1U3Unc3VTNVY05lenZ4R2dhVHBVZlotTlcyQkdod3BNcXFtc2hyMV83R2tDV3U0bVM2NHVXWE5qbWc3M2JpT0FwM2hu?oc=5"
   },
   {
    "title": "Candói: Flávio Bolsonaro tem 51,06% e vence o segundo turno - Congresso em Foco",
@@ -33,39 +41,31 @@
    "published": "2026-10-26T05:24:55+00:00",
    "desc": " Flávio Bolsonaro vence eleição presidencial em União Paulista    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGxPVlJPcjRNck9tZS1scnFhVnhBYVIzcjJfREhaRmFlSThlbFlUNlNKQTMwY2RtSVNFWE9rMlNUaXB4Y29WZGRYWkdMUWlUY194MHhZODRIQjh5ZmdzbzVOTXFiSXFKUG1xTHh3bXdSaVJZOGltcGNCSVpWWEtsZDlRY2tIUFFud1ROWjA3ck9jVmt2a3J4cE0yS0duLWwwWlNMdGdkWmZLUGFTSGk4RQ?oc=5"
-  },
-  {
-   "title": "Demora de Kassio e decisão de Zanin provocam críticas nos tribunais e reunião de emergência no TSE - G1",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/demora-de-kassio-e-decisao-de-zanin-provocam-criticas-nos-tribunais-e-reuniao-de-emergencia-no-tse.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T04:52:06+00:00",
-   "desc": " Demora de Kassio e decisão de Zanin provocam críticas nos tribunais e reunião de emergência no TSE    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOXhtbWo5ektBLXVOUC10QXNiMm1GNHgzc0RsS3YyUnA2em5TZ1g3eUMtelBlUElBdXdOMFVVdTVvWmg1RUk0M3VPbjVTMTRCcDRvV0hFckNXZ1N4cWNMRGdLSFJOUFpRdjhlakdJTlQ4Qm9tTV8tWW9Zd19hdE9RLWxXX3hQRHIxWGRxNUNnVnVQWVdLTTNSZlZfWjJYbjlneDdHdkpQdlJKM0U3Yk1pNDRDSmNIOFlEODZEWFZ0bU9QdGlpbm5UbmZ6eXJHT1Jucmt2UlUyaTRibWtVZkZNSGk1bGlYcEIwWGJMNjQwX29GOUJKS1JtdWZFd9IBigJBVV95cUxQaUFWMjlad2hGUDRma21FNHZGc0xDOXF6cVRpamNYV2RmTFVQa2hNYUN3WllfUWhXLVdDeVVQSG01M0FIdFdidS1UVTFXSG5Mem40NmVMeG1PMk15Y3FpRGIyR0k5a3VSZmw4ZUFTcW1aTGRZLUhJNENCMFdZeG9WajNEVGo1blJFaEx6MS0xQy1wblg5Z1B3NjB1X3FBRnUzREdjaFVIc3dXUmNOU0tIT0ZoQmpSS3dYMUJZcTVndE1oOUxVYzdoRHNHanpyVU5OVHd1NVl2VTFNZDQtOUFiS2xiWm9Cd3hWbkh5YkktWS0yaHd6SVQ0b0FXOVBmbFV2VHhXLUh0MUQ4dw?oc=5"
   }
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "Com 4,430,191 votos a mais, o petista garante um quarto mandato, mantendo o rumo da política de esquerda no Brasil.",
-  "big_picture": "A vitória ocorre apesar de alta abstenção (19,22%) e de narrativas conflitantes nas mídias que apontavam Flávio Bolsonaro como vencedor.",
+  "why_it_matters": "A vitória garante ao petista um terceiro mandato, reforçando a agenda de esquerda e alterando o rumo político e econômico do país.",
+  "big_picture": "Com 4,43 milhões de votos de diferença e 19,22% de abstenção, o Brasil volta ao governo de Lula em meio a forte polarização e atenção internacional.",
   "details": [
-   "Resultado oficial do TSE com 100% das seções apuradas confirma 51,79% para Lula e 48,21% para Flávio Bolsonaro",
-   "Diferença de 4,430,191 votos supera margens de eleições anteriores",
-   "Manchetes de veículos como Congresso em Foco divulgaram dados errôneos, alimentando confusão nas redes",
-   "Lula também consolidou apoio em municípios como Alto do Rodrigues, onde venceu com ampla margem"
+   "TSE confirma 100% das seções apuradas: Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos, margem de 4.430.191 votos.",
+   "Líderes mundiais, como da UE e da América Latina, já parabenizaram Lula, sinalizando apoio externo.",
+   "Cobertura contraditória – alguns veículos do Congresso em Foco divulgaram números que mostravam Flávio na frente – evidencia a circulação de desinformação pós‑eleição.",
+   "Lula acumula agora quatro vitórias presidenciais, reforçando seu histórico de sucesso eleitoral, conforme análise da UOL."
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro pode recorrer ao Judiciário para contestar o resultado."
+  "whats_next": "Lula iniciará a transição de governo e será empossado em 1º de janeiro de 2027."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51.79% of valid votes",
-  "why_it_matters": "With a 4,430,191‑vote lead, the left‑wing candidate secures a fourth term, keeping Brazil on a progressive track.",
-  "big_picture": "The win comes despite a high abstention rate (19.22%) and media narratives that had Flávio Bolsonaro poised to win.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win secures the leftist a third term, bolstering a progressive agenda and shifting Brazil’s political and economic trajectory.",
+  "big_picture": "A 4.43 million‑vote margin and 19.22% abstention send Brazil back to Lula amid deep polarization and global attention.",
   "details": [
-   "TSE’s official count, with 100% of precincts reported, shows 51.79% for Lula and 48.21% for Flávio Bolsonaro",
-   "A 4,430,191‑vote gap eclipses margins from prior elections",
-   "Outlets like Congresso em Foco published incorrect data, fueling online confusion",
-   "Lula also solidified support in towns such as Alto do Rodrigues, winning by a wide margin"
+   "TSE confirms 100% of precincts counted: Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes, a 4,430,191‑vote lead.",
+   "World leaders—from the EU and Latin America—have already congratulated Lula, signalling external support.",
+   "Conflicting coverage—some Congress in Focus outlets posted numbers showing Flávio ahead—highlights post‑election misinformation.",
+   "Lula now chalks up four presidential victories, underscoring his electoral track record, per UOL analysis."
   ],
-  "whats_next": "Lula is sworn in on Jan. 1, 2027, while Flávio Bolsonaro may take the result to the courts."
+  "whats_next": "Lula will begin the transition and take office on Jan. 1, 2027."
  },
  "error": null
 }
