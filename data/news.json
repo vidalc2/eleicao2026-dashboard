@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:56:56.757670-03:00",
+ "updated": "2026-10-26T06:58:58.263382-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,29 +45,27 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória de Lula, com 4,43 milhões de votos a mais que Flávio Bolsonaro, garante a continuidade da agenda de esquerda no governo federal.",
-  "big_picture": "Com 100% das seções apuradas e abstenção de 19,22%, o resultado confirma a virada de apoio que o candidato do PT conquistou em regiões-chave, como Gararu (SE) e municípios do Maranhão.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a candidatura de Flávio Bolsonaro, que ficou com 48,21% dos votos válidos.",
+  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete a polarização regional, destacando ganhos decisivos no Nordeste e reviravoltas em áreas antes favoráveis a Bolsonaro.",
   "details": [
-   "TSE concluiu a apuração de todas as seções, registrando 51,79% para Lula e 48,21% para Flávio Bolsonaro",
-   "Imagens de fiscais do PL foram confirmadas pelo TSE, reforçando a transparência do processo",
-   "Mapa da virada mostra onde Lula avançou e como Flávio perdeu apoio entre o 1.º e o 2.º turno",
-   "Resultados locais em zonas eleitorais do Maranhão (Lago dos Rodrigues, Imperatriz) apontam tendência favorável a Lula",
-   "Gararu, no Sergipe, registrou maioria para Lula, simbolizando a consolidação da base regional"
+   "TSE divulgou imagens de fiscais do PL monitorando a apuração, reforçando a transparência do processo.",
+   "Resultados de zonas eleitorais no Maranhão – Lago dos Rodrigues e Imperatriz – mostraram ganhos decisivos para Lula no segundo turno.",
+   "Mapa da virada indica que Lula avançou em municípios que antes favoreciam Bolsonaro, revertendo a tendência do primeiro turno.",
+   "Gararu (Bahia) consolidou a preferência por Lula, simbolizando a força da base no Nordeste."
   ],
-  "whats_next": "A posse de Lula está prevista para 1º de janeiro de 2027, enquanto o Congresso prepara a agenda legislativa para o novo mandato."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial."
  },
  "brief_en": {
   "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "Lula’s win, a 4,43 million‑vote edge over Flávio Bolsonaro, secures the left‑leaning agenda at the federal level.",
-  "big_picture": "With 100% of precincts counted and 19,22% abstention, the result confirms the PT’s swing in key areas like Gararu, SE and towns in Maranhão.",
+  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro, who got 48,21% of valid votes.",
+  "big_picture": "A 4,430,191‑vote margin and 19,22% abstention show regional polarization, with decisive gains in the Northeast and turn‑arounds in former Bolsonaro strongholds.",
   "details": [
-   "TSE finished counting all precincts, logging 51,79% for Lula and 48,21% for Flávio Bolsonaro.",
-   "TSE verified footage of PL poll watchers, bolstering process transparency.",
-   "Turnout map shows where Lula gained ground and how Flávio lost support between round 1 and round 2.",
-   "Local results in Maranhão districts (Lago dos Rodrigues, Imperatriz) tilt toward Lula.",
-   "Gararu, Sergipe, posted a Lula majority, cementing the regional base."
+   "TSE released footage of PL poll watchers monitoring the count, underscoring process transparency.",
+   "Results from Maranhão precincts – Lago dos Rodrigues and Imperatriz – delivered decisive gains for Lula in the runoff.",
+   "The swing map shows Lula making inroads in municipalities that backed Bolsonaro in round one, flipping the trend.",
+   "Gararu, Bahia cemented support for Lula, highlighting the Northeast base’s strength."
   ],
-  "whats_next": "Lula’s inauguration is set for Jan 1, 2027, as Parliament lines up the legislative agenda for the new term."
+  "whats_next": "Lula will be inaugurated on Jan 1 2027, while Flávio Bolsonaro readies a legal challenge."
  },
  "error": null
 }
