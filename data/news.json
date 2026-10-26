@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:08:20.583473-03:00",
+ "updated": "2026-10-26T01:10:20.340738-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -19,51 +19,51 @@
    "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDBDclExTmpEemdnaTFtMEFKems2cExxSDhHTlVBVURWRWJMVkVHUlpBbWhMSDJuMUdDQl9SWjVwbXpVSXZWZXJUQkR1Q3o0R3hJQXEyLVlXWVBFWEtFc1lZaXp0dkhuZGZNQlZxN2RuZ2FBVnI0blozSmxPNHVUNlBfMVRrc1JQWkNiQ1NKcEZ4bE5Cd010ZjhuU0pWeW9WR1drR1NBT0FjM09zMmgzT0VwY0g5d19zMFFSMGlrR2RneFlYaEZJ0gHWAUFVX3lxTE9lc0hUTG9fSnl2WG0xRWNlNGNrMDFjejlsM0VlRlFYMmF0emkxVlZUWDVzUG1sLXlzSjVhRzEtYkpMcEhWZ2VpUEdlUGRnRnRTZnJVZVF5ZEhIRjFRQ2FYd3B5Y2tLazh5UkdlV3RnYzR6VkFwX3VfZTR2UHl1SVA1RVdLY1lxNkQyanFMTFBMd1BsYzJiMUE2eVBhUVZrWDZPY1ZUSlFxZy1NMkxaMV82ZHBQVkNwWWpJRzNwS29QRTFrbW9PMF90SDRGVC1ZMWJ1Mi1vdHc?oc=5"
   },
   {
-   "title": "Eleições em Tubarão (SC): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-tubarao-sc-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T03:36:45+00:00",
-   "desc": " Eleições em Tubarão (SC): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNm0ydHlMdFVabThheWhXNUFOUURVMnF2V093Q3hxX3NKcFI1YmZFU3dTLTlYNjZUS0xfZmlhejdlZXFpY3otYlRRUHNNNDRMaVU2STVMUTU0SnI5T3o3UzdtYkV2TWVSbUppMGxCRG9fS1FaZVFNTzlFYWIzNUY2VUZjSEdXYndjMElISkZrSWhEdWUyTVdvRDE2a05JY3EyMlVBUWR4SENVSmszWVVHaWlxalg1dExJVTNrWDlVTdIBzgFBVV95cUxPQ0dsaUsxWmxab1NsUjZFczZxdTcxcGlaZU5SMFdKeUxnY1Q5MU40N1VPT1JpaTBzWlVxR185S0U5VXpvN2E3RHpudUJkU2NlZGVTSFA5SngzSUxzMW9xT19sRDE1ZngxOWpOaU5vRVkwcFEyX0lXSFdfS193T1NIMkRRQ3ZPb3FGVDJGdG02VjZjNTNEcVZxVFN6N1RiVDNTUW8xRGpsU3FuQjNnVEhYWU9LTUxsUTFHZWdVbEJTT0ZSWjBjQnowOWQ5VU42QQ?oc=5"
+   "title": "Lula reeleito: compare evolução da apuração do 2º turno e do 1º turno - G1",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-reeleito-compare-evolucao-da-apuracao-do-2o-turno-e-do-1o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T03:40:05+00:00",
+   "desc": " Lula reeleito: compare evolução da apuração do 2º turno e do 1º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0puRkRVUWpqUTVpMGNGWWdMNnRMdGR3Y2dDbnl0RTN4ZHhleUpqNTdDRElya21sWml3MXRTeVlWNTE0NDA5MkUyYVZXdkdVRTNMYkw3dlVJd1Z5amdKNlRLdHpXWmU2bGJyVWtQU0NMeVg4bVhEVFU3YnJwc3pMdGxMeTlDbXNqb3ZHU3VvNjBKLUpBOFZrT1g2Tm41X0RGVFZlbXNIc3VMOVRyQVIweDJUTlZ4ekFuQWZhRG5JWEt4Uk5rU1UzY29oY2tXTVFwakVZ0gHiAUFVX3lxTFBwRlpWbFVuM2pOSjlyamZSZDFfdXpTZm5ITUZSMTBtLWtDOUtxVnZpQndtdGVHRTdoeVp5U3NnRWxFM2R1SGNjeG03elhNZjd3RUZ5b1Bfd3paenMwUkpteWtycTNSM0cwTExoSnJnR1JoOVR5RVhTVDRpOU1mNllZRXBCX2ItSlJ3ak9Ud1ZQRmZLejdVVU04Mi1ONU5HdzI0ZXFCSEJWLWVNNTdLLUprQlpZbmFXVFRHNi02TXVWakM4MDNEZVNvS1RRRks3c0VwMzBncHFCSnV2d2dLeXF4c0E?oc=5"
   },
   {
-   "title": "Eleições em Viamão (RS): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-viamao-rs-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T03:36:10+00:00",
-   "desc": " Eleições em Viamão (RS): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnhEMEM3SDR6Z3F0bEMwTV9qR012TTJtMF8xMWMyYnlqTzRkcFBtYTJyMTVSZ0hoYUNKdElHdGVfTmtnQzJuZVpyaGQ3Y3FoR1JfV3dPWmMzTTZDSDlHa21kTTlBTERIMEpHdjVvNlVheTNIaWk3SVM0Zk5OXzEtNHRqWmNtM1RXQ0xRZXZ0QUFGMnk1VWFXdWtHdVZzUFFiR2tIVXVpT29JM1FqU19PZDV5LUJvNU1ORlFweW5B0gHMAUFVX3lxTE9mRURTTnVtYl8xUGVlQk5HdENFTldjaW9YY29iR09oV0x2X2UzdHRDdkhvUTlhUzdzNVRqRWFVQzA1eGQ5dzAzSkplVHNWY2QyTlZTWnhSUW4tcWhWRVk2QTg4LUw3UGhuclBQNjN2dlFlWXIwV1JPUml1Z0lSSWV0MEZmUzV0blBrSHNoMWVNbW9hbHJaWktjWVJtUEpNT1podkl1WFFCaUw4Q1cwVi1ORlZVcUxpcHNET0kzTXdVR2tIS1YzOEI0b1YxcA?oc=5"
-  },
-  {
-   "title": "Flávio Bolsonaro vence a eleição presidencial em Campo Novo - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/124494/flavio-bolsonaro-vence-a-eleicao-presidencial-em-campo-novo",
+   "title": "Terra Rica escolhe Flávio Bolsonaro para presidente no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/124523/terra-rica-escolhe-flavio-bolsonaro-para-presidente-no-segundo-turno",
    "source": "Congresso em Foco",
-   "published": "2026-10-26T04:01:09+00:00",
-   "desc": " Flávio Bolsonaro vence a eleição presidencial em Campo Novo    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNmJiZnVKVHQ5b2xJeWxsMGp2b2xXdkRlaE9rdG5Pa2tSMkc4VzB5aHNQczJIMzdENU5sTUlFUzFzdi1vNWk5VU91YnJCemp5MWdQRFA3NzlfTG90dXR5R3BXb3RrRjJHQVF6M1BYTzNsbFRPYm1JRUNhVk5xQnBVZXRISVVDYTJtdVo0QnZnX3V5MUtPZ29rOEtZUWJJUXVpdFg2eTlhbVlMMndmRmc?oc=5"
+   "published": "2026-10-26T04:04:12+00:00",
+   "desc": " Terra Rica escolhe Flávio Bolsonaro para presidente no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSWV0VlhudlpFWHlfYUhXejdVWi1GSXVnQ2JESFU3SHhJU3dOeWFLQ0Z3UzIwbjRNLWUwV3BnRlFCdktRbGY2c25BNDNYb213N1hMNlJ1WkhLM0g3TGYxaUJWYUozVUtVUDkyRE5uYnN3d05pcGhQN1RqY19sTmpiMWM1RkFSME1MQWhobTVTMTREamlhVDN4QWlfenRZdTZaNWpZSExsU0ZVbHBJMldKdnp6cmFzb3pkamc?oc=5"
+  },
+  {
+   "title": "Riozinho escolhe Flávio Bolsonaro para presidente no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/124522/riozinho-escolhe-flavio-bolsonaro-para-presidente-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T04:04:03+00:00",
+   "desc": " Riozinho escolhe Flávio Bolsonaro para presidente no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkVLR1VzY1d5b1pGSXlOd3djWHJvX3VZYVJBSUMzLXM4aEM3Sk0wNmFieUc3TlhrbWo0YUg1Q1NmSWRtT2ZNbmRjQUo3cE5MaGZoUXhlRkhZMTlfSFRzNV8tLVJINkVDSFFMTGRCcmhjR3ktXy1uZ0xuTjQ3QmFKdTZrYkI5akU3b0t5TC00QV9faXk0aXk3M2k5Q2tid3lfWW5SaVByYWFtRnExZTlLMnRIQ0o3aVU?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade do governo de esquerda e define a agenda política para os próximos quatro anos.",
-  "big_picture": "Com 64 milhões de votos contra 59 milhões de Flávio Bolsonaro, a diferença de 4,43 milhões supera a margem necessária, apesar de 19,22% de abstenção.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos",
+  "why_it_matters": "A vitória assegura a continuidade da agenda do PT e impede a ascensão de Flávio Bolsonaro, ainda que o candidato mantenha apoio em algumas regiões",
+  "big_picture": "Com 100 % das seções apuradas, a eleição confirma a preferência nacional por Lula, apesar de 19,22 % de abstenção e de narrativas de fraude que o TSE já desmentiu",
   "details": [
-   "TSE confirma a apuração completa (100% das seções) e desmente alegações de irregularidades com fiscais do PL.",
-   "Manchetes regionais mostram a tendência nacional: cidades como Tubarão (SC) e Viamão (RS) já registram a vitória de Lula.",
-   "Boatos de vitória de Flávio em Campo Novo foram desmentidos, reforçando a necessidade de checagem de informações."
+   "TSE desmente alegação de Flávio Bolsonaro de retirada de fiscais do ‘sala‑cofre’ do tribunal",
+   "Lula recebeu 64 mi de votos contra 59 mi de Flávio, ampliando a vantagem em relação ao 1º turno",
+   "Mesmo com municípios como Terra Rica e Riozinho optando por Flávio, eles representam exceções em um cenário nacional favorável a Lula"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto o TSE prepara a diplomação oficial dos candidatos."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro pode apresentar recurso ao TSE"
  },
  "brief_en": {
-  "headline": "Lula wins 2nd round with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left‑leaning government in power and sets the policy agenda for the next four years.",
-  "big_picture": "With 64 million votes to Flávio Bolsonaro’s 59 million, a 4,43 million‑vote lead clears the required margin, despite a 19,22% abstention rate.",
+  "headline": "Lula wins runoff with 51.79% of the vote, beating Flávio Bolsonaro by 4.43 mi votes",
+  "why_it_matters": "The win keeps the PT agenda alive and blocks Flávio Bolsonaro’s rise, even though he still holds sway in some areas",
+  "big_picture": "With 100 % of precincts counted, the vote shows a national preference for Lula, despite a 19.22 % abstention rate and fraud claims the TSE has already debunked",
   "details": [
-   "TSE confirms full count (100% of precincts) and rebuts claims of irregularities from PL observers.",
-   "Regional headlines echo the national trend: towns like Tubarão (SC) and Viamão (RS) already show Lula ahead.",
-   "Rumours of a Flávio win in Campo Novo were debunked, underscoring the need for fact‑checking."
+   "TSE refutes Flávio Bolsonaro’s claim that election‑court auditors were removed from the ‘vault’",
+   "Lula got 64 mi votes to Flávio’s 59 mi, widening the gap from the first round",
+   "Municipalities like Terra Rica and Riozinho backed Flávio, but they’re outliers in a nation‑wide Lula tilt"
   ],
-  "whats_next": "Lula will be inaugurated on Jan. 1, 2027, as the TSE readies the official certification of the candidates."
+  "whats_next": "Lula is sworn in on Jan 1, 2027, while Flávio Bolsonaro may appeal to the TSE"
  },
  "error": null
 }
