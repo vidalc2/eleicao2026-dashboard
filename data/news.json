@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-26T01:49:04.069836-03:00",
+ "updated": "2026-10-26T01:51:06.791331-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Os argumentos de Flávio para pedir anulação da eleição — e o que dizem especialistas - BBC",
+   "link": "https://www.bbc.com/portuguese/articles/crkg7ywjj8l0o",
+   "source": "BBC",
+   "published": "2026-10-26T04:30:00+00:00",
+   "desc": " Os argumentos de Flávio para pedir anulação da eleição — e o que dizem especialistas    BBC ",
+   "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xeC1SUE9MRC0yTDVOcmdrajV0MzJMZjh4Y3pwa3lweEpmX3dVTXBBcFFtMmhQREJKOFN0NUxibjZ0OEVFYkVSb2dnUEcwMDk4eUctazBHQV83dHQ1R1d5ajFTWdIBaEFVX3lxTFBlWWNxcGE1QnY1d2VkNDZieXp0YjhtS0hpN3RLM0ZxNndsejlSX3dzNm1lZTU1VU4tdlpKcGhGeHRLT01RRGN5cEplbWtyMEJLY0hobkc5ekJkb1A5RlpqQlN6SXc5ZUI4?oc=5"
+  },
   {
    "title": "Eleições em Valparaíso de Goiás (GO): veja a apuração do 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-valparaiso-de-goias-go-veja-a-apuracao-do-2-turno.ghtml",
@@ -33,37 +41,29 @@
    "published": "2026-10-26T04:21:39+00:00",
    "desc": " Eleições em Ourinhos (SP): veja a apuração do 2º turno    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWRoOHJQa24xb3JOSEJFRmswVmd6S1QybHpfRXlqREdqZVZWbXZfenU4dG1ZeHVRd1c4akRnTnVOV3ZjZ29vSjFiajNITzFhdnVxcGlPOUZnUWd5WDB0bE1vS2VZMkp0enRBblByVmJWdk5jXzZmczNVLWVrZl9sejN0YlJhUnZUM1N5dlA5MEY5ZXFLT2tkVGlOVDZueXA1U1NiWkZHU3dPRmRWNmgzamdVZTQ1WFJySG9vY0p0eFU?oc=5"
-  },
-  {
-   "title": "Eleições em Itapevi (SP): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-itapevi-sp-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T04:21:24+00:00",
-   "desc": " Eleições em Itapevi (SP): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcjZrTTRWcThFdDJmb1J0blhTdTdxTVg5aVc1STl5ZG9BRjNDR292UXZYWnk5N3JOc0ZMdnFVdUFWUlExamo3dmwtMVN3OG1uUk4wREhzWTd5VzRYcloyOS1NRzRVY25Pc1g3YUM0b2l6Z0hvYW5QeEhkTnBaSEhLZTdkaExKMkdNOHpHVnJIRVVYOFlXY0dZMmNrUmdEM2owbVZhWEF6WUVLXzVDbWJIVW9pSlJoZUxrNkQ0Y0M0Z9IBzgFBVV95cUxPUzVEZmxZZDR4UW51ajZHMXZhd0FtVlRRNmpUOVZhVmxZYVBPSmNCOHc0SVJkWDQyN0NOdkd4VFA3MDY4dGc3QXVVRTJrMzQ1Y1NuYWpEZnRYLXU2V2F5dVVlckhUdlhlalQ3MVYyQl9DX1Q2OEtlRXZPV0hCREFiQWxKVm1XRk9JcXVseGVodks4TGNLTGRLa1BqOXo5MmpNQnhSa0I3YWJmMmRDWnpyWUJVNjZYOGpzYzF2bTV4SE5zY1lYUlczcHhhUTJlQQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade do governo PT e impede a ascensão de Flávio Bolsonaro, candidato de direita.",
-  "big_picture": "Com 100% das seções apuradas, a margem de 4,43 milhões de votos reflete a polarização, enquanto 19,22% dos eleitores se abstiveram.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, mas Flávio Bolsonaro já pede anulação",
+  "why_it_matters": "A vitória garante o terceiro mandato de Lula, enquanto a contestação de Flávio pode gerar instabilidade institucional e atrasar a transição de poder.",
+  "big_picture": "Com 100% das seções apuradas, a diferença de 4,430,191 votos supera margens históricas, mas a abstenção de 19,22% revela cansaço do eleitorado.",
   "details": [
-   "Apuração completa confirma vitória de Lula em todo o país",
-   "Resultados locais – Valparaíso de Goiás (GO), Foz do Iguaçu (PR), Taboão da Serra (SP), Ourinhos (SP) e Itapevi (SP) – seguem a tendência nacional",
-   "Abstenção permanece alta, indicando desgaste do eleitorado"
+   "Resultado final: Lula 51,79% (≈13,5 mi votos) x Flávio Bolsonaro 48,21% (≈9,1 mi votos), diferença de 4,430,191 votos.",
+   "Flávio Bolsonaro apresentou pedido de anulação alegando irregularidades; especialistas apontam baixa probabilidade de sucesso.",
+   "Apurações locais em Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra e Ourinhos confirmam a tendência nacional a favor de Lula."
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu terceiro mandato"
+  "whats_next": "O TSE analisará o pedido de anulação nos próximos dias, enquanto a posse de Lula está marcada para 1º de janeiro de 2027."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the PT government in power and blocks right‑wing candidate Flávio Bolsonaro.",
-  "big_picture": "With every precinct counted, a 4,43 million‑vote margin shows the split, and 19,22% of voters stayed home.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, but Flávio Bolsonaro already seeks annulment",
+  "why_it_matters": "The win secures Lula’s third term, while Flávio’s challenge could spark institutional instability and delay the power transition.",
+  "big_picture": "With 100% of precincts counted, the 4,430,191‑vote gap tops historic margins, but a 19,22% abstention shows voter fatigue.",
   "details": [
-   "Full count confirms Lula’s win nationwide",
-   "Local results – Valparaíso de Goiás (GO), Foz do Iguaçu (PR), Taboão da Serra (SP), Ourinhos (SP) and Itapevi (SP) – mirror the national trend",
-   "Abstention stays high, signalling voter fatigue"
+   "Final tally: Lula 51,79% (≈13,5 m votes) vs Flávio Bolsonaro 48,21% (≈9,1 m votes), margin of 4,430,191 votes.",
+   "Flávio Bolsonaro filed an annulment request citing irregularities; experts see low odds of success.",
+   "Local counts in Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra and Ourinhos echo the national tilt favour Lula."
   ],
-  "whats_next": "Lula will be sworn in on Jan 1, 2027, kicking off his third term"
+  "whats_next": "The TSE will review the annulment request in the coming days, while Lula’s inauguration is set for Jan 1, 2027."
  },
  "error": null
 }
