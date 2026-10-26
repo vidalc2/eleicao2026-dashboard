@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:13:25.323195-03:00",
+ "updated": "2026-10-26T08:15:25.224389-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, mas candidato derrotado questiona resultado",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda no Brasil; a contestação de Flávio Bolsonaro pode gerar tensões institucionais e mobilizar a Justiça Eleitoral.",
-  "big_picture": "Com 19,22% de abstenção, a participação foi alta e a diferença de 4,430,191 votos demonstra margem clara, embora o discurso de fraude alimente a polarização política.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos e margem de 4,43 mi de eleitores",
+  "why_it_matters": "A vitória garante a volta de Lula à presidência e define a agenda política e econômica do Brasil pelos próximos quatro anos.",
+  "big_picture": "Com 19,22% de abstenção, a eleição mostrou alta participação e reforçou a legitimidade democrática, apesar das alegações de fraude de Flávio Bolsonaro.",
   "details": [
-   "Resultado oficial do TSE com 100% das seções apuradas: Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos, diferença de 4,430,191 votos.",
-   "Flávio Bolsonaro chama o resultado de ‘sacanagem’, afirma ser ‘impossível’ reconhecer derrota e promete tentar anulação; TSE rebate e nega retirada de fiscais do PL durante a apuração.",
-   "Líderes mundiais parabenizam Lula pela vitória; Bahia lidera queda na abstenção entre turnos, indicando maior engajamento regional.",
-   "Presidente do TSE faz balanço do segundo turno, destacando transparência, integridade do processo e a plena validade dos números divulgados."
+   "TSE concluiu a apuração de 100% das seções, confirmando 51,79% a 48,21% para Lula e Flávio, respectivamente, com diferença de 4.430.191 votos",
+   "Flávio Bolsonaro classificou o resultado de ‘sacanagem’, prometeu buscar anulação, mas o TSE rebateu as acusações e garantiu a presença de fiscais do PL durante a apuração",
+   "Líderes mundiais, de Washington a Pequim, felicitaram Lula, sinalizando apoio internacional ao novo mandato",
+   "Bahia liderou a queda da abstenção entre turnos, evidenciando maior engajamento regional",
+   "Presidente do TSE fez balanço destacando transparência, lisura e a conclusão plena da contagem"
   ],
-  "whats_next": "Flávio Bolsonaro deve entrar com recursos ao TSE e, possivelmente, ao STF, enquanto o governo Lula se prepara para assumir em 1º de janeiro."
+  "whats_next": "Flávio Bolsonaro deve recorrer ao Judiciário enquanto o governo Lula se prepara para a posse em 1º de janeiro de 2027."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51.79% of valid votes, but defeated candidate questions result",
-  "why_it_matters": "The win keeps Brazil’s left‑leaning agenda on track; Flávio Bolsonaro’s challenge could spark institutional tension and mobilise the election court.",
-  "big_picture": "Turnout was high with 19.22% abstention; a 4,430,191‑vote gap shows a clear margin, though fraud claims stoke political polarization.",
+  "headline": "Lula wins runoff with 51.79% of votes and a 4.43 mi‑voter margin",
+  "why_it_matters": "The win puts Lula back in the Oval Office and sets Brazil’s political and economic agenda for the next four years.",
+  "big_picture": "With 19.22% abstention, turnout was high, bolstering democratic legitimacy despite Flávio Bolsonaro’s fraud claims.",
   "details": [
-   "TSE’s official count, 100% of precincts reported: Lula 51.79% vs Flávio Bolsonaro 48.21% of valid votes, a 4,430,191‑vote gap.",
-   "Flávio Bolsonaro dubs the result ‘sacanagem’, says it’s ‘impossible’ to accept defeat and vows to seek annulment; TSE pushes back, denying any removal of PL poll watchers during tally.",
-   "World leaders congratulate Lula; Bahia leads the drop in abstention between rounds, signalling higher regional engagement.",
-   "TSE president reviews the runoff, highlighting transparency, process integrity and the full validity of the published numbers."
+   "TSE completed counting 100% of precincts, confirming 51.79% to Lula and 48.21% to Flávio, a 4,430,191‑vote gap",
+   "Flávio Bolsonaro called the result ‘rigged’, vowed to seek annulment, but the TSE dismissed the claims and kept PL observers on the floor",
+   "World leaders—from Washington to Beijing—congratulated Lula, signalling international backing for the new term",
+   "Bahia drove the drop in abstention between rounds, showing stronger regional engagement",
+   "TSE president highlighted transparency, integrity and the full completion of the count"
   ],
-  "whats_next": "Flávio Bolsonaro is expected to file appeals with the TSE and possibly the Supreme Court, while Lula’s team gears up to take office on Jan. 1."
+  "whats_next": "Flávio Bolsonaro is expected to take the fight to the courts while Lula’s team gears up for the Jan. 1, 2027 inauguration."
  },
  "error": null
 }
