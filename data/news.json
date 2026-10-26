@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:09:12.160611-03:00",
+ "updated": "2026-10-25T22:11:11.263855-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,78% dos votos válidos, superando Flávio Bolsonaro por 4,4 milhões",
-  "why_it_matters": "A vitória garante ao presidente Lula um quarto mandato, mantendo o PT no poder e definindo a agenda política para os próximos quatro anos.",
-  "big_picture": "Com 19,22% de abstenção, a eleição evidencia a profunda polarização do país, mas consolida a continuidade das políticas sociais e econômicas dos últimos anos.",
+  "why_it_matters": "A vitória garante ao presidente de 80 anos um quarto mandato, mantendo o PT no poder e definindo a agenda política até 2030.",
+  "big_picture": "Com 19,22% de abstenção, a eleição reflete profunda polarização, mas o resultado consolida a continuidade das políticas de esquerda e a oposição de direita.",
   "details": [
-   "100% das seções já foram apuradas, confirmando a margem de 4.422.899 votos a favor de Lula",
-   "Nunes Marques destacou a legitimidade do resultado em entrevista ao vivo",
-   "No Sudeste, especialmente em São Paulo, Lula liderou, reforçando sua base urbana"
+   "Apuração completa: 100% das seções confirmam 51,78% a 48,22% para Lula e Flávio, respectivamente",
+   "Lula liderou no Sudeste, especialmente em São Paulo, onde superou Flávio Bolsonaro",
+   "Nunes Marques, presidente do TSE, declarou encerramento da contagem e validade dos resultados"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara recursos nos tribunais eleitorais"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,78% of valid votes, beating Flávio Bolsonaro by 4,4 million",
-  "why_it_matters": "The win secures Lula’s fourth term, keeps PT in power and sets the policy agenda for the next four years.",
-  "big_picture": "With 19,22% abstention, the election shows deep national polarization but locks in the social‑economic agenda of recent years.",
+  "headline": "Lula wins runoff with 51.78% of valid votes, beating Flávio Bolsonaro by 4.4 million",
+  "why_it_matters": "The win gives the 80‑year‑old president a fourth term, keeps PT in power and sets the policy agenda through 2030.",
+  "big_picture": "With 19.22% turnout, the vote shows deep polarization, but the result locks in left‑wing policies and a right‑wing opposition.",
   "details": [
-   "100% of precincts tallied, confirming a margin of 4.422.899 votes for Lula",
-   "Nunes Marques said the result is legitimate in a live interview",
-   "In the Southeast, especially São Paulo, Lula led, cementing his urban base"
+   "Full count: 100% of precincts confirm 51.78% for Lula vs 48.22% for Flávio",
+   "Lula led in the Southeast, especially São Paulo, where he outpaced Flávio Bolsonaro",
+   "Nunes Marques, TSE chair, announced the count is closed and results are official"
   ],
-  "whats_next": "Lula will be sworn in on Jan. 1, 2027, while Flávio Bolsonaro prepares appeals in the election courts"
+  "whats_next": "Lula is sworn in on Jan 1, 2027; Flávio Bolsonaro is gearing up for a court challenge"
  },
  "error": null
 }
