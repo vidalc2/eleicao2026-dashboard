@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-25T21:30:57.923756-03:00",
+ "updated": "2026-10-25T21:32:58.375041-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "195ª zona eleitoral de Presidente Epitácio (SP): votos por local de votação no 2º turno - G1",
+   "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/195a-zona-eleitoral-de-presidente-epitacio-sp-votos-por-local-de-votacao-no-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T00:27:13+00:00",
+   "desc": " 195ª zona eleitoral de Presidente Epitácio (SP): votos por local de votação no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0tJY3RrTGQzbktaRlU1WGlHR2lXamlHN1JMc3pXUmtITTh6aXlMTkxKeDZhdEg3bkFDVnBVVnVBanRYU3d3YjhHYk50Z0E3Mko1b3RkbUZpakE1N0gtTWhBLTVlM2lIWUpqQm5DbUMxYzRKcE5jZHZnZmFTaG5UOUlNM2VzT2ZMZnlXdWxSQ25yS2VseWoxWWdFOUZkbmdqU0VDc0tSLWp3dHF2OGFOenhJNV9QbUt5aV8yOHVHcEtMbXpEdUl0QVY3VWZYMGhnRnJmSzJBRnV0a2tDMGlYdTJHZlVxM3FqM3lDcEN30gH8AUFVX3lxTE5wN0JuTXQtY0Nqay1qWlF5SnB2SlBxM24tQngtY3lvdlhqQmU3Um1yLU9CeEtZb2pPN2QwWHpfYm9pX25NRy1UM1RhMVc2c20zdWJURnR4SUVYcWRiYXJscmE4WGxnQWlyT2k0ZGxSSUNPbVV5UWd2T2tDcHNpdDEtcmdOWng5VVpDSXNDTW84cXM3S05lV2h4ZHhmbmNRVlBOLTB4WkRzY0NMR21uYlpDVXVPdGtYMzNxZVFKZmlZWEEzWjduYlZzZV9XNzExLS1SWjh2VThmWFN6U1p5Xzg4OG5iVFp5WEdfMFJVcTNkZXVDWTJla3JCcGZtbQ?oc=5"
+  },
+  {
+   "title": "Eleições 2026: veja como foi a votação no 2º turno em Santa Catarina - G1",
+   "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-veja-como-foi-a-votacao-2o-turno-santa-catarina.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T00:20:24+00:00",
+   "desc": " Eleições 2026: veja como foi a votação no 2º turno em Santa Catarina    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelVRaFNfVGREdWJtQklFWHp6QnBUOG4zWENmTHVaNU9MRFNoMURKVlR6YzI0QmQ5MXZnS3k5VnpXMFJRWVBoOEN1Z0JNWG5tM1FieTVyLTNnWk1sTnVwNk9lbUVxWFN2cXk3Y2tINlZpLWstWXFQSXBSa3pDZkZaSHJDTS02OFdNd2hyM1lWLUhkd2x1QUVTRXJLOENMbU5SRWdROVRWTGxEdk85R1hZWG1BWmItXzdUa2RZdzdJUkZvOU9KbHhyNVcyaV92Tm1LNnBva2Jn0gHkAUFVX3lxTE9vUmkyME1aSy1YMDBWOFhiU3dBRE05ck56TXdkbUhiYXVmeVBGREFfeDg4M01mVjhhbkhiSk1DMGtvYkR1X3hBQkYxSHVKYkRqMHJRY2NrdWZPODB6eHFKUzlFU0xUeVhOYlhuSnBWSnZOcW80SUM4VWIxU0hfbGt6V1ptVS1QTTB4ak5CazNua1JTeS0tYjJPZ2F5UkZUQlNlakI0VzZwSlNJUUJ1NnEtMDQ4dkozX0lpenB2eGxQYlRzMWpsOUJneUJNUXYxc3dSZlc3S2ltWUY4bnJzQjlkdEhMdw?oc=5"
+  },
   {
    "title": "Veja os horários das viradas na apuração presidencial entre Lula e Flávio - Folha de S.Paulo",
    "link": "https://www1.folha.uol.com.br/poder/2026/10/veja-os-horarios-das-viradas-na-apuracao-presidencial-entre-lula-e-flavio.shtml",
@@ -25,47 +41,31 @@
    "published": "2026-10-26T00:15:20+00:00",
    "desc": " Em tempo real: projeção da apuração mostra possível resultado do 2º turno para presidente    Estadão ",
    "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaUw1cUJYM2tWcmVWTlJuYng5bUZmcUdaekc4cVZMS1d3dkhFMFI3Z0p1NFJFWTdnbi10QkRsQTY4a2RLZ3FPLVVxYmotX0dCX2hEY0lLbWNwRl9rNTI5U2ZxektZQ05tNVRFdkk2SFU1UllzU3ZMWVg5czVCdGVTQ09RaXBBTzlkb1JqZFVNelNZT1VaazVSRk1GWGM4WHNDTHYyaGpfZXRwR1JydElfbGF2X2xNQkhMMmVoZ1JHQlR2c0NxUXlyQmM5dE1zQdIB0wFBVV95cUxNSE9nVlVlLTFRS0dkM2FJSFFFVmNxRmhrSS1haWdMT3VnNWxFTkxFeHJ5RmJCSFNobVgwSW01bENfMVdPYkdhUm03cEtZMjd1RTdnTHpiR1R2dnhWbXFVekRkLVVNXzljWkRtV05rLUFjc2RRM2Jxcl9FRHBpZHExLUdXSVNzeXdkT0xaNjd4SzItSHhsWmtSUExHR3B0ZE9IR2lRNHByelkwazdVSWNaWnN6MUZIQVBVSGJVcG95ZU9aelIwSUNVTU94S0xuWEJaZHkw?oc=5"
-  },
-  {
-   "title": "Flavio Bolsonaro tem 69,61% dos votos válidos em Rondônia no 2º turno - CNN Brasil",
-   "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-tem-6961-dos-votos-validos-em-rondonia-no-2o-turno/",
-   "source": "CNN Brasil",
-   "published": "2026-10-26T00:12:40+00:00",
-   "desc": " Flavio Bolsonaro tem 69,61% dos votos válidos em Rondônia no 2º turno    CNN Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnJQdEx3VThnZmRLMWlPdGJNdXN2UnFJelE2Z3ZpY3RiLTBCcmExMXFkTHNsbXdQb3dnd3BvY2tESGdFZEt2cG9wOFg2RFlOV1FpZFZHYVRFeUtMMzBNNW5FV00wMnh0dnNzRF9obkhXYzhwcjI1M1dmSWtPUUlWR3g3dy1jWEFIU24zOG50cHctXzBCUWtSMmhRNzJKYnppUVVZa0Fva3ZmZw?oc=5"
-  },
-  {
-   "title": "Lula é reeleito presidente do Brasil em virada histórica - Agência Brasil",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-e-reeleito-presidente-do-brasil-em-virada-historica",
-   "source": "Agência Brasil",
-   "published": "2026-10-26T00:11:00+00:00",
-   "desc": " Lula é reeleito presidente do Brasil em virada histórica    Agência Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3QyYXdNQW83dEU5RFRFNkRHZkZUS1lVbnp6bk5tU192dk9FVFJIZW1RTmthZWxqU3pMSGctQ0FMOVAyMFVxVldhOElKUk9GSEU2UXFCeXpWX1J0aGNIM3YtZDVvUGYtaEtqam5iZHVLUVQ2dzhtM19yY1lOdU5QSkd5bkJFVmVtNHhramwzaUV6bi14WDc5T1lEODZCSHNESzZZcnBORkp1MUt4bFBoMDlQRmU?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula é reeleito em virada histórica enquanto Flávio Bolsonaro lidera em Rondônia",
-  "why_it_matters": "A vitória de Lula garante a continuidade das políticas de esquerda; o desempenho de Flávio em Rondônia mostra que a disputa ainda tem pontos de tensão regional.",
-  "big_picture": "O segundo turno consolida a polarização política no Brasil, com resultados divergentes entre regiões e projeções que ainda podem mudar à medida que a apuração avança.",
+  "headline": "Apuração do 2º turno entre Lula e Flávio ainda não tem números oficiais; cobertura em tempo real se intensifica",
+  "why_it_matters": "A disputa presidencial define o rumo político e econômico do Brasil para os próximos quatro anos.",
+  "big_picture": "Enquanto as redes de mídia divulgam projeções e análises regionais – Nordeste, Santa Catarina e a 195ª zona de Presidente Epitácio – ainda não há dados consolidados da Justiça Eleitoral.",
   "details": [
-   "Agência Brasil anuncia que Lula foi reeleito após virada histórica nas urnas",
-   "CNN Brasil registra 69,61% dos votos válidos para Flávio Bolsonaro em Rondônia",
-   "Estadão e O Globo divulgam projeções e resultados parciais, indicando que a apuração ainda está em curso e varia por região",
-   "Folha de S.Paulo publica cronograma das próximas viradas na apuração nacional"
+   "Folha de S.Paulo publica cronologia das viradas na apuração",
+   "O Globo traz panorama da votação no Nordeste para Lula e Flávio",
+   "Estadão exibe projeção em tempo real, sem números confirmados",
+   "G1 disponibiliza resultados por local de votação em Santa Catarina e Presidente Epitácio"
   ],
-  "whats_next": "A apuração nacional deve se estender nas próximas horas, com resultados definitivos previstos para a madrugada"
+  "whats_next": "Os boletins oficiais da Justiça Eleitoral devem começar a ser divulgados nas próximas horas."
  },
  "brief_en": {
-  "headline": "Lula is re‑elected in historic upset as Flávio Bolsonaro leads in Rondônia",
-  "why_it_matters": "Lula’s win keeps left‑wing policies alive; Flávio’s lead in Rondônia shows regional flashpoints remain.",
-  "big_picture": "The runoff cements Brazil’s political divide, with stark regional splits and projections that could shift as counting continues.",
+  "headline": "2nd‑round count between Lula and Flávio still lacks official numbers; real‑time coverage ramps up",
+  "why_it_matters": "The presidential race sets Brazil’s political and economic direction for the next four years.",
+  "big_picture": "Media outlets are posting regional projections – Northeast, Santa Catarina, and the 195th zone of Presidente Epitácio – but no consolidated data from the Electoral Court yet.",
   "details": [
-   "Agência Brasil reports Lula’s re‑election after a historic ballot swing",
-   "CNN Brasil logs 69,61% of valid votes for Flávio Bolsonaro in Rondônia",
-   "Estadão and O Globo release partial projections and results, noting the count is still underway and varies by region",
-   "Folha de S.Paulo publishes timeline for the next national count milestones"
+   "Folha de S.Paulo posts a timeline of count swings",
+   "O Globo offers a Northeast voting snapshot for Lula and Flávio",
+   "Estadão shows a real‑time projection, unconfirmed numbers",
+   "G1 provides results by polling place in Santa Catarina and Presidente Epitácio"
   ],
-  "whats_next": "The national tally will stretch into the next hours, with final results expected around dawn"
+  "whats_next": "Official Electoral Court bulletins should start rolling out in the next few hours."
  },
  "error": null
 }
