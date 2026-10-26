@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:33:11.671531-03:00",
+ "updated": "2026-10-26T07:35:10.623202-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos e celebra vitória ao som do Hino da Independência",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e reforça a posição do Brasil no cenário internacional, enquanto a margem de 4,43 milhões de votos demonstra a profundidade da polarização política.",
-  "big_picture": "Com 100% das seções apuradas e 19,22% de abstenção, o resultado confirma a preferência da maioria dos eleitores e abre caminho para a agenda de governo que será observada por líderes mundiais que já parabenizaram Lula.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e reafirma a posição do Brasil no cenário internacional.",
+  "big_picture": "Com 4,430,191 votos a mais que Flávio Bolsonaro, Lula supera a oposição em um pleito com 19,22% de abstenção, consolidando o mandato até 2030.",
   "details": [
-   "TSE oficializa a contagem: Lula 51,79% x Flávio Bolsonaro 48,21%, diferença de 4.430.191 votos;",
-   "Líderes globais enviam felicitações, sinalizando apoio internacional ao novo presidente;",
-   "Lula pede ao público que cante o Hino da Independência durante a festa de vitória;",
-   "Resultados regionais reforçam a vitória: Rio Novo registra 57,42% para Lula e Divisa Nova também escolhe o candidato do PT;",
-   "Abstenção ficou em 19,22%, indicando que quase um quinto dos eleitores optou por não participar"
+   "Líderes mundiais enviam felicitações, destacando a importância da democracia brasileira",
+   "Resultados regionais reforçam a vitória: Rio Novo registra 57,42% para Lula e Divisa Nova também o escolhe",
+   "Em festa da vitória, Lula pediu ao público que cantasse o Hino da Independência, simbolizando unidade nacional"
   ],
-  "whats_next": "Lula iniciará a transição de governo e formará sua equipe para assumir a presidência em 1º de janeiro de 2027."
+  "whats_next": "Lula assume a presidência em 1º de janeiro de 2027, iniciando seu segundo mandato"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of the vote, celebrates victory to the tune of the Independence Anthem",
-  "why_it_matters": "The win secures a left‑leaning agenda and bolsters Brazil’s global standing, while a 4,43‑million‑vote margin underscores deep political polarization.",
-  "big_picture": "With 100% of precincts counted and 19,22% abstention, the result confirms the majority’s preference and clears the path for a government agenda under global scrutiny, as world leaders have already congratulated Lula.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and reaffirms Brazil’s standing on the world stage.",
+  "big_picture": "With 4,430,191 more votes than Flávio Bolsonaro, Lula beats the opposition in a race that saw 19,22% abstention, securing a term through 2030.",
   "details": [
-   "TSE certifies the count: Lula 51,79% vs Flávio Bolsonaro 48,21%, a 4.430.191‑vote gap;",
-   "Global leaders send congratulations, signaling international backing for the new president;",
-   "Lula asks the crowd to sing the Independence Anthem at the victory party;",
-   "Regional results reinforce the win: Rio Novo posts 57,42% for Lula and Divisa Nova also backs the PT candidate;",
-   "Abstention sits at 19,22%, meaning nearly one‑fifth of voters stayed home"
+   "World leaders send congratulations, underscoring the importance of Brazil’s democracy.",
+   "Regional results cement the win: Rio Novo gives Lula 57,42% and Divisa Nova does the same.",
+   "At the victory party, Lula asked the crowd to sing the Independence Anthem, a nod to national unity."
   ],
-  "whats_next": "Lula will kick off the transition and assemble his team ahead of the Jan 1, 2027 inauguration."
+  "whats_next": "Lula takes office on Jan. 1, 2027, kicking off his second term."
  },
  "error": null
 }
