@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:17:00.011428-03:00",
+ "updated": "2026-10-25T21:18:55.179452-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -9,14 +9,6 @@
    "published": "2026-10-26T00:07:41+00:00",
    "desc": " TSE pausa apuração após Zanin prorrogar horário de votação    UOL Notícias ",
    "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFhqRlZsXzN1MFIzd3FKZWxHeTFUTGo1NWVTajFSREZETWhGa1pGbmVfbHdQSkMzeFJkQ3pmTHh1dmtNdHhLbWNzR09zTGlfQk1YUW43V0dkX3NyQ2dtSFBYVk5JVUJRNklrNWxSV3g1XzNNREFpQ0dwUjZQZURvcmZhbmYtUnNvQWs4VUNGYzJqN254RGtVOTdCZEx5eTlKVC1fMXc1NHlkVERIYWpIcQ?oc=5"
-  },
-  {
-   "title": "Apuração em Minas: veja como foi a votação de Lula e Flávio no estado - O GLOBO",
-   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apuracao-em-minas-veja-como-foi-a-votacao-de-lula-e-flavio-no-estado.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T00:06:16+00:00",
-   "desc": " Apuração em Minas: veja como foi a votação de Lula e Flávio no estado    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNWVPbWdBU0dkSllqcVRzMEhBTmtjZHN4TFJfWUE0cXBULUl4MWlBMnFiWnRQX1RVSHRaVTdISVhhQ2g2V3ZYQXNQc3BXZDJZQ085Z3RpajF6TTdyaEFRdzFsTWFVbDlCWXhuZDAteUlsV3dOSEp6VGtHOWZsV1VyTFRxMWVNd2pMMTZKU0V5aEVIc29vbkE0NE04OUxFM01aVjFka0U2VEhzcHo3WnRhT19FbDd3Tmd3cklCem5YYUl3MkRQQnZjMjI3em9uX0t1OU44b1pHM0bSAecBQVVfeXFMUGhYd2pMRnlpVHZJQ3FHVnBhS2JEQ3ZvdEVmR2VzU1lUQnVTU1QySGh0OUVla0U4RTVzUURwVmtEMlBscE0yNUFaSGxoeUhCZjZHRFZvYXU2MGRVYkdYNWVZa0g0dzhRWlNiQlpJLVJ4TmtUanVRMDZfWGJ6dl82UWtxTkc4dEIxZjJKTHZLSUZ2NnhZS1lvaVZvZjVvb0YxbzlHYjJERDF4UGlsaU1Md21FQnU1bWUzMzdiNTJqWFJxb0hzb2NpeGFzQ3JNdTBRZUlJWFdLZ2F6OGo5aVJrOXY3Tjg4YndB?oc=5"
   },
   {
    "title": "Abstenção cai no segundo turno da eleição presidencial e passa de 21,08% para 18,98% - G1",
@@ -41,31 +33,37 @@
    "published": "2026-10-25T23:54:30+00:00",
    "desc": " Resultado das eleições 2026 em Sul Brasil (SC): como foi a votação no 2º turno    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVjVfeHNpekwweW45M3pDMldZakt4Q094TEI1Q3hTc0R4TzlZbEFpQVlwbEExS3kwNThxNUlqWHdjeWNpSjhLRGlGd296dVhtZTZIcTItbjkzUFFTVUZkZXNJTmRFSmJvVkJGUHZXUWJKZ1pqbExlZHgxZ2dJcjJndF9VYUtpUlZ0RW1rNWpRMVFWR0ZWNEVoa3RJSm9NV2g4OU9sU2dqODRoS3hBbElPNU9NVEJyR3JwV2N0UzF5SlNsbnhrN0R4NmplNS05RmtkRTlDYTIyYkVza09wZWpDN0F6ek1rTlRh0gH3AUFVX3lxTFBiYjRWa0p4ZUZqWUpjUDdQcW9HdnBMX2pBaEtMWDA2TnFBOGw2RXNrQThNcVRVUmtDbGpQWjNpSnJPUFBzQUF5enZ4MU93RGNnUzRzaWxSZkgzMkM5OVFxOVA4NGN5d1IwcEdjZ1pvdUJPc0J6MEI5MTlMbnkxcy0yNDNDdTZ5TFZ1TGp1UGFtdUwtMWhLVDBDZ3d0enAzV1VTdnpmVk5Vcy10d1JLMUdfZmp1ZG1kTllxX0dvNTlud2NudkZNY3cwcHF5TmlybmtWbUhkWUpiT3dvaG8xbThZY2JfM0FnQ016SG5vUThPenhDci1nREE?oc=5"
+  },
+  {
+   "title": "Resultado das eleições 2026 em Camargo (RS): como foi a votação no 2º turno - G1",
+   "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-camargo-rs-como-foi-a-votacao-no-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-25T23:53:52+00:00",
+   "desc": " Resultado das eleições 2026 em Camargo (RS): como foi a votação no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT2tETTR4ZXotRUxXb3FnMmFUNEh5eXkyOUNJRjkycU05alc0YkpteGF0aFY4RzVZNElXVFd5U0c1NF9vcDNXMWdXZDJtUnZaMzZ3dXZBaGtVeEdDQ2JZaU5qdmFOUDQycTR0SExQeDVNU25Kd2FGRkgydFNyZldjLVVvcFdlbDRUTkptZHkzQWNOMEVOTVZzOWpnNm45UENWZ2ZjaHVIRWszUTZWa21WdmZRQ0hsaWxUY25xMV85bG9RZTMyUF9aVGRSRWt3NlhlV3llZWtSMEstazZCMkRLTzhsTmFCUml30gH3AUFVX3lxTE5XZzk0ZUJwYTNCU2dMUHJBY2NjMWRIWGFZVWpQYUxBYzFzQjB6a0cwb0VDQWd3d1VITGpXNmNJa0VFNFJxNmhFWFd1RklGSV9kb3p1dDhHWVdmVDhaT0RSektlWktWM0hNMG9udDcyazFCM1dPVDZ5a2V4Ymp3NlZOS29VR2QzZkNNRkp1Y0hER3gxR09lTWktMnJVeGc5TEtSdlVrb2xVWmFnVm82OUwtSnBiYldmVFhEWEpBR2tMdzBLMWpsd0xpMURoNTlKLTJRQkpHaU1VWjdzZE1xX0pLcFRfbE8wNmJfM1BQZkl6dXBLcTVFaDg?oc=5"
   }
  ],
  "brief": {
-  "headline": "TSE pausa apuração enquanto voto se estende; abstenção já recua",
-  "why_it_matters": "A suspensão adia a divulgação dos resultados nacionais e evidencia que a disputa ainda está em aberto; a queda na abstenção indica maior engajamento dos eleitores no segundo turno.",
-  "big_picture": "Com Lula (13) e Flávio Bolsonaro (22) frente a frente, o Brasil aguarda a retomada da contagem, enquanto municípios já divulgam resultados parciais.",
+  "headline": "Apuração da eleição presidencial ainda parada; abstenção já recua para 19%",
+  "why_it_matters": "Com o segundo turno entre Lula e Flávio Bolsonaro, a pausa na contagem impede saber quem lidera, enquanto a queda na abstenção indica maior engajamento dos eleitores.",
+  "big_picture": "A extensão do horário de votação por Zanin atrasou a divulgação dos resultados, mas a tendência de menor abstença sugere que a disputa está mobilizando mais eleitores.",
   "details": [
-   "Presidente do TSE, Alexandre Zanin, prorrogou o horário de votação, levando o tribunal a suspender a apuração.",
-   "Em Minas Gerais, as urnas já mostram a disputa entre Lula e Flávio em diferentes municípios.",
-   "Abstenção no segundo turno caiu para 18,98%, de 21,08% no primeiro turno, segundo G1.",
-   "Resultados já foram publicados em cidades como Massapê (CE) e Sul Brasil (SC)."
+   "TSE suspendeu a apuração após decisão de Zanin de prorrogar o horário de votação",
+   "Abstenção no segundo turno caiu de 21,08% para 18,98%, segundo G1",
+   "Resultados preliminares já chegam de municípios como Massapê (CE), Sul Brasil (SC) e Camargo (RS), mas sem números consolidados"
   ],
-  "whats_next": "A contagem deve ser retomada após o novo horário e os resultados nacionais deverão ser divulgados nas próximas horas."
+  "whats_next": "A contagem deve ser retomada nas próximas horas, com o TSE divulgando os primeiros números nacionais."
  },
  "brief_en": {
-  "headline": "TSE pauses count as voting extends; abstention already falls",
-  "why_it_matters": "The pause delays national results and shows the race is still open; lower abstention points to higher voter engagement in the runoff.",
-  "big_picture": "Lula (13) vs. Flávio Bolsonaro (22) face off as Brazil waits for the count to resume; some towns already have partial results.",
+  "headline": "Presidential vote count still halted; abstention already down to 19%",
+  "why_it_matters": "With the runoff between Lula and Flávio Bolsonaro, the pause in counting hides the leader, while the dip in abstention signals higher voter engagement.",
+  "big_picture": "Zanin’s extension of voting hours delayed results, but the trend toward lower abstention suggests the race is pulling more voters.",
   "details": [
-   "TSE chief Alexandre Zanin extended voting hours, leading the court to suspend the count.",
-   "In Minas Gerais, the machines already show the Lula‑Flávio contest in several municipalities.",
-   "Abstention in the runoff fell to 18.98%, from 21.08% in the first round, per G1.",
-   "Results have already been released in cities like Massapê (CE) and Sul Brasil (SC)."
+   "TSE halted the count after Zanin extended voting hours",
+   "Abstention in the runoff fell from 21,08% to 18,98%, per G1",
+   "Preliminary results are in from places like Massapê (CE), Sul Brasil (SC) and Camargo (RS), but no consolidated numbers yet"
   ],
-  "whats_next": "Counting should resume after the new deadline, with national results due in the next few hours."
+  "whats_next": "Counting should resume within hours, with TSE releasing the first national figures."
  },
  "error": null
 }
