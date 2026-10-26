@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:00:19.532437-03:00",
+ "updated": "2026-10-26T05:02:17.312575-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -11,61 +11,59 @@
    "gnews": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZVZfVjJ6NEFrQUdGQlpIZFNIOEEwX0JlMzdkZ0tPdTRlYkFsRThoMndtOEF6WTJydFE2UzNUeDlFSUZxOGJCbzdnVGdpTGJsMlB2eDdEc2hMWnc4UHRPM1VhbHVrRlY5QXYwaHVsb21QcjJzdEMtc0tlS01aNFVKS2ZsODYxR3FUajNybTRPODRBNGo2U3RDbk9fT2lYTjE4R1ZUVWFSbDdoeVBGODE2SWFTYnU3RkU0d04zTUFJencyWTE2alFFbjNtSFY0c0puSGpJXzJsN2dTUUllM1prY21EbVluOVZ60gH3AUFVX3lxTE53X3ZOWHltbXNtYnhZcW1tWU9NS2pCRmx0Y2gxc0FnZ0psTnZyb2xoZnUteGtSM0VBdkRfMkl4b0tLZEM4V19vWmNPUEdoZElwS0w4ZlNaUnVzZ3pGRUNYZGU5X0FTU0pUS09tZG9WSVF2Q0dVZy1pS1ZBWTgwdXRGQk1YWlo4Y3IyUW40dC0zcTJ4OU4wYjVacEJjWHhBWmdmLWNDSklVdm5oM0tkUy1qSFBwVk4zTm5tUzRKZm5vUHVuMzI0amJKbDhFY2dvaS1qblBXNmNINkZHNWxGTVhPdVJqRFdoUEcya1lvMGJSQ1lUSURZTVU?oc=5"
   },
   {
+   "title": "Lula vence eleição presidencial em São João do Paraíso - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/126868/lula-vence-eleicao-presidencial-em-sao-joao-do-paraiso",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T07:56:19+00:00",
+   "desc": " Lula vence eleição presidencial em São João do Paraíso    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdjkzcTZ4dEdLcktQcE1fQlBiRTVjRzd4d21wYXRuRVVYRWpFY05lenFNLTFpV1lsUklvVkZoYk5mLUlSR1Zkd2tXWVkzdmpBaFpnalpEUmVLVWZoRmUzR1VwdzBUbmQ4WDl3dkZpcTVScVpaT2EyVVY0b2c1VlVPZEJEaHRYcEpzUVNpTjZHV1N4dUlyM3ZZRDhtUmVKR0ZfQ2U0U2s5MA?oc=5"
+  },
+  {
+   "title": "Joaçaba escolhe Flávio Bolsonaro para presidente no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/126865/joacaba-escolhe-flavio-bolsonaro-para-presidente-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T07:55:45+00:00",
+   "desc": " Joaçaba escolhe Flávio Bolsonaro para presidente no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0NkY1ZONVZaYXp5R0tPMWNZNVFuNlE1cTNpS3BIQ2hWYi00bzBhTE9ZMFZwN3M5SWxnLUFjWXVEWEZJQnVaa3VCYlAzR2dFeDc0cUF0S2tJRk9yZ3FFZ3B4VVVHR2k0aVRldG41NHFJUVdUajcyZ0Fxa0ZNN1BadEF6YnlNaHZUc3lLNTVQU3VaV2ZpVWJMc0V0NTB3Rmp0VjExaHAycUpmQVNWSXk1Nl9CamM0QQ?oc=5"
+  },
+  {
+   "title": "Flávio Bolsonaro vence a eleição presidencial em Eugenópolis - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/126863/flavio-bolsonaro-vence-a-eleicao-presidencial-em-eugenopolis",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T07:55:39+00:00",
+   "desc": " Flávio Bolsonaro vence a eleição presidencial em Eugenópolis    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclZFQ3loSDBPUFhINzk3MUlnSkVYWXI1VHJfdXgwa2JBLXRCX3FMSlBKRnhEV3dsSk9NWVp4dnpIbFQyLUExaTBwWUpOTUtwZmR4a1k0a2NKbFZQZGNrN1VwaG1aU3JLcEhvMTVrMzI5ZU85enduS3JfVjJlc29JWVpnZ0d5dmVGNVUzMlRQYlExY1N6T0RWejVMUzJaaGR2TVE0TWljZllMRXBxWUVF?oc=5"
+  },
+  {
    "title": "MAPA: veja como cada cidade votou para presidente no 2º turno - G1",
    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/mapa-veja-como-cada-cidade-votou-para-presidente-no-2o-turno.ghtml",
    "source": "G1",
    "published": "2026-10-26T07:14:02+00:00",
    "desc": " MAPA: veja como cada cidade votou para presidente no 2º turno    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzBURUJ6R3RQMnV1Z0h5eVQ2V00yai1OWVVsck9sQ0R6U3FFTzZCelpHb3hUWERtZnFSVjN1ZjJUM2QtY2RGY21fQUtzcHgwVE9rX0RFMFI2ZVlMNkE1WkxEcGJlclB3cm1ZU2NnTWJuNzFyZzEwc2gzV2doMnZ3d3dtRFNBZ3djQUZBYlB3c0NKd1U3ZTNEQWtQNlFDWVpWOWRKY3dJbTFsNWlWZ3h6SEVYMW1ReGFESGFtaGwwYmRYZW1vQU9VUNIB1wFBVV95cUxQTXlGeE8tZ1BGeVpQUGV3djJiWFp0OGUzdkI4dkpIM2xKTGRZNEhFdE1uQmRoUU93eThxZ1hWYXk0RHhXUWVnRmNlNWdvR0c4Nmpod3Q3Y0JUQndHSUJVQW1RTUo5QmV0Rlo4S0c5d21mQVRsNXhZMVpaczM1dEx5NXlaRjNuM2x0bmxKTzR0d1BjbkJFU1g4Q2c4WGVLc3ZDN2xpeDBYeXhxenFINktYbGhZRXhjMzlLZ1hkeXdxMGd3ZFJ1SWxPaFE4YWs5ajV3TXJISGJGZw?oc=5"
-  },
-  {
-   "title": "Capitão Poço (PA): resultado do local de votação por zonas eleitorais no 2º turno - G1",
-   "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/capitao-poco-pa-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T07:08:05+00:00",
-   "desc": " Capitão Poço (PA): resultado do local de votação por zonas eleitorais no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSFpMUnozbzF1a01ITDgxSFpkZkswaUVUOTRlZDFnMGRNVmh2enN3ZHFfTG9EM0Z6MzluTEF2dDJrekx6a1NjVGpKeE9jUmJCbkxnWm4yZXRtUVJaZXphai0xZVZORUt5WjR6NU15TVBtVnoxSGhZQkdoYXhhWDVvU0RVTzVPVnRON3FGU08wU0tMSnQwdjVtZTBfWE9lVWNvMWpjY1JZRHNRdU15QUVYWXdLRi04eFloV3BkSTNDVlR2aXBKYkNZdTZMZXBNWjlVd0U2UDJqQ0h0ZjFfT3k00gHuAUFVX3lxTE9VUGFKVjZFNGYzY1pJQ1RJUnlLM2paUkh5Z0I1Smowd1JRckVvWDJZOG1xVlNWZ1Y4RUU5aEJqNG1vcUk4aUJqS2wwZFI0SGhfcVZSdmtNX2dhSWVwUUNjMWo2Y0ZxRmRTT09TSGVZekVYejRwTmgyTTlCQjFpS0ZxSHJnMTdoZ2FhMFZoVDJ4ZmpUSC1fTG5OSl9Ic3pKZkdYMWpTejZ6cXpSTURSUWtDbVk4VE82cVNPbnlPTXNIM1NKSERHSV9uVmlGUGRSR1U3a2FkVXkxYXVKSG5kNHFwVG01dDNDSElkc3BuTXc?oc=5"
-  },
-  {
-   "title": "EMEF Cristiano José de Medeiros Rosa, 13ª zona eleitoral: resultado da votação em Bragança (PA) no 2º turno - G1",
-   "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/emef-cristiano-jose-de-medeiros-rosa-13a-zona-eleitoral-resultado-da-votacao-em-braganca-pa-no-2o-turno.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T07:08:04+00:00",
-   "desc": " EMEF Cristiano José de Medeiros Rosa, 13ª zona eleitoral: resultado da votação em Bragança (PA) no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOS0xX0VHSC1oUTJDRlRIbXRfMnRVclg2cWlNOGk5NXkwTGROT0ltS0hldkZPLXh6TURaaEV6SWN2dk1BX0FOdnJwMjJCWS1NWWFlRXAtclRwYjljLW5uNWNxOWJTS2ZORmdmaVlxVkMtNTBfRmJLN1VNSnk5bGVFaTl4c3B0RWt3b0RjWkdQLU9VdzY0aFVXY3ZUTnQzd1BfSktKSC1pV0N0R1ROSlV5Z1lZWTZTSVhxaDJHaDgzbEl0TGxvYVRTdHlvaW8tTUE0RlJvaUVEZkd4d2UyUnBQa0ZENldXNC1INDB4bkE3X1NYSjZPSEZyTWk1bTloTEtp0gGPAkFVX3lxTE5Ma3N6NkhwajZ4M2N0WVA1QnFwckpPU2MzdU8yeVNOU0xJVGVQLW5UbVlXS2RBU1JrMlAwcF9wODZ6Rkh1WHEwTW4xVUdQZ3B1dkJYNmRnNkhsT21wdEdqZmp2elZNVUhia0MxZjlPcTBqdUFOUjZVVEdXd3FPMDRVVHBlR2JDa2pxaVd6Q05nMGF0dTNWc01YVWx5U1R4MkZvX3FmMzRTdzI0WVVTbjd0c1ZHRmduNE5qckUycnJBUElJMnJWVHc1MVBmcEZfejhKQU5fVTdMVndOU1NRSXdiTWdjU0NicmJIa0UxVmJLZlVocE1TaDVmMmdDUkgxZk1WNU4yYlg0SjVocW9VYU0?oc=5"
-  },
-  {
-   "title": "Lula vence a eleição presidencial em Campos Belos - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/126611/lula-vence-a-eleicao-presidencial-em-campos-belos",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T07:31:23+00:00",
-   "desc": " Lula vence a eleição presidencial em Campos Belos    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0tiYkowV0E0RmJOcU1ja3Y1dGN1N0x6VlF0VVdkSUNZU1V6eVRZV0xmUnU0bHc3WnFCYnJWc1I0ZDQwbDQ0dDF5RGNYTnhnX01jWVpQLThmVHhVZGM0S05FalZnMWk0em8zQmJSa2RmanNrTTlqM1pDbmlNN1BJdkVwRGlfM3lEVEtwS2xET2hZZU5MSWFFWndiOXFqd3hJ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de eleitores",
-  "why_it_matters": "A vitória garante ao PT a continuidade do governo federal e define a agenda política e econômica para os próximos quatro anos. O resultado também reflete a polarização regional que marcou a campanha.",
-  "big_picture": "Lula reduziu a vantagem de Flávio em São Paulo, conquistou Minas Gerais e ampliou a folga no Nordeste, enquanto o candidato de direita manteve força nos estados do Sul e parte do Sudeste.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória garante a continuidade do governo PT por mais quatro anos e define a agenda política e econômica do país.",
+  "big_picture": "Com 100% das seções apuradas, a margem de 2,58 pontos reflete a consolidação da base de Lula no Nordeste e a perda de terreno de Flávio em São Paulo e Minas Gerais.",
   "details": [
-   "Lula 51,79% x Flávio Bolsonaro 48,21% – diferença de 4.430.191 votos; 100% das seções apuradas",
-   "Abstenção de 19,22%, indicando participação de 80,78% dos eleitores aptos",
-   "Mapa de cidades mostra domínio de Lula no Norte e Nordeste e de Bolsonaro no Sul e em áreas do Sudeste",
-   "Resultados locais – Capitão Poço (PA), Bragança (PA) e Campos Belos – confirmam a tendência de vitória de Lula nas regiões Norte/Nordeste"
+   "Lula obteve 51,79% dos votos válidos, enquanto Flávio Bolsonaro ficou com 48,21%, diferença de 4.430.191 votos",
+   "O candidato do PT reduziu a vantagem de Flávio em São Paulo, venceu em Minas Gerais e ampliou a folga no Nordeste",
+   "Em municípios, Lula venceu em São João do Paraíso; Flávio venceu em Joaçaba (SC) e Eugenópolis (MG), mostrando polarização local"
   ],
-  "whats_next": "Lula assumirá o cargo em 1 de janeiro de 2027, iniciando a formação de coalizões e a implementação de sua agenda de governo."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51.79% of the vote, beating Flávio Bolsonaro by 4.43 m voters",
-  "why_it_matters": "The win secures PT’s hold on the federal government and sets the political‑economic agenda for the next four years. It also underscores the regional polarization that defined the campaign.",
-  "big_picture": "Lula cut Flávio’s lead in São Paulo, took Minas Gerais and widened the gap in the Northeast, while the right‑wing candidate held on in the South and parts of the Southeast.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win secures another four‑year PT term and sets the country’s political‑economic agenda.",
+  "big_picture": "With 100% of precincts counted, the 2,58‑point margin shows Lula’s base solidified in the Northeast and Flávio losing ground in São Paulo and Minas Gerais.",
   "details": [
-   "Lula 51.79% vs Flávio Bolsonaro 48.21% – margin of 4,430,191 votes; 100% of precincts counted",
-   "Turnout: 80.78% (abstention 19.22%) of eligible voters",
-   "City map shows Lula dominating the North and Northeast, Bolsonaro leading in the South and parts of the Southeast",
-   "Local results – Capitão Poço (PA), Bragança (PA) and Campos Belos – reinforce Lula’s north/northeast winning trend"
+   "Lula got 51,79% of valid votes; Flávio Bolsonaro 48,21% – a gap of 4.430.191 votes",
+   "The PT candidate narrowed Flávio’s lead in São Paulo, won Minas Gerais and widened the gap in the Northeast",
+   "Municipally, Lula won São João do Paraíso; Flávio won Joaçaba (SC) and Eugenópolis (MG), highlighting local polarization"
   ],
-  "whats_next": "Lula takes office on Jan 1 2027, begins coalition‑building and rolling out his government agenda."
+  "whats_next": "Lula will be sworn in on Jan 1, 2027, kicking off his second term"
  },
  "error": null
 }
