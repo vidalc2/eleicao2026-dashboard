@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-26T06:22:44.802163-03:00",
+ "updated": "2026-10-26T06:24:57.605868-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "31ª zona eleitoral de Vianópolis (GO): votos por local de votação no 2º turno - G1",
+   "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/31a-zona-eleitoral-de-vianopolis-go-votos-por-local-de-votacao-no-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T09:15:09+00:00",
+   "desc": " 31ª zona eleitoral de Vianópolis (GO): votos por local de votação no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLVI1VmROV2I1VkgzcFptNjdUYnFpSDVuVm1TdnE3V3FlRzJpckFMU1VyQkhvUXFMUEU3dndPaUR3OHY3TnUyNUhiWF9NXzg1b3ZVbldubDMwUnJTb2g1bXVvWnBrUVV4TWlwMUNlSHh3LW16YTJWbmpaMm05NExBTGg2UFZCcnJXT2JyZk94cmg2ZEFudHJQN0ZqbThEbHA1N0JNZWR4emc2N2w4em1RMWNqSVFtamZ0SWdtUzRiMVZSY3ZMdnR6d2hrUWJYM2RSblFGZUhWY0thMnPSAeoBQVVfeXFMUGhmME5EbEdFbDQ0eDBjemM5ZnM3ckZtM0lpa0VnZ0dwdjRaYWJNaGk4cnJMajJnNE9WYjdVUFBZRW9TdVBLOFlTalBMRzNTVmZ6LVNqRk9OUXJwbFRhWnBWdHJtUE9yNUlLN2FhdmF3Z2k4MHlMZWhRWFBIV2tWVWdLS0Z5bGNjWGl2TXI2LXZCVzhSQ2lRamszazlUSWtndjBWZndGRWR6QlN4aE9tSmRMS1d4RE1IbUlJQWU5V2FYbEpQYUt2Zzg5aUhFelhDMkJkOXlhWjNBUXJnZFhidjRvMzczZ2lYcG5R?oc=5"
+  },
   {
    "title": "Lula x Flávio: como o voto de cada região pesou no resultado da eleição - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/26/eleicao-lula-flavio-regioes.htm",
@@ -33,37 +41,31 @@
    "published": "2026-10-26T09:12:15+00:00",
    "desc": " Apuração do segundo turno na Bahia foi concluída pouco depois das 23h pelo TRE-BA; abstenção foi de 16,72%    Alô Alô Bahia ",
    "gnews": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRHN3WUFoTkxhLUU3NTRYSHRVcWtUMG9CMHFUMk5lN0lFaUZaY3JUd2RTbnd1U1djQmFqY2hyZjZyc0lHZFBMLUhQWlJIdVhsQUc4VWRpdEFvZkM0VEstZVUxaHpMN29ycmJnVGU5YVlnN2JwQUt4UXNvWUVLTDU0T0gzWXVyZDVhQTVPbFdoMDZiYTljbV9ib1Noalk4WlpETEpMNDBQSWxpRmZlT1hidS1keG5nOUpUNllhTHA4MHk4RXQtVWQxZ1lWZFIzVnNWbmduemFBOWNkOWpwN0hNR1lR?oc=5"
-  },
-  {
-   "title": "Itanagra: Lula é o mais votado no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/127564/itanagra-lula-e-o-mais-votado-no-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T09:12:00+00:00",
-   "desc": " Itanagra: Lula é o mais votado no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEx3TS1OcHBVaHNjVWZFUklEM2ctVDhpNTVOdUM4Rmw0dnVHcTk1SHZiY2pEeWdrQWh5Nkp1ampBTERYa0JfaUVpZG83VFN5eld0SklZcmlDclpOR1NQeTIyQlBERzFBV205MkF5QTJlLXN2UlVJTW5XLTh2ZDJ0RTZjOUptYVV1WkVkQl9jSVJzMlo2U2JPOW55NmU?oc=5"
   }
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade do governo PT e define a agenda política para os próximos quatro anos.",
-  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o pleito reflete polarização, mas também alta participação eleitoral.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política brasileira para os próximos quatro anos.",
+  "big_picture": "Com 100% das seções apuradas, Lula supera Flávio Bolsonaro por 4,43 milhões de votos, apesar de forte apoio ao candidato rival em municípios como Rondonópolis.",
   "details": [
-   "Lula liderou em municípios como Santa Rosa de Lima (MG) e Itanagra (BA), enquanto Flávio venceu Rondonópolis (MT)",
-   "A apuração completa mostrou que a Bahia teve abstenção de 16,72%, abaixo da média nacional de 19,22%",
-   "Análise da UOL indica que o voto nas regiões Sudeste e Sul foi decisivo para o resultado final"
+   "Lula 51,79% x Flávio 48,21% – diferença de 4.430.191 votos.",
+   "Abstenção nacional foi de 19,22%; na Bahia, 16,72%, indicando maior engajamento local.",
+   "Regiões divergentes: Rondonópolis (MT) votou em Flávio, enquanto Santa Rosa de Lima (PI) apoiou Lula.",
+   "Vianópolis (GO) divulgou resultados por local de votação, refletindo a granularidade da apuração."
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
+  "whats_next": "O TSE deve proclamar oficialmente o presidente eleito nos próximos dias."
  },
  "brief_en": {
   "headline": "Lula wins second round with 51,79% of valid votes",
-  "why_it_matters": "The win secures PT’s grip on power and sets the policy agenda for the next four years.",
-  "big_picture": "A 4,430,191‑vote margin and 19.22% abstention show a polarized but highly engaged electorate.",
+  "why_it_matters": "The win secures the left‑leaning agenda and sets Brazil’s policy for the next four years.",
+  "big_picture": "With 100% of sections counted, Lula beats Flávio Bolsonaro by 4,43 million votes, despite strong rival support in municipalities like Rondonópolis.",
   "details": [
-   "Lula led in towns like Santa Rosa de Lima (MG) and Itanagra (BA), while Flávio won Rondonópolis (MT)",
-   "Full count shows Bahia’s abstention at 16.72%, below the national 19.22% average",
-   "UOL analysis says votes in the Southeast and South sealed the win"
+   "Lula 51,79% vs Flávio 48,21% – margin of 4.430.191 votes.",
+   "National abstention was 19,22%; in Bahia it was 16,72%, indicating higher local engagement.",
+   "Divergent regions: Rondonópolis (MT) voted for Flávio, while Santa Rosa de Lima (PI) backed Lula.",
+   "Vianópolis (GO) released results by voting location, reflecting the granularity of the count."
   ],
-  "whats_next": "Lula is sworn in on Jan. 1, 2027, kicking off his second term."
+  "whats_next": "The TSE should officially proclaim the president‑elect in the next few days."
  },
  "error": null
 }
