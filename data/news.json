@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:28:47.718733-03:00",
+ "updated": "2026-10-26T06:30:50.747842-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro.",
-  "big_picture": "Com 4,43 milhões de votos a mais, Lula supera a margem necessária, apesar de 19,22% de abstenção.",
+  "why_it_matters": "Com 100% das seções apuradas, a vitória de Lula garante seu terceiro mandato, mas a margem de 4,43 milhões de votos evidencia profunda polarização.",
+  "big_picture": "A abstenção de 19,22% revela cansaço do eleitorado; enquanto municípios como Serra dos Aimorés (62,29%) e Niterói (55,15%) reforçam o apoio ao PT, áreas rurais como Bom Jesus do Araguaia e São João do Manhuaçu permanecem bastiões de Flávio Bolsonaro.",
   "details": [
-   "Resultado final: Lula 51,79% vs Flávio 48,21% (100% das seções apuradas).",
-   "Lula liderou em municípios como Serra dos Aimorés (62,29%) e Niterói (55,15%).",
-   "Flávio Bolsonaro venceu em localidades como Bom Jesus do Araguaia e São João do Manhuaçu."
+   "Resultado nacional: Lula 51,79% x Flávio Bolsonaro 48,21%, diferença de 4.430.191 votos",
+   "Apuração concluída: 100% das seções apuradas",
+   "Ganhos regionais: Lula lidera em Serra dos Aimorés e Niterói; Flávio vence em Bom Jesus do Araguaia e São João do Manhuaçu"
   ],
-  "whats_next": "A diplomação oficial ocorrerá em 1º de janeiro, enquanto o novo governo se prepara para assumir."
+  "whats_next": "A posse presidencial ocorrerá em 1º de janeiro de 2027, enquanto o Congresso se prepara para a nova composição legislativa."
  },
  "brief_en": {
   "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win secures the left‑leaning agenda and blocks Flávio Bolsonaro’s conservative push.",
-  "big_picture": "With a 4,43‑million‑vote cushion, Lula clears the threshold despite 19,22% abstention.",
+  "why_it_matters": "With 100% of precincts counted, Lula’s win secures a third term, but a 4,43 million‑vote margin shows deep polarization.",
+  "big_picture": "A 19,22% abstention signals voter fatigue; towns like Serra dos Aimorés (62,29%) and Niterói (55,15%) back PT, while rural spots such as Bom Jesus do Araguaia and São João do Manhuaçu stay Flávio Bolsonaro strongholds.",
   "details": [
-   "Final result: Lula 51,79% vs Flávio 48,21% (100% of precincts counted).",
-   "Lula led in towns like Serra dos Aimorés (62,29%) and Niterói (55,15%).",
-   "Flávio Bolsonaro won in places like Bom Jesus do Araguaia and São João do Manhuaçu."
+   "National: Lula 51,79% vs Flávio Bolsonaro 48,21%, margin 4.430.191 votes",
+   "Count complete: 100% of precincts tallied",
+   "Regional gains: Lula leads in Serra dos Aimorés and Niterói; Flávio wins in Bom Jesus do Araguaia and São João do Manhuaçu"
   ],
-  "whats_next": "Official swearing‑in is set for Jan. 1 as the new administration gears up."
+  "whats_next": "Inauguration is set for Jan 1, 2027, as Parliament gears up for a new legislative makeup."
  },
  "error": null
 }
