@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:09:11.578568-03:00",
+ "updated": "2026-10-26T02:11:12.812791-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, mas Flávio Bolsonaro lidera em municípios‑chave",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda, enquanto os fortes resultados regionais de Flávio revelam profunda polarização e potencial disputa judicial.",
-  "big_picture": "Com 100 % das seções apuradas, a diferença de 4.430.191 votos confirma a vitória de Lula, porém a abstenção de 19,22 % evidencia desgaste do eleitorado.",
+  "headline": "Lula vence o segundo turno com 51,79% dos votos válidos, mas municípios de Flávio Bolsonaro ainda registram maioria",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda, enquanto a força de Flávio em áreas rurais sinaliza desafios políticos regionais.",
+  "big_picture": "Com 100% das seções apuradas, a diferença de 4,43 milhões de votos confirma a vitória de Lula; a abstenção de 19,22% mostra desgaste do eleitorado.",
   "details": [
-   "Lula 51,79 % vs Flávio 48,21 % dos votos válidos, diferença de 4.430.191 votos",
-   "Flávio Bolsonaro foi o mais votado em municípios como Miracatu, São Domingos (63,97 %) e Pomerode",
-   "Lula liderou em municípios como Vitória do Mearim, reforçando apoio nas regiões Norte e Nordeste",
-   "Demora de Kassio e decisão de Zanin geraram críticas e motivaram reunião de emergência no TSE",
-   "Abstenção chegou a 19,22 %, indicando alto nível de desinteresse ou cansaço eleitoral"
+   "Resultado final: Lula 51,79% x Flávio 48,21% dos votos válidos.",
+   "Flávio Bolsonaro lidera em municípios como Miracatu, São Domingos (63,97%) e Pomerode, indicando bases regionais sólidas.",
+   "Lula lidera em locais como Vitória do Mearim, reforçando apoio nas regiões nordeste e centro‑sul.",
+   "Demora de Kassio e decisão de Zanin geram críticas e reunião de emergência no TSE, mas a totalização já está concluída."
   ],
-  "whats_next": "O TSE deve proclamar oficialmente Lula como presidente e analisar os recursos judiciais pendentes"
+  "whats_next": "O TSE deve proclamar oficialmente Lula como presidente e iniciar a transição de governo."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes, but Flávio Bolsonaro leads in key municipalities",
-  "why_it_matters": "The win keeps the left‑wing agenda alive, while Flávio’s strong regional showings expose deep polarization and a likely court battle.",
-  "big_picture": "With 100 % of precincts counted, a 4,430,191‑vote margin confirms Lula’s victory, yet a 19,22 % abstention signals voter fatigue.",
+  "headline": "Lula wins the runoff with 51,79% of valid votes, but Flávio Bolsonaro still leads in some municipalities",
+  "why_it_matters": "The win keeps the left agenda alive, while Flávio’s rural strength flags regional political challenges.",
+  "big_picture": "With 100% of precincts counted, a 4,43‑million‑vote gap cements Lula’s win; a 19,22% abstention rate shows voter fatigue.",
   "details": [
-   "Lula 51,79 % vs Flávio 48,21 % of valid votes, margin of 4,430,191 votes",
-   "Flávio Bolsonaro topped the vote in towns like Miracatu, São Domingos (63,97 %) and Pomerode",
-   "Lula led in places such as Vitória do Mearim, bolstering support in the North and Northeast",
-   "Kassio’s delay and Zanin’s ruling drew criticism and sparked an emergency TSE meeting",
-   "Abstention hit 19,22 %, pointing to high disengagement or election fatigue"
+   "Final tally: Lula 51,79% vs Flávio 48,21% of valid votes.",
+   "Flávio Bolsonaro leads in towns like Miracatu, São Domingos (63,97%) and Pomerode, showing solid regional bases.",
+   "Lula leads in places like Vitória do Mearim, reinforcing support in the northeast and centre‑south.",
+   "Kassio’s delay and Zanin’s ruling spark criticism and an emergency TSE meeting, but the count is done."
   ],
-  "whats_next": "The TSE will formally proclaim Lula president and review pending legal challenges"
+  "whats_next": "The TSE will officially proclaim Lula president and kick off the transition."
  },
  "error": null
 }
