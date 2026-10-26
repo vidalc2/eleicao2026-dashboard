@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:57:31.071056-03:00",
+ "updated": "2026-10-25T22:59:32.092208-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos",
-  "why_it_matters": "A vitória garante a continuidade do PT no poder e define a agenda política e econômica para os próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas e 19,22% de abstenção, a eleição mostrou alta participação e ainda profunda polarização no país.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a consolidação de uma bancada bolsonarista no Congresso.",
+  "big_picture": "Com 100% das seções apuradas, o pleito foi o mais apertado desde 2018, com diferença de 4,429,907 votos e abstenção de 19,22%.",
   "details": [
-   "Lula alcançou 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro",
-   "Diferença de 4.429.907 votos assegura a maioria clara no pleito",
-   "Nas cidades de Franca, Diadema e Bauru (SP) a contagem reforça a vantagem de Lula; em Porto Alegre e Pelotas (RS) a disputa foi mais apertada"
+   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos",
+   "Abstenção totalizou 19,22% do eleitorado",
+   "Resultados em Franca, Diadema, Bauru (SP) e Porto Alegre, Pelotas (RS) seguiram a tendência nacional",
+   "Diferença de 4,429,907 votos selou a vitória de Lula"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027 para iniciar seu segundo mandato."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando a transição de governo."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 mi votes",
-  "why_it_matters": "The win keeps PT in power and sets the political and economic agenda for the next four years.",
-  "big_picture": "With 100% of precincts counted and 19,22% abstention, the election showed high turnout and deep polarization.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks a bolsonarist bloc from solidifying in Parliament.",
+  "big_picture": "With all precincts counted, it was the tightest race since 2018 – a margin of 4,429,907 votes and 19,22% abstention.",
   "details": [
-   "Lula got 51,79% of valid votes versus 48,21% for Flávio Bolsonaro",
-   "A margin of 4.429.907 votes gives a clear win",
-   "In Franca, Diadema and Bauru (SP) the count backs Lula’s lead; in Porto Alegre and Pelotas (RS) it was tighter"
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes",
+   "Abstention hit 19,22% of voters",
+   "Results in Franca, Diadema, Bauru (SP) and Porto Alegre, Pelotas (RS) mirrored the national trend",
+   "A 4,429,907‑vote gap sealed Lula’s win"
   ],
-  "whats_next": "Lula will be sworn in on January 1, 2027 to start his second term."
+  "whats_next": "Lula will be inaugurated on Jan 1, 2027, kicking off the transition."
  },
  "error": null
 }
