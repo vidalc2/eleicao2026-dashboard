@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:56:12.994158-03:00",
+ "updated": "2026-10-26T04:58:12.552979-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -19,14 +19,6 @@
    "gnews": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZVZfVjJ6NEFrQUdGQlpIZFNIOEEwX0JlMzdkZ0tPdTRlYkFsRThoMndtOEF6WTJydFE2UzNUeDlFSUZxOGJCbzdnVGdpTGJsMlB2eDdEc2hMWnc4UHRPM1VhbHVrRlY5QXYwaHVsb21QcjJzdEMtc0tlS01aNFVKS2ZsODYxR3FUajNybTRPODRBNGo2U3RDbk9fT2lYTjE4R1ZUVWFSbDdoeVBGODE2SWFTYnU3RkU0d04zTUFJencyWTE2alFFbjNtSFY0c0puSGpJXzJsN2dTUUllM1prY21EbVluOVZ60gH3AUFVX3lxTE53X3ZOWHltbXNtYnhZcW1tWU9NS2pCRmx0Y2gxc0FnZ0psTnZyb2xoZnUteGtSM0VBdkRfMkl4b0tLZEM4V19vWmNPUEdoZElwS0w4ZlNaUnVzZ3pGRUNYZGU5X0FTU0pUS09tZG9WSVF2Q0dVZy1pS1ZBWTgwdXRGQk1YWlo4Y3IyUW40dC0zcTJ4OU4wYjVacEJjWHhBWmdmLWNDSklVdm5oM0tkUy1qSFBwVk4zTm5tUzRKZm5vUHVuMzI0amJKbDhFY2dvaS1qblBXNmNINkZHNWxGTVhPdVJqRFdoUEcya1lvMGJSQ1lUSURZTVU?oc=5"
   },
   {
-   "title": "Lula aumenta votação em bairros-chave e vira resultado na cidade do Rio - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/26/lula-aumenta-votacao-em-bairros-chave-e-vira-resultado-na-cidade-do-rio.htm",
-   "source": "UOL Notícias",
-   "published": "2026-10-26T07:21:12+00:00",
-   "desc": " Lula aumenta votação em bairros-chave e vira resultado na cidade do Rio    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTE11SEZla1RyVk92MnpVQXB2WlJ1Q3lyZFg0WnpSSVVIb2FlZU5Pb09UczZNSzlESEwxalRCZ3NjTlBuYVphVkpfOXNHcVoxR2ROaHB2Sm5OR2hKWUlreGhPQTRtNXUzLThvZXVfZmhZazRTLUt1ck5OUVFRZXYzOWc2Sm1pX2Rsb193T2N3c3VDNTJVVjc1NUVFZmpPR2xPdkVKYzdhYzVXTncyQllUeHA0ODZTbm1pQ2NBUFF4NTM?oc=5"
-  },
-  {
    "title": "MAPA: veja como cada cidade votou para presidente no 2º turno - G1",
    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/mapa-veja-como-cada-cidade-votou-para-presidente-no-2o-turno.ghtml",
    "source": "G1",
@@ -41,33 +33,41 @@
    "published": "2026-10-26T07:08:05+00:00",
    "desc": " Capitão Poço (PA): resultado do local de votação por zonas eleitorais no 2º turno    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSFpMUnozbzF1a01ITDgxSFpkZkswaUVUOTRlZDFnMGRNVmh2enN3ZHFfTG9EM0Z6MzluTEF2dDJrekx6a1NjVGpKeE9jUmJCbkxnWm4yZXRtUVJaZXphai0xZVZORUt5WjR6NU15TVBtVnoxSGhZQkdoYXhhWDVvU0RVTzVPVnRON3FGU08wU0tMSnQwdjVtZTBfWE9lVWNvMWpjY1JZRHNRdU15QUVYWXdLRi04eFloV3BkSTNDVlR2aXBKYkNZdTZMZXBNWjlVd0U2UDJqQ0h0ZjFfT3k00gHuAUFVX3lxTE9VUGFKVjZFNGYzY1pJQ1RJUnlLM2paUkh5Z0I1Smowd1JRckVvWDJZOG1xVlNWZ1Y4RUU5aEJqNG1vcUk4aUJqS2wwZFI0SGhfcVZSdmtNX2dhSWVwUUNjMWo2Y0ZxRmRTT09TSGVZekVYejRwTmgyTTlCQjFpS0ZxSHJnMTdoZ2FhMFZoVDJ4ZmpUSC1fTG5OSl9Ic3pKZkdYMWpTejZ6cXpSTURSUWtDbVk4VE82cVNPbnlPTXNIM1NKSERHSV9uVmlGUGRSR1U3a2FkVXkxYXVKSG5kNHFwVG01dDNDSElkc3BuTXc?oc=5"
+  },
+  {
+   "title": "EMEF Dom Alonso 1, 3ª zona eleitoral: resultado da votação em Soure (PA) no 2º turno - G1",
+   "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/emef-dom-alonso-1-3a-zona-eleitoral-resultado-da-votacao-em-soure-pa-no-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T07:08:03+00:00",
+   "desc": " EMEF Dom Alonso 1, 3ª zona eleitoral: resultado da votação em Soure (PA) no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaG1kcEVLWXFFV01iQS1TNlI5WmpGam1rdDZlNGdfZHE3alF1SXptc2hrRF9CdWhZRzJWb0NxMXZVZlVHSjRfcC1DLVBDN0E4ZUxSc0FzQkdxVnJPeGdyNmdhOFNTR2tpWnE3YVkyQW1NbFhXY3JrMHZmeWxlSVdFM0JlQ1dJZVlBRm41Q2Q1dm05R1VibXg5MDF5Y2dNM0hqTDhKVkRZZXpqTkNkeWt2d1BFcV9wSVJrWTY1eFhablZ0clVIRm04YjJrNzg3NklNSFBPbjRIamJYdFhSeTY1SzFR0gHwAUFVX3lxTE5zczhhekQwV1ppT2RUQnBGVXZPZVRtYzBoQkM2YVNHN1JoWWF3bld2U294X1BUMlVWdUt5cTNQcFZzWmhYVnpqV3JqWnpDaWZKX056d0FKQWhfUUR1a0gxcUh0R2d0ZS1GaW9EMDhxSDBuOU1oQnpvVDJXeW9DUEx1TXpoVEFULVNTazRGUVpqOE9CaGNvZ2w5OGFYbHh4eEU3NjZURC15aDVSajZkUUNyRU9nbFBTRWJGSWppbHRESjFuQWRCNnVvRWJnLVFVT3Q2Uk9PUWVVUUxacnNRSF9oUFo4SUN5ZjdCcExPbWc0Yw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões de eleitores",
-  "why_it_matters": "A vitória define quem comandará o Executivo nos próximos quatro anos e moldará a agenda econômica, social e externa do Brasil.",
-  "big_picture": "Com 100% das seções apuradas, Lula ampliou a vantagem no Nordeste, manteve a liderança em Minas Gerais, reduziu a diferença em São Paulo e virou o resultado na cidade do Rio, enquanto municípios como São Pedro de Alcântara (SC) e Capitão Poço (PA) refletiram a tendência nacional.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mihões",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de governo de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
+  "big_picture": "Com 100 % das seções apuradas, Lula ampliou a folga no Nordeste, venceu em Minas Gerais e reduziu a vantagem de Flávio em São Paulo, consolidando a maioria nacional.",
   "details": [
-   "Lula 51,79% x Flávio Bolsonaro 48,21% – margem de 4.430.191 votos",
-   "Abstenção chegou a 19,22% dos eleitores",
-   "Lula reduziu a vantagem de Flávio em SP, venceu em MG e ampliou folga no Nordeste",
-   "No Rio, o candidato aumentou apoio em bairros‑chave e virou o placar da capital",
-   "Resultados locais de SC e PA confirmam a consolidação da vitória em todo o país"
+   "Lula lidera no Nordeste, ampliando a vantagem regional",
+   "Em Minas Gerais, Lula venceu, revertendo a vantagem inicial de Flávio",
+   "Em São Paulo, Lula reduziu a diferença, mas ainda ficou atrás na capital",
+   "Mapas de cidades mostram padrão de apoio a Lula nas regiões Sul e Centro‑Oeste",
+   "Resultados locais como São Pedro de Alcântara (SC), Capitão Poço (PA) e Soure (PA) confirmam a tendência nacional"
   ],
-  "whats_next": "O Tribunal Superior Eleitoral deve proclamar oficialmente Lula como presidente eleito nas próximas horas."
+  "whats_next": "Lula será empossado em 1 de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos judiciais."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million voters",
-  "why_it_matters": "The win decides who will run the executive for the next four years and shapes Brazil’s economic, social and foreign agenda.",
-  "big_picture": "With 100% of precincts counted, Lula widened his lead in the Northeast, held on in Minas Gerais, cut the gap in São Paulo and flipped Rio city, while towns like São Pedro de Alcântara (SC) and Capitão Poço (PA) mirrored the national trend.",
+  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win locks in a left‑leaning agenda and blocks Flávio Bolsonaro from the Planalto Palace.",
+  "big_picture": "With 100 % of precincts counted, Lula widened his lead in the Northeast, took Minas Gerais and cut Flávio’s edge in São Paulo, cementing a national majority.",
   "details": [
-   "Lula 51,79% x Flávio Bolsonaro 48,21% – margin of 4,430,191 votes",
-   "Abstention hit 19,22% of voters",
-   "Lula narrowed Flávio’s lead in SP, won in MG and expanded lead in the Northeast",
-   "In Rio, the candidate gained support in key neighbourhoods and turned the capital’s score",
-   "Local results in SC and PA confirm the win’s consolidation nationwide"
+   "Lula leads the Northeast, expanding his regional edge",
+   "In Minas Gerais, Lula won, flipping Flávio’s early lead",
+   "In São Paulo, Lula narrowed the gap but stayed behind in the capital",
+   "City maps show Lula’s support pattern in the South and Centre‑West",
+   "Local results in São Pedro de Alcântara (SC), Capitão Poço (PA) and Soure (PA) confirm the national trend"
   ],
-  "whats_next": "The Superior Electoral Court is expected to officially declare Lula president‑elect in the coming hours."
+  "whats_next": "Lula is sworn in on Jan 1 2027, while Flávio Bolsonaro weighs legal appeals."
  },
  "error": null
 }
