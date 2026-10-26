@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:56:38.638768-03:00",
+ "updated": "2026-10-26T05:58:37.152553-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, revertendo a vantagem de Flávio em São Paulo",
-  "why_it_matters": "A vitória garante a continuidade da agenda de governo e impede a virada à direita proposta por Flávio Bolsonaro.",
-  "big_picture": "Com 4,430,191 votos de diferença, Lula superou Flávio nas regiões decisivas – sobretudo na Grande São Paulo – e manteve vantagem no Sul, consolidando o resultado nacional.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro.",
+  "big_picture": "Com 100% das seções apuradas e abstenção de 19,22%, o resultado reflete um país ainda dividido, mas com margem suficiente para evitar disputa judicial prolongada.",
   "details": [
-   "Lula alcançou 51,79% dos votos válidos com 100% das seções apuradas, 48,21% para Flávio Bolsonaro",
-   "Na Grande São Paulo, Lula virou em Osasco, Cotia e mais cinco cidades, vencendo 21 dos 39 municípios da região",
-   "Cidades paulistas com voto casado Lula‑Tarcísio dobraram, passando de 33 para 66, ampliando a base de apoio ao candidato da esquerda",
-   "Nos municípios catarinenses de Xavantina e São Domingos, os resultados locais reforçaram a vantagem de Lula no Sul",
-   "A abstenção ficou em 19,22%, indicando alta participação eleitoral"
+   "Lula conquistou 21 dos 39 municípios da Grande São Paulo, incluindo viradas decisivas em Osasco, Cotia e mais cinco cidades",
+   "Em São Paulo, cidades com voto casado Lula‑Tarcísio dobraram, passando de 33 para 66, indicando aliança regional",
+   "Nos municípios de Xavantina (SC) e São Domingos (SC), os resultados locais reforçaram a tendência nacional a favor de Lula"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu terceiro mandato."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, overturning Flávio’s lead in São Paulo",
-  "why_it_matters": "The win secures the government’s agenda and blocks Flávio Bolsonaro’s right‑wing push.",
-  "big_picture": "With a 4,430,191‑vote margin, Lula beat Flávio in key areas – especially Greater São Paulo – and held the South, cementing the national outcome.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro’s conservative push.",
+  "big_picture": "With 100% of precincts counted and 19,22% abstention, the result shows a still‑split country but a margin wide enough to dodge a prolonged court fight.",
   "details": [
-   "Lula hit 51,79% of valid votes with 100% of precincts counted; Flávio Bolsonaro at 48,21%",
-   "In Greater São Paulo, Lula flipped Osasco, Cotia and five other cities, winning 21 of 39 municipalities",
-   "São Paulo towns with Lula‑Tarcísio joint tickets doubled, from 33 to 66, expanding the left candidate’s base",
-   "In Santa Catarina’s Xavantina and São Domingos, local results bolstered Lula’s Southern edge",
-   "Abstention was 19,22%, showing strong voter turnout"
+   "Lula took 21 of the 39 Greater São Paulo municipalities, including decisive flips in Osasco, Cotia and five other cities",
+   "In São Paulo, Lula‑Tarcísio joint‑vote towns doubled from 33 to 66, signalling a regional alliance",
+   "In Xavantina (SC) and São Domingos (SC), local results reinforced the national tilt toward Lula"
   ],
-  "whats_next": "Lula will be sworn in on Jan 1, 2027, kicking off his third term."
+  "whats_next": "Lula is sworn in on Jan 1 2027, kicking off his second term"
  },
  "error": null
 }
