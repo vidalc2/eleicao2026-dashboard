@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-26T06:18:45.834697-03:00",
+ "updated": "2026-10-26T06:20:44.546757-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "131ª zona eleitoral de Padre Bernardo (GO): votos por local de votação no 2º turno - G1",
-   "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/131a-zona-eleitoral-de-padre-bernardo-go-votos-por-local-de-votacao-no-2o-turno-1.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T09:02:17+00:00",
-   "desc": " 131ª zona eleitoral de Padre Bernardo (GO): votos por local de votação no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeTZNN2UwWVUxZzRScXB0WG1uUFo1Mzh0ZFZ4ZG0zdFc5TTljX1FzMUNpUGIxbE5sUXUySjRrUWd1Nkh3YWRib21RV0lSRTF5Y1g1RDlLM19wVl93LW16MzAtZHRoLTBpdjAxcTktcm1aU3NpcDZaRndPRkh4V0Z0bkdfR3dtbXZFcENXSF9pak41RndtcEw3WXlLbVJxWHVBdF9uYUNNVjhoTlhxbW84WUVLN0FqZmExbkhKN0MzS2tEcmRoQkpuYlY0MVN4RUpWTUREeUpoNFdXcDVHT3gwLWptLUrSAfMBQVVfeXFMTUdORlVZbTRoc2xpaXlhenZkazlpam9ZdWpXZVBIYUhMeDZYOUpMX3Q1Y1dwVU1pcHNWbHNrZVhFZlBfQ0wtTDFfSDUtMExnWXZDcG03WUx4VlM2N2J2OXNpczJ0Q1RoNlNQS3pBczF5MjR2TUNEN09uOGxLTTFwc2VHU2Vha1lESXNNUEtGRG05bDFPckdVak9sd3RxVzQxTXpQVG1ld3NOblNqNk43dElRaUQtTmpZdkh4S2NzQk42RGdSZXFfMDZEWVFuc0s2Q2pVbmk4Z3Qzb1VvbElXWW1HdGVOUkhqSkFwMGVGX0o3VHhn?oc=5"
-  },
   {
    "title": "Lula x Flávio: como o voto de cada região pesou no resultado da eleição - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/26/eleicao-lula-flavio-regioes.htm",
@@ -41,33 +33,37 @@
    "published": "2026-10-26T09:12:15+00:00",
    "desc": " Apuração do segundo turno na Bahia foi concluída pouco depois das 23h pelo TRE-BA; abstenção foi de 16,72%    Alô Alô Bahia ",
    "gnews": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRHN3WUFoTkxhLUU3NTRYSHRVcWtUMG9CMHFUMk5lN0lFaUZaY3JUd2RTbnd1U1djQmFqY2hyZjZyc0lHZFBMLUhQWlJIdVhsQUc4VWRpdEFvZkM0VEstZVUxaHpMN29ycmJnVGU5YVlnN2JwQUt4UXNvWUVLTDU0T0gzWXVyZDVhQTVPbFdoMDZiYTljbV9ib1Noalk4WlpETEpMNDBQSWxpRmZlT1hidS1keG5nOUpUNllhTHA4MHk4RXQtVWQxZ1lWZFIzVnNWbmduemFBOWNkOWpwN0hNR1lR?oc=5"
+  },
+  {
+   "title": "Itanagra: Lula é o mais votado no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127564/itanagra-lula-e-o-mais-votado-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T09:12:00+00:00",
+   "desc": " Itanagra: Lula é o mais votado no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEx3TS1OcHBVaHNjVWZFUklEM2ctVDhpNTVOdUM4Rmw0dnVHcTk1SHZiY2pEeWdrQWh5Nkp1ampBTERYa0JfaUVpZG83VFN5eld0SklZcmlDclpOR1NQeTIyQlBERzFBV205MkF5QTJlLXN2UlVJTW5XLTh2ZDJ0RTZjOUptYVV1WkVkQl9jSVJzMlo2U2JPOW55NmU?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence no 2º turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de governo de esquerda e define a direção política do país para os próximos quatro anos.",
-  "big_picture": "Com 100 % das seções apuradas e abstenção de 19,22%, a disputa foi acirrada, mas o resultado confirma a preferência nacional por Lula.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória de Lula, com margem de 4,43 milhões de votos, garante a continuidade da agenda de esquerda após quatro anos de governo de Jair Bolsonaro. O resultado também reflete a polarização regional que marcou a disputa.",
+  "big_picture": "Com 100% das seções apuradas, o pleito confirma a retomada do PT ao poder em um cenário de alta abstenção (19,22%) e de fortes contrastes entre municípios que apoiaram cada candidato.",
   "details": [
-   "Na 131ª zona eleitoral de Padre Bernardo (GO), a maioria dos votos foi para Lula, contribuindo para a margem nacional.",
-   "Rondonópolis (MT) escolheu Flávio Bolsonaro, evidenciando seu apoio no Centro‑Oeste.",
-   "Santa Rosa de Lima (MA) optou por Lula, reforçando a base no Nordeste.",
-   "Na Bahia, a apuração terminou pouco após 23h com abstenção de 16,72%, abaixo da média nacional de 19,22%.",
-   "A distribuição regional dos votos mostrou que o Nordeste permaneceu fortemente a favor de Lula, enquanto o Centro‑Oeste ofereceu resistência significativa a Flávio."
+   "Lula 51,79% x Flávio Bolsonaro 48,21% – diferença de 4.430.191 votos",
+   "Abstenção nacional chegou a 19,22%, indicando descontentamento ou cansaço do eleitorado",
+   "Rondonópolis (MT) votou em Flávio, enquanto Santa Rosa de Lima (MA) e Itanagra (MG) foram redutos de Lula; na Bahia a apuração terminou com 16,72% de abstenção"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro se prepara para liderar a oposição no Congresso."
+  "whats_next": "Lula iniciará a transição de governo e será empossado em 1º de janeiro de 2027."
  },
  "brief_en": {
-  "headline": "Lula wins 2nd round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "The win locks in a left‑leaning agenda and sets the country’s political direction for the next four years.",
-  "big_picture": "With 100% of precincts reported and turnout at 19.22%, the race was tight, but the result confirms a national preference for Lula.",
+  "headline": "Lula wins second round with 51,79% of valid votes",
+  "why_it_matters": "Lula’s win, a margin of 4.43 million votes, secures the left’s agenda after four years under Jair Bolsonaro. The result also underscores the regional polarization that defined the race.",
+  "big_picture": "With 100% of precincts counted, the vote marks the PT’s return to power amid high abstention (19.22%) and stark contrasts between municipalities backing each candidate.",
   "details": [
-   "In Padre Bernardo’s 131st voting zone (GO), Lula took the majority, adding to his national margin.",
-   "Rondonópolis (MT) went for Flávio Bolsonaro, showing his foothold in the Centre‑West.",
-   "Santa Rosa de Lima (MA) backed Lula, bolstering his Northeast base.",
-   "In Bahia, results were in shortly after 11 p.m. with turnout at 16.72%, below the national 19.22% average.",
-   "Regionally, the Northeast stayed solidly pro‑Lula, while the Centre‑West gave notable resistance to Flávio."
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% – margin of 4,430,191 votes",
+   "National abstention hit 19,22%, signalling voter discontent or fatigue",
+   "Rondonópolis (MT) voted for Flávio, while Santa Rosa de Lima (MA) and Itanagra (MG) were Lula strongholds; in Bahia the count closed with 16,72% abstention"
   ],
-  "whats_next": "Lula is sworn in on Jan. 1, 2027, while Flávio Bolsonaro gears up to lead the opposition in Parliament."
+  "whats_next": "Lula will begin the transition and be sworn in on Jan 1, 2027."
  },
  "error": null
 }
