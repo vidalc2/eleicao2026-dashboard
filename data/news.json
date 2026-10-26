@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:24:01.524985-03:00",
+ "updated": "2026-10-26T04:26:03.902766-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -35,35 +35,39 @@
    "gnews": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUV2R012YXppRHhyb0FteXQxM1VEY2ZUR0FKejJLM2Mxc2RxNGc5TmlwRG9CQWxFWFhZYVJPaHl6WEdNTkhMeUdScWZKMlhaZ0ExcmhtZU9QR05XR3RUSnBTbXlFbHVwN2JHVGxmbXZaMWtVUnNjYldWdU9aSS0xY28tVURwWTVyTm1QeFo3UmJ4cklwemFnZ2U1SW04VkNDNmNxWExDS1RIenBoUThPbU9Ebw?oc=5"
   },
   {
-   "title": "Barracão do Palmeiras, 21ª zona eleitoral: resultado da votação em Alenquer (PA) no 2º turno - G1",
-   "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/barracao-do-palmeiras-21a-zona-eleitoral-resultado-da-votacao-em-alenquer-pa-no-2o-turno.ghtml",
+   "title": "Eleições 2026 em Piracicaba: votos em Lula sobem 31% no 2º turno; Flávio tem alta de 8% - G1",
+   "link": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/noticia/2026/10/26/eleicoes-2026-em-piracicaba-votos-em-lula-sobem-31percent-no-2o-turno-flavio-tem-alta-de-8percent.ghtml",
    "source": "G1",
-   "published": "2026-10-26T06:55:51+00:00",
-   "desc": " Barracão do Palmeiras, 21ª zona eleitoral: resultado da votação em Alenquer (PA) no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ0Iwa0lTRFNkN3Zhc0hIeDNUbUNIR2pNTXVpQXliNkphRTl5R3ROLXkxUU9CUk9NeXlKa3dqWUoybEVxVEliVm52eHpNWm1MSzQxYlpCZnFMRmdVY0xBWHBobjVsOVBNM21vNWdjdEtkbVJ2TXVSQnUtWmdJRjZXNTFaWmtjb3FOZzJ3cExRYjcyc09TVUIzUXBOSll4dElQQ2ZxbGw4Nm1UejlmTnRFc01GRzFUY2IwOG5SaXg0bkhWMEFvYm1zVTNsS2VXY0lHVU0wZXJnbDJNQl9RZXowZ3hIQnBmTWZzS0dpZtIB-wFBVV95cUxPTTlReW9oZDJmNXlHdUxLaWhid2ZObFBseGZuOGtkaEhfZnlaSF9mc0x1SS1JQUowV29UTzA1TTNPZ09qZFowY0pibE9DY0hlVkxmeTczb2Izc2VrdlJTUzZkNmRwRDV4RzdQd0hLS3FoUk9NcTFnYVhxbUFvWkI2NnFiNlo0TmYxZDQ0NzRZZm5FSlNqX2xjOVR3S1E3NDFuRkxwM0lnTHF5WUpnNjV6bnMyZk5OalRZOXE4b3h6aDlxNmdMRU9WdmZoSndNQzh0NFc2ZGxEOFdSaHUwV1hMZmtPbHBVZjVXYXV4YmZlUlMwN2dLVlNRTXV0cw?oc=5"
+   "published": "2026-10-26T07:00:00+00:00",
+   "desc": " Eleições 2026 em Piracicaba: votos em Lula sobem 31% no 2º turno; Flávio tem alta de 8%    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd1ZrV0pkcWdJVGF2bWliQnUtWVFOeWNvR1luT1RNVHNQcHFCNDBCTXMwV09vV0JiX3loUkQ2X1g2YVB0MmlUMXdEb29tejhMNGZoQ3NnVlJLSk9SejEteUE2NGFXQllwQ1ZOeEtYdm5IV01TWFJPUDNrbFBsbkNXM1BydHByUDdmLWVGVFJRRzhyLU5Va2VaUGFVWjM4OV9GQzV6OUJpdmJ3NlhLS19ibUNGUkFHOTRFSHlQVThuZEJ3c1kxTDg2OG1YQnJZNHBDYkc0TlNmemdlcFRDdGlUWEJIeGctUjVhY0lGWEM2d0lsLWhFaVJ1ZmZqZ3NaVXhDa203bGZfSHkzQQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mi de votos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de um governo de direita liderado por Flávio Bolsonaro.",
-  "big_picture": "Com 100 % das seções apuradas e abstenção de 19,22%, o resultado confirma a tendência observada nas zonas eleitorais do Pará, onde Lula liderou em Capitão Poço, Primavera, Soure e Alenquer.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória garante a continuidade do PT no poder e define a agenda política para os próximos quatro anos.",
+  "big_picture": "Com 19,22% de abstenção, a eleição reflete polarização, mas o resultado confirma a maioria dos eleitores que participaram.",
   "details": [
-   "Resultados locais divulgados pelo G1 (Capitão Poço, Primavera, Soure e Alenquer) mostram Lula à frente em todas as zonas eleitorais do Pará",
-   "A ampliação do horário de votação, detalhada pela Poder360, assegurou que todas as seções fossem apuradas sem atrasos",
-   "A diferença de 4.430.191 votos reflete a margem suficiente para evitar recontagens ou impugnações massivas"
+   "Apuração completa: 100% das seções declaradas",
+   "Diferença de 4.430.191 votos entre Lula e Flávio",
+   "Abstenção em 19,22% indica que quase um quinto dos eleitores não compareceu",
+   "Em Piracicaba, Lula registrou alta de 31% e Flávio aumento de 8% no segundo turno",
+   "A ampliação do horário de votação foi adotada para ampliar a participação"
   ],
-  "whats_next": "Lula será empossado em 1 de janeiro de 2027, enquanto Flávio Bolsonaro prepara recurso judicial."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando a transição de governo."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mi votes",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks a right‑wing government under Flávio Bolsonaro.",
-  "big_picture": "With 100 % of precincts reported and 19,22% abstention, the result mirrors the pattern seen in Pará’s zones, where Lula led in Capitão Poço, Primavera, Soure and Alenquer.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win keeps PT in power and sets the policy agenda for the next four years.",
+  "big_picture": "With 19,22% abstention, the vote shows polarization, yet confirms the majority of voters who turned out.",
   "details": [
-   "Local results from G1 (Capitão Poço, Primavera, Soure and Alenquer) show Lula ahead in every Pará precinct.",
-   "The extended voting hours, detailed by Poder360, ensured all precincts were tallied on time.",
-   "A gap of 4.430.191 votes provides a comfortable cushion against recounts or mass challenges."
+   "Full count: 100% of precincts reported",
+   "Margin of 4.430.191 votes between Lula and Flávio",
+   "Abstention at 19,22% shows nearly one‑fifth of voters stayed home",
+   "In Piracicaba, Lula rose 31% and Flávio up 8% in the runoff",
+   "Extended voting hours were added to boost turnout"
   ],
-  "whats_next": "Lula will be inaugurated on Jan 1 2027, while Flávio Bolsonaro readies a court appeal."
+  "whats_next": "Lula will be sworn in on Jan 1, 2027, kicking off the transition."
  },
  "error": null
 }
