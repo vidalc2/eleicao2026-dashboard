@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:45:04.712355-03:00",
+ "updated": "2026-10-26T01:47:06.386666-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
-  "big_picture": "Com 100% das seções apuradas, o candidato do PT lidera por 4,43 milhões de votos, em meio a 19,22% de abstenção.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões de votos",
+  "why_it_matters": "A vitória assegura a continuidade do governo de esquerda e impede a agenda conservadora proposta por Flávio Bolsonaro.",
+  "big_picture": "Com 80,78% de comparecimento (abstenção de 19,22%), o pleito reforça a polarização política, mas demonstra que a maioria dos eleitores ainda prefere o incumbente.",
   "details": [
-   "Lula: 51,79% dos votos válidos; Flávio Bolsonaro: 48,21%.",
-   "Diferença de 4.430.191 votos a favor de Lula.",
-   "Abstenção totaliza 19,22% do eleitorado, indicando descontentamento ou cansaço.",
-   "Resultados finais de municípios como Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra, Ourinhos e Itapevi confirmam a tendência nacional."
+   "Lula recebeu 51,79% dos votos válidos; Flávio Bolsonaro, 48,21%",
+   "Diferença de 4.430.191 votos a favor de Lula",
+   "Apurações em cidades‑chave – Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra, Ourinhos e Itapevi – confirmam a tendência nacional",
+   "Abstenção ficou em 19,22%, indicando que quase um quinto dos eleitores não compareceu",
+   "100,0% das seções já foram apuradas, encerrando a contagem oficial"
   ],
-  "whats_next": "A posse de Lula está marcada para 1º de janeiro de 2027, enquanto Flávio Bolsonaro pode contestar o resultado nos tribunais."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos judiciais."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51.79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro from the Palácio do Planalto.",
-  "big_picture": "With 100% of precincts counted, the PT candidate leads by 4.43 million votes, amid a 19.22% abstention rate.",
+  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million votes",
+  "why_it_matters": "The win keeps the left‑leaning government in power and blocks the conservative agenda pushed by Flávio Bolsonaro.",
+  "big_picture": "With 80,78% turnout (19,22% abstention), the vote underscores political polarization but shows most voters still back the incumbent.",
   "details": [
-   "Lula: 51.79% of valid votes; Flávio Bolsonaro: 48.21%.",
-   "Lead of 4,430,191 votes for Lula.",
-   "Abstention totals 19.22% of the electorate, signalling discontent or fatigue.",
-   "Final tallies from Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra, Ourinhos and Itapevi confirm the national trend."
+   "Lula got 51,79% of valid votes; Flávio Bolsonaro, 48,21%",
+   "Margin of 4.430.191 votes for Lula",
+   "Counts in key cities – Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra, Ourinhos and Itapevi – match the national trend",
+   "Abstention was 19,22%, meaning almost one‑fifth of voters stayed home",
+   "100.0% of precincts have been tallied, ending the official count"
   ],
-  "whats_next": "Lula’s inauguration is set for Jan. 1, 2027, while Flávio Bolsonaro may challenge the result in court."
+  "whats_next": "Lula will be inaugurated on Jan 1, 2027, while Flávio Bolsonaro weighs legal challenges."
  },
  "error": null
 }
