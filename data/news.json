@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-26T01:20:41.376051-03:00",
+ "updated": "2026-10-26T01:22:19.021852-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "TSE informa que 1.551 urnas precisaram ser substituídas no segundo turno - CNN Brasil",
+   "link": "https://www.cnnbrasil.com.br/eleicoes/tse-informa-que-1-551-urnas-precisaram-ser-substituidas-no-segundo-turno/",
+   "source": "CNN Brasil",
+   "published": "2026-10-26T04:16:43+00:00",
+   "desc": " TSE informa que 1.551 urnas precisaram ser substituídas no segundo turno    CNN Brasil ",
+   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVWlwa21TZGM2eE1rQWVYM2xDSjA2QzJGTEFjQkRPbS1xNUdzbUlKUEp6WDQ2SjA0ejVHcFZzUm1OdkJhQ3BjS0VGZ1RLdl9BVFNfbVQ0b0ZKR0t2aE9Tc3c1aGlBZW1ucjJ1c1RmX3lUNWFfcDhpUUpzbUtCM2MtMHpVSElKbFZrYXg0WGFVZnNjcldENXFhUWZYZUxTbkY5cWgyYndFYk5jd1hUZWlpSQ?oc=5"
+  },
   {
    "title": "TSE desmente Flávio e diz que não retirou fiscais do PL da sala-cofre - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/26/tse-desmente-flavio-e-diz-que-nao-retirou-fiscais-do-pl-da-sala-cofre.ghtm",
@@ -33,39 +41,31 @@
    "published": "2026-10-26T03:51:11+00:00",
    "desc": " Lula tem 64 milhões de votos, e Flávio Bolsonaro, 59 milhões; compare com a votação deles no 1º turno    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDBDclExTmpEemdnaTFtMEFKems2cExxSDhHTlVBVURWRWJMVkVHUlpBbWhMSDJuMUdDQl9SWjVwbXpVSXZWZXJUQkR1Q3o0R3hJQXEyLVlXWVBFWEtFc1lZaXp0dkhuZGZNQlZxN2RuZ2FBVnI0blozSmxPNHVUNlBfMVRrc1JQWkNiQ1NKcEZ4bE5Cd010ZjhuU0pWeW9WR1drR1NBT0FjM09zMmgzT0VwY0g5d19zMFFSMGlrR2RneFlYaEZJ0gHWAUFVX3lxTE9lc0hUTG9fSnl2WG0xRWNlNGNrMDFjejlsM0VlRlFYMmF0emkxVlZUWDVzUG1sLXlzSjVhRzEtYkpMcEhWZ2VpUEdlUGRnRnRTZnJVZVF5ZEhIRjFRQ2FYd3B5Y2tLazh5UkdlV3RnYzR6VkFwX3VfZTR2UHl1SVA1RVdLY1lxNkQyanFMTFBMd1BsYzJiMUE2eVBhUVZrWDZPY1ZUSlFxZy1NMkxaMV82ZHBQVkNwWWpJRzNwS29QRTFrbW9PMF90SDRGVC1ZMWJ1Mi1vdHc?oc=5"
-  },
-  {
-   "title": "Lagoa Nova escolhe Lula para presidente no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/124595/lagoa-nova-escolhe-lula-para-presidente-no-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T04:11:35+00:00",
-   "desc": " Lagoa Nova escolhe Lula para presidente no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWDZMci1keXNiMVkwOGdIcFNLbE1ydi15MnRaTVZpMUJFYXgzYjRVTzAxMDE2R0taelRKNWt6TVJjeS1RdWtGeVJBRlM3S013M01Jd2pOR2F6ZGR4aEdPUXE1cWFTN3YyaDJyVExHWEoxbm5mVjJHcE9JUFNucGtqcnphdmxPaXN1TmtzbWM4R3c1S0drel9CTFRIWkg3U2FuMC1yZ0Z3SjJQZw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro.",
-  "big_picture": "Com 100% das seções apuradas, Lula lidera por 4,43 milhões de votos, enquanto 19,22% dos eleitores se abstiveram.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de um candidato de direita ao Palácio do Planalto.",
+  "big_picture": "Com 80,78% de comparecimento, a eleição mostra alta polarização, mas confirma que a maioria dos eleitores ainda apoia o projeto de governo de Lula.",
   "details": [
-   "Lula recebeu 64 milhões de votos contra 59 milhões de Flávio Bolsonaro, conforme dados do TSE.",
-   "O Tribunal Superior Eleitoral desmentiu alegações de retirada de fiscais do PL da 'sala‑cofre', reforçando a legitimidade do pleito.",
-   "Mapas estaduais mostram Lula à frente na maioria das unidades federativas, embora Flávio tenha mantido vantagem em regiões do sul e centro‑oeste.",
-   "Município de Lagoa Nova (RN) registrou apoio decisivo a Lula, refletindo tendência em áreas costeiras."
+   "Resultado definitivo: Lula 64 milhões de votos, Flávio Bolsonaro 59 milhões – diferença de 4,430,191 votos (51,79% x 48,21%).",
+   "1.551 urnas foram substituídas em todo o país; o TSE afirma que isso não alterou o resultado final.",
+   "O TSE desmentiu as alegações de Flávio Bolsonaro de que fiscais do PL foram retirados da ‘sala‑cofre’, confirmando a transparência do processo.",
+   "Mapa de resultados indica vitória de Lula nas regiões Norte, Nordeste e Centro‑Oeste, enquanto Flávio venceu em partes do Sul e Sudeste."
   ],
-  "whats_next": "Lula assumirá o cargo em 1º de janeiro de 2027, iniciando seu segundo mandato."
+  "whats_next": "A diplomação oficial de Lula ocorrerá na próxima semana, seguida da formação do novo governo."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro’s conservative push.",
-  "big_picture": "With all precincts counted, Lula leads by 4,43 million votes; 19,22% of voters stayed home.",
+  "headline": "Lula wins second round with 51.79% of valid votes, beating Flávio Bolsonaro by 4.43 million",
+  "why_it_matters": "The win secures the left‑leaning agenda and blocks a right‑wing candidate from the Planalto Palace.",
+  "big_picture": "With 80.78% turnout, the vote shows deep polarization but confirms most voters still back Lula’s government plan.",
   "details": [
-   "Lula got 64 million votes to Flávio Bolsonaro’s 59 million, per TSE.",
-   "The Superior Electoral Court debunked claims that poll‑watchers were removed from the ‘safe‑room’, bolstering the vote’s legitimacy.",
-   "State maps put Lula ahead in most federative units, though Flávio kept a edge in parts of the South and Centre‑West.",
-   "Lagoa Nova (RN) delivered decisive support for Lula, echoing a coastal trend."
+   "Final count: Lula 64 million votes, Flávio Bolsonaro 59 million – margin 4,430,191 votes (51.79% vs 48.21%).",
+   "1,551 ballot boxes were swapped nationwide; the TSE says it didn’t affect the outcome.",
+   "The TSE refuted Flávio Bolsonaro’s claim that PL poll watchers were removed from the ‘vault room’, confirming the process was transparent.",
+   "Result map shows Lula winning North, Northeast and Central‑West, while Flávio carried parts of the South and Southeast."
   ],
-  "whats_next": "Lula takes office on Jan 1, 2027, kicking off his second term."
+  "whats_next": "Lula’s official swearing‑in is set for next week, followed by the new cabinet formation."
  },
  "error": null
 }
