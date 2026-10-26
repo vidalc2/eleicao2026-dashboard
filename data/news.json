@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:54:10.905361-03:00",
+ "updated": "2026-10-26T00:56:16.592159-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,27 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade do governo PT por mais quatro anos e define a direção política e econômica do Brasil.",
-  "big_picture": "Com 100% das seções apuradas, Lula superou Flávio Bolsonaro por 4,430,191 votos, enquanto 19,22% dos eleitores se abstiveram.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão da direita ao Palácio do Planalto.",
+  "big_picture": "Com 100% das seções apuradas, a eleição foi a mais polarizada desde 2018, registrando 19,22% de abstenção.",
   "details": [
-   "Diferença de 4,430,191 votos entre os candidatos",
-   "Abstenção de 19,22% indica desgaste do eleitorado",
-   "Municípios como Tubarão, Viamão, São José, Santa Maria e Rio Grande refletiram a tendência nacional a favor de Lula"
+   "Resultado oficial: 100% das seções apuradas",
+   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos",
+   "Diferença de 4.430.191 votos a favor de Lula",
+   "Apurações em cidades como Tubarão (SC), Viamão (RS) e São José (SC) confirmam a tendência nacional"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027 para iniciar seu segundo mandato."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51.79% of valid votes",
-  "why_it_matters": "The win secures another four years for the PT government and sets Brazil’s political‑economic course.",
-  "big_picture": "With all precincts counted, Lula beat Flávio Bolsonaro by 4,430,191 votes, as 19.22% of voters stayed home.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win secures the left‑leaning agenda and blocks a right‑wing shift at the Planalto Palace.",
+  "big_picture": "With 100% of precincts counted, the election was the most polarized since 2018, with a 19,22% abstention rate.",
   "details": [
-   "Difference of 4,430,191 votes between the candidates",
-   "19.22% abstention signals voter fatigue",
-   "Towns like Tubarão, Viamão, São José, Santa Maria and Rio Grande mirrored the national Lula trend"
+   "Official result: 100% of precincts counted",
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes",
+   "Margin of 4.430.191 votes for Lula",
+   "Counts in Tubarão (SC), Viamão (RS) and São José (SC) echo the national trend"
   ],
-  "whats_next": "Lula will be sworn in on Jan. 1, 2027, kicking off his second term"
+  "whats_next": "Lula will be inaugurated on Jan. 1, 2027 to start his second term."
  },
  "error": null
 }
