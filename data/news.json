@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:36:04.761368-03:00",
+ "updated": "2026-10-26T04:38:04.966544-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,27 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e define a política econômica e externa do Brasil pelos próximos quatro anos.",
-  "big_picture": "Com 4,43 mi de votos de diferença e 19,22% de abstenção, o pleito evidencia profunda polarização, mas também a capacidade de mobilização do PT.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política externa e econômica do Brasil pelos próximos quatro anos.",
+  "big_picture": "Com 4,43 milhões de votos de diferença e 19,22% de abstenção, o resultado reflete um país ainda dividido, mas com maioria clara para o PT.",
   "details": [
-   "Resultado oficial: Lula 51,79% x Flávio Bolsonaro 48,21% nos votos válidos",
-   "Diferença de 4.430.191 votos a favor de Lula",
-   "Abstenção total de 19,22% dos eleitores",
-   "Resultados locais em Pará – Capitão Poço, Primavera, Soure – e em municípios como Campos Belos e Irauçuba confirmam a vitória nacional"
+   "Apuração completa: 100% das seções confirmam 51,79% a Lula e 48,21% a Flávio Bolsonaro.",
+   "Lula venceu em municípios estratégicos da região Norte e Nordeste, como Campos Belos (GO), Irauçuba (CE) e cidades do Pará (Capitão Poço, Primavera, Soure).",
+   "Abstenção permanece alta, quase um quinto dos eleitores, indicando cansaço ou descrença no processo."
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando a transição de governo."
  },
  "brief_en": {
   "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win secures a left‑leaning agenda and sets Brazil’s economic and foreign policy for the next four years.",
-  "big_picture": "A 4,43 mi‑vote gap and 19,22% abstention highlight deep polarization, yet also PT’s mobilisation strength.",
+  "why_it_matters": "The win secures a left‑leaning agenda and sets Brazil’s foreign and economic policy for the next four years.",
+  "big_picture": "A 4,43‑million vote margin and 19,22% abstention show a still‑split country, but a clear PT lead.",
   "details": [
-   "Official result: Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes",
-   "Margin of 4.430.191 votes in Lula’s favour",
-   "Overall abstention at 19,22% of voters",
-   "Local results in Pará – Capitão Poço, Primavera, Soure – and towns like Campos Belos and Irauçuba confirm the national win"
+   "Full count: 100% of precincts confirm 51,79% for Lula and 48,21% for Flávio Bolsonaro.",
+   "Lula carried key North and Northeast towns – Campos Belos (GO), Irauçuba (CE) and Pará cities like Capitão Poço, Primavera, Soure.",
+   "Abstention stays high, near one‑fifth of voters, hinting at fatigue or distrust."
   ],
-  "whats_next": "Lula will be inaugurated on 1º de janeiro de 2027, starting his second term."
+  "whats_next": "Lula is sworn in on Jan 1, 2027, kicking off the transition."
  },
  "error": null
 }
