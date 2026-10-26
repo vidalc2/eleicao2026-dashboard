@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:47:06.386666-03:00",
+ "updated": "2026-10-26T01:49:04.069836-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões de votos",
-  "why_it_matters": "A vitória assegura a continuidade do governo de esquerda e impede a agenda conservadora proposta por Flávio Bolsonaro.",
-  "big_picture": "Com 80,78% de comparecimento (abstenção de 19,22%), o pleito reforça a polarização política, mas demonstra que a maioria dos eleitores ainda prefere o incumbente.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade do governo PT e impede a ascensão de Flávio Bolsonaro, candidato de direita.",
+  "big_picture": "Com 100% das seções apuradas, a margem de 4,43 milhões de votos reflete a polarização, enquanto 19,22% dos eleitores se abstiveram.",
   "details": [
-   "Lula recebeu 51,79% dos votos válidos; Flávio Bolsonaro, 48,21%",
-   "Diferença de 4.430.191 votos a favor de Lula",
-   "Apurações em cidades‑chave – Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra, Ourinhos e Itapevi – confirmam a tendência nacional",
-   "Abstenção ficou em 19,22%, indicando que quase um quinto dos eleitores não compareceu",
-   "100,0% das seções já foram apuradas, encerrando a contagem oficial"
+   "Apuração completa confirma vitória de Lula em todo o país",
+   "Resultados locais – Valparaíso de Goiás (GO), Foz do Iguaçu (PR), Taboão da Serra (SP), Ourinhos (SP) e Itapevi (SP) – seguem a tendência nacional",
+   "Abstenção permanece alta, indicando desgaste do eleitorado"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos judiciais."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu terceiro mandato"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million votes",
-  "why_it_matters": "The win keeps the left‑leaning government in power and blocks the conservative agenda pushed by Flávio Bolsonaro.",
-  "big_picture": "With 80,78% turnout (19,22% abstention), the vote underscores political polarization but shows most voters still back the incumbent.",
+  "headline": "Lula wins second round with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the PT government in power and blocks right‑wing candidate Flávio Bolsonaro.",
+  "big_picture": "With every precinct counted, a 4,43 million‑vote margin shows the split, and 19,22% of voters stayed home.",
   "details": [
-   "Lula got 51,79% of valid votes; Flávio Bolsonaro, 48,21%",
-   "Margin of 4.430.191 votes for Lula",
-   "Counts in key cities – Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra, Ourinhos and Itapevi – match the national trend",
-   "Abstention was 19,22%, meaning almost one‑fifth of voters stayed home",
-   "100.0% of precincts have been tallied, ending the official count"
+   "Full count confirms Lula’s win nationwide",
+   "Local results – Valparaíso de Goiás (GO), Foz do Iguaçu (PR), Taboão da Serra (SP), Ourinhos (SP) and Itapevi (SP) – mirror the national trend",
+   "Abstention stays high, signalling voter fatigue"
   ],
-  "whats_next": "Lula will be inaugurated on Jan 1, 2027, while Flávio Bolsonaro weighs legal challenges."
+  "whats_next": "Lula will be sworn in on Jan 1, 2027, kicking off his third term"
  },
  "error": null
 }
