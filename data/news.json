@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:52:54.925520-03:00",
+ "updated": "2026-10-26T06:54:59.072336-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,27 +45,27 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e bloqueia a tentativa de retomada conservadora liderada por Flávio Bolsonaro.",
-  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete a virada decisiva em estados como Maranhão, Alagoas e Sergipe.",
+  "why_it_matters": "A vitória garante ao ex‑presidente um terceiro mandato, reforçando a agenda de esquerda e alterando o cenário político e econômico do país.",
+  "big_picture": "Com 100% das seções apuradas, Lula superou Flávio Bolsonaro por 4,43 milhões de votos, enquanto a abstenção ficou em 19,22%, indicando alta participação eleitoral.",
   "details": [
-   "TSE confirma ter imagens de fiscais do PL durante a apuração, reforçando a transparência do processo",
-   "Resultados de zonas eleitorais no Maranhão (74ª zona – Lago dos Rodrigues; 33ª zona – Imperatriz) mostram forte desempenho de Lula",
-   "Mapa da virada do G1 destaca os municípios onde Lula avançou e Flávio perdeu apoio entre o 1º e o 2º turno",
-   "Gararu (SE) registra escolha clara por Lula, simbolizando a tendência sul‑nordeste favorável ao candidato do PT"
+   "TSE divulgou imagens de fiscais do PL durante a apuração, confirmando a transparência do processo",
+   "Resultados de zonas eleitorais no Maranhão (Lago dos Rodrigues, Imperatriz) mostraram avanço de Lula nas urnas locais",
+   "Mapa da virada revelou os municípios onde Lula ganhou terreno e reduziu a votação de Flávio Bolsonaro entre os turnos",
+   "Gararu, no Sergipe, registrou maioria para Lula, simbolizando a consolidação da vitória em regiões-chave"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos judiciais para contestar o resultado."
+  "whats_next": "Lula iniciará a transição de governo e tomará posse em 1º de janeiro de 2027."
  },
  "brief_en": {
   "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and thwarts a conservative comeback led by Flávio Bolsonaro.",
-  "big_picture": "A 4,430,191‑vote margin and 19,22% abstention show a decisive swing in Maranhão, Alagoas and Sergipe.",
+  "why_it_matters": "The win gives the former president a third term, bolstering the left agenda and reshaping the country’s political‑economic landscape.",
+  "big_picture": "With 100% of precincts counted, Lula edged Flávio Bolsonaro by 4,43 million votes, while abstention sat at 19,22%, signaling high turnout.",
   "details": [
-   "TSE confirms it has footage of PL poll watchers during the count, bolstering process transparency.",
-   "Maranhão precinct results (Zone 74 – Lago dos Rodrigues; Zone 33 – Imperatriz) show strong Lula performance.",
-   "G1’s swing map flags towns where Lula gained and Flávio lost ground between the 1st and 2nd rounds.",
-   "Gararu (SE) votes clearly for Lula, echoing the south‑northeast tilt toward the PT candidate."
+   "TSE released footage of PL poll watchers during the count, underscoring process transparency.",
+   "Results from Maranhão precincts (Lago dos Rodrigues, Imperatriz) showed Lula gaining ground locally.",
+   "The swing map highlighted municipalities where Lula made gains and cut Flávio Bolsonaro’s vote share between rounds.",
+   "Gararu, Sergipe, posted a Lula majority, cementing the win in key regions."
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, while Flávio Bolsonaro eyes court appeals to challenge the outcome."
+  "whats_next": "Lula will start the transition and be sworn in on Jan 1, 2027."
  },
  "error": null
 }
