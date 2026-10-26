@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-26T02:25:24.103454-03:00",
+ "updated": "2026-10-26T02:27:20.639264-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "Lula venceu nas duas cidades em que empatou com Flávio no 1º turno - G1",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-venceu-nas-duas-cidades-em-que-empatou-com-flavio-no-1o-turno.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T04:53:13+00:00",
-   "desc": " Lula venceu nas duas cidades em que empatou com Flávio no 1º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU3g3LTMzdXRGM1FCSVNNYllDblA4UnlWb1dodW9nLVJrd2JJVVd2MGFjRHhOTkdBNUNlYkVJZUVZZWNBVmpoNlZ6dkUzLVhYZU05Z1BDZDdNdVVOZTBxRVQ3d3diNExzOC01ZEYwX1B3X2R1NldXeDc5aktOVlpBdjQtaDhpWmxudFBNR2dXc1NQbFl5WVJaY1ZmanJyckZzOXJjVzI2RU4wMXFNMklUblN4a2dXVkxDTWJyNWxNazNBb1Y4c0h0ZnN0ek1mSU1T0gHfAUFVX3lxTFByR1didFdYOGIyUExVVk1TMTJpRDRudkQ2aTRiZHA5aUxYaWtJdVF2TXZDUDVqdENwN2I2dXlVLV9oWHFJS21EemJXdzZ4ZDgyYXZnQUZISjgwVGJHb3VGUm4xbDc4Rzl0dTVabzRoYURDNG1nMUt3WGtjOVFLeXFYUkJTSm51ZEM0Z0dLRllIMlJrbXpveEN1TWxLdVRKbVVRQ29MU09LMkVGTXlTSWVHOHp1OTJkTjgxbzR4TVRIV1BrbjVqZUc3OGdvWlVkOWl4S0NmNW50a3V6V2hKTkk?oc=5"
-  },
   {
    "title": "Flávio diz que vai pedir a anulação da eleição presidencial: 'Sacanagem' - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/flavio-bolsonaro-discurso-eleicao-presidente-presidenciais.ghtm",
@@ -41,33 +33,39 @@
    "published": "2026-10-26T05:14:36+00:00",
    "desc": " Guará escolhe Flávio Bolsonaro para presidente no segundo turno    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWVaeDR3MXZ1OGUyUjdsY0JPSDh6Qlp0MVRmbUxEdUFwWE5VSktiUzdpNE5CX3FfQUdrSzJlTjZ2THBxM1FCaWxFU3piQTRsVXY5WndLaHM1VmJrTnZmdGhPT1lwZTRscldoQ1NsRkRuMUFhSm43ZlZ1NHI2RmJXVUgtWHRzOTQ1Q0lNSC11amg2NlhqQTdUNUpZYW1VWlF0dVlMZHpmRmhxdFF5UlVwUTBjYw?oc=5"
+  },
+  {
+   "title": "Flávio Bolsonaro ganha em Campo Alegre; veja como a cidade votou - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/125154/flavio-bolsonaro-ganha-em-campo-alegre-veja-como-a-cidade-votou",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T05:10:38+00:00",
+   "desc": " Flávio Bolsonaro ganha em Campo Alegre; veja como a cidade votou    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjVYQlZsalhzc0VZNktCazJHSjdycjZQUTc3UUZycXlhcFIzVjNzSFZVdDdEenlVNWx1V0FEeUxYcEM3LTlHekpvbVc5QUdBN2cwLXRhSUVsT29TdmRMeW5KUzdBaEwtNHNzWU4wWEhHeWtiNzV0OTdOVktkSUJPanBDZlBYVGhaWDV4UUItM3JRN1ZObXQyMktGdlZmQ1pwU3NqcFVMaVF3S3I3OXpYX3FhQQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória de Lula, com margem de 4,430,191 votos, assegura a continuidade do governo, mas a reação de Flávio Bolsonaro indica risco de contestações judiciais.",
-  "big_picture": "O resultado evidencia divisão regional – municípios como Vale do Sol e Guará ainda apoiam Flávio – e uma abstenção de 19,22% que demonstra cansaço eleitoral.",
+  "headline": "Lula vence segundo turno com 51,79% e Flávio Bolsonaro promete anular eleição",
+  "why_it_matters": "A vitória garante a continuidade da agenda de governo, mas a contestação de Flávio pode gerar instabilidade institucional e protestos nas ruas.",
+  "big_picture": "Lula superou Flávio em 4,43 mi de votos, porém 19,22% dos eleitores se abstiveram, evidenciando a profunda divisão política no país.",
   "details": [
-   "Lula reconquistou as duas cidades onde havia empatado com Flávio no 1º turno, reforçando sua vantagem nacional",
-   "Flávio Bolsonaro anunciou que vai pedir a anulação da eleição, chamando‑a de \"sacanagem\"",
-   "A demora do ministro Kassio e a decisão do presidente Zanin geraram críticas e provocaram reunião de emergência no TSE",
-   "Flávio Bolsonaro foi o candidato mais votado no município de Vale do Sol no segundo turno",
-   "Guará também escolheu Flávio Bolsonaro, mostrando resistência local ao candidato do PT"
+   "Resultado oficial: 100% das seções apuradas – Lula 51,79% x Flávio 48,21% dos votos válidos; diferença de 4.430.191 votos",
+   "Flávio Bolsonaro anunciou que vai pedir a anulação da eleição, chamando o processo de ‘sacanagem’",
+   "O TSE realizou reunião de emergência após críticas à demora de Kassio e à decisão de Zanin nos tribunais",
+   "Flávio ainda liderou em municípios-chave: Vale do Sol, Guará e Campo Alegre, mostrando força regional apesar da derrota nacional"
   ],
-  "whats_next": "Flávio deve entrar com ação no TSE enquanto o tribunal avalia os pedidos e o governo de transição se prepara para assumir."
+  "whats_next": "O TSE analisará o pedido de anulação e deve emitir decisão nos próximos dias."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes",
-  "why_it_matters": "Lula’s win by a margin of 4,430,191 votes keeps the administration on track, but Flávio Bolsonaro’s reaction hints at possible legal challenges.",
-  "big_picture": "The tally shows a regional split – towns like Vale do Sol and Guará still backed Flávio – and a 19,22% abstention rate that signals voter fatigue.",
+  "headline": "Lula wins second round with 51,79% and Flávio Bolsonaro vows to nullify election",
+  "why_it_matters": "The win secures the government agenda, but Flávio’s challenge could spark institutional instability and street protests.",
+  "big_picture": "Lula beat Flávio by 4,43 mi votes, yet 19,22% of voters stayed home, highlighting deep political division.",
   "details": [
-   "Lula reclaimed the two cities where he’d tied with Flávio in the first round, widening his national lead",
-   "Flávio Bolsonaro said he’ll seek to void the election, calling it \"sacanagem\"",
-   "Minister Kassio’s delay and President Zanin’s ruling drew criticism and triggered an emergency TSE meeting",
-   "Flávio Bolsonaro was the top vote‑getter in Vale do Sol in the runoff",
-   "Guará also went for Flávio Bolsonaro, showing local resistance to the PT candidate"
+   "Official count: 100% of precincts reported – Lula 51,79% vs Flávio 48,21% of valid votes; margin of 4.430.191 votes",
+   "Flávio Bolsonaro says he’ll seek to nullify the election, calling the process a ‘scam’",
+   "TSE held an emergency meeting after criticism of Kassio’s delay and Zanin’s court decision",
+   "Flávio still led in key towns – Vale do Sol, Guará and Campo Alegre – showing regional strength despite the national loss"
   ],
-  "whats_next": "Flávio is expected to file a suit with the TSE as the court reviews the challenges and the transition team readies for power."
+  "whats_next": "The TSE will review the nullification request and should rule in the coming days."
  },
  "error": null
 }
