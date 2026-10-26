@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:23:41.485342-03:00",
+ "updated": "2026-10-25T23:25:40.335813-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -9,14 +9,6 @@
    "published": "2026-10-26T02:13:36+00:00",
    "desc": " Eleições 2026: quem ganhou em São Mateus (ES) no 2º turno    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWxRWlhxc01peEVzSHBKU21WTW5CenRLMGdtSUlybnR2LW9XQVU3MGozRV8wdkN5S0lLM0xzTWdtOUI3OHRraURhVjBsdU1acjlGbUpMMXBzNTFCOVFPSlBhdkQzTWFINU9EdEctcWhWTXNNbzdJSVdHR3Q2T3k5eVVyY0dwQ200WTM1RkQ5dzhseDItaFNJNk5WamVFZGU5ZUszdUxDWi1fVFpUNHFEajBmZk96WV82ZTd5V1haZHdUVjg50gHTAUFVX3lxTFByMWhWUVd1WXF5ck5RNllnMGc3UjEwOUdiTTVvdTc5cjVGdkJob3FTR1ZiNVVlLUVYdkhidHJYWl9STEZfVmh4NjdUdE5LbGIwTnVIczVWeFlTb0FCTDkzUXFkYWs1SnM4cXIxT1liX2h6Y0hwQm5HMnR4Ulc0WDhPWUZTSTk3RW9IWFJJT3IwekNxVVBBUVE4NjVfdTRZLVR4MVlBM3BRR094WWlIb0Rtb1NLZUUwaHk5RVFvcVluMEhtOUM1OEZJdmRXU3BtWkprYUk?oc=5"
-  },
-  {
-   "title": "Eleições em Santana (AP): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-santana-ap-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T02:12:06+00:00",
-   "desc": " Eleições em Santana (AP): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUmlzVThNaGJnenBuWnNlUGdvTzBfVG1hUWxoZXRmN3FZdkNJODZMTFFzT3hub0VSai1vUkRQa3FWdnF0U2tfUGhLTkJzeDhFbWJ3VVdjRzlpeG1wdWRaUkFEbkNCdmFUbU1ZNkZWQ3pUamNCZnF5YVZLUDBGTnhfcWx6VEVralVEMWJOWklieC1kUVFlSzBUNk9lVXRmMFVGLXdiRmhwekhvVHlUTjFyYUV5d280WW9CTDNtREVTRdIBzgFBVV95cUxQQ0pQNlZRUlpOY2ozTTJVZVNnZFZHcEZlTDNRdlJyaVlCUTJzNS1FcTM5OW1pWUpVcVNHZ3M3UHhER244Y3g1MnNDc3pkWnFVS3ZxcnJfMGZnQzZ0TFVNNFFYTzV0SFItbUNGenRNdS02aTdnZ01CQ0VLeUY2OHhDTmszcVZONDUtSmNxa2U0U2FaWnBJTDNZQlZpbFY5NGMtSDJId0sxckFKdko1S1ctNDhFSW82QVYtMU5GR1prLTlTdm5SYlI3MWhEYVlSUQ?oc=5"
   },
   {
    "title": "Eleições 2026: quem ganhou em Manaus (AM) no 2º turno - O GLOBO",
@@ -41,29 +33,41 @@
    "published": "2026-10-26T02:08:25+00:00",
    "desc": " STF atropela TSE e prorroga eleição em 2h    Poder360 ",
    "gnews": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG1PWDlkQWwtZkpPMnI3UDlaWS1xUDlkeUZ1c1ZVNnV6bGJtTE5DaGxFcWpvUTRmVnEzak5lQkd4Zk9Ycnk3NEVDblBwelRIQTY2TVA4czRJRTBTRDdLTmhFLWZNbnRsU2pWMHo4ZFFVNTFGV0dTeVVqX084bUVuNkYwSzBZaUQtQnhZRkdEVWQ1RW9XeUE?oc=5"
+  },
+  {
+   "title": "Veja mapa das cidades onde Lula e onde Flávio ganharam mais votos - Folha de S.Paulo",
+   "link": "https://www1.folha.uol.com.br/esporte/2026/10/veja-mapa-das-cidades-onde-lula-e-onde-flavio-ganharam-mais-votos.shtml",
+   "source": "Folha de S.Paulo",
+   "published": "2026-10-26T02:08:00+00:00",
+   "desc": " Veja mapa das cidades onde Lula e onde Flávio ganharam mais votos    Folha de S.Paulo ",
+   "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUC1TQ0tSWi1NT1R5LVRfVVYtTDZuejR4c09uUGluSzduWGthb094S0tLajZSeXVZZUJGMDNEbkozcGJ5cUxFSHU1RHRTVkd6dEh0ejk1WXNqaTVoMHU3ejFpYTlZUThlaXM0TFJ0Z2loTWRWNDR4Y3JLcEVod3VOQVh3Mmc4RV9SQTFtOTlQQmp5aXRuQTJtZEZkQnM1cTJzRGFjV1VXeTQ3SlF3b1V5SEJiMmQ0Wld1?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
-  "big_picture": "Com 100% das seções apuradas, o candidato do PT supera Flávio Bolsonaro por 4,43 milhões de votos, enquanto 19,22% dos eleitores se abstiveram.",
+  "headline": "Lula vence no 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória de Lula garante a continuidade do governo e define a agenda política para os próximos quatro anos.",
+  "big_picture": "Com 100% das seções apuradas, o candidato do PT lidera por 4,43 milhões de votos, apesar de 19,22% de eleitores terem se abstido.",
   "details": [
-   "Lula venceu em municípios estratégicos: São Mateus (ES), Santana (AP), Manaus (AM) e Palmas (TO).",
-   "A diferença de 4,430,191 votos confirma a margem confortável apesar da alta abstenção.",
-   "O STF ampliou o prazo de apuração em 2 horas, mas não alterou o resultado final."
+   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos",
+   "Ganhos decisivos em São Mateus (ES), Manaus (AM) e Palmas (TO) consolidam a vitória",
+   "Mapa da Folha mostra concentração de apoio a Lula no Nordeste e Norte, enquanto Flávio domina no Sul e Sudeste",
+   "STF prorrogou o prazo de apuração em 2 horas, mas o TSE já havia concluído a contagem",
+   "Abstenção de quase um quinto dos eleitores indica cansaço ou descrença no processo"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
+  "whats_next": "A posse de Lula está marcada para 1º de janeiro de 2027, enquanto o STF deve analisar eventuais recursos de Flávio Bolsonaro."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro from the Planalto Palace.",
-  "big_picture": "With 100% of precincts counted, the PT candidate beats Flávio Bolsonaro by 4.43 million votes, as 19.22% of voters stayed home.",
+  "headline": "Lula wins 2nd round with 51,79% of valid votes",
+  "why_it_matters": "Lula’s win secures the government’s continuity and sets the political agenda for the next four years.",
+  "big_picture": "With 100% of precincts counted, the PT candidate leads by 4.43 million votes, even as 19.22% of voters stayed home.",
   "details": [
-   "Lula won in key towns: São Mateus (ES), Santana (AP), Manaus (AM) and Palmas (TO).",
-   "A 4,430,191‑vote gap confirms a comfortable margin despite high abstention.",
-   "The STF added 2 hours to the count window, but the outcome stayed the same."
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes",
+   "Key gains in São Mateus (ES), Manaus (AM) and Palmas (TO) clinch the win",
+   "Folha map shows Lula strong in the Northeast and North, while Flávio leads in the South and Southeast",
+   "STF extended the counting deadline by 2 hours, though TSE had already finished tallying",
+   "Almost one‑fifth abstention hints at voter fatigue or distrust"
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, kicking off his second term."
+  "whats_next": "Lula’s inauguration is set for Jan 1, 2027, and the STF will review any appeals from Flávio Bolsonaro."
  },
  "error": null
 }
