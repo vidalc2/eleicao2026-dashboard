@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:58:12.546611-03:00",
+ "updated": "2026-10-26T08:59:58.778282-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,27 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence Flávio Bolsonaro no 2º turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e coloca Lula diante da tarefa de montar um governo de coalição com a Frente Ampla.",
-  "big_picture": "Com 4,43 milhões de votos de diferença e 19,22% de abstenção, a eleição demonstra a profunda polarização do país, mas confirma que a maioria ainda prefere o PT ao candidato da direita.",
+  "why_it_matters": "A vitória assegura a continuidade da agenda da esquerda e determina quem comandará o país nos próximos quatro anos.",
+  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado mostra um Brasil ainda polarizado, mas com maioria clara para a coalizão da Frente Ampla.",
   "details": [
-   "Apuração final do TSE (100% das seções) registra Lula 51,79% x Flávio Bolsonaro 48,21%, diferença de 4.430.191 votos",
-   "Mapa de resultados mostra Lula liderando em maioria das zonas eleitorais, enquanto Flávio venceu em áreas específicas, como Lagoa do Sítio (PI)",
-   "Lula precisará governar com partidos da Frente Ampla para garantir maioria no Congresso, conforme análise de especialistas",
-   "Abstenção chegou a 19,22%, sinalizando desgaste e cansaço do eleitorado após quatro anos de governo"
+   "Resultado oficial do TSE com 100% das seções apuradas: Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos",
+   "Mapa de votação indica que Lula venceu em Norte, Nordeste e Centro‑Oeste, enquanto Flávio conquistou boa parte do Sul e Sudeste",
+   "Lula, em discurso de vitória, enfatizou a necessidade de governar com partidos da Frente Ampla para garantir estabilidade"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027 e iniciará a formação de seu gabinete e alianças parlamentares."
+  "whats_next": "Lula tomará posse em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia possíveis recursos judiciais."
  },
  "brief_en": {
   "headline": "Lula beats Flávio Bolsonaro in 2nd round with 51,79% of valid votes",
-  "why_it_matters": "The win secures the left’s agenda and forces Lula to cobble together a coalition government with the Broad Front.",
-  "big_picture": "With a 4,43‑million‑vote margin and 19,22% abstention, the vote shows deep national polarization but confirms most still favor the PT over the right‑wing candidate.",
+  "why_it_matters": "The win locks in a left‑leaning agenda and decides who will steer the country for the next four years.",
+  "big_picture": "A 4,430,191‑vote margin and 19,22% abstention show Brazil still split, but the Broad Front coalition has a clear edge.",
   "details": [
-   "Final TSE count (100% of precincts) shows Lula 51,79% vs Flávio Bolsonaro 48,21%, a 4.430.191‑vote margin",
-   "Result map shows Lula leading in most districts, while Flávio won pockets like Lagoa do Sítio (PI)",
-   "Experts say Lula must partner with Broad Front parties to secure a congressional majority",
-   "Abstention hit 19,22%, signaling voter fatigue after four years in power"
+   "Official TSE count, 100% of precincts: Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes",
+   "Vote map: Lula carried the North, Northeast and Central‑West; Flávio held most of the South and Southeast",
+   "In his victory speech, Lula stressed the need to govern with Broad Front parties for stability"
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027 and will start building his cabinet and parliamentary alliances."
+  "whats_next": "Lula is sworn in on Jan. 1, 2027, while Flávio Bolsonaro weighs legal challenges."
  },
  "error": null
 }
