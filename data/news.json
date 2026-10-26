@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:25:39.536574-03:00",
+ "updated": "2026-10-26T03:27:40.872464-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória assegura a continuidade do governo e impede a ascensão de Flávio Bolsonaro, que ficou com 48,21% dos votos.",
-  "big_picture": "Com 100% das seções apuradas, a margem de 4.430.191 votos reflete maior participação, queda nos brancos e nulos e viradas em mais de 200 cidades.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de eleitores",
+  "why_it_matters": "A vitória garante a volta de Luiz Inácio Lula da Silva à Presidência, assegurando a continuidade das políticas de esquerda e a estabilidade institucional após um pleito polarizado.",
+  "big_picture": "Com 100 % das seções apuradas, a eleição mostrou alta participação (abstenção 19,22%), menos votos brancos e nulos e viradas em mais de 200 municípios, fatores decisivos para o resultado histórico.",
   "details": [
-   "71ª zona eleitoral (Presidente Castelo Branco, PR) confirmou a maioria para Lula",
-   "107ª zona eleitoral (Capanema, PR) também registrou vitória de Lula",
-   "Três Coroas (RS) e Arapongas (PR) seguiram a tendência de apoio ao candidato da esquerda",
-   "Mais eleitores nas urnas e menos votos brancos/nulos foram decisivos para a vitória"
+   "Lula 51,79% x Flávio Bolsonaro 48,21% – diferença de 4.430.191 votos",
+   "Abstenção ficou em 19,22%, indicando engajamento massivo dos eleitores",
+   "Resultados locais – como nas zonas de Presidente Castelo Branco (PR), Capanema (PR) e Três Coroas (RS) – confirmaram a tendência de virada em cidades-chave",
+   "A combinação de mais eleitores nas urnas, queda nos votos brancos/nulos e viradas em mais de 200 cidades foi decisiva para a vitória de Lula"
   ],
-  "whats_next": "Lula tomará posse em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos judiciais."
+  "whats_next": "Lula tomará posse em 1 de janeiro de 2027, enquanto Flávio Bolsonaro prepara recursos judiciais contra o resultado."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the administration in place and blocks Flávio Bolsonaro, who got 48,21% of the vote.",
-  "big_picture": "With 100% of precincts counted, a margin of 4.430.191 votes shows higher turnout, fewer blanks/nulls and flips in over 200 cities.",
+  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 mi voters",
+  "why_it_matters": "The win puts Luiz Inácio Lula da Silva back in the Oval Office, keeping left‑leaning policies and institutional stability after a polarised race.",
+  "big_picture": "With 100 % of precincts counted, turnout was high (abstention 19,22%), fewer blank/null votes and flips in over 200 municipalities drove the historic result.",
   "details": [
-   "71st precinct (Presidente Castelo Branco, PR) confirmed a Lula majority",
-   "107th precinct (Capanema, PR) also recorded a Lula win",
-   "Três Coroas (RS) and Arapongas (PR) followed the left‑candidate trend",
-   "More voters and fewer blank/null votes were decisive"
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% – margin of 4.430.191 votes",
+   "Abstention at 19,22%, showing massive voter engagement",
+   "Local results – like in Presidente Castelo Branco (PR), Capanema (PR) and Três Coroas (RS) – confirmed the swing in key towns",
+   "More voters at the polls, a drop in blank/null votes and flips in 200+ cities sealed Lula’s win"
   ],
-  "whats_next": "Lula is sworn in on January 1, 2027, while Flávio Bolsonaro weighs legal appeals."
+  "whats_next": "Lula is sworn in on January 1, 2027, while Flávio Bolsonaro readies legal challenges to the outcome."
  },
  "error": null
 }
