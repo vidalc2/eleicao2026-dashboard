@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:49:06.529838-03:00",
+ "updated": "2026-10-25T21:51:07.214351-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,78% dos votos válidos, mas perde em DF, Maceió e BH",
-  "why_it_matters": "A vitória garante a continuidade do governo PT e evita uma guinada à direita nas principais capitais, mantendo a agenda de políticas sociais e econômicas.",
-  "big_picture": "Com 99,9% das seções apuradas, a margem de 4,4 milhões de votos reflete um Brasil ainda polarizado, porém com abstenção em queda para 19,21%.",
+  "headline": "Lula mantém liderança nacional com 51,78% enquanto Bolsonaro vence em DF, Maceió e BH",
+  "why_it_matters": "A vitória de Lula garante a continuidade do governo de esquerda, mas os ganhos regionais de Bolsonaro sinalizam forte polarização e possíveis desafios nas políticas públicas.",
+  "big_picture": "Com 99,9% das seções apuradas, a margem de 4.411.475 votos confirma a vitória de Lula, embora a abstenção tenha caído para 19,21% no segundo turno, indicando maior engajamento dos eleitores.",
   "details": [
-   "Lula 51,78% x Flávio Bolsonaro 48,22% – diferença de 4.409.018 votos.",
-   "Abstenção recuou para 19,21%, a menor taxa entre os dois turnos.",
-   "Flávio venceu Lula no Distrito Federal, em Maceió (52,01%) e em Belo Horizonte, mas não conseguiu reverter a tendência nacional.",
-   "No Paraná, o padrão de voto se manteve próximo ao do primeiro turno, reforçando a vitória de Lula no Sul."
+   "Lula lidera nacionalmente com 51,78% dos votos válidos contra 48,22% de Flávio Bolsonaro, diferença de 4,411,475 votos.",
+   "Bolsonaro venceu no Distrito Federal, em Maceió (52,01% a 47,99%) e em Belo Horizonte, mas sua vantagem caiu no DF no segundo turno.",
+   "A abstenção recuou em relação ao primeiro turno, chegando a 19,21%, refletindo maior mobilização do eleitorado para o pleito decisivo."
   ],
-  "whats_next": "O TSE deve proclamar oficialmente o resultado nas próximas horas e iniciar a transição para o novo mandato."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Bolsonaro avalia recursos judiciais nas regiões onde obteve vitória."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,78% of valid votes, but loses in DF, Maceió and BH",
-  "why_it_matters": "The win keeps the PT government in power and blocks a right‑ward shift in major cities, preserving the social‑economic agenda.",
-  "big_picture": "With 99,9% of precincts counted, a 4,4‑million‑vote margin shows Brazil still split, but abstention fell to 19,21%.",
+  "headline": "Lula maintains national lead with 51,78% while Bolsonaro wins in DF, Maceió and BH",
+  "why_it_matters": "Lula’s win keeps the left‑wing government in power, but Bolsonaro’s regional gains signal deep polarization and potential policy challenges.",
+  "big_picture": "With 99,9% of precincts counted, a margin of 4.411.475 votes cements Lula’s win, while turnout rose as abstention fell to 19,21% in the runoff, showing higher voter engagement.",
   "details": [
-   "Lula 51,78% vs Flávio Bolsonaro 48,22% – margin of 4.409.018 votes.",
-   "Abstention slipped to 19,21%, the lowest rate of the two rounds.",
-   "Flávio beat Lula in the Distrito Federal, Maceió (52,01%) and Belo Horizonte, but couldn’t flip the national trend.",
-   "In Paraná, voting patterns stayed close to round 1, reinforcing Lula’s win in the South."
+   "Lula leads nationally with 51,78% of valid votes versus 48,22% for Flávio Bolsonaro, a gap of 4,411,475 votes.",
+   "Bolsonaro won in the Federal District, in Maceió (52,01% to 47,99%) and in Belo Horizonte, though his margin slipped in the DF runoff.",
+   "Abstention dropped from the first round to 19,21%, reflecting stronger voter mobilisation for the decisive vote."
   ],
-  "whats_next": "The TSE will certify the result in the next few hours and kick off the transition."
+  "whats_next": "Lula will be inaugurated on Jan 1, 2027, while Bolsonaro weighs legal appeals in the areas he won."
  },
  "error": null
 }
