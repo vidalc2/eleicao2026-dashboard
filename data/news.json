@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:45:47.382101-03:00",
+ "updated": "2026-10-25T23:47:49.183030-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% e Flávio anuncia contestação",
-  "why_it_matters": "A vitória determina a agenda política nacional pelos próximos quatro anos, enquanto a recusa de Flávio pode gerar turbulência institucional.",
-  "big_picture": "Com 100% das seções apuradas, Lula lidera por 4,430,191 votos, mas 19,22% dos eleitores se abstiveram, evidenciando a profunda polarização do país.",
+  "headline": "Lula confirma vitória no 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede que Flávio Bolsonaro assuma a presidência.",
+  "big_picture": "Com 100% das seções apuradas, Lula lidera por 4,430,191 votos, apesar de 19,22% de abstenção, mostrando preferência nacional clara.",
   "details": [
-   "Resultado nacional: Lula 51,79% vs Flávio 48,21%, diferença de 4,430,191 votos",
-   "Flávio Bolsonaro declara que não aceita o resultado e pretende solicitar anulação do pleito",
-   "Lula consolida vitórias regionais decisivas: 68,93% no Ceará e 71,31% na Bahia",
-   "Apurações concluídas em Rio Claro (SP) e Presidente Prudente (SP) confirmam a tendência nacional"
+   "Flávio Bolsonaro anunciou que não aceita o resultado e pretende buscar anulação judicial",
+   "Lula venceu com 51,79% dos votos válidos, superando Flávio por 4,430,191 votos",
+   "Nas regiões do Nordeste, Lula alcançou 68,93% no Ceará e 71,31% na Bahia, ampliando a vantagem no segundo turno"
   ],
-  "whats_next": "Os tribunais eleitorais analisarão o pedido de anulação de Flávio nas próximas semanas"
+  "whats_next": "Flávio deve entrar com pedido de nulidade nos tribunais enquanto o TSE prepara a diplomação de Lula"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% and Flávio says he'll contest",
-  "why_it_matters": "The win sets the national policy agenda for the next four years, while Flávio's refusal could spark institutional turbulence.",
-  "big_picture": "With 100% of precincts counted, Lula leads by 4,430,191 votes, but 19,22% of voters stayed home, underscoring the country's deep polarization.",
+  "headline": "Lula confirms 2nd‑round win with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro from taking the presidency.",
+  "big_picture": "With 100% of precincts counted, Lula leads by 4,430,191 votes despite a 19,22% abstention rate, showing a clear national preference.",
   "details": [
-   "National result: Lula 51,79% vs Flávio 48,21%, margin of 4,430,191 votes",
-   "Flávio Bolsonaro says he won't accept the result and will seek to nullify the election",
-   "Lula clinches decisive regional wins: 68,93% in Ceará and 71,31% in Bahia",
-   "Counts completed in Rio Claro (SP) and Presidente Prudente (SP) confirm the national trend"
+   "Flávio Bolsonaro says he won’t accept the result and will seek a court‑ordered annulment",
+   "Lula won with 51,79% of valid votes, beating Flávio by 4,430,191 votes",
+   "In the Northeast, Lula hit 68,93% in Ceará and 71,31% in Bahia, widening the second‑round gap"
   ],
-  "whats_next": "Electoral courts will review Flávio's nullification request in the coming weeks"
+  "whats_next": "Flávio is expected to file a nullification request in court while the TSE prepares Lula’s swearing‑in"
  },
  "error": null
 }
