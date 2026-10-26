@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:31:23.985040-03:00",
+ "updated": "2026-10-25T22:33:22.901722-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -8,7 +8,7 @@
    "source": "O GLOBO",
    "published": "2026-10-26T01:25:09+00:00",
    "desc": " Eleições em Niterói (RJ): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEdBcDg2c3c4cGFYNE52REpMUkp4cXdjUmlPTEExaWo4bUZNWjc0LWZGR2RCdmxTOG1COUpiS25lWmNoWGIxUnV3ZGVvMnVzWXEwazJvRTlWa0JDWkNzYThnQ19ISXJNNG9WeTdaT1p4UEJfSXlLR2ZRSEFiUndnZlRSTnVpQ2NoUTF4ZVp3RTREeXluUU5QOTJqd0ZPNjRsSmdfN3pscUNIYkQ3Z3hGd2VQc0VfczREUk1mQjUzVdIBzgFBVV95cUxNVmdUc2RKTlAzdXRib3pqWFNIaWVFUUQzSkhnMWphYUZrejFXSjdRWFVRR1hNcVNEejNUN1VJV2dyOEJSRk1DdnFjTUJsVDVPdTJ1RGtCdTRkYWFwV2trZ2ZILU9vQmhnYzB4WE1wY2IxcUlBNnIwdTJaUDBUdGFxZW9PMHBlM1pmb2VsREpGb2Z0YV80RG1Yc0NaZmpnU2xPMW1QZnZEQXo2cGxjVEVLeFBnaHFqdnVNUFF1TmhUZjVZR1JPSXdwSHhUUFNXQQ?oc=5"
+   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEdBcDg2c3c4cGFYNE52REpMUkp4cXdjUmlPTEExaWo4bUZNWjc0LWZGR2RCdmxTOG1COUpiS25lWmNoWGIxUnV3ZGVvMnVzWXEwazJvRTlWa0JDWkNzYThnQ19ISXJNNG9WeTdaT1p4UEJfSXlLR2ZRSEFiUndnZlRSTnVpQ2NoUTF4ZVp3RTREeXluUU5QOTJqd0ZPNjRsSmdfN3pscUNIYkQ3Z3hGd2VQc0VfczREUk1mQjUzVQ?oc=5"
   },
   {
    "title": "Eleições em Uberlândia (MG): veja a apuração do 2º turno - O GLOBO",
@@ -24,7 +24,7 @@
    "source": "O GLOBO",
    "published": "2026-10-26T01:24:39+00:00",
    "desc": " Eleições em Uberaba (MG): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMTY5X1pVeEJST0ZXbFV1dHFuX2VIY0o4UG5qMnZRY2dHUTdGQnBRdnlCZnhpVmZwU25vV0p3R3hPSTZJaEp4aVVLYjN3MTEyMU1XaHhlU3V5SUtiYzFyQW9zdnFPa2plVEgwS2JNdi1xVmwzaWN6bVA1Y3p3anlGaEZ2MDM0dUs1NWhNUGtGM21jWVhWaS1GWHQ1NzE2OVhlbUpGNnI4QjcwdmpWeTJYSVUzdU1tZlY0OE9hN1NmSdIBzgFBVV95cUxQdEFMd3NUbWI3WElzaDVyRmp0ckx5cFNzejNWaDhfd1pMazhRaGxGOThSNEd0TUR5LUZpSWc0ZElwT3V4bkhpY1BDeE9uRGt6bHQxOXFzM1kydHlzNDBYUnY5OEtlZTc0aENtd3RqZGI3MVhWZXBDd0drMHNRdTRRNjlmRDQ0blVPc08waTNocGdHOVlmRm5razhER0MyR19jNi1YeGxiVVRuNW9CUUVfcWZjMmNLWXA2alY1eUg4SmVkV2xxUUx2SDBTWGRjQQ?oc=5"
+   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMTY5X1pVeEJST0ZXbFV1dHFuX2VIY0o4UG5qMnZRY2dHUTdGQnBRdnlCZnhpVmZwU25vV0p3R3hPSTZJaEp4aVVLYjN3MTEyMU1XaHhlU3V5SUtiYzFyQW9zdnFPa2plVEgwS2JNdi1xVmwzaWN6bVA1Y3p3anlGaEZ2MDM0dUs1NWhNUGtGM21jWVhWaS1GWHQ1NzE2OVhlbUpGNnI4QjcwdmpWeTJYSVUzdU1tZlY0OE9hN1NmSQ?oc=5"
   },
   {
    "title": "Eleições em Duque de Caxias (RJ): veja a apuração do 2º turno - O GLOBO",
@@ -32,38 +32,40 @@
    "source": "O GLOBO",
    "published": "2026-10-26T01:24:24+00:00",
    "desc": " Eleições em Duque de Caxias (RJ): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGFORjRvdDJub0MydUd6VTc0SGdYcXZyb2lqaUVjSUZpdGVJSURnOUJUcjQ2bm5vMDJ5Qy1mckhxWXJRMi1CcnJJQ1hDWTFXanM4N1lNUlBTQ2d5bnFZVkNFOWo0Szd6MjhsNE1kVllmWnFVR3daaUh0WWl3bC04NndUTnF0VDNKZ1pKeDYyenhvTFNfZWtpeHlEcnBKNlBWVVZ3TzlURHRDLTJ0dGx3clZsN2c4UEZYUXBsVjItNGtmTks0QVR4Ymhn0gHYAUFVX3lxTE9WVGpDSnNIZTBhakhMX3VMUEhtck14T3IwZlFIZDdES1BHMVBJTXNPMnFwelFFUXUweEF4cmdGdUhNR2J2MlFCZVd5dHFPQVMzOEVVekQtYVJ2ZE5MdWpoZzBaa0NJMVVLenBHU2NEMzV5aUVKX1o1YTVZM1dsaGpadktGZ3k4Mmg4elZ0LS0yd1A2Uk8zZ0h2ZW03dTI0OHo2UGpCaVFna182VF9GcFVxT3RwSDlfVlZDSXRKZEtOT29DSjJ5bFB0a3F1T29mcWszbkdEMU9WUQ?oc=5"
+   "gnews": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVGFORjRvdDJub0MydUd6VTc0SGdYcXZyb2lqaUVjSUZpdGVJSURnOUJUcjQ2bm5vMDJ5Qy1mckhxWXJRMi1CcnJJQ1hDWTFXanM4N1lNUlBTQ2d5bnFZVkNFOWo0Szd6MjhsNE1kVllmWnFVR3daaUh0WWl3bC04NndUTnF0VDNKZ1pKeDYyenhvTFNfZWtpeHlEcnBKNlBWVVZ3TzlURHRDLTJ0dGx3clZsN2c4UEZYUXBsVjItNGtmTks0QVR4Ymhn?oc=5"
   },
   {
-   "title": "Eleições em Montes Claros (MG): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-montes-claros-mg-veja-a-apuracao-do-2-turno.ghtml",
+   "title": "Eleições em Ribeirão das Neves (MG): veja a apuração do 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-ribeirao-das-neves-mg-veja-a-apuracao-do-2-turno.ghtml",
    "source": "O GLOBO",
-   "published": "2026-10-26T01:23:54+00:00",
-   "desc": " Eleições em Montes Claros (MG): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMzE2dV9zelJNWHE3dVBBVXFDc1c1ZzBqSXlQTk1ZVWlWZXVOSV9qTkl1cEhvVHNJTXdQVnlyd3d1WTBKQTJxdjdla016ek42MGtrdjNTeGlEdWIwSTkzaFNPOWMzZThKOVh3YXJfOWlvYjhMUHVSQTNiQllsYl91cDh3RzZheHhWWWxoTWs2ZTRsUUpZUm1xdndNQXBGQ2I5RU5LTVZCREN5WjNxd2hOOUJmdnNocE9EQmxRVzQ2eGtkQk9QVWVF0gHWAUFVX3lxTE5RSmJhcFhRald5V2tSRHFOTml4czlhS3pHRnY3Q3BnRTdBeUdxbTVVRjFsN3Q3N0hlOE5LekxlMGwzVnNrZl85R044V3FaaC1XZVUza3RtVkhWdmhhT1dnd1Vsc3JpWGt3OFRWWFI2LXBxV1NuVFRod2pkckdsb1hwZ3AybGVBaUw0bzBCRGkyQ2FUeUNBWTUxbDRjZ21EdGVibHJVZ3RFdm1RVWNycFlMTG9aMG5pa3J0M0dEdDBkZEVNQlJpQ2pEWnJibWYzNndBaGh2YWc?oc=5"
+   "published": "2026-10-26T01:24:09+00:00",
+   "desc": " Eleições em Ribeirão das Neves (MG): veja a apuração do 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOWFQOWJCc1VZdzM5ZlJGeGVpel9aU21RcnVBTXZNWndJalJCMWdrRVptNG5lTjhnbXlFb1dqUC1SV3UyUURIUjNfQk9UMnZqZndvTnBjcHE0NHFVMkZyVEFPU1lRNWRFc3BNSVljZ3BNNTFpU3BtQUR4UmZVVGhyc3NobXNhd0wzQzBHOG1tSzVLRXpzLVg5QzktaVdPLV9uRkxONkw1Y2hia1R4M0RXNkZjZElWV0pLay1GU1dpWTNjZXgyb3pGTUhneEhHUdIB3AFBVV95cUxNUGVaUzBZRmdudDZFeW9lTUhHNmpWTG5hdndkZDhWaUxZQ085V2tscFVqM2RLaHZPWnRWaFpFU1BtUUlua0l6NGtIT0d3Y3VZNUdmTnQ2cG1sYWNjMk1xeXhldm1lNHNWZDRFUkJoWXd1SWxFVGZESm81UEVoOWRkQTJIM3pGSk1OVGpOOU9ob25YWlR4bzJOQWZHWmo5ZjNTaWxKM3NVSUQ2dU5pNEpDZFBOeUxocWphZ3B1TmxWR3ZZbjIxMENRc2FnUTNNMEx4ZFNLYXRsOE1ueGli?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,78% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política brasileira para os próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas, Lula supera Flávio Bolsonaro por 4,428,034 votos, apesar de 19,22% de abstenção.",
+  "headline": "Lula vence segundo turno com 51,78% dos votos, superando Flávio Bolsonaro por 4,4 milhões",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de um governo de direita liderado por Flávio Bolsonaro.",
+  "big_picture": "Com 100 % das seções apuradas, a eleição mostra um país ainda dividido, mas com abstenção de 19,22% que indica desgaste do eleitorado.",
   "details": [
-   "Apuração completa mostra Lula 51,78% x Flávio 48,22%",
-   "Diferença de 4,428,034 votos assegura a vitória",
-   "Abstenção ficou em 19,22%, indicando alta participação dos eleitores"
+   "Lula lidera nacionalmente com 51,78% dos votos válidos",
+   "Diferença de 4.428.500 votos assegura vitória clara",
+   "Abstenção chega a 19,22%, a maior em décadas recentes",
+   "Resultados de Niterói, Duque de Caxias (RJ) e Uberlândia, Uberaba e Ribeirão das Neves (MG) confirmam a tendência nacional"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu mandato."
+  "whats_next": "Lula será empossado em 1 º de janeiro de 2027, enquanto Flávio Bolsonaro prepara sua oposição no Congresso."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,78% of valid votes",
-  "why_it_matters": "The win secures a left‑leaning agenda and sets Brazil’s policy direction for the next four years.",
-  "big_picture": "With 100% of precincts counted, Lula beats Flávio Bolsonaro by 4,428,034 votes, despite a 19,22% abstention rate.",
+  "headline": "Lula wins second round with 51.78% of the vote, beating Flávio Bolsonaro by 4.4 million",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks a right‑wing government under Flávio Bolsonaro.",
+  "big_picture": "With 100% of precincts counted, the vote shows a still‑split nation, but a 19.22% turnout drop signals voter fatigue.",
   "details": [
-   "Full count shows Lula 51,78% vs Flávio 48,22%",
-   "Margin of 4,428,034 votes clinches the win",
-   "Abstention at 19,22% signals strong voter turnout"
+   "Lula leads nationally with 51.78% of valid votes",
+   "Margin of 4,428,500 votes secures a clear win",
+   "Turnout sits at 19.22%, the highest in recent decades",
+   "Results from Niterói, Duque de Caxias (RJ) and Uberlândia, Uberaba and Ribeirão das Neves (MG) mirror the national trend"
   ],
-  "whats_next": "Lula will be inaugurated on Jan 1, 2027, kicking off his term."
+  "whats_next": "Lula is sworn in on Jan 1, 2027, while Flávio Bolsonaro gears up to lead the opposition in Parliament."
  },
  "error": null
 }
