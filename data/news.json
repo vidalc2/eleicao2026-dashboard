@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:07:10.678995-03:00",
+ "updated": "2026-10-25T22:09:12.160611-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -35,39 +35,35 @@
    "gnews": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXI1M0thbU1ZUGJ0VlczelJoX1VadWZQOXhZbW9kMXFKU2htRDY5RllydzBKT3NicjFkRGkwR2M5RmNkYi1DYzUxWkF6SG1EWEdVMjJfRnVzS2JpbEFTQm5qQmludUY5TXlOZHl4VFFKcmNEYVdCWWdaZHZXY3gybDhyUHNpbGsxRnNIZWJNTFlXZ2M0cEZidHVFNExkVHJtQTdPRTJNaER1YzZLTTFjTC13?oc=5"
   },
   {
-   "title": "Compare os índices de abstenção no segundo turno com os de eleições anteriores - O GLOBO",
-   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/compare-os-indices-de-abstencao-no-segundo-turno-com-os-de-eleicoes-anteriores.ghtml",
+   "title": "Apuração em São Paulo: veja como foi a votação de Lula e Flávio na região - O GLOBO",
+   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/apuracao-em-sao-paulo-veja-como-foi-a-votacao-de-lula-e-flavio-na-regiao.ghtml",
    "source": "O GLOBO",
-   "published": "2026-10-26T00:44:42+00:00",
-   "desc": " Compare os índices de abstenção no segundo turno com os de eleições anteriores    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVndSb0NaLU1zdnNVUHdjaXVLRlBSYVhlZlp3TnBFdXgzaE9USmkwOU9ZcEwxYUVaYllSQ0F1Q3ZrTjljQUFEWlltWnFsbGdab19HeVhzdG9MbEw2T0RELUc4ZVJxSXkxSkJ3YmZZZlVSY1JBQjZIRWhvQ1hfNW1VRkY2ZkJOUnYycVo1MzBTTkFMUnl6NTBSZWdqVXhVY1VWZFhmRFlpTkphTmJTVGdGeU0zSU1KR25FaEhqOEJNNndmYUtWSEFyRmNqcFBGY1htZGc3Nm5Vel93NVZTZms0RV91SWY5UQ?oc=5"
+   "published": "2026-10-26T00:52:22+00:00",
+   "desc": " Apuração em São Paulo: veja como foi a votação de Lula e Flávio na região    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWW5kMGxUck5DbFZBTHNGUXJiekhxaFRTYVFhSFRaVTdvb3NsVVNTd1ZaYWVOaUNseEJJTktidXZReVcwOFdFYU5UZklPT2VVMXUyMHBFLUt1RnVCNTF4T3Z6aEJsR1lEeDBrNERVdFVXX2dzOGNmS0ducGNFa2E2WC1aQ2xwS3p3MG1MU0RuMDhoV2NodVM0R01MNUdIeEktaTlQR0NPeGdyQTZVc29wSEVuRGVNekVBUnFNejZYNlc0dEFZaDZzLTZER0t3UTNRRE1iLWNOV080TmQwbHfSAewBQVVfeXFMTnBmWkJIdHNRc0ZkVml4M3d5dWhGZ05tUTJFa2g4Znl4QUN5bmRRUUZDdEp5Zm5KWjc0Z3ZRNXE5akh6c2N1X3J1NTdxZkNENU9xREg0Vkt1eGNFZ21TdjlZOVFUeXIzaU1Jd2NKUjU0OTJMV3ZIdzRYUE1ZZlRmeUZqdXVQWmxXTjUySG9LVnAwVEpNZE1SdEN3bmVDb3ZGOUc4LWJHalhpX3hMeWo0UjZsWWRMekV3c1NqdkdoSk1xWmFJS0MxNmhVM1FIaF9MNl9Jb21lTmFGa2NZMVI1c3hkQnZiSG1RMG9iMzQ?oc=5"
   }
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,78% dos votos válidos, superando Flávio Bolsonaro por 4,4 milhões",
-  "why_it_matters": "É a primeira reeleição de um presidente para um quarto mandato e marca virada histórica ao completar 80 anos.",
-  "big_picture": "A vitória consolida a agenda de esquerda, mas a alta abstenção de 19,22% indica polarização e cansaço eleitoral.",
+  "why_it_matters": "A vitória garante ao presidente Lula um quarto mandato, mantendo o PT no poder e definindo a agenda política para os próximos quatro anos.",
+  "big_picture": "Com 19,22% de abstenção, a eleição evidencia a profunda polarização do país, mas consolida a continuidade das políticas sociais e econômicas dos últimos anos.",
   "details": [
-   "Resultado oficial: 100% das seções apuradas, Lula 51,78% vs Flávio 48,22%, diferença de 4.422.899 votos.",
-   "Nunes Marques, presidente do TSE, confirmou a totalização e declarou a eleição concluída.",
-   "No Sudeste, Lula liderou em São Paulo, Minas Gerais e Rio de Janeiro, enquanto Flávio manteve vantagem em áreas rurais.",
-   "Lula, aos 80 anos, torna-se o presidente mais velho a ser eleito para um quarto mandato.",
-   "Abstenção ficou em 19,22%, ainda acima de eleições anteriores, refletindo descontentamento de quase um quinto dos eleitores."
+   "100% das seções já foram apuradas, confirmando a margem de 4.422.899 votos a favor de Lula",
+   "Nunes Marques destacou a legitimidade do resultado em entrevista ao vivo",
+   "No Sudeste, especialmente em São Paulo, Lula liderou, reforçando sua base urbana"
   ],
-  "whats_next": "A diplomação está prevista para 30 de outubro, iniciando a transição para o próximo governo"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara recursos nos tribunais eleitorais"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51.78% of valid votes, edging Flávio Bolsonaro by 4.4 million",
-  "why_it_matters": "It's the first re‑election to a fourth term and a historic turn‑around as he turns 80.",
-  "big_picture": "The win locks in a left‑leaning agenda, but a 19.22% abstention rate shows deep polarization and voter fatigue.",
+  "headline": "Lula wins runoff with 51,78% of valid votes, beating Flávio Bolsonaro by 4,4 million",
+  "why_it_matters": "The win secures Lula’s fourth term, keeps PT in power and sets the policy agenda for the next four years.",
+  "big_picture": "With 19,22% abstention, the election shows deep national polarization but locks in the social‑economic agenda of recent years.",
   "details": [
-   "Official count: 100% of precincts reported, Lula 51.78% vs Flávio 48.22%, margin of 4,422,899 votes.",
-   "TSE head Nunes Marques certified the tally and declared the race closed.",
-   "In the Southeast, Lula led in São Paulo, Minas Gerais and Rio de Janeiro; Flávio held on in rural pockets.",
-   "At 80, Lula becomes the oldest president elected to a fourth term.",
-   "Abstention sat at 19.22%, still higher than past elections, reflecting discontent from nearly one‑fifth of voters."
+   "100% of precincts tallied, confirming a margin of 4.422.899 votes for Lula",
+   "Nunes Marques said the result is legitimate in a live interview",
+   "In the Southeast, especially São Paulo, Lula led, cementing his urban base"
   ],
-  "whats_next": "The inauguration is set for Oct. 30, kicking off the transition to the next government"
+  "whats_next": "Lula will be sworn in on Jan. 1, 2027, while Flávio Bolsonaro prepares appeals in the election courts"
  },
  "error": null
 }
