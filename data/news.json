@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:34:49.935686-03:00",
+ "updated": "2026-10-26T06:36:55.091722-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -35,35 +35,39 @@
    "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdURZeG9OS3lIT1ZpSnZQYlBqdFFLNUQ2dlM0bW8tZWViMkhnR1lNRjd1VFVyQWdvQ3pKXy1HWHEwZFBxc1kxdndHM09ibmtWOTBxMGFjRllzaVVuQm9HZHF4TUJ6dk43Y1lhdDlKRlVOcy1KQzZOZmJGQjRNTHdNMFg5X3l3bXdZZ2V3Ukdia0QtUzhGdm9z?oc=5"
   },
   {
-   "title": "Serra dos Aimorés: Lula tem 62,29% e vence o segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/127672/serra-dos-aimores-lula-tem-62-29-e-vence-o-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T09:23:18+00:00",
-   "desc": " Serra dos Aimorés: Lula tem 62,29% e vence o segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX2wwakoyNi1TTkdzRFQ4dGxxNzZzRkV6Z2s2MWVEUi1XSnRkMVZjSV9FdW9fbWU0YjV3bmYtNVZHQi1YN3BRRnF5RVFvQXZ4NG9XQ0t5VUsxNmZ3V3JHZjJOODV6RTNNc0wyWXFkempRdk5iNXlEWmFYMDlBNXl0TkFfRl9NQVFzbDBrVzk2aDcyek9oa04xd2ZBNjBSUVdLRkxXVWlfOEdXQQ?oc=5"
+   "title": "Decisão de Zanin prorrogando a eleição e resposta de Nunes Marques reacendem atrito entre STF e TSE - O GLOBO",
+   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/26/decisao-de-zanin-prorrogando-a-eleicao-e-resposta-de-nunes-marques-reacendem-atrito-entre-stf-e-tse.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T09:00:00+00:00",
+   "desc": " Decisão de Zanin prorrogando a eleição e resposta de Nunes Marques reacendem atrito entre STF e TSE    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNFFtM3V5LVJXV19RNm5TODRkckRPNk9YTUJUTVZlRl8wMWRUdDQ5SlZ0Y0IzcGljSTRXRm0yNko5RFNaNk9pcXZISDJxcDJhVFZHLW5nWHMzeVNOSV93WXdzemcyNXZZbkt1NDA4MmZzMHJjdXdDV0FuRnY1V1NYQUlMNUE2WGhLQWFBeEZYNV80elJVOXVycW1vWS02dDFyai1weldfTVhfaHZrQThJVDBQZVozTVdRZ2FWTFYweUJkdjJrTTFFZ1JvUHpPUF9xbWxqcFlGUWhsTldMSS1vVm51UEdNSlZwVk1fN0ttZy1mUVhCQjlCSl9rbVQ1NmVVbFHSAZACQVVfeXFMT2RsYlI0VnozQ0QweENKN0IwWGtvZkdENEJMOVZQcXIwb1ZoMXM4MEFQNWlYYVQ0SURJTlNtUFlpa2QxWlpwRHhld3dpc1hfYmlKVzlDNUJCZi1UcURXaFRseFcyQXBFSl9sOTlkdlY4ZW9MWG1rYkYxNkNoY2lVOTQ2TE5RcWpWdFRHS01CZ21PSHA2VDF1ZFJMbVVJWlpkT1FjT1duNXZDZ2M0Q051SUllZTdIWHp0amVmUGJERVNJMkVfTHpORktNb2dKOWd5RzVicEx0UEdmY1loWjFaUmNEd01JRktFTFVqcGRfN3h3UTlYWnZpWUEybmxpSXJTaXRmLXJ3cW92bFlTZFpiRnM?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro de assumir o Palácio do Planalto.",
-  "big_picture": "Com 100% das seções apuradas, Lula lidera por 4,430,191 votos, refletindo a polarização ainda presente, mas confirmando a maioria dos eleitores que participaram.",
+  "headline": "Lula confirma vitória no 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante ao PT a presidência para o próximo quadrienio, reforçando a agenda de políticas sociais e econômicas que prometeu. O resultado também define o rumo da disputa entre o Executivo e o Congresso nas próximas eleições.",
+  "big_picture": "Com 100% das seções apuradas, Lula supera Flávio Bolsonaro por 4,43 milhões de votos, enquanto a abstenção de 19,22% evidencia cansaço do eleitorado. Ganhos em municípios como Gararu (SE) e Ibiaí (BA) e nos locais de votação de Goiás refletem um padrão nacional de apoio ao candidato da esquerda, mesmo diante de tensões institucionais entre STF e TSE.",
   "details": [
-   "Resultado nacional: Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos (diferença de 4,430,191 votos)",
-   "Abstenção totalizou 19,22% dos eleitores",
-   "Lula consolidou apoio em municípios‑chave como Gararu (SE), Ibiaí (BA) e Serra dos Aimorés (MG), além de zonas eleitorais de Goiás"
+   "Lula 51,79% x Flávio Bolsonaro 48,21% – diferença de 4.430.191 votos;",
+   "Abstenção registra 19,22% dos eleitores, o maior índice nas últimas duas décadas;",
+   "Lula venceu em municípios estratégicos – Gararu (SE) e Ibiaí (BA) – sinalizando força nas regiões Nordeste e Centro-Oeste;",
+   "Resultados locais em Goiás (Leopoldo de Bulhões e Três Ranchos) confirmam a tendência nacional de apoio ao candidato da esquerda;",
+   "Decisão de Alexandre de Moraes prorrogando o prazo de totalização reacende atrito entre STF e TSE, mas não alterou o resultado final."
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara recurso no TSE para contestar a apuração."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51.79% of valid votes",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro’s conservative push from taking the Planalto Palace.",
-  "big_picture": "With 100% of precincts counted, Lula leads by 4,430,191 votes, showing the country remains split but confirming a majority of voters who turned out.",
+  "headline": "Lula confirms victory in 2nd round with 51,79% of valid votes",
+  "why_it_matters": "The win locks the PT into the next four‑year term, bolstering the social and economic agenda it pledged. It also sets the tone for the Executive‑Congress showdown in the upcoming elections.",
+  "big_picture": "With every precinct counted, Lula beats Flávio Bolsonaro by 4.43 million votes; turnout lagged at 19.22%, signaling voter fatigue. Wins in Gararu (SE), Ibiaí (BA) and key booths in Goiás echo a nationwide tilt toward the left, despite institutional tension between the Supreme Court and the Electoral Court.",
   "details": [
-   "National result: Lula 51.79% vs Flávio Bolsonaro 48.21% of valid votes (margin of 4,430,191 votes)",
-   "Abstention was 19.22% of the electorate",
-   "Lula held firm in key towns like Gararu (SE), Ibiaí (BA) and Serra dos Aimorés (MG), plus Goias districts"
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% – margin of 4,430,191 votes;",
+   "Turnout shortfall at 19,22% – the highest in two decades;",
+   "Lula carried strategic towns – Gararu (SE) and Ibiaí (BA) – underscoring strength in the Northeast and Central‑West;",
+   "Local results in Goiás (Leopoldo de Bulhões and Três Ranchos) confirm the national left‑leaning trend;",
+   "Alexandre de Moraes’ extension of the tally deadline reignites STF‑TSE friction, but didn’t change the outcome."
   ],
-  "whats_next": "Lula is sworn in on Jan. 1, 2027, kicking off his second term."
+  "whats_next": "Lula takes office on Jan 1, 2027; Flávio Bolsonaro is filing a TSE appeal to contest the count."
  },
  "error": null
 }
