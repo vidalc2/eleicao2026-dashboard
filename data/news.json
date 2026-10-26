@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:04:18.305930-03:00",
+ "updated": "2026-10-26T05:06:20.391364-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,32 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio da Alvorada.",
-  "big_picture": "Com 19,22% de abstenção, a maioria dos eleitores que compareceram optou por Lula, consolidando sua liderança no Nordeste, Minas Gerais e reduzindo a vantagem em São Paulo.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a implementação da proposta conservadora de Flávio Bolsonaro.",
+  "big_picture": "Com 4,43 milhões de votos a mais, Lula consolida apoio no Nordeste, Minas Gerais e reduz a vantagem de Flávio em São Paulo, apesar de vitórias isoladas do adversário.",
   "details": [
-   "Resultado oficial do TSE com 100 % das seções apuradas mostra Lula 51,79 % x Flávio 48,21 % dos votos válidos",
-   "Lula lidera em Minas Gerais, no Nordeste e diminui a vantagem de Flávio em São Paulo; Flávio venceu apenas em Balsas (MS)",
-   "Municípios como Maracás (BA) e Una (BA) confirmam apoio a Lula, enquanto Balsas (MS) foi a única cidade citada a escolher Flávio"
+   "Resultado nacional: Lula 51,79% vs Flávio 48,21% dos votos válidos, diferença de 4.430.191 votos",
+   "Abstenção de 19,22% dos eleitores no segundo turno",
+   "Nordeste: Lula ampliou a folga, mantendo maioria robusta na região",
+   "Minas Gerais: Lula venceu, revertendo tendência anterior",
+   "São Paulo: Lula reduziu a vantagem de Flávio, mas não o superou",
+   "Municípios chave: Lula venceu em Maracás, Una e Nossa Senhora Aparecida; Flávio venceu em Balsas"
   ],
-  "whats_next": "Lula assumirá a presidência em 1º de janeiro de 2027, iniciando a transição de governo."
+  "whats_next": "Lula iniciará a transição para assumir a presidência em 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51.79% of valid votes, beating Flávio Bolsonaro by 4.43 million",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro from the Alvorada Palace.",
-  "big_picture": "With 19.22% abstention, most voters who turned out chose Lula, cementing his hold on the Northeast, Minas Gerais and narrowing the gap in São Paulo.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro’s conservative plan.",
+  "big_picture": "With a 4,43‑million‑vote edge, Lula solidifies support in the Northeast and Minas Gerais and narrows Flávio’s lead in São Paulo, even as the rival pockets wins.",
   "details": [
-   "Official TSE count with 100% of precincts tallied shows Lula 51.79% vs Flávio 48.21% of valid votes",
-   "Lula leads in Minas Gerais and the Northeast and cuts Flávio’s edge in São Paulo; Flávio won only in Balsas (MS)",
-   "Municipalities like Maracás (BA) and Una (BA) back Lula, while Balsas (MS) was the sole city to pick Flávio"
+   "National: Lula 51,79% vs Flávio 48,21% of valid votes, margin of 4.430.191 votes",
+   "Turnout: 19,22% abstention in the runoff",
+   "Northeast: Lula widened the gap, keeping a strong majority",
+   "Minas Gerais: Lula won, reversing the prior trend",
+   "São Paulo: Lula cut Flávio’s lead but didn’t overtake him",
+   "Key municipalities: Lula won in Maracás, Una and Nossa Senhora Aparecida; Flávio won in Balsas"
   ],
-  "whats_next": "Lula will be sworn in on Jan. 1, 2027, kicking off the transition."
+  "whats_next": "Lula will start the transition to take office on Jan 1, 2027"
  },
  "error": null
 }
