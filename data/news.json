@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:13:34.698865-03:00",
+ "updated": "2026-10-26T03:15:36.518867-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, derrotando Flávio Bolsonaro por 4,43 milhões de votos",
-  "why_it_matters": "A vitória garante a continuidade do governo PT e define a direção política do Brasil pelos próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas e abstenção de 19,22%, o resultado reflete a polarização ainda presente, mas confirma a maioria dos eleitores válidos.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mi de votos",
+  "why_it_matters": "A vitória assegura a continuidade do governo PT e impede a agenda de direita proposta por Flávio Bolsonaro.",
+  "big_picture": "Com 100 % das seções apuradas e 19,22 % de abstenção, o resultado confirma a maioria nacional apesar da forte polarização regional.",
   "details": [
-   "Flávio Bolsonaro perdeu votos em seis estados entre o 1º e o 2º turno, reduzindo sua base regional",
-   "Mesmo com a queda geral, o candidato venceu em municípios como Santo Ângelo (RS) e Boa Esperança do Norte (MT)",
-   "Chaval (CE) declarou apoio a Lula, enquanto Tabira (PE) divulgou resultados detalhados por zonas eleitorais"
+   "Flávio Bolsonaro perdeu votos em seis estados entre o 1.º e o 2.º turno, reduzindo sua base nacional",
+   "Venceu em municípios como Santo Ângelo (RS) e Boa Esperança do Norte (MT), mostrando pockets de apoio local",
+   "Chaval (PA) optou por Lula no segundo turno, reforçando a aliança regional",
+   "Tabira (PE) registrou resultados que seguiram a tendência nacional, com Lula à frente nas zonas eleitorais"
   ],
-  "whats_next": "Lula assumirá o cargo em 1º de janeiro de 2027, iniciando a transição de governo"
+  "whats_next": "Lula tomará posse em 1 de janeiro de 2027 e iniciará a formação de seu gabinete."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million votes",
-  "why_it_matters": "The win secures the PT government’s continuity and sets Brazil’s political direction for the next four years.",
-  "big_picture": "With 100% of precincts counted and a 19,22% abstention rate, the result reflects lingering polarization but confirms a majority of valid voters.",
+  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mi votes",
+  "why_it_matters": "The win secures the PT government’s continuity and blocks the right‑wing agenda pushed by Flávio Bolsonaro.",
+  "big_picture": "With 100 % of precincts counted and 19,22 % abstention, the tally confirms a national majority despite deep regional splits.",
   "details": [
-   "Flávio Bolsonaro lost votes in six states between the 1st and 2nd rounds, shrinking his regional base.",
-   "Even with the overall dip, he still carried towns like Santo Ângelo (RS) and Boa Esperança do Norte (MT).",
-   "Chaval (CE) pledged support to Lula, while Tabira (PE) released detailed zone‑by‑zone results."
+   "Flávio Bolsonaro lost votes in six states between round 1 and round 2, shrinking his national base",
+   "He won in towns like Santo Ângelo (RS) and Boa Esperança do Norte (MT), showing pockets of local support",
+   "Chaval (PA) backed Lula in the runoff, bolstering the regional alliance",
+   "Tabira (PE) posted results that mirrored the national trend, with Lula ahead in the precincts"
   ],
-  "whats_next": "Lula will be sworn in on Jan. 1, 2027, kicking off the transition."
+  "whats_next": "Lula will be sworn in on Jan 1 2027 and will start building his cabinet."
  },
  "error": null
 }
