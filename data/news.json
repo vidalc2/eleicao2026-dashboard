@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T09:10:01.553400-03:00",
+ "updated": "2026-10-26T09:12:02.128216-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos e assume presidência em meio a celebrações globais e queda acentuada das ações brasileiras",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política externa do Brasil, enquanto os mercados reagem negativamente à perspectiva de políticas econômicas mais intervencionistas.",
-  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete um país ainda dividido, mas com maioria clara para Lula, que agora enfrentará desafios internos e externos.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões de sufragios",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e posiciona o Brasil sob forte apoio internacional, ao passo que os mercados globais reagem negativamente à mudança de governo.",
+  "big_picture": "Com 100% das seções apuradas e 19,22% de abstenção, a eleição evidencia a profunda polarização do eleitorado, mas confirma a maioria dos eleitores que optaram por Lula.",
   "details": [
-   "Resultado final do TSE: Lula 51,79% x Flávio Bolsonaro 48,21% (100% das seções apuradas)",
-   "Líderes internacionais enviaram mensagens de parabéns, sinalizando apoio diplomático ao novo governo",
-   "Lula pronunciou discurso completo, prometendo unidade nacional e retomada de políticas sociais",
-   "Em Araguaína (TO), a Escola Municipal Jose Nogueira registrou a votação local confirmando a tendência nacional",
-   "Ações brasileiras despencaram no exterior, com quedas de até 27% após a divulgação dos resultados"
+   "Resultado oficial do TSE: Lula 51,79% x Flávio Bolsonaro 48,21%, diferença de 4.430.191 votos;",
+   "Líderes internacionais enviam felicitações a Lula, sinalizando apoio diplomático ao novo mandato;",
+   "Ações brasileiras despencam nas bolsas estrangeiras, com quedas de até 27% após a apuração final;",
+   "Em Araguaína (TO), a Escola Municipal Jose Nogueira registrou a maioria dos votos para Lula, refletindo a tendência nacional"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027 e iniciará a formação de governo enquanto investidores monitoram a política econômica."
+  "whats_next": "Lula iniciará a transição de governo e tomará posse em 1º de janeiro de 2027, enquanto o Congresso se prepara para a nova composição legislativa."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51.79% of the vote and takes office amid global celebrations and sharp drop in Brazilian stocks",
-  "why_it_matters": "The win secures the left‑leaning agenda and sets Brazil’s foreign policy, while markets react negatively to the prospect of more interventionist economics.",
-  "big_picture": "A 4,430,191‑vote margin and 19.22% abstention show a still‑divided country, but a clear majority for Lula, who now faces domestic and international challenges.",
+  "headline": "Lula wins runoff with 51.79% of valid votes, beating Flávio Bolsonaro by 4.43 million votes",
+  "why_it_matters": "The win locks in a left‑leaning agenda and puts Brazil under strong international backing, while global markets react negatively to the power shift.",
+  "big_picture": "With 100% of precincts counted and 19.22% abstention, the election highlights deep polarization yet confirms a majority for Lula.",
   "details": [
-   "Final TSE count: Lula 51.79% vs Flávio Bolsonaro 48.21% (100% of precincts reported)",
-   "World leaders sent congratulations, signalling diplomatic support for the new administration",
-   "Lula delivered a full speech, pledging national unity and a restart of social programmes",
-   "In Araguaína (TO), the Municipal School Jose Nogueira recorded the local vote, confirming the national trend",
-   "Brazilian stocks plunged abroad, falling up to 27% after the results were announced"
+   "Official TSE result: Lula 51.79% vs Flávio Bolsonaro 48.21%, a margin of 4,430,191 votes.",
+   "World leaders send congratulations to Lula, signalling diplomatic support for his new term.",
+   "Brazilian stocks tumble on foreign exchanges, falling up to 27% after the final count.",
+   "In Araguaína (TO), the Jose Nogueira Municipal School recorded a Lula majority, mirroring the national trend."
   ],
-  "whats_next": "Lula will be inaugurated on Jan. 1, 2027 and will start building his cabinet while investors watch economic policy."
+  "whats_next": "Lula will start the transition and take office on Jan 1, 2027, as Parliament gears up for a new legislative makeup."
  },
  "error": null
 }
