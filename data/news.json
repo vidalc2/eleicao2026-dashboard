@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:28:57.964480-03:00",
+ "updated": "2026-10-25T21:30:57.923756-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -27,47 +27,45 @@
    "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaUw1cUJYM2tWcmVWTlJuYng5bUZmcUdaekc4cVZMS1d3dkhFMFI3Z0p1NFJFWTdnbi10QkRsQTY4a2RLZ3FPLVVxYmotX0dCX2hEY0lLbWNwRl9rNTI5U2ZxektZQ05tNVRFdkk2SFU1UllzU3ZMWVg5czVCdGVTQ09RaXBBTzlkb1JqZFVNelNZT1VaazVSRk1GWGM4WHNDTHYyaGpfZXRwR1JydElfbGF2X2xNQkhMMmVoZ1JHQlR2c0NxUXlyQmM5dE1zQdIB0wFBVV95cUxNSE9nVlVlLTFRS0dkM2FJSFFFVmNxRmhrSS1haWdMT3VnNWxFTkxFeHJ5RmJCSFNobVgwSW01bENfMVdPYkdhUm03cEtZMjd1RTdnTHpiR1R2dnhWbXFVekRkLVVNXzljWkRtV05rLUFjc2RRM2Jxcl9FRHBpZHExLUdXSVNzeXdkT0xaNjd4SzItSHhsWmtSUExHR3B0ZE9IR2lRNHByelkwazdVSWNaWnN6MUZIQVBVSGJVcG95ZU9aelIwSUNVTU94S0xuWEJaZHkw?oc=5"
   },
   {
-   "title": "Lula vira e fica à frente de Flavio Bolsonaro no México no 2º turno - CNN Brasil",
-   "link": "https://www.cnnbrasil.com.br/eleicoes/lula-vira-e-fica-a-frente-de-flavio-bolsonaro-no-mexico-no-2o-turno/",
-   "source": "CNN Brasil",
-   "published": "2026-10-26T00:12:45+00:00",
-   "desc": " Lula vira e fica à frente de Flavio Bolsonaro no México no 2º turno    CNN Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemVfSmtneFFON2JuY3hSNUl4YXBkaVhHMWNsbzVFQkN4TVdIT0JPUTJUMWFKYmVLb29ITFA5ek1uWGk2T1RsTFBSZlR6THpGZUpDR3ZmeTRqbG5VT0hVMnhVZl9xVnpWN0c2R3BQeFNMV0FXRVhwcW1tc2x1LVdUV0FiTFhBM3pVazBqTkxEdzlTUUxDaHRBQlZaNFN4RGpGUnN3ZUdaSmljdw?oc=5"
-  },
-  {
    "title": "Flavio Bolsonaro tem 69,61% dos votos válidos em Rondônia no 2º turno - CNN Brasil",
    "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-tem-6961-dos-votos-validos-em-rondonia-no-2o-turno/",
    "source": "CNN Brasil",
    "published": "2026-10-26T00:12:40+00:00",
    "desc": " Flavio Bolsonaro tem 69,61% dos votos válidos em Rondônia no 2º turno    CNN Brasil ",
    "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnJQdEx3VThnZmRLMWlPdGJNdXN2UnFJelE2Z3ZpY3RiLTBCcmExMXFkTHNsbXdQb3dnd3BvY2tESGdFZEt2cG9wOFg2RFlOV1FpZFZHYVRFeUtMMzBNNW5FV00wMnh0dnNzRF9obkhXYzhwcjI1M1dmSWtPUUlWR3g3dy1jWEFIU24zOG50cHctXzBCUWtSMmhRNzJKYnppUVVZa0Fva3ZmZw?oc=5"
+  },
+  {
+   "title": "Lula é reeleito presidente do Brasil em virada histórica - Agência Brasil",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-e-reeleito-presidente-do-brasil-em-virada-historica",
+   "source": "Agência Brasil",
+   "published": "2026-10-26T00:11:00+00:00",
+   "desc": " Lula é reeleito presidente do Brasil em virada histórica    Agência Brasil ",
+   "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3QyYXdNQW83dEU5RFRFNkRHZkZUS1lVbnp6bk5tU192dk9FVFJIZW1RTmthZWxqU3pMSGctQ0FMOVAyMFVxVldhOElKUk9GSEU2UXFCeXpWX1J0aGNIM3YtZDVvUGYtaEtqam5iZHVLUVQ2dzhtM19yY1lOdU5QSkd5bkJFVmVtNHhramwzaUV6bi14WDc5T1lEODZCSHNESzZZcnBORkp1MUt4bFBoMDlQRmU?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula assume a dianteira em México enquanto Flávio Bolsonaro domina Rondônia; projeções mostram viradas decisivas",
-  "why_it_matters": "Com o 2º turno a poucos minutos de começar, os primeiros números regionais já indicam quem pode levar a disputa nacional.",
-  "big_picture": "A apuração ainda está nos estágios iniciais, mas os resultados fragmentados revelam forte polarização entre o Norte/Nordeste e o Centro-Oeste.",
+  "headline": "Lula é reeleito em virada histórica enquanto Flávio Bolsonaro lidera em Rondônia",
+  "why_it_matters": "A vitória de Lula garante a continuidade das políticas de esquerda; o desempenho de Flávio em Rondônia mostra que a disputa ainda tem pontos de tensão regional.",
+  "big_picture": "O segundo turno consolida a polarização política no Brasil, com resultados divergentes entre regiões e projeções que ainda podem mudar à medida que a apuração avança.",
   "details": [
-   "Horários das viradas na apuração foram divulgados pela Folha de S.Paulo",
-   "Apuração no Nordeste ainda em andamento, segundo O Globo",
-   "Projeção em tempo real do Estadão indica possível resultado final do turno",
-   "CNN Brasil registra Lula à frente no México",
-   "Flávio Bolsonaro tem 69,61% dos votos válidos em Rondônia"
+   "Agência Brasil anuncia que Lula foi reeleito após virada histórica nas urnas",
+   "CNN Brasil registra 69,61% dos votos válidos para Flávio Bolsonaro em Rondônia",
+   "Estadão e O Globo divulgam projeções e resultados parciais, indicando que a apuração ainda está em curso e varia por região",
+   "Folha de S.Paulo publica cronograma das próximas viradas na apuração nacional"
   ],
-  "whats_next": "A contagem nacional deve iniciar nas primeiras horas de 26/10, com resultados consolidados ao longo do dia."
+  "whats_next": "A apuração nacional deve se estender nas próximas horas, com resultados definitivos previstos para a madrugada"
  },
  "brief_en": {
-  "headline": "Lula leads in Mexico while Flávio Bolsonaro dominates Rondônia; projections show decisive swings",
-  "why_it_matters": "With the 2nd round minutes away, early regional tallies already hint at who could win the national race.",
-  "big_picture": "Counting is in its early phase, but fragmented results show a sharp North/Northeast vs. Central‑West split.",
+  "headline": "Lula is re‑elected in historic upset as Flávio Bolsonaro leads in Rondônia",
+  "why_it_matters": "Lula’s win keeps left‑wing policies alive; Flávio’s lead in Rondônia shows regional flashpoints remain.",
+  "big_picture": "The runoff cements Brazil’s political divide, with stark regional splits and projections that could shift as counting continues.",
   "details": [
-   "Folha de S.Paulo released the timing of count swings",
-   "O Globo says the Northeast count is still ongoing",
-   "Estadão’s real‑time projection points to a possible final outcome",
-   "CNN Brazil shows Lula ahead in Mexico",
-   "Flávio Bolsonaro has 69,61% of valid votes in Rondônia"
+   "Agência Brasil reports Lula’s re‑election after a historic ballot swing",
+   "CNN Brasil logs 69,61% of valid votes for Flávio Bolsonaro in Rondônia",
+   "Estadão and O Globo release partial projections and results, noting the count is still underway and varies by region",
+   "Folha de S.Paulo publishes timeline for the next national count milestones"
   ],
-  "whats_next": "National tally should kick off early on Oct 26, with consolidated results rolling out through the day."
+  "whats_next": "The national tally will stretch into the next hours, with final results expected around dawn"
  },
  "error": null
 }
