@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-25T21:09:13.550827-03:00",
+ "updated": "2026-10-25T21:11:01.494855-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "TSE pausa apuração após Zanin prorrogar horário de votação - UOL Notícias",
+   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/tse-pausa-apuracao-apos-zanin-prorrogar-horario-de-votacao.ghtm",
+   "source": "UOL Notícias",
+   "published": "2026-10-26T00:07:41+00:00",
+   "desc": " TSE pausa apuração após Zanin prorrogar horário de votação    UOL Notícias ",
+   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFhqRlZsXzN1MFIzd3FKZWxHeTFUTGo1NWVTajFSREZETWhGa1pGbmVfbHdQSkMzeFJkQ3pmTHh1dmtNdHhLbWNzR09zTGlfQk1YUW43V0dkX3NyQ2dtSFBYVk5JVUJRNklrNWxSV3g1XzNNREFpQ0dwUjZQZURvcmZhbmYtUnNvQWs4VUNGYzJqN254RGtVOTdCZEx5eTlKVC1fMXc1NHlkVERIYWpIcQ?oc=5"
+  },
   {
    "title": "Resultado das eleições 2026 em Camargo (RS): como foi a votação no 2º turno - G1",
    "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-camargo-rs-como-foi-a-votacao-no-2o-turno.ghtml",
@@ -33,39 +41,29 @@
    "published": "2026-10-25T23:46:00+00:00",
    "desc": " Lula vira, bate Flávio Bolsonaro e se reelege para inédito 4º mandato, projeta Datafolha    Folha de S.Paulo ",
    "gnews": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUFphNEVuYWtvT3VlcHhxWXJFOUZmMVRPVlhfUU9PQy1tRWpTa2RwbUpXNndwcnVlN2UxckZjTGRNMGdjZG1mWWFkQ1hUaUN6NXZaakRWc1ZqZ3JjTzNWeTlrUlZ5bDJfUVB0WUZKYUU4dmdvQTM2Nkd4WEZLRHJUanJXSnZpMzY5UmM2ZWZRS0xQQUxPd2FZbF85aVMyNHc5OWlubzY2VFQzSDF6Q3B6UHg2MjRad2ExOEVnOGpQRVJwb2pXeDNGYXZCXzBtOWJJcGc?oc=5"
-  },
-  {
-   "title": "Qual foi a diferença entre Lula e Flávio Bolsonaro no primeiro turno em 2026? - O GLOBO",
-   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/qual-foi-a-diferenca-entre-lula-e-flavio-bolsonaro-no-primeiro-turno-em-2026.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-25T23:42:31+00:00",
-   "desc": " Qual foi a diferença entre Lula e Flávio Bolsonaro no primeiro turno em 2026?    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaGtaMjA3RTM4YXpPV1ktcl9GbENrdjhEakxfa3F0MkNLVmFacERnMExuTGJRdG5nM1cwV180X0tZdl9ock1PZzFFQTd1Vm5CQkQ2cmNvOXlFQ0tFVHFobXZtb1ZTN2IxTjdyczJ2emVObXpXbHB3VzNZT1YyaVBhakdjdkpaN2h2dG5WZmcwVzNBQnliaEd1ZDlrMU5fa0lEUUZsNzlnN1M3MW1hQVBoTW9sODBxWTZ2M2M1bWJBV0pZdVhUekI3R2M3TFJmaFJmM0x3OTJkVmpleElLRVlfUjIxZ9IB8gFBVV95cUxQNFZ1bUtrRkFiSlFzWnJpMDRnN1dxQVVqSXdwWEVZNWV1R3NYZ3lyX3VjY0VTZUFnVkE3b0x0S1RWMUxRdU5DMDdVZ0kwSHFWMU90eWpqUVpuX3hYVFFOd1d1VEdtSmVlN09wWFpYVzZIUXMzWHM3TzNxTHFZWGNLYl96R25hT3VUZEdkMkxCTzQ0NmFKTHZ6elZhNERncGdFQUF0SWhlNFYzTFdGcXhfbUZQXzk3d0RRZVJkbTZPUVZmZDNiVVM0ZEc0UHF0ZUJIUEtsT0hwVEh6ajJ0LVdKbmlnM0Fpc1BRMEsyMEsyNUFzdw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Datafolha projeta vitória de Lula sobre Flávio Bolsonaro no 2º turno",
-  "why_it_matters": "Se confirmada, Lula garantiria um histórico quarto mandato, enquanto Flávio Bolsonaro ficaria fora da Presidência.",
-  "big_picture": "A disputa polariza o país; a contagem ainda está em fase inicial e os resultados variam por região, inclusive no exterior.",
+  "headline": "TSE pausa apuração enquanto projeções apontam vitória de Lula no 2º turno",
+  "why_it_matters": "A suspensão da contagem oficial deixa o país à espera de confirmação, mas pesquisas como a da Datafolha já indicam que Lula pode conquistar um histórico quarto mandato.",
+  "big_picture": "A disputa entre Lula (13) e Flávio Bolsonaro (22) define a direção política do Brasil para os próximos quatro anos, com repercussões internas e no exterior.",
   "details": [
-   "Folha de S.Paulo cita projeção da Datafolha de que Lula supera Flávio Bolsonaro e se reelegeria para um quarto mandato",
-   "G1 relata a votação em Camargo (RS) no 2º turno, mas não divulga números",
-   "O Globo traz resultados de Lula x Flávio Bolsonaro em cada país onde brasileiros votaram, sem indicar margens",
-   "UOL oferece acompanhamento ao vivo da apuração no Rio de Janeiro, mas ainda não há números oficiais"
+   "TSE interrompe a apuração após o juiz Alexandre Zanin prorrogar o horário de votação.",
+   "Datafolha projeta vitória de Lula, garantindo-lhe um inédito quarto mandato.",
+   "Resultados preliminares de cidades como Camargo (RS) e do Rio de Janeiro já são divulgados, mas a contagem nacional ainda não começou."
   ],
-  "whats_next": "A apuração oficial deve avançar nas próximas horas, com o TSE divulgando números consolidados"
+  "whats_next": "A contagem oficial deve ser retomada nas próximas horas, com o TSE divulgando resultados definitivos."
  },
  "brief_en": {
-  "headline": "Datafolha projects Lula beating Flávio Bolsonaro in the 2º turno",
-  "why_it_matters": "If it holds, Lula would lock in a historic fourth term, while Flávio Bolsonaro stays out of the Oval Office.",
-  "big_picture": "The race splits the nation; counting is just starting and results vary by region, even abroad.",
+  "headline": "TSE pauses count as projections point to Lula win in 2nd round",
+  "why_it_matters": "The official tally is on hold, leaving the country waiting for confirmation, but polls like Datafolha already show Lula could clinch a historic fourth term.",
+  "big_picture": "The showdown between Lula (13) and Flávio Bolsonaro (22) will set Brazil’s political course for the next four years, with domestic and international ripple effects.",
   "details": [
-   "Folha de S.Paulo cites Datafolha’s projection that Lula outpaces Flávio Bolsonaro and would secure a fourth term",
-   "G1 notes voting in Camargo (RS) in the 2º turno, but offers no numbers",
-   "O Globo reports Lula vs. Flávio Bolsonaro results in every country where Brazilians voted, without margin details",
-   "UOL provides a live tally from Rio de Janeiro, but official figures are still pending"
+   "TSE halts the count after judge Alexandre Zanin extended voting hours.",
+   "Datafolha projects a Lula victory, securing an unprecedented fourth term.",
+   "Preliminary results from places like Camargo (RS) and Rio de Janeiro are out, but the national count hasn’t started yet."
   ],
-  "whats_next": "Official results should roll out over the next few hours, with the TSE releasing consolidated numbers"
+  "whats_next": "The official count should resume within hours, with TSE releasing final results."
  },
  "error": null
 }
