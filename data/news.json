@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:15:25.224389-03:00",
+ "updated": "2026-10-26T08:17:25.520639-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos e margem de 4,43 mi de eleitores",
-  "why_it_matters": "A vitória garante a volta de Lula à presidência e define a agenda política e econômica do Brasil pelos próximos quatro anos.",
-  "big_picture": "Com 19,22% de abstenção, a eleição mostrou alta participação e reforçou a legitimidade democrática, apesar das alegações de fraude de Flávio Bolsonaro.",
+  "headline": "Lula vence segundo turno com 51,79% e Flávio Bolsonaro questiona resultado",
+  "why_it_matters": "A vitória consolida a agenda de governo e gera disputa institucional ao desafiar a legitimidade do pleito.",
+  "big_picture": "Com 100 % das seções apuradas, a diferença de 4,430,191 votos sela a disputa, enquanto 19,22% dos eleitores permaneceram ausentes.",
   "details": [
-   "TSE concluiu a apuração de 100% das seções, confirmando 51,79% a 48,21% para Lula e Flávio, respectivamente, com diferença de 4.430.191 votos",
-   "Flávio Bolsonaro classificou o resultado de ‘sacanagem’, prometeu buscar anulação, mas o TSE rebateu as acusações e garantiu a presença de fiscais do PL durante a apuração",
-   "Líderes mundiais, de Washington a Pequim, felicitaram Lula, sinalizando apoio internacional ao novo mandato",
-   "Bahia liderou a queda da abstenção entre turnos, evidenciando maior engajamento regional",
-   "Presidente do TSE fez balanço destacando transparência, lisura e a conclusão plena da contagem"
+   "Flávio Bolsonaro rotula o resultado de ‘sacanagem’ e promete buscar anulação do pleito",
+   "TSE rebate as alegações, confirma presença de fiscais de partidos e nega qualquer retirada",
+   "Líderes mundiais enviam mensagens de parabéns a Lula, reforçando apoio internacional",
+   "Bahia registra a maior queda na abstenção entre turnos, sinalizando maior engajamento regional",
+   "Presidente do TSE faz balanço positivo, destacando transparência e regularidade da apuração"
   ],
-  "whats_next": "Flávio Bolsonaro deve recorrer ao Judiciário enquanto o governo Lula se prepara para a posse em 1º de janeiro de 2027."
+  "whats_next": "Flávio Bolsonaro deve protocolar pedido de contestação ao TSE nas próximas semanas"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51.79% of votes and a 4.43 mi‑voter margin",
-  "why_it_matters": "The win puts Lula back in the Oval Office and sets Brazil’s political and economic agenda for the next four years.",
-  "big_picture": "With 19.22% abstention, turnout was high, bolstering democratic legitimacy despite Flávio Bolsonaro’s fraud claims.",
+  "headline": "Lula wins runoff with 51,79% as Flávio Bolsonaro challenges result",
+  "why_it_matters": "The win locks in the administration’s agenda and sparks an institutional clash over the election’s legitimacy.",
+  "big_picture": "With 100% of precincts counted, a margin of 4,430,191 votes settles the race, while 19,22% of voters stayed home.",
   "details": [
-   "TSE completed counting 100% of precincts, confirming 51.79% to Lula and 48.21% to Flávio, a 4,430,191‑vote gap",
-   "Flávio Bolsonaro called the result ‘rigged’, vowed to seek annulment, but the TSE dismissed the claims and kept PL observers on the floor",
-   "World leaders—from Washington to Beijing—congratulated Lula, signalling international backing for the new term",
-   "Bahia drove the drop in abstention between rounds, showing stronger regional engagement",
-   "TSE president highlighted transparency, integrity and the full completion of the count"
+   "Flávio Bolsonaro calls the outcome ‘rigged’ and vows to seek a nullification.",
+   "TSE rebuts the claims, confirms party poll watchers were present and denies any withdrawal.",
+   "World leaders send congratulations to Lula, underscoring international support.",
+   "Bahia sees the biggest drop in abstention between rounds, indicating higher regional turnout.",
+   "TSE chief gives a positive assessment, highlighting transparency and a smooth count."
   ],
-  "whats_next": "Flávio Bolsonaro is expected to take the fight to the courts while Lula’s team gears up for the Jan. 1, 2027 inauguration."
+  "whats_next": "Flávio Bolsonaro is expected to file a contestation request with the TSE in the coming weeks."
  },
  "error": null
 }
