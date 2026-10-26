@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-26T02:37:23.684725-03:00",
+ "updated": "2026-10-26T02:39:23.952226-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "Lula vira em mais de 200 cidades no segundo turno; consulte - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/lula-flavio-cidades-vira-voto.htm",
-   "source": "UOL Notícias",
-   "published": "2026-10-26T05:31:17+00:00",
-   "desc": " Lula vira em mais de 200 cidades no segundo turno; consulte    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUM0aGlKWnF3cU9pUTJXM2kyWXQzbXY4NWtjN25Ma2xpRmVVR19VY0l2WWdBaUV4cE9fODdsaWN5WkdlX2h0WWg0dHhzWWFlaW14cHZKMFB5MUw1cGotSV9kSnVHMWZpaDhpcTJHQmE4OUV6SjZfQ01KUkRzSld3TmNRU3pjTHhE?oc=5"
-  },
   {
    "title": "Quantas eleições para presidente Lula venceu? Veja histórico do petista - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/quantas-eleicoes-para-presidente-lula-venceu-veja-historico-do-petista.ghtm",
@@ -17,6 +9,14 @@
    "published": "2026-10-26T05:27:41+00:00",
    "desc": " Quantas eleições para presidente Lula venceu? Veja histórico do petista    UOL Notícias ",
    "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOU9DcGRmb1BFOVotcTVQRDBmcFBzclpfanNLSVM1bktPLWRrU3Bfd1otMWY2TWVvQ3FZYk1Cb1RzNHU5c1I4WlZUdzZ2TnlTTDFNb1lWekJUaWgzT0lrNFRjUTZyUk1SUV9heXd2b29LQXJ1RlJkWjd1YURmaGZIUFhSVzNVUTB0UktzQ182RElxVlZ5UGJfNVA3TVBJaGpFam9wenlpUEp0YWcxRVVGVUtHeWVzWFk0UFByQ1VNNGE?oc=5"
+  },
+  {
+   "title": "Os primeiros líderes mundiais a parabenizarem Lula pela vitória - BBC",
+   "link": "https://www.bbc.com/portuguese/articles/c679prgnn48qo",
+   "source": "BBC",
+   "published": "2026-10-26T05:25:50+00:00",
+   "desc": " Os primeiros líderes mundiais a parabenizarem Lula pela vitória    BBC ",
+   "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41U3ExNFZyMjctd2JoaGdDSGE3UWNDS2xfSjN1d1JMUHhuSGJFeGtEc0RXYk1ERG4ycEtBSkk2U3dqRG0wX0FzYW04SThCOEd4dzBGcTV6TTgzVWV6MlAzeHV4MNIBaEFVX3lxTE5xNlpuTGJhOUFad3k2WW0yUzBzREFkbmpLUEpnY1U3Unc3VTNVY05lenZ4R2dhVHBVZlotTlcyQkdod3BNcXFtc2hyMV83R2tDV3U0bVM2NHVXWE5qbWc3M2JpT0FwM2hu?oc=5"
   },
   {
    "title": "Candói: Flávio Bolsonaro tem 51,06% e vence o segundo turno - Congresso em Foco",
@@ -27,45 +27,45 @@
    "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVczRXZYNkQyaEVZNGVnOWtIMUx2VHBPRjFuZnk4eWpqb3VYaUVPZ3FncHVsa3hudV8tbTgwbzJQS2RFT2VzalY0enBOYjJNNHJSb2N4UWxMSXRWbEtZay1pT3NTRzhLOGpMMHZRRkpfQUxzb0NiZksyYWh4UUNKeXB1MjdiSkFQbGJwdWtUREhtSHlqSjVJYWpFdFYxSnYzWFRJQjU2N1RHck0?oc=5"
   },
   {
-   "title": "Flávio Bolsonaro vence eleição presidencial em União Paulista - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/125305/flavio-bolsonaro-vence-eleicao-presidencial-em-uniao-paulista",
+   "title": "Lula ganha em Alto do Rodrigues; veja como a cidade votou - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/125311/lula-ganha-em-alto-do-rodrigues-veja-como-a-cidade-votou",
    "source": "Congresso em Foco",
-   "published": "2026-10-26T05:24:55+00:00",
-   "desc": " Flávio Bolsonaro vence eleição presidencial em União Paulista    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGxPVlJPcjRNck9tZS1scnFhVnhBYVIzcjJfREhaRmFlSThlbFlUNlNKQTMwY2RtSVNFWE9rMlNUaXB4Y29WZGRYWkdMUWlUY194MHhZODRIQjh5ZmdzbzVOTXFiSXFKUG1xTHh3bXdSaVJZOGltcGNCSVpWWEtsZDlRY2tIUFFud1ROWjA3ck9jVmt2a3J4cE0yS0duLWwwWlNMdGdkWmZLUGFTSGk4RQ?oc=5"
+   "published": "2026-10-26T05:25:43+00:00",
+   "desc": " Lula ganha em Alto do Rodrigues; veja como a cidade votou    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTVSbFppYVRybUhoZmhaLTdwRFItUm9wblBmeERZN21OeG9pbzBzQWo2a1lzU2ZGNWJ3TUxoc1ZVanJHUFFKd3VzUDlPeXJ5ZFNYZmVUV09rbHQyTUwwZ0JOaktOYzR1YlplWE5qdWpnY3RXcS1WTkRQM0ZFdEc5Uno5bDVLdDBzWE5xSVpmdDVpVnBsc1JNMU05QXFsdFcwVGh4ek4yelh1Zw?oc=5"
   },
   {
-   "title": "Flávio diz que vai pedir a anulação da eleição presidencial: 'Sacanagem' - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/flavio-bolsonaro-discurso-eleicao-presidente-presidenciais.ghtm",
-   "source": "UOL Notícias",
-   "published": "2026-10-26T04:52:35+00:00",
-   "desc": " Flávio diz que vai pedir a anulação da eleição presidencial: 'Sacanagem'    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkJCeDRyd1MzWjMzUTBzRWpuOTdXeE9DQkt1NExoUjMzWWtnLTRidGNkWFdoSWVyS2dpbE5qdU56QjZXU2VtZElYbnJUTXBLT1Y1Q3NQUTRWR19DU3ZCdUN0MnQ1Vmphc2hBcVUwbXlPVWpBY2Q3U1h4TmVxcENfTGdVZXJhS3Z2MVdVYlptRGswaDVOeHJ0dVd4cWlkYUZRTGdJQUJNcDk4cFZTdDNGQg?oc=5"
+   "title": "Disputa entre Lula e Flávio Bolsonaro tem virada em 19 cidades do RS - G1",
+   "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/26/disputa-lula-flavio-bolsonaro-virada-cidades-do-rs.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T05:00:00+00:00",
+   "desc": " Disputa entre Lula e Flávio Bolsonaro tem virada em 19 cidades do RS    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalpLZUZJZ1pCMl9xbUs5aHktS2JlN0VPdTB0MVNEZ3ZWSFRKeHNFN2NockdsaEt1c3BsRmRtQVpWYnpYcEpLTUhNSDloa202NU8wY1FOZC1DUmFDd1F5NDVQVkNDdUIyM0V2WmhUZFBtdzRTYWZ1UEdxXzlnaWVYY19nSXAxazRyMnVzSVdSSTkxdjcxVXJOeWxPdDAyaW5zeXIxakZ5WmFMdDhMeWNrR01FTnZvd3Bp0gHHAUFVX3lxTE40MGotd256czJTTXBkalRoOFYzdDhmek1MT0trUWdZQ2s5VnhQVEVnVnMzdDFfRGFCYzZUQXNyVld5a0VFQVBKTTA1MGQxMFh2NTdWelRkLXBIcllkRjZkdEt0OXFQZ2szLUtabUxSc181d3Z2LU94cFdNNldkd3pZaFhGeGtyaWgtSWJ6WDJDWkVVd0dOLXZrNXB6M29Sa2FnNzZQYVRMSmZudkxIVzZXZFU3V1R4d09NZ1lGZEE0MXRzQ3RjTTg?oc=5"
   }
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro.",
-  "big_picture": "Com 4,43 milhões de votos a mais, Lula supera a expectativa e mantém o Brasil em direção ao retorno ao multilateralismo.",
+  "why_it_matters": "A vitória garante a continuação da agenda de esquerda e marca a segunda eleição presidencial consecutiva do petista.",
+  "big_picture": "Com 4,43 milhões de votos de diferença e 19,22% de abstenção, o resultado reflete um Brasil ainda polarizado, mas com maioria clara para o PT.",
   "details": [
-   "100% das seções apuradas confirmam 51,79% a 48,21% para Lula e Flávio, respectivamente",
-   "Abstenção de 19,22% indica que quase um quinto dos eleitores não compareceu",
-   "Manchetes de alguns veículos anunciavam vitória de Flávio, mas os dados oficiais mostram o contrário",
-   "Lula virou em mais de 200 cidades, consolidando apoio regional"
+   "100,0% das seções apuradas confirmam 51,79% para Lula e 48,21% para Flávio Bolsonaro.",
+   "Lula supera Flávio em 19 cidades do Rio Grande do Sul e mantém a maioria em Alto do Rodrigues.",
+   "Líderes globais, incluindo presidentes da França e da Argentina, já parabenizaram Lula pela vitória.",
+   "Candói (PL) alegou erroneamente que Flávio teria 51,06% – informação desacreditada pelos dados oficiais."
   ],
-  "whats_next": "Flávio Bolsonaro deve pedir anulação da eleição, mas o TSE avaliará o pedido nos próximos dias."
+  "whats_next": "Lula assumirá o cargo em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial limitada."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left’s agenda alive and blocks Flávio Bolsonaro’s conservative push.",
-  "big_picture": "With a 4,43‑million‑vote cushion, Lula outpaces expectations and steers Brazil back toward multilateralism.",
+  "headline": "Lula wins second round with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left agenda alive and marks the PT’s second straight presidential victory.",
+  "big_picture": "A 4,43‑million‑vote margin and 19,22% abstention show Brazil still split, but the PT has a clear majority.",
   "details": [
-   "All counted precincts show 51,79% for Lula vs 48,21% for Flávio.",
-   "A 19,22% abstention rate means nearly one‑fifth of voters stayed home.",
-   "Some headlines tipped Flávio, but official data say otherwise.",
-   "Lula flipped over 200 towns, cementing regional support."
+   "100,0% of precincts counted confirm 51,79% for Lula and 48,21% for Flávio Bolsonaro.",
+   "Lula beats Flávio in 19 Rio Grande do Sul towns and holds the lead in Alto do Rodrigues.",
+   "World leaders, including the presidents of France and Argentina, have already congratulated Lula.",
+   "Candói (PL) mistakenly claimed Flávio had 51,06% – a figure debunked by official data."
   ],
-  "whats_next": "Flávio Bolsonaro is expected to seek a vote‑nullification; the TSE will review the claim in the coming days."
+  "whats_next": "Lula takes office on Jan. 1, 2027, while Flávio Bolsonaro readies a limited court challenge."
  },
  "error": null
 }
