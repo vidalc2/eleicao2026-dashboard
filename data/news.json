@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:21:18.068966-03:00",
+ "updated": "2026-10-25T22:23:17.300208-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -11,6 +11,22 @@
    "gnews": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeVJkekpFVmdNLU84a3lnWmZ2X0Y3UWVRVFVOTFBXZHFsYS1QNUFCMTExb0xYckF5SGladXZFQWhnNlZWUUV5OUJ0Q0R2c2RwVHBRNHRDR29HYnBVZUFqTFRXNmxQSUpOdjlKMVpybm5DUjJJb19KS2FqcUhISUxwcmNRSnhBWkdLZnZoR0wzSnRRQk4xNmpOUWRXeHhSMWF2ZlVCZEpUb1J4Z0d2Vk14VUU3RkNWdGxqN1V4bW9SQmhVTER1RzVleDllTVl0QnNXNUHSAeABQVVfeXFMUEtiaXhuajhOZGpMYVNNM3FYS1F2S3hqRk9sUElxNGhjRjRuTjZYT3JTZXNTZmVtMWZYODZ2dnZsRjVBNmJ6am5oLVJ6M2xaVGxtdkZMb1JCU0VRS0FIRm0zUHRUQXRITXVFTVdYSmFCYjNERng1Zm1keUZ3MGdKX3VWNjFyd0duUU9EbjBldXhsX0dwSGwtV25KeVpvZGpJYjBka2UtaUtzUHo3dkl5MnFOc2RuaGhhXzd1cXlHWUl0d2VHQVJZMnJpUXhRN0h0MWtoNFUyekQyNFpVT3dmR28?oc=5"
   },
   {
+   "title": "Eleições em Belford Roxo (RJ): veja a apuração do 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-belford-roxo-rj-veja-a-apuracao-do-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T01:14:17+00:00",
+   "desc": " Eleições em Belford Roxo (RJ): veja a apuração do 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWIyM0Q2Yy15aGd2dUE5MVFuZFpHbk1adlVEWEI5RHg4cGZDOGdUTFFiaWpxWFVya0hRVnRJQkRTSGoyTzdsQW4zSzg4ZVhoVFVFTEVwVFZzMDl5dnRsRnc2NW9wN0lXaHpSOUVKQmFVakRaeVNXV2M1TjdZdlpCTUZ2NDBad2UzZWVUZ1lEZkNQQ3lwWkllZGNoZWhDb29manNiOHpGYk5MeHhnMnowUjdaclFDNEJ0UFVkcmZqUDFqamhtSFHSAdQBQVVfeXFMUDJlWHZfUUNMRllSV2VtVjlacnlSOHV3cHczS2dqYnViV1ZWVmdiendZS1lmSzBHR0RaazltVlc4cTNxd1JmUFVGd1ZXQUh4aHZqazE4UThib19BODdibmdaT2lMUUdJRHp2QktyUVBNRUo2MVkzTWs5LVNnNTZaZm01emxCTnJnM19vWktEVVhqOVRDWWZMRVlXbkpkUzFvUGJWbHJLN0wxaE1XdXhFd0ZHa2tZYUd6MnFwWXZOZ1hqY3QwQ2lZd2xQeF9SQ0JUS1d1Mlk?oc=5"
+  },
+  {
+   "title": "Eleições em Contagem (MG): veja a apuração do 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-contagem-mg-veja-a-apuracao-do-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T01:14:02+00:00",
+   "desc": " Eleições em Contagem (MG): veja a apuração do 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejNFV0JDRF9kSUFMbVk4RVNUaHpOVHdxSzVEWUNvX3Yxd19HcE9aT3otWG1wUTloR2ZjcGxISXMxM2o4eml6bTJnT09xUzNHeWdFTDRIb3N0YlZoZzgwcW9uQkZ0Ylplc2hGVVBxOEFqNWZ2dGRkS3FIQVcxMWZzUGsxRUNHUVpfQm9qOXhxbXJaMldRV0pVSmQyU193QldWZUEwb2VkSzQzMGZUWWVMQ2lweTBrWWk3MFBvd0pwT0fSAc8BQVVfeXFMTWI0SGhnLWIyS0tXU1M3cTZHaE9XWlBYQXNTc0QzUjZKX3pVOGtlRGlkSzM3MnM2NlgtX3p0Z2xRbWFOVGhkbkNTLXdKa0FqM014RjNxZ0R1WVRRVGJFeDFaUFdXd2dGZVZObldETjFQZ1R0VW9RZGh0WXFvUUF1eDk3dWljT1BuVjdzam1ERS1PTWdCRmJlZXpsZkFFZ2dfZHJibjV0YkZMUy15Zk5VYzl6T21YVVZSQVJacmtPTzduYndLcXNSLUc5VHpxQzY4?oc=5"
+  },
+  {
    "title": "Eleições em Campo Grande (MS): veja a apuração do 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-campo-grande-ms-veja-a-apuracao-do-2-turno.ghtml",
    "source": "O GLOBO",
@@ -19,53 +35,35 @@
    "gnews": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3Q5eVI1XzVFNnJuWXlxTENYUXdOSllqZ0VFd0VVa0NqZ2ZMdk1jZHV5cGJ6Sm50RUh5NUp3ejMwaGhhQ21yM0pnWE5zQkVjRE5DQ3pzRjd4YmxSWDFrYVE3ajlaOFd4S2NGOGd2ZEhjNjhiSXloVVE1Z0V2MHFkLTV0Qkl4ZUFPUGFNTTJYWjZqd3pOMWphOWZ1YzF0YlhCV21RbnltdzZ6clhOR1ZyUU5HLS1XSmJ6TnVMYmdRV1VhNnFHdEHSAdQBQVVfeXFMTXY4dE9vSnZlRE01WDlRX2NQeXlMMUZUUDZDWjhycTJ5eU9PYmFIRUptcUd0Z0VrdWVON21BU3l1UjVQekdIS3k2RVdFVTlmMEZmdkhFaDlVNkxxSFEwQ3FSZHFTbDQ3MkFwOWw5cXdHSVZUT0NoUnI4cjNhU1VSQkJpWnpFQUUxSEFqakxnXzJZd1ZkTkxyYWRXdURYb01FTWlqQkRIWUU2a2hXSTdJcTB5Q21Od0tTNEhWR2JULXp3TmFPMlZwQ2xhRzMwWDBCd3g5R0Q?oc=5"
   },
   {
-   "title": "Eleições 2026: veja como Pernambuco votou para presidente no 2º turno em comparação com o 1º - O GLOBO",
-   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-veja-como-pernambuco-votou-para-presidente-no-2o-turno-em-comparacao-com-o-1o.ghtml",
+   "title": "Eleições em João Pessoa (PB): veja a apuração do 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-joao-pessoa-pb-veja-a-apuracao-do-2-turno.ghtml",
    "source": "O GLOBO",
-   "published": "2026-10-26T01:13:24+00:00",
-   "desc": " Eleições 2026: veja como Pernambuco votou para presidente no 2º turno em comparação com o 1º    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQzRtRW5FejcxSTJSLXZidXRHLWg0dmxzTXZuWDZGVVdwRWNQY0dBWmNEYnlXeXR2Ylc5b1V6UHIyYVJvSlQxQUFLYjRDTVdBQWtuWTdRY2VCY255ekxaOTVoZ3gtRWpVQ2J0SEl2cEp1ejFyYWxyZzJ0Q1hQZ0JDMGVNdG9KamdJOE1GTkhzdVk5SFhxVE9lWUJBUFVUYkc4NW5DODFpdlpHWEdJa2M2dFBOME5OdDZqWTVmRURFRzU4dnAyZ2ZQVXRuUG9YelVob29OVXhuZjluMGlLNFR0Tjk1bG54WEphUnN6Umg0S1hkM28wZ0ZR0gGGAkFVX3lxTE9EQ1FyUnlXYTBxUHp6NzNRZ1lNOXNUS1NScGxoalR6MFI2NTZmbE11eXRIc3JYSUNBcjVSd3FRdWtlY3F5alZ6TlVOdlI2TTFSeFBwNHAzM2dOT2F6ZGdSV3hUaEQ1NVpBakNLTWYzdnY3TlFpbkZqcmpQQmE5OWJDVzVlMVREbWQ2ekVIb0VENnJQMlQ1UGFRQXhLT1ZnRUo5X1ZKWDQ2dVpvLWU2V2IxQTNvaG1IVWFWc0xpdTd5MnN1c2JzMHJHNWItckxIeGs4RE5xc25jUDVkdy01YVpWeUk2dW1rWnZ3Z3ItaXUwSjd4OWtBeUtPV0ZuZ1o3empmelJRLWc?oc=5"
-  },
-  {
-   "title": "Eleições em Belo Horizonte (MG): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-belo-horizonte-mg-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T01:13:17+00:00",
-   "desc": " Eleições em Belo Horizonte (MG): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTF5bjljUkdteWdsQzNFUENvVGRka1pFY3pOTlM2QnkxRnAtaEdSTTBfdUVWamxXLTctaXdJN0pZQUFfSjJaZ1RVTGROT3VvRXpMa0FLQ3d0WGZkb0RUMll6RmY1SDEySXgxNWJncjEzMUswUEZPcGxob2l6TWxodDdMa193T2ZvclE4dzV1UUlpNWhhNmdRdlBrbTkyS3hISUVKbmp1QlNZR3k2UTJWRm1qWXZWUE9wLVpyTHFrQTlzRzA0UWZOYdIB1wFBVV95cUxNQWxhb1g5Rkl1SFVFOXQ5akJ3b1pZT2RhVGJsQnhKWEZfeEVRT2RsaHpLZnNQYmpkZ0xtdmpMLUhWM1lqNWpxM3U2bmR2YWdYOEVvQ3I5Qk12THp4UWUzaXRMSm8xOElOM2JlZXgweHRwX1dyczNvdEdHWFMwTGxRQm1Dd3pDUlAyREVDakVDMGVkRmp4cS1teGltR3dVdHprZWxrczRqUWVRYmtoOVoyOFR5ZWE5SHBDY3Rka0lzSlhOQ09vdDRsTmdCV19WWnpfZ3NaNDkxWQ?oc=5"
-  },
-  {
-   "title": "Eleições em Vitória da Conquista (BA): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-vitoria-da-conquista-ba-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T01:12:47+00:00",
-   "desc": " Eleições em Vitória da Conquista (BA): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRFBJRFpNem5KLW8yLVBtY3VtMmZQZVVEa1pONmJmR3lmaVlpN0pMbGpBTWpER3piVll6dFRGMHdhZGRHVFJpUHMtUHI1QjIwci0yVlI0TktHcEFvQ21CbVVNRXFrVHdtM09vUXBka1ljRGt5UkVjMEpON3NZLWhGdldMb3ZtOVNBX010SmpzeFdacVlzWHptd2QzLVk0RTdpUzcwVXJYc2NpQlRNT1NFbUNZNTZubjNyNDJUVHdhWlRuLU9fZlI1cURvU1dzaVhz0gHfAUFVX3lxTE83QnlKUkQ3M01nMEJtVUUxOC1vRVRTOTRMTFVvMHc4blpzNXJORGNYSzFRVXh3d241dGRYbFJuaFZPQ3FpbUtScGF5d1pFYkVQMkUwcTc0YTNtRGZLU1N3MlpxR0o3WlNEOENuRmF0bktzdHhKNGZiTVRNd3BjSDNkbWszVHRpaDJwTWpTLWhHWERqSmRmVmNOV3dsQUNTd1Yzd3gxdF9RRXdKUGdXVUREQUtNb2ZqYzhRanYwbzZVd2t1Y2gyZVJiejlpal80TG1ZOVdYZGVJNmRTUG54RlE?oc=5"
+   "published": "2026-10-26T01:13:32+00:00",
+   "desc": " Eleições em João Pessoa (PB): veja a apuração do 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaG9PRWVXQlRwMDFrQUtEQmt4akJKd0dPa25uOWhXOVJxemVNWUVEUE5ZZThDY3RyeVFjQWszbkVkTFRxT3ZRQW4yaDNyUVVmRElENE1JcEpoM01hUkFiSEtLWHdWaTZwSmdndlNaMVVuN3dOQU5zbFE0X0Rpd2tXZXp2RE5LMDVXbTVPckJSZDZYNUFkbmplOS13RVp3ZnBRVWktcEoyVVdwazZFel9JQ29aNF81WFFKTndYcWEzc1hsdnpl0gHTAUFVX3lxTE9iWlhOSHRqSHo1MUMxcmQxTE9yLWkyZVdGSVV6SzhDTHktS3JMWGgxY3NOS0t1S3dMa0tuakxNajZ5QlVqbGRQcVUwMk1jMm9XeWdEc1N3ZWZNbHROa19tQWVZQzhTR0JraWFvN0Q0Ynl0aTh0ZUJqa19kS082N2N1V1ZDZEl3MGl2M3pJOTc5RXB0T2ZfUVhlRUdVZ3c3T0dMU0dzd2VOVGQxWUlYLWgzQlFDUzJZU0ZMYXo2Y2pLTVM1MEJsRFNOeDRyMGFHeXFBdGs?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,78% dos votos válidos, superando Flávio Bolsonaro por 4,4 milhões",
-  "why_it_matters": "A vitória garante a continuidade do governo PT por mais quatro anos e define a agenda política e econômica do país.",
-  "big_picture": "Com 100% das seções apuradas, a margem de 4,426,896 votos mostra um país ainda dividido, enquanto 19,22% dos eleitores se abstiveram.",
+  "headline": "Lula vence segundo turno com 51,78% dos votos válidos",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro, definindo a direção política do país pelos próximos quatro anos.",
+  "big_picture": "Com 100% das seções apuradas, Lula supera Flávio Bolsonaro por 4,427,187 votos, numa eleição marcada por 19,22% de abstenção.",
   "details": [
-   "Apuração completa confirma 51,78% para Lula e 48,22% para Flávio Bolsonaro",
-   "Diferença de 4,426,896 votos determina o resultado final",
-   "Abstenção de 19,22% indica descontentamento de quase um quinto dos eleitores",
-   "Resultados locais em Campos dos Goytacazes, Campo Grande, Belo Horizonte, Vitória da Conquista e Pernambuco seguem a tendência nacional"
+   "Lula: 51,78% dos votos válidos; Flávio Bolsonaro: 48,22%",
+   "Abstenção alta: quase um quinto dos eleitores não votou",
+   "Resultados regionais confirmam tendência nacional – RJ, MG, MS e PB seguem a maioria nacional"
   ],
-  "whats_next": "Lula tomará posse em 1º de janeiro de 2027, encerrando o processo de transição."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos judiciais."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,78% of valid votes, edging Flávio Bolsonaro by 4,4 million",
-  "why_it_matters": "The win extends the PT government for another four years and sets the country’s political and economic agenda.",
-  "big_picture": "With 100% of precincts counted, a 4,426,896‑vote margin shows a still‑divided nation, while 19,22% of voters stayed home.",
+  "headline": "Lula wins second round with 51,78% of valid votes",
+  "why_it_matters": "The win locks in a left‑leaning agenda and blocks Flávio Bolsonaro’s conservative platform, setting the country’s political direction for the next four years.",
+  "big_picture": "With 100% of precincts counted, Lula beats Flávio Bolsonaro by 4,427,187 votes in an election marked by 19,22% abstention.",
   "details": [
-   "Full count confirms 51,78% for Lula and 48,22% for Flávio Bolsonaro",
-   "4,426,896‑vote gap decides the race",
-   "19,22% abstention signals discontent from nearly one‑fifth of the electorate",
-   "Local results in Campos dos Goytacazes, Campo Grande, Belo Horizonte, Vitória da Conquista and Pernambuco mirror the national trend"
+   "Lula: 51,78% of valid votes; Flávio Bolsonaro: 48,22%",
+   "High abstention: almost one‑fifth of voters stayed home",
+   "Regional results mirror national trend – RJ, MG, MS and PB align with the national majority"
   ],
-  "whats_next": "Lula will be sworn in on Jan 1, 2027, closing the transition."
+  "whats_next": "Lula is sworn in on Jan. 1, 2027, while Flávio Bolsonaro eyes legal challenges."
  },
  "error": null
 }
