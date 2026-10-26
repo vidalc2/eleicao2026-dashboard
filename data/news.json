@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:32:25.887786-03:00",
+ "updated": "2026-10-26T05:34:25.163154-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -35,35 +35,35 @@
    "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN05FRUZxQzdvR3hFUXJvVDJaWjUxemdBQWJzVDl3THp0MlEtWTNzeVZqTTNyM24yNVNQa3l4M2xxbzk0R1VqalFWQTdXTWd6NGhMakhXZDlXcU04bHpJR25UYzFzcmFYQWtMelNRN3BNS3FEUy1Fa1ctaWJvajVOR09PTFZHdGtTdFdhMWVqeHZXY2owQU9aMWJ6RFA?oc=5"
   },
   {
-   "title": "Campo Florido: Flávio Bolsonaro tem 52,34% e vence o segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/127144/campo-florido-flavio-bolsonaro-tem-52-34-e-vence-o-segundo-turno",
+   "title": "Panelas: Lula é o mais votado no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127143/panelas-lula-e-o-mais-votado-no-segundo-turno",
    "source": "Congresso em Foco",
-   "published": "2026-10-26T08:24:20+00:00",
-   "desc": " Campo Florido: Flávio Bolsonaro tem 52,34% e vence o segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWhISWhSd1RnWVRiV2xOemlZZzMwa21ZcVVLNE1tb2N1MDBOamR4V1NlazNtaExmN05NbUFJUnRXZl9CalhWaXdzc1AxOVVsbUNSVFA2d3JwTEJqVktnZV9sa3FZWkwzYlloeXdPOFRSWE1yOGpEbmIxVjlURHVRcl9SZ1lLZnJENXhnZ1Z0dWY5Y29vMjJJNXpIWl9rcU1pNFVvdGJUZ3RHeVk1SWZBdWpNMG0?oc=5"
+   "published": "2026-10-26T08:24:18+00:00",
+   "desc": " Panelas: Lula é o mais votado no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOW9ENDlSdUsybU55SXVrOFV1aHN4N2pqdFV1VXpDR0tWQ0FFRDRvYnBmOTlXMUFvWkVMT29fMGlPSFZvYTdrbG9nd3YtX2lMblJSbE1lcS1aVEwtMS1WRUlzN3ZQcnRkc2dyTGRmbk1KVWFwZXFkcnNPaTFyNUFSUDIwWG1hTEd5TFFBaW45WGw1SjR0ZU02SHIzQQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mi de votos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de governo de esquerda e impede a tomada do Palácio pela bancada bolsonarista.",
-  "big_picture": "Com 100 % das seções apuradas e abstenção de 19,22%, o resultado reflete um eleitorado ainda polarizado, mas com margem suficiente para evitar disputa judicial prolongada.",
+  "headline": "Lula vence Flávio Bolsonaro no 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade do governo PT por mais quatro anos, enquanto o Brasil registra 19,22% de abstenção, sinalizando desgaste do eleitorado.",
+  "big_picture": "Com 100% das seções apuradas, a margem de 4,43 milhões de votos confirma a preferência nacional por Lula, apesar de forte contestação nas regiões rurais.",
   "details": [
-   "Em Água Boa (MT) Lula foi o mais votado; em Campo Florido (MS) Flávio Bolsonaro venceu com 52,34%",
-   "Joaçaba (SC) e Bonfinópolis (GO) apresentaram margens próximas ao resultado nacional, confirmando a tendência geral",
-   "Piracicaba e Limeira (SP) também registraram apoio maior a Lula, alinhados ao panorama nacional"
+   "Lula alcançou 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro",
+   "Diferença de 4.430.191 votos em todo o país",
+   "Resultados locais como Água Boa (MT) e Panelas (PE) já mostravam Lula na frente antes da totalização"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia possíveis recursos limitados."
+  "whats_next": "A diplomacia brasileira se prepara para a transição de poder, enquanto o Congresso avalia a composição do novo governo."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51.79% of valid votes, beating Flávio Bolsonaro by 4.43 m votes",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks a Bolsonaro‑led takeover of the Palace.",
-  "big_picture": "With 100 % of precincts counted and turnout at 19.22%, the result shows a still‑polarised electorate but a cushion big enough to dodge a drawn‑out court fight.",
+  "headline": "Lula beats Flávio Bolsonaro in 2nd round with 51,79% of valid votes",
+  "why_it_matters": "The win locks in another four years for the PT government, while Brazil logs a 19,22% abstention rate, signaling voter fatigue.",
+  "big_picture": "With 100% of precincts counted, a 4,43 million‑vote margin confirms a national tilt toward Lula, despite strong rural pushback.",
   "details": [
-   "In Água Boa (MT) Lula led; in Campo Florido (MS) Flávio Bolsonaro won with 52.34%",
-   "Joaçaba (SC) and Bonfinópolis (GO) posted margins close to the national result, confirming the overall trend",
-   "Piracicaba and Limeira (SP) also showed stronger support for Lula, in line with the national picture"
+   "Lula secured 51,79% of valid votes versus 48,21% for Flávio Bolsonaro",
+   "Margin of 4.430.191 votes nationwide",
+   "Local results like Água Boa (MT) and Panelas (PE) already showed Lula ahead before the final count"
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, while Flávio Bolsonaro weighs limited legal options."
+  "whats_next": "Brazilian diplomacy is gearing up for the power transition as Parliament reviews the new cabinet lineup."
  },
  "error": null
 }
