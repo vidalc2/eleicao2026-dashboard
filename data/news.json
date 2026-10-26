@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:38:04.966544-03:00",
+ "updated": "2026-10-26T04:40:07.585521-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -9,14 +9,6 @@
    "published": "2026-10-26T07:08:05+00:00",
    "desc": " Capitão Poço (PA): resultado do local de votação por zonas eleitorais no 2º turno    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSFpMUnozbzF1a01ITDgxSFpkZkswaUVUOTRlZDFnMGRNVmh2enN3ZHFfTG9EM0Z6MzluTEF2dDJrekx6a1NjVGpKeE9jUmJCbkxnWm4yZXRtUVJaZXphai0xZVZORUt5WjR6NU15TVBtVnoxSGhZQkdoYXhhWDVvU0RVTzVPVnRON3FGU08wU0tMSnQwdjVtZTBfWE9lVWNvMWpjY1JZRHNRdU15QUVYWXdLRi04eFloV3BkSTNDVlR2aXBKYkNZdTZMZXBNWjlVd0U2UDJqQ0h0ZjFfT3k00gHuAUFVX3lxTE9VUGFKVjZFNGYzY1pJQ1RJUnlLM2paUkh5Z0I1Smowd1JRckVvWDJZOG1xVlNWZ1Y4RUU5aEJqNG1vcUk4aUJqS2wwZFI0SGhfcVZSdmtNX2dhSWVwUUNjMWo2Y0ZxRmRTT09TSGVZekVYejRwTmgyTTlCQjFpS0ZxSHJnMTdoZ2FhMFZoVDJ4ZmpUSC1fTG5OSl9Ic3pKZkdYMWpTejZ6cXpSTURSUWtDbVk4VE82cVNPbnlPTXNIM1NKSERHSV9uVmlGUGRSR1U3a2FkVXkxYXVKSG5kNHFwVG01dDNDSElkc3BuTXc?oc=5"
-  },
-  {
-   "title": "33ª zona eleitoral de Primavera (PA): votos por local de votação no 2º turno - G1",
-   "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/33a-zona-eleitoral-de-primavera-pa-votos-por-local-de-votacao-no-2o-turno.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T07:08:04+00:00",
-   "desc": " 33ª zona eleitoral de Primavera (PA): votos por local de votação no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOEJuZ29tb004Z3JJZUVCNDRTdzNTSG5IUjk4dFlYc25LQnJma05MdFhHQkl0NWZleFAzVXJoV0lpdkIzOWQxWTNZM29lLTFPc3hIMXk3OWZnUVY1eWV2Mkt0ZUtCVWo2NEVHOXpfSlNqSjViNXpLZXJ1UDFBZVJ1RmtSSTJZNHZ5blpLOUxCVzEzU0JOMjI5X1ZKaWZBVmJTODZaR1lPcUxkZlNJdHhwbEZDTnNkUDBFbk15SDJybGtxYk1idnVIZzZSSE80WFd0dDRhQmtJd3TSAecBQVVfeXFMTWNPTEJ5M3I5S1lqb1JnSHFPdElTaU5ZRFNocDlSVUt0YThza1UzU08tRk5Rd1VKRlBSSFpxN251SWdKdW9Kb1JNanFhNTJteGlsak5nalFwbDVpVzhwb28ycW1naldoV3p3eHBWNHAtVzd5WUJKY2NwMWJ6b2VnX1RQZm44MG8tcHNVT2wwT1Y3MkpzTy1JZ0w1X24tcFQ0dW1iQm5PM0hXWVNJTHJaYmE1SkJOSl80OFF0X0RoVVRwMk5zN05iX1BGczRVVnBySmw1a3ZNOEJWNFdzS25Nb2F2N3k3SEs0?oc=5"
   },
   {
    "title": "EMEF Dom Alonso 1, 3ª zona eleitoral: resultado da votação em Soure (PA) no 2º turno - G1",
@@ -41,29 +33,37 @@
    "published": "2026-10-26T07:31:19+00:00",
    "desc": " Irauçuba escolhe Lula para presidente no segundo turno    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWUlhTWhyYi15YXhfSVdzSlZMMHRiWkdsYzNaR2x4SWNkTW1Qd3h4VENBMFV4ci1ZV0dnX29CY0dhWHhWbG5DN0djRUZLY0ZjRDZMVEhCb3VyQ2tsajRoRUlXd1l6U0tmYnlDa3p5eC1tdXpoSFlxR0Z1bmhnczdnRURGeTJQbUVILVFTSlFWZ2FfbDBoM3puVWIzRVlRZTcyWDZsMExJNA?oc=5"
+  },
+  {
+   "title": "Paranatama: Lula é o mais votado no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/126608/paranatama-lula-e-o-mais-votado-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T07:31:16+00:00",
+   "desc": " Paranatama: Lula é o mais votado no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmJSRnBWWXdwOVJwYlZPQnJOZnlnbzZhcDREeFVlRXloWXcwVTh0TlpnUDdGczd1WkxQczZ2UEotY29FblMzT3ZJTW9kd1RCZFZiWFUxN3BmQXZTbFpyLXh5aFVUbzlqVmVxQVlheUhPMFJja1NXWVVFZjAyTXlZaEk3UXM4d3N1MU8zemNWTlFZZnE0THhHcDlLMVloWjQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política externa e econômica do Brasil pelos próximos quatro anos.",
-  "big_picture": "Com 4,43 milhões de votos de diferença e 19,22% de abstenção, o resultado reflete um país ainda dividido, mas com maioria clara para o PT.",
+  "headline": "Lula vence no 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "Com 4.430.191 votos a mais, o candidato do PT garante a volta ao Palácio do Planalto, enquanto Flávio Bolsonaro fica fora da disputa presidencial.",
+  "big_picture": "A vitória consolida a esquerda no poder e define a agenda política e econômica do Brasil para os próximos quatro anos.",
   "details": [
-   "Apuração completa: 100% das seções confirmam 51,79% a Lula e 48,21% a Flávio Bolsonaro.",
-   "Lula venceu em municípios estratégicos da região Norte e Nordeste, como Campos Belos (GO), Irauçuba (CE) e cidades do Pará (Capitão Poço, Primavera, Soure).",
-   "Abstenção permanece alta, quase um quinto dos eleitores, indicando cansaço ou descrença no processo."
+   "Apuração completa: 100 % das seções confirmam 51,79 % a 48,21 % dos votos válidos.",
+   "Abstenção chegou a 19,22 %, indicando alta participação apesar da polarização.",
+   "Resultados locais – Capitão Poço (PA), Soure (PA) e municípios como Campos Belos, Irauçuba e Paranatama – já confirmam a vitória de Lula nas regiões analisadas."
   ],
   "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando a transição de governo."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win secures a left‑leaning agenda and sets Brazil’s foreign and economic policy for the next four years.",
-  "big_picture": "A 4,43‑million vote margin and 19,22% abstention show a still‑split country, but a clear PT lead.",
+  "headline": "Lula wins second round with 51,79% of valid votes",
+  "why_it_matters": "With a 4.430.191‑vote lead, the PT candidate returns to the Palácio do Planalto, while Flávio Bolsonaro is out of the presidential race.",
+  "big_picture": "The win locks the left in power and sets Brazil’s political and economic agenda for the next four years.",
   "details": [
-   "Full count: 100% of precincts confirm 51,79% for Lula and 48,21% for Flávio Bolsonaro.",
-   "Lula carried key North and Northeast towns – Campos Belos (GO), Irauçuba (CE) and Pará cities like Capitão Poço, Primavera, Soure.",
-   "Abstention stays high, near one‑fifth of voters, hinting at fatigue or distrust."
+   "Full count: 100 % of precincts show 51,79 % to 48,21 % of valid votes.",
+   "Turnout hit 19,22 %, showing strong participation despite polarization.",
+   "Local tallies – Capitão Poço (PA), Soure (PA) and towns like Campos Belos, Irauçuba and Paranatama – already confirm Lula’s win in those areas."
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, kicking off the transition."
+  "whats_next": "Lula will be inaugurated on Jan. 1, 2027, kicking off the transition."
  },
  "error": null
 }
