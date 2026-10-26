@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:37:46.546970-03:00",
+ "updated": "2026-10-25T23:39:48.743183-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -11,14 +11,6 @@
    "gnews": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPX0gyelFGa1V0Yl9PLWdoTGtpdG1HaHFEVDJ5cmZ4MWRCV2FjN2RLQ2pLQ2s3WWczQWk5aXdVdURTWXp0MW5HcVdGUERBX3hwdTcxU0JVVTRzeXJGTkMxMDByd19IVzZhS0M2SlNNSk12eV9sUXhDWURZUUMwNHcyRVhnOWJHTDJRbkRmY1RlQnRZZzlmNVMzMmluT1l6b0xHSWpPMDhFakZYTVBvaFFCUUw0OFNrY0dSb19aUjFnNjkwcllmb1psQ0ZBTFJPTDcwR2tWNk9SQjktSjdUY1ltaFk5Y0F3dXNOdnhMR3ZDNW9tQk54RlNYakZDaEkwd9IBjAJBVV95cUxPM21kc0lOdjQwMFZ1aXgtTGdDQ2p3dTgwTVBpYlJubUFPTDhUX0RENGswTk5LMmx0anBvNk5ibHF1M0prZDFFTVo0Skwtd2daS3l2YlZtLWRPV1VnNlZmXzV5WGk1cU42X0dlenVjTUkxQVZMS1BQemVScU1qa0tDeF9XcF9KREU2bV9jOG5HX29ReWREcVB4ekxHNWVybFdEQ1hramhHbmliZFJTbFpPWTJzakllcHhQSnAwemtnSkQtd3VCMjVHbloxSmxNdWdvQ01jWW1OQUM1eDYtQi1kUFY3bnBmeDl1Q1N0Y2RFb29UVUZuVWxMZ29ndkNsbkNNeGRIZlhkZ185QUJ5?oc=5"
   },
   {
-   "title": "Eleições em Vitória de Santo Antão (PE): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-vitoria-de-santo-antao-pe-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T02:21:49+00:00",
-   "desc": " Eleições em Vitória de Santo Antão (PE): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV1F6N1BZWWRPcmkxSWQxVE1XeEVOV1doLXEtUUZnN3BzOUNsSktncUxMSlhTQzdkQW1wdHB4WXpkSmlzbUdXbmdpUlZYaWRoeUxTd3d3ekVHaXIxOF82dnhnX0c1bTVlTWFvTXB3SHdCTVI3c0RaOGxpVGZwalQ4eWEzZVZXYUVSZWtkUFoyQXpHN0tQdEZoNnpYeUkxSFA4N1ZYN1RoUVRubGx3X3R1ZE1wZ25QMVlVaXh0SmpGMzY2eWlSQ0tQWm4ybDY1OWU1WEcw0gHiAUFVX3lxTFB0VS1mN1BpVkk5bXNiRFpVbUhxejRDUUdlSkJ1bG5mQVpOdTNKX1JZemtENDEtQlREZmJ1cVFiOFplMmRXc1g0YjNHWlpNNDlCMHlzMXlYN0FwX09RWklHX2Z5bU1PZGt2TFNsZUpCaDNjWlA2ZzlhN1B6WGVZMnRzZGZEZUtXcTA4alFtLTNxT1R6eFJqdU02T1I3YmNmYjM5OUtsUXI0Z1VUdEZVdTBsWlJ6eWNQMnpNVW5HWUx0LWdCX2cxNlZUczJJV3F3M0diQkJoMUJjWEs3WWwxUFNDWFE?oc=5"
-  },
-  {
    "title": "Eleições 2026: Lula vence Flávio Bolsonaro na Bahia com 71,31% e amplia vantagem no 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-lula-vence-flavio-bolsonaro-na-bahia-com-7131percent-e-amplia-vantagem-no-2o-turno.ghtml",
    "source": "O GLOBO",
@@ -27,43 +19,51 @@
    "gnews": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQnBLWE41OHZCbXItX3Y1anE0d1hkc0xBREFfV2UzbmNJVDlTV3ZsWjdmV0l6YWxJY2lnQkx1VVFwNlFwQ085VmNTQ0tGaUdPSUMyZXhWOVVzLTZIVGlDUGVrLWlRM2dnbDVueHQycnBxNHF0b1RTbzh0TlQwTmZVNUkxcUxjODdIU1A2Zl9OOVJWLVI1V1dzX1BUbVhmdjkyU2tNODFoeDA0eHJZcnF1QXFnVkt4TF9rTC1JQ1ZhMTFuOUtDSUJfSmN1b19uYzU0Ykc3QWJabTZfR3MtT2w0ZFFhMmNjUDgzbXVOUTRYWDNGaHhYV2RzaDlsUG9DUdIBjAJBVV95cUxPTU5MYlY0dmstcFc1SWVIN3JqRlhJVi1jUVlaUWZQdDZ0LUtKSldxZnJtdXU3VUNtakFOMlItOGszd2t6TG5GY2R1YnpYOHJWSnNuVEJ4ejR3UmRzanU2bFNBbVJOTjdmeEhtSlFXN3M2MlZlSGxrWDhFMjFsdEFvQzNpWXBwdXpZSXpMRmI4SWl1YW0xUFRXd3lxLXliRVJyZjk5Zm1xSExSazRRLWthQm4yUWtwSTFqSldzREFxaUJxTEszeElkeGtST1lfaDAxUkVXVzNqX19YbXJDQXAtQmczbkVXa1pza3hwMmwxM1M3bktKaWhUVEp4eXNuQ2ZZeXpvbFhucmVYWWpE?oc=5"
   },
   {
-   "title": "Eleições 2026: quem ganhou em Parintins (AM) no 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-2026-quem-ganhou-em-parintins-am-no-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T02:18:14+00:00",
-   "desc": " Eleições 2026: quem ganhou em Parintins (AM) no 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1JZM3B0ak14LUNQei02dHcwZGhfZkVTSERsTDBIRjdPZml0WThvUGk2Mmc0bWpTYjFSM194cTIzVE5aR21RWGhleFgyaHNyNVFSWHRndzJkSV85MVVzc1B1TzBKanFSZXlHWEJzZDRtWVJmYXd4TVhORDh1NXo1V3UzekNCLW9OVjhfbDZXZGNMMUFPTXlhX2lBQWprLWVaVVA0ZkVMSXRnUTNqMUVCYUFBa0JqSG9fME1GVnNZdlBES1XSAdIBQVVfeXFMTW9UNGN3XzdqRzhIRUtlb2I3Q25qMXctQnVVQXZfbS1PbWozVEttam1nYXlIV2c2UmNadXdPTnVVdnBuYTJsX2RkZjU4SnpKTHkwUzRQcFlLLTBIY1RuandlbElQcDBwSWdpZExyV09PTjgyblFfaTA2MnotNmRjV3BjWVZTcU1YemNIR19BcnFMMS1HTDZ3SlBrbDQyS01iUzE1b1NxVTF5RGpxSnV1VGc3ZXphc0xiNDllYnFGWnJyQWROTndsWkRPdXd5MTBfZGF3?oc=5"
-  },
-  {
    "title": "Eleições 2026: quem ganhou em Manacapuru (AM) no 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-2026-quem-ganhou-em-manacapuru-am-no-2-turno.ghtml",
    "source": "O GLOBO",
    "published": "2026-10-26T02:17:44+00:00",
    "desc": " Eleições 2026: quem ganhou em Manacapuru (AM) no 2º turno    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUJsZVdNSVdlM19Bb0ZrLTFWc1lSeGs1d0QwQzAtT1c4ZlRRcnVaakd3VkFCT0d6X2ZEMmI4NFdQZFFJWVBzMWFpbWtlQk9WdGxjX01MYXVpcm03dy1EbGpyblUyZnZZYjZ6dTc1MjRZZFFtZVJpSWtvcU1BNWdlZEFrZFVIR0VCZm9IVUptZ053NS1QMU8tcEFHMVJzR1VDZmFLU3QtOTBJZjc0MTczR0RsN1Y4X19RZFdhV1VrQ3Z1NllT0gHTAUFVX3lxTE9wSExRS3cyYzgycU9xNHBHbVg0WjNjREZWQkxYRUdMNjBwMnBweFMxd2xRS09leGQ4V2NSUmY5dkZ2aFU2YlNwVXhORkZhTlYycDgwdnd0T1NzT1VTUzJIYlFXYjJtUU9aV2NTOVZ6MFVyVUg1VDEyRGpBS2h5YjdJcmctckdBYjJTTWY2M1BNU185bVJ1V3JiSmsxOXByTXJsd3lxOXRCM1FrQl9ITEZ5NW8zbVNfRVJhcUt5Rjk3SGFkRTl3Y25RMmlPUnJYUWltU2c?oc=5"
+  },
+  {
+   "title": "Eleições 2026: quem ganhou em São Mateus (ES) no 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-2026-quem-ganhou-em-sao-mateus-es-no-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T02:13:36+00:00",
+   "desc": " Eleições 2026: quem ganhou em São Mateus (ES) no 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWxRWlhxc01peEVzSHBKU21WTW5CenRLMGdtSUlybnR2LW9XQVU3MGozRV8wdkN5S0lLM0xzTWdtOUI3OHRraURhVjBsdU1acjlGbUpMMXBzNTFCOVFPSlBhdkQzTWFINU9EdEctcWhWTXNNbzdJSVdHR3Q2T3k5eVVyY0dwQ200WTM1RkQ5dzhseDItaFNJNk5WamVFZGU5ZUszdUxDWi1fVFpUNHFEajBmZk96WV82ZTd5V1haZHdUVjg50gHTAUFVX3lxTFByMWhWUVd1WXF5ck5RNllnMGc3UjEwOUdiTTVvdTc5cjVGdkJob3FTR1ZiNVVlLUVYdkhidHJYWl9STEZfVmh4NjdUdE5LbGIwTnVIczVWeFlTb0FCTDkzUXFkYWs1SnM4cXIxT1liX2h6Y0hwQm5HMnR4Ulc0WDhPWUZTSTk3RW9IWFJJT3IwekNxVVBBUVE4NjVfdTRZLVR4MVlBM3BRR094WWlIb0Rtb1NLZUUwaHk5RVFvcVluMEhtOUM1OEZJdmRXU3BtWkprYUk?oc=5"
+  },
+  {
+   "title": "Lula vira e fica à frente de Flavio Bolsonaro em Minas Gerais no 2º turno - CNN Brasil",
+   "link": "https://www.cnnbrasil.com.br/eleicoes/lula-vira-e-fica-a-frente-de-flavio-bolsonaro-em-minas-gerais-no-2o-turno/",
+   "source": "CNN Brasil",
+   "published": "2026-10-26T02:12:36+00:00",
+   "desc": " Lula vira e fica à frente de Flavio Bolsonaro em Minas Gerais no 2º turno    CNN Brasil ",
+   "gnews": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3BTUFc3c0h2RldYXzY1djUxQ1diWDlYRGc1OFBfLUNMcEROYjdfR2tqMHdYTTc0MzFoaXp4VWQybEtsT2QwSlB3b3ZwSl9JZ0JRSF9HMDJLVlVlTDh2QXlnalJ6MzV2MnBiREE3UEsyaE5DZGdtRm91SnpZRUNZUmVlSVVIQVgzV3lwVkU3ZGQwVFhSMUJxOXA1aHd3ZjBDdWM3emlnTlZPalhzZVFGUkdR?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence Flávio Bolsonaro no 2º turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade do PT na presidência e define a agenda política para os próximos quatro anos.",
-  "big_picture": "Com 4,430,191 votos a mais e 100% das seções apuradas, o resultado reflete uma disputa acirrada, mas decisiva, com abstenção de 19,22%.",
+  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões de votos",
+  "why_it_matters": "A vitória garante a continuidade do governo de esquerda e define a agenda política e econômica do Brasil para os próximos quatro anos",
+  "big_picture": "Com 100% das seções apuradas, a margem de 4,43 milhões de votos reflete um país ainda dividido, mas com abstenção de 19,22% que indica cansaço eleitoral",
   "details": [
-   "Lula conquistou margens expressivas no Nordeste, 68,93% no Ceará e 71,31% na Bahia",
-   "Flávio Bolsonaro manteve apoio forte em regiões do Sul e Centro-Oeste, mas não conseguiu fechar a diferença",
-   "A participação eleitoral ficou em 80,78%, indicando alta mobilização apesar da abstência de quase um quinto dos eleitores"
+   "Lula alcança 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro",
+   "Ganhos expressivos no Nordeste: 68,93% no Ceará e 71,31% na Bahia ampliam sua vantagem regional",
+   "Recuperação estratégica em Minas Gerais, onde Lula ficou à frente, e consolidação de apoio em municípios como Manacapuru (AM) e São Mateus (ES)"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
+  "whats_next": "Lula iniciará a transição de governo e será empossado em 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula beats Flávio Bolsonaro in 2nd round with 51,79% of valid votes",
-  "why_it_matters": "The win keeps PT in the presidency and sets the policy agenda for the next four years.",
-  "big_picture": "With a 4,430,191‑vote margin and 100% of precincts counted, the race was tight but decisive, with 19,22% abstention.",
+  "headline": "Lula wins the 2nd round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million votes",
+  "why_it_matters": "The win secures a left‑leaning government and sets Brazil’s political and economic agenda for the next four years",
+  "big_picture": "With 100% of precincts counted, the 4,43‑million‑vote margin shows a still‑divided country, but a 19,22% abstention rate signals voter fatigue",
   "details": [
-   "Lula posted strong margins in the Northeast – 68,93% in Ceará and 71,31% in Bahia",
-   "Flávio Bolsonaro held solid support in the South and Central‑West, but couldn’t close the gap",
-   "Turnout hit 80,78%, showing high mobilisation despite nearly one‑fifth abstaining"
+   "Lula gets 51,79% of valid votes vs 48,21% for Flávio Bolsonaro",
+   "Strong gains in the Northeast: 68,93% in Ceará and 71,31% in Bahia widen his regional edge",
+   "Strategic rebound in Minas Gerais and solid support in towns like Manacapuru (AM) and São Mateus (ES)"
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, kicking off his second term."
+  "whats_next": "Lula will start the transition and take office on Jan. 1, 2027"
  },
  "error": null
 }
