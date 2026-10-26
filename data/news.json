@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:30:03.669006-03:00",
+ "updated": "2026-10-26T04:32:07.072945-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos, mas Flávio Bolsonaro ainda triunfa em municípios do interior",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda, enquanto os ganhos locais de Flávio revelam resistência regional ao governo.",
-  "big_picture": "Com 100% das seções apuradas, a diferença de 4,430,191 votos reflete um país ainda profundamente dividido, e a abstenção de 19,22% indica descontentamento generalizado.",
+  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos, mas Flávio Bolsonaro ainda triunfa em municípios do Pará",
+  "why_it_matters": "A vitória de Lula garante a continuidade de sua agenda nacional, enquanto os ganhos regionais de Flávio sinalizam uma base de apoio ainda robusta no Norte",
+  "big_picture": "Com 100% das seções apuradas, a diferença de 4,430,191 votos evidencia um país ainda profundamente dividido, refletido na abstenção de 19,22% dos eleitores",
   "details": [
-   "TSE confirma totalização final: Lula 51,79% vs Flávio 48,21% dos votos válidos, margem de 4,430,191 votos.",
-   "Flávio Bolsonaro venceu em Leoberto Leal, demonstrando força em áreas rurais.",
-   "Em Pará, resultados de Capitão Poço, Primavera e Soure mostram variações locais, com alguns municípios favorecendo Lula e outros Flávio.",
-   "A ampliação do horário de votação, conforme cronologia do Poder360, foi adotada para acomodar eleitores e pode ter influenciado a participação."
+   "TSE confirma totalização final: Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos",
+   "Em Capitão Poço, Primavera e Soure (PA), os resultados locais apontam vitória de Flávio Bolsonaro, conforme cobertura do G1",
+   "Flávio Bolsonaro também vence em Leoberto Leal, destacando seu desempenho em áreas rurais do interior",
+   "A ampliação do horário de votação, detalhada pelo Poder360, assegurou que todas as urnas fossem concluídas antes da apuração final"
   ],
-  "whats_next": "A diplomação oficial ocorrerá nos próximos dias, iniciando a transição para o governo Lula."
+  "whats_next": "Lula se prepara para a posse em 1º de janeiro, enquanto Flávio Bolsonaro planeja capitalizar seu apoio regional nas próximas eleições"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of votes, but Flávio Bolsonaro still wins in rural towns",
-  "why_it_matters": "The win keeps the left agenda alive, while Flávio’s local gains show regional push‑back.",
-  "big_picture": "With 100% of precincts counted, a 4,430,191‑vote gap shows a deeply split nation, and 19,22% abstention signals broad discontent.",
+  "headline": "Lula wins 2º round with 51,79% of valid votes, but Flávio Bolsonaro still triumphs in Pará municipalities",
+  "why_it_matters": "Lula’s win keeps his national agenda alive, while Flávio’s regional gains show a still‑strong base up north.",
+  "big_picture": "With 100% of precincts counted, a 4,430,191‑vote gap shows a deeply split country, reflected in a 19,22% voter abstention.",
   "details": [
-   "TSE confirms final tally: Lula 51,79% vs Flávio 48,21% of valid votes, margin 4,430,191 votes.",
-   "Flávio Bolsonaro won in Leoberto Leal, showing strength in rural areas.",
-   "In Pará, results from Capitão Poço, Primavera and Soure show local swings – some towns for Lula, others for Flávio.",
-   "Extended voting hours, per Poder360 timeline, were used to accommodate voters and may have boosted turnout."
+   "TSE confirms final tally: Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes",
+   "In Capitão Poço, Primavera and Soure (PA), local results show Flávio Bolsonaro winning, per G1",
+   "Flávio Bolsonaro also wins in Leoberto Leal, highlighting his strength in rural interior areas",
+   "Extended voting hours, detailed by Poder360, ensured all ballots were cast before final count"
   ],
-  "whats_next": "Official certification will happen in the coming days, kicking off the Lula transition."
+  "whats_next": "Lula gears up for a Jan 1 inauguration, while Flávio Bolsonaro aims to cash in on regional support in upcoming elections"
  },
  "error": null
 }
