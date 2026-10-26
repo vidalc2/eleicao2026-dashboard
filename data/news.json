@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-26T07:35:10.623202-03:00",
+ "updated": "2026-10-26T07:37:13.753386-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
-   "title": "Líderes mundiais parabenizam Lula pela vitória nas eleições no Brasil - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/26/lideres-mundiais-parabenizam-lula-apos-vitoria-nas-eleicoes-no-brasil.ghtm",
-   "source": "UOL Notícias",
-   "published": "2026-10-26T10:29:17+00:00",
-   "desc": " Líderes mundiais parabenizam Lula pela vitória nas eleições no Brasil    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeS1YQlByZnZMdS14Z3ZmZ29xWEJSUFJSclNmMlEtUFFlcTNVb3B4NjdSVEZ6dzVILU8weGUzRXdMYnFHVEdKaVYtaUZEV2N0MkIwWnlGVTZUcmw0dmFjdVpzS3ZreXdlMnFWZHVZem9sb1ZZQXcxSFNGRkYtVkpvYXFYR2IybGEyLUU5YkowTnBkQUJXbkNnZ0kxdU5jZ1E3WWE1SUpJN2tCZnV1X09xTndXQkpZVl9Lb0JrZWRoSQ?oc=5"
+   "title": "Bahia lidera queda na abstenção entre turnos da eleição presidencial de 2026 - G1",
+   "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/26/bahia-lidera-queda-na-abstencao-entre-turnos-da-eleicao-presidencial-de-2026.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T10:22:39+00:00",
+   "desc": " Bahia lidera queda na abstenção entre turnos da eleição presidencial de 2026    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONEVmNGk5T1NVSFI0ZDRJNUtuVGxoX1QwcUNSSWMzRkZmZEFQdHFxTGFBTHlIQ2YwRk4xOTRKLU9jMmVNakplbmc4aHJoM0pwSllqY1BTZFVvamJHcFVERXBnUTJuWHk2OFFwMHdpVV9oUUVoTnIzRG9jb0dBUGU2UzNQN0xDOXNtUktqS1lnM1c2S1c4OU5vSG9IOGFIMFppbWpSZmFjUTFaM05pY19ybGdRT0dFNmEtR2hkXzVNZHliZmJmU05RYi1jUXFqeU1yU0NHVjNsNTVKaWhmV2fSAewBQVVfeXFMUFlSbUE3ZmFUVVAtNG1Qbm9hYTFGS2dVYTRFeWktSFptWmtVeW9HUFNnQVdUUWtkN3JoZzdCYl9rS0dCbE9uWE9qQUpBUGVCTWJxRDlkSVgxMmpEbmxYTld0LVlOSEZOUzREU3lXWEFQbVNxempKTDdOSVF6YXdiNkM0Y0VyalhuMlFyUU5SSmlhT0dIMFd5OGpEQml2ZXZQSS1sUkh5YVFJaEJVdW9YLVJqTlNBNTRiaWlTZ2NBNEFYa0xwckk5TGh1MlBCa1EzcWpKSkE4bENrZk1aVjZ1Sjc2amg2Z2hmWTdrZVU?oc=5"
   },
   {
    "title": "26ª zona eleitoral de Barreirinha (AM): votos por local de votação no 2º turno - G1",
@@ -44,26 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e reafirma a posição do Brasil no cenário internacional.",
-  "big_picture": "Com 4,430,191 votos a mais que Flávio Bolsonaro, Lula supera a oposição em um pleito com 19,22% de abstenção, consolidando o mandato até 2030.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,4 mi de votos",
+  "why_it_matters": "A vitória assegura a continuidade das políticas de esquerda e impede a volta do bolsonarismo ao Palácio da Alvorada",
+  "big_picture": "Com 19,22% de abstenção, a participação foi alta; a queda na abstenção na Bahia mostra mobilização regional, enquanto municípios como Rio Novo já registram 57,42% para Lula",
   "details": [
-   "Líderes mundiais enviam felicitações, destacando a importância da democracia brasileira",
-   "Resultados regionais reforçam a vitória: Rio Novo registra 57,42% para Lula e Divisa Nova também o escolhe",
-   "Em festa da vitória, Lula pediu ao público que cantasse o Hino da Independência, simbolizando unidade nacional"
+   "Lula chega a 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro, diferença de 4.430.191 votos",
+   "Bahia lidera a redução da abstência entre turnos, sinalizando maior engajamento nas áreas rurais",
+   "Divisa Nova e Rio Novo já registram maioria clara para Lula (57,42% em Rio Novo)",
+   "Em celebração, Lula pediu ao público que cantasse o Hino da Independência",
+   "Todas as seções (100%) já foram apuradas, confirmando o resultado final"
   ],
-  "whats_next": "Lula assume a presidência em 1º de janeiro de 2027, iniciando seu segundo mandato"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos judiciais"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and reaffirms Brazil’s standing on the world stage.",
-  "big_picture": "With 4,430,191 more votes than Flávio Bolsonaro, Lula beats the opposition in a race that saw 19,22% abstention, securing a term through 2030.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, edging Flávio Bolsonaro by 4,4 mi votes",
+  "why_it_matters": "The win keeps left‑wing policies on track and blocks a return of bolsonarism to the Palácio da Alvorada",
+  "big_picture": "Turnout was high at 80,78% (19,22% abstention); Bahia’s drop in abstention signals regional mobilisation, and towns like Rio Novo already show 57,42% for Lula",
   "details": [
-   "World leaders send congratulations, underscoring the importance of Brazil’s democracy.",
-   "Regional results cement the win: Rio Novo gives Lula 57,42% and Divisa Nova does the same.",
-   "At the victory party, Lula asked the crowd to sing the Independence Anthem, a nod to national unity."
+   "Lula at 51,79% of valid votes vs 48,21% for Flávio Bolsonaro, a gap of 4.430.191 votes",
+   "Bahia leads the drop in abstention between rounds, indicating higher rural engagement",
+   "Divisa Nova and Rio Novo already show a clear Lula lead (57,42% in Rio Novo)",
+   "Celebrating, Lula asked the crowd to sing the Independence Anthem",
+   "All precincts (100%) have been tallied, confirming the final result"
   ],
-  "whats_next": "Lula takes office on Jan. 1, 2027, kicking off his second term."
+  "whats_next": "Lula will be inaugurated on Jan 1, 2027, while Flávio Bolsonaro weighs legal challenges"
  },
  "error": null
 }
