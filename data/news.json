@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T09:06:01.143099-03:00",
+ "updated": "2026-10-26T09:07:59.550849-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "Com 4,43 mi de votos de diferença, a vitória reafirma a liderança de Lula num país ainda polarizado, enquanto a abstenção de 19,22% evidencia cansaço eleitoral.",
-  "big_picture": "O retorno de Lula ao Palácio do Planalto sinaliza continuidade das políticas de esquerda e abre caminho para alianças internacionais, contrastando com a agenda conservadora de Flávio Bolsonaro.",
+  "headline": "Lula vence Flávio Bolsonaro no 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e reforça a posição do Brasil no cenário internacional.",
+  "big_picture": "Com diferença de 4,430,191 votos e 19,22% de abstenção, o resultado evidencia um eleitorado ainda polarizado, mas decisivo.",
   "details": [
-   "TSE concluiu a apuração: 100 % das seções, Lula 51,79 % x Flávio Bolsonaro 48,21 % dos votos válidos; margem de 4,430,191 votos.",
-   "Líderes de EUA, UE e outros países enviaram mensagens de parabéns, reforçando a importância geopolítica da eleição.",
-   "Lula divulgou discurso completo, destacando unidade nacional, democracia e planos de investimento social.",
-   "Mapa de resultados mostra Lula vencedor na maioria dos estados, enquanto Flávio manteve apoio em regiões do Norte.",
-   "Na Unidade Escolar Presidente Medici, 89ª zona eleitoral (Lagoa do Sítio, PI), o resultado confirmou a vitória de Lula."
+   "Resultado oficial do TSE com 100% das seções apuradas",
+   "Lula obteve 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro",
+   "Abstenção chegou a 19,22%, indicando que quase um quinto dos eleitores não votou",
+   "Líderes internacionais já parabenizaram Lula pela vitória",
+   "Mapa de votação mostra Lula vencendo em estados-chave, enquanto Flávio triunfou em algumas regiões do Nordeste"
   ],
-  "whats_next": "Lula deve assumir a presidência em 1 de janeiro de 2027 e iniciar a formação de seu governo."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes",
-  "why_it_matters": "A 4,43 mi‑vote margin re‑asserts Lula’s lead in a still‑polarised country, while 19,22% abstention shows voter fatigue.",
-  "big_picture": "Lula’s return to the Planalto Palace signals continuity of left‑wing policies and opens doors for international alliances, a stark contrast to Flávio Bolsonaro’s conservative agenda.",
+  "headline": "Lula beats Flávio Bolsonaro in runoff with 51.79% of valid votes",
+  "why_it_matters": "The win keeps the left agenda alive and boosts Brazil’s standing abroad.",
+  "big_picture": "A margin of 4,430,191 votes and 19.22% abstention shows a still‑polarized but decisive electorate.",
   "details": [
-   "TSE completed the count: 100 % of precincts, Lula 51,79 % vs Flávio Bolsonaro 48,21 % of valid votes; margin of 4,430,191 votes.",
-   "U.S., EU and other leaders sent congratulations, underscoring the election’s geopolitical weight.",
-   "Lula released his full speech, stressing national unity, democracy and social‑investment plans.",
-   "Result map shows Lula winning most states, while Flávio held on in parts of the North.",
-   "At Unidade Escolar Presidente Medici, 89th voting zone (Lagoa do Sítio, PI), the count confirmed Lula’s win."
+   "Official TSE count with 100% of precincts reported",
+   "Lula got 51.79% of valid votes vs 48.21% for Flávio Bolsonaro",
+   "Abstention hit 19.22%, meaning almost one‑fifth didn’t vote",
+   "World leaders have already congratulated Lula",
+   "Vote map shows Lula winning key states, while Flávio held pockets in the Northeast"
   ],
-  "whats_next": "Lula is set to take office on Jan 1 2027 and start building his cabinet."
+  "whats_next": "Lula will be sworn in on Jan 1, 2027, starting his second term."
  },
  "error": null
 }
