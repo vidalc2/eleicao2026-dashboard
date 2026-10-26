@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:14:41.641197-03:00",
+ "updated": "2026-10-26T06:16:43.224101-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -35,35 +35,35 @@
    "gnews": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNHlvRGtVemNmdDVfaVRLQWI5clhaNjRZNzFtdXNLVGwwZ3VsTkJWNkxGMERHNlE3dDFUQVVKdTJ4N19qVVJCSzBUNFB3WklxeHhpVjhCaktnSU5xSnNsRXYzcHg3bTdVMmhUeGlDNC1IT3NfbEFFSVlJVXlRRlRQVVdTSmFvWFVfS25CeW9QSVhXLTBkOGFCVA?oc=5"
   },
   {
-   "title": "Flávio Bolsonaro vence a eleição presidencial em São Lourenço da Serra - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/127550/flavio-bolsonaro-vence-a-eleicao-presidencial-em-sao-lourenco-da-serra",
+   "title": "Cerejeiras: Flávio Bolsonaro tem 79,12% e vence o segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127552/cerejeiras-flavio-bolsonaro-tem-79-12-e-vence-o-segundo-turno",
    "source": "Congresso em Foco",
-   "published": "2026-10-26T09:10:11+00:00",
-   "desc": " Flávio Bolsonaro vence a eleição presidencial em São Lourenço da Serra    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHZ4WEdfSGZlS0c0RTVtS1lhTFNjTnVRRWFPY3QxVE5HTkFHUm82R2Q3Skh3OGowUkp6dmVaZnNlT0EyVzYzR1g3YWM1Sm5sOHIyMFp1dHE3YV9UbmRhdUJRM24wTXNVYUNnSUdjMVZBWkVaVWhDYXB3aG9SQ0JWdWhhQzlnemRnLUthSGNuNndCc09vd0lPTjNEQ05BZ1lEX0l5V3ZyVkFkWHo4LVEtN1RTdDU5amNhSHdfUg?oc=5"
+   "published": "2026-10-26T09:10:15+00:00",
+   "desc": " Cerejeiras: Flávio Bolsonaro tem 79,12% e vence o segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0hFMWhZZEpsTkxiRVl1em1SSERVY2VlSlNmNnNDSUllQ0VVQU5pc2hBTXlIYU1WMGYtUGJ2N29GRGZwWDBmVk1rb0YtWmlQaDdJWjhQV210QWZwNjh4aG9Qb1U2SWZCdjEySDBNUy1pNjFQOGFRRzlWN3FvWVVqdjJ5Zl95UGNuNlNwdHdLZ19KRDQzNHJkVWhENnpoZkl4UTJRMXUwRTFOMmZuSkFOWA?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões de votos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define o rumo político e econômico do Brasil pelos próximos quatro anos.",
-  "big_picture": "Mesmo com 19,22% de abstenção nacional, a maioria dos eleitores optou por Lula, refletindo a polarização regional evidenciada nos resultados estaduais e municipais.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade da agenda do PT e define a direção política e econômica do Brasil para os próximos quatro anos.",
+  "big_picture": "Com 100% das seções apuradas, Lula superou Flávio Bolsonaro por 4,43 milhões de votos, mas a margem estreita e a abstenção de 19,22% revelam um eleitorado ainda dividido.",
   "details": [
-   "Voto por região foi decisivo: o Nordeste e Centro‑Oeste deram maioria a Lula, enquanto o Sudeste e Sul favoreceram Flávio, segundo análise do UOL Notícias",
-   "Na Bahia, a apuração terminou às 23h com abstenção de 16,72%, abaixo da média nacional, e Lula liderou o estado",
-   "Municípios como Lagoa da Canoa (RN) e Caicó (RN) registraram Lula como candidato mais votado, enquanto São Lourenço da Serra (SP) foi a única citada onde Flávio venceu"
+   "Lula 51,79% x Flávio 48,21% dos votos válidos; diferença de 4.430.191 votos",
+   "Abstenção nacional foi de 19,22%, enquanto na Bahia ficou em 16,72%, indicando maior mobilização local",
+   "Lula venceu em municípios como Lagoa da Canoa (PI) e Caicó (RN); Flávio dominou Cerejeiras (SC) com 79,12%, mostrando polarização regional"
   ],
-  "whats_next": "A posse de Lula está marcada para 1º de janeiro de 2027, enquanto Flávio prepara contestação judicial dos resultados"
+  "whats_next": "Lula será empossado em 1º de janeiro; Flávio Bolsonaro deve avaliar recursos e contestação dos resultados."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million votes",
-  "why_it_matters": "The win secures the left’s agenda and sets Brazil’s political‑economic direction for the next four years.",
-  "big_picture": "Even with 19,22% national abstention, most voters chose Lula, underscoring regional polarization in state and municipal results.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win secures the PT agenda and sets Brazil’s political‑economic course for the next four years.",
+  "big_picture": "With all precincts counted, Lula beat Flávio Bolsonaro by 4,43 million votes, yet a slim margin and 19,22% abstention show a still‑split electorate.",
   "details": [
-   "Regional vote was decisive: Northeast and Central‑West backed Lula; Southeast and South leaned toward Flávio, per UOL News.",
-   "In Bahia, counting wrapped at 23h with 16,72% abstention—below the national average—and Lula led the state.",
-   "Municipalities such as Lagoa da Canoa (RN) and Caicó (RN) put Lula on top, while São Lourenço da Serra (SP) was the lone spot where Flávio won."
+   "Lula 51,79% vs Flávio 48,21% of valid votes; 4.430.191‑vote gap",
+   "National abstention 19,22%; Bahia 16,72%, indicating higher local turnout",
+   "Lula won in towns like Lagoa da Canoa (PI) and Caicó (RN); Flávio swept Cerejeiras (SC) with 79,12%, highlighting regional polarization"
   ],
-  "whats_next": "Lula’s inauguration is set for Jan 1, 2027, as Flávio readies a legal challenge to the results."
+  "whats_next": "Lula takes office Jan 1; Flávio Bolsonaro will weigh appeals and contesting the results."
  },
  "error": null
 }
