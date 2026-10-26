@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:59:08.221932-03:00",
+ "updated": "2026-10-26T02:01:10.529800-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -14,7 +14,7 @@
    "title": "Os argumentos de Flávio para pedir anulação da eleição — e o que dizem especialistas - BBC",
    "link": "https://www.bbc.com/portuguese/articles/crkg7ywjj8l0o",
    "source": "BBC",
-   "published": "2026-10-26T04:30:00+00:00",
+   "published": "2026-10-26T04:33:41+00:00",
    "desc": " Os argumentos de Flávio para pedir anulação da eleição — e o que dizem especialistas    BBC ",
    "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xeC1SUE9MRC0yTDVOcmdrajV0MzJMZjh4Y3pwa3lweEpmX3dVTXBBcFFtMmhQREJKOFN0NUxibjZ0OEVFYkVSb2dnUEcwMDk4eUctazBHQV83dHQ1R1d5ajFTWdIBaEFVX3lxTFBlWWNxcGE1QnY1d2VkNDZieXp0YjhtS0hpN3RLM0ZxNndsejlSX3dzNm1lZTU1VU4tdlpKcGhGeHRLT01RRGN5cEplbWtyMEJLY0hobkc5ekJkb1A5RlpqQlN6SXc5ZUI4?oc=5"
   },
@@ -45,27 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória garante a continuidade do PT no poder e define a agenda política para os próximos quatro anos.",
-  "big_picture": "Com 19,22% de abstenção, a eleição mostra alta polarização, mas a margem de 4,43 milhões de votos confere a Lula um mandato sólido.",
+  "why_it_matters": "A vitória garante a continuidade do governo PT por mais quatro anos e impede a agenda de direita de Flávio Bolsonaro.",
+  "big_picture": "A eleição mostra um Brasil ainda polarizado, com quase 20% de abstenção, mas confirma que a coalizão de centro‑esquerda manteve a maioria nacional.",
   "details": [
-   "Apuração completa: 100% das seções declaradas",
-   "Diferença de votos: 4.430.191 a favor de Lula",
-   "Abstenção em nível de quase um quinto dos eleitores (19,22%)",
-   "Resultados confirmados em municípios-chave como Valparaíso de Goiás, Foz do Iguaçu e Taboão da Serra"
+   "Resultado final: Lula 51,79% (4.430.191 votos a mais) vs Flávio Bolsonaro 48,21%.",
+   "Abstenção chegou a 19,22% do eleitorado, indicando cansaço ou descrença no processo.",
+   "Flávio Bolsonaro já anunciou pedido de anulação, alegando irregularidades; especialistas dizem que o recurso tem pouca chance de prosperar."
   ],
-  "whats_next": "Flávio Bolsonaro anuncia pedido de anulação e recurso ao TSE"
+  "whats_next": "O TSE analisará o pedido de anulação nos próximos dias, enquanto a posse de Lula está marcada para 1º de janeiro de 2027."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "The win secures a PT second term and sets the policy agenda for the next four years.",
-  "big_picture": "With 19,22% abstention, the election shows deep polarization, but a 4,43‑million vote margin gives Lula a solid mandate.",
+  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win extends the PT government for another four years and blocks Flávio Bolsonaro’s right‑wing agenda.",
+  "big_picture": "The vote shows Brazil still split, with almost 20% abstention, but the centre‑left coalition kept its national majority.",
   "details": [
-   "Count complete: 100% of precincts reported",
-   "Vote gap: 4.430.191 for Lula",
-   "Abstention just under one‑fifth of voters (19,22%)",
-   "Key municipalities confirmed: Valparaíso de Goiás, Foz do Iguaçu and Taboão da Serra"
+   "Final tally: Lula 51,79% (4.430.191‑vote lead) vs Flávio Bolsonaro 48,21%.",
+   "Abstention hit 19,22% of voters, signalling fatigue or distrust in the process.",
+   "Flávio Bolsonaro has filed an annulment request, citing irregularities; experts say the challenge has slim odds."
   ],
-  "whats_next": "Flávio Bolsonaro announces request for annulment and appeal to the TSE"
+  "whats_next": "The TSE will review the annulment request in the coming days, while Lula’s inauguration is set for Jan. 1, 2027."
  },
  "error": null
 }
