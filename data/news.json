@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-26T00:11:59.066655-03:00",
+ "updated": "2026-10-26T00:13:58.854079-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Eleição presidencial registra 124 milhões de votos válidos; veja a diferença em relação a 2022 - G1",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/eleicao-presidencial-registra-124-milhoes-de-votos-validos-veja-a-diferenca-em-relacao-a-2022.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T03:02:15+00:00",
+   "desc": " Eleição presidencial registra 124 milhões de votos válidos; veja a diferença em relação a 2022    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcHNVWkI0dlo3Y3REXzI1S05LYjVXWkhobUdPSzhoMWVQVmhNMl9nMWE1MkVvdzIyajZEcERkd3B0Wlh0R2RYTVV6WEtBNVFNSmdUX1NIRWJFdzdKb0lSeFU2M0lTTEJtY3YzWE5OSjBoU1VfZ2hqcUkwTFBERlZZemczQVA3c2lmWWN1OUxrTzE4OC1VNllXRUZZWHMyZjFZWXhBbVB6VFNNUEhtYnNiTHlyODV5ckczVW92ZkFFYjdKU3J0Mi1kUFFjaEdRS01zVHBJbHJkaHZqa29RVU9URkJlbVRONTZSQTlIWUYtZTkyMW1u0gGDAkFVX3lxTFBPNUl5NHd1VEpDSldSQnZHdG85NGhfNk12OHNHdzlnWmRpLUNTeGVkcldYWlV3eDRJUG9peVRNYnpueTZnbmlJcGRpSGdVSFdESEsyZUItOERCRWJNc0Y3d3NOalltQ3ZDdnp0UFRYcTY4TnJPaWhRcTFhVjBvMHB1TldNRmFrWl9zLWpxM05PSnFuYUpTRU00QlBJVndtNzZDSjZHd041ZVNBa1ZHZzNMbHY0ejZHMEtnRnpUQlZjVGdONy0yX20tU2g3eHU4T0VvcFFXOGlTTGpQaE9XaU14dDlIb3VxeVk0ZDFwWXBxR3UtWllmZ0Rncng5R3EzcTRIOE0?oc=5"
+  },
   {
    "title": "Eleições em São Pedro da Aldeia (RJ): veja a apuração do 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-sao-pedro-da-aldeia-rj-veja-a-apuracao-do-2-turno.ghtml",
@@ -33,39 +41,31 @@
    "published": "2026-10-26T02:59:48+00:00",
    "desc": " Eleições em Queimados (RJ): veja a apuração do 2º turno    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHlOS3pRYzRmOTF3em1KYVJBbFJXMnk5QTdud1JPc1BOdjI2YXRLcTBURUlVVTV5S2MtMUhCU2czQkVWdVpzZHpTdmxwUGNENWxwTGVDSHc0SGN3U3JFSFVvcl9icW16WlJlRHZ1Yl81aENsSE9RNEV2c1h6VWNpdXRMaFNiRTc0cUY5RUVNanRTNmxjNE5JUGhGa2pOZ3c5MmFkam5vTEVvYmF1QzA3MjAwVVRCM0dHYVYtSkNtV3p6d9IB0AFBVV95cUxON2FTUl9RdWtNTXBuYXlaTHZ2OUN3OU9tOE1IZ3VtQzdKT29zTzV1YkZWRk1hbzAyU1dUZmlhemxJclFxbjA3dUFHMTlwSXN5S1gzLW12VzQ2YVhEUDVvY0VmLTFuQjVwNHd2VktPcU1iaW1pbjFzRHVoUUlSLXJidVg3a3RsLVQ0MDZRRWZKZHpEckxib3hsQmprQUVjbms5M0x6YS1ieURFWGdGZC1xX0RCVWFUUFVVQXQtNVIyQ1JpWkJnSkpMUFdqSXRTOG82?oc=5"
-  },
-  {
-   "title": "Eleições em Lavras (MG): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-lavras-mg-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T02:59:03+00:00",
-   "desc": " Eleições em Lavras (MG): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc3pJY0FEMy0yaUZteWp2MHJVSE1PbkE0dDFRSExkSV9SREUtOTBXWmR4dW8zejNSU0k1My1Kd0R5b3dIOTk1c2prT0dDOE5FMDFxcHpCaHU1QkFUbjlXMzltSzNkM1FMNmd6eUlaMVJMdVlVLXI5NlJDQ0Zob01BaWJzUXI1Q2J6T1hEZVRLa0d6bVVJdFdia1pxbXhUZDA4NUVETEZQWG9kOGJaZXg5YklITHRtdDhwYXl5ZG9R0gHMAUFVX3lxTE9ueVQxTVF5anhHb3VtbjVOZ0VnT0tBdEpONzlWNXpUSjBORXBhMzREVk94UnhTQlo2b29jNmNKNjNHU0FvVU5jLXdRWTVsVk5XNTF6SlpBQ0xvd3RXaDVQMUo2RHJZVTBSUGM3eUNLak9PTUFxYjNVR3hpVC1oVEt5QldZTU1PRlU5OE5LcE9PZEl2dVRFekRRS3dEYUhRekoxeUhyd3NrX3ZfRlY4YzZMZjdCNThHSjg4Q29QNUJOc2N0aWFsRVB1dkVUMg?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões",
-  "why_it_matters": "A vitória assegura a continuidade da agenda do PT e impede a candidatura de Flávio Bolsonaro, que buscava romper a hegemonia governista.",
-  "big_picture": "Com 100 % das seções apuradas, a abstenção ficou em 19,22%, mostrando alta participação e legitimação do resultado.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões de votos",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de governo de esquerda e impede a ascensão de um mandato de direita liderado por Flávio Bolsonaro.",
+  "big_picture": "Com 124 milhões de votos válidos e 19,22% de abstenção, a eleição demonstra alta participação e ainda forte polarização no Brasil.",
   "details": [
-   "Lula liderou nas apurações de municípios do Rio de Janeiro como São Pedro da Aldeia, Rio das Ostras e Queimados, reforçando a tendência nacional",
-   "O segundo turno registrou menos votos em branco e nulos que o primeiro, indicando maior definição dos eleitores",
-   "A diferença de 4.430.191 votos garante margem confortável para contestação judicial, se houver",
-   "A totalização final confirma a vitória de Lula antes da madrugada de 26/10"
+   "Lula 51,79% x Flávio Bolsonaro 48,21% – diferença de 4.430.191 votos",
+   "Abstenção ficou em 19,22%, indicando que quase um quinto dos eleitores não compareceu às urnas",
+   "O segundo turno registrou menor número de votos brancos e nulos que o primeiro, reforçando a decisão clara dos eleitores",
+   "Apurações municipais – São Pedro da Aldeia, Rio das Ostras e Queimados (RJ) – confirmaram a tendência nacional a favor de Lula"
   ],
-  "whats_next": "Lula assume a presidência em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos ao TSE"
+  "whats_next": "Lula tomará posse em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara recursos judiciais para contestar o resultado."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "The win keeps the PT agenda alive and blocks Flávio Bolsonaro’s bid to break the governing party’s hold.",
-  "big_picture": "With 100 % of precincts counted, abstention sat at 19,22%, showing strong participation and legitimacy.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million votes",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks a right‑wing term under Flávio Bolsonaro.",
+  "big_picture": "With 124 million valid votes and 19,22% abstention, turnout was high and Brazil remains sharply polarized.",
   "details": [
-   "Lula led in Rio de Janeiro towns like São Pedro da Aldeia, Rio das Ostras and Queimados, reinforcing the national trend.",
-   "The runoff saw fewer blank and null votes than the first round, signalling clearer voter choices.",
-   "A difference of 4.430.191 votes gives a comfortable cushion against any legal challenge.",
-   "Final tallies confirmed Lula’s win before the early hours of Oct 26."
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% – margin of 4.430.191 votes",
+   "Abstention at 19,22%, meaning almost one‑fifth of voters stayed home.",
+   "Runoff saw fewer blank and null votes than the first round, underscoring a clear voter decision.",
+   "Municipal tallies – São Pedro da Aldeia, Rio das Ostras and Queimados (RJ) – mirrored the national swing toward Lula"
   ],
-  "whats_next": "Lula takes office Jan 1, 2027, while Flávio Bolsonaro weighs appeals to the TSE."
+  "whats_next": "Lula is sworn in on Jan 1, 2027, while Flávio Bolsonaro readies legal challenges to the result."
  },
  "error": null
 }
