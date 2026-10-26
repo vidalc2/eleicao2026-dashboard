@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-25T23:39:48.743183-03:00",
+ "updated": "2026-10-25T23:41:47.850547-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Eleições em Rio Claro (SP): veja a apuração do 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-rio-claro-sp-veja-a-apuracao-do-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T02:34:50+00:00",
+   "desc": " Eleições em Rio Claro (SP): veja a apuração do 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3pjZkh2NTBXc2ZmcjM3OWZoZVJyYVRiV3RJajJHQnRGNFpYSkdzMmJpZGlUQ2VxQk82X2tjSkthTldjMEFnWklrTUdyLVgtQzNIUnNYbHBhVlFtaVhnOEtRQ2VCQkxsMDVnYktWclNBT2ZCQU5HVUQyaGVNZEtYOFdWaElsdTVMR0xYbzAtay1fNnoxN05hSGYxNWNkaFNIN0taYUJ6QUVZM291VXBiR3B6NVJJQ2M1cGlkWTZ0bS1NUdIB0AFBVV95cUxOTF84cTRXd3d4TkxrSENkMGpCV1c4RUg5aWZwaXpVanZsV0ZnNXgzdXJvaTlaSEZIY3hoNXhjZ0xSc1h4MW9FaGZ2d3U3R0JvbDc0Z3dIYlhENGtWRExQN0lBNXdkc1NBcGJHLUp2S0xCWG1McV9iTFFobmFZLURHR0dkSkFTVGFFQXRjeXFudkd2blg2VlpucDR2c19LMnhUUGM4dEQtTmwwOGJoTmxxNjl6TEFsblpCb09fbFVGamN1Y3hUbnNoN0picDJnYVhS?oc=5"
+  },
+  {
+   "title": "Eleições em Presidente Prudente (SP): veja a apuração do 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-presidente-prudente-sp-veja-a-apuracao-do-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T02:34:20+00:00",
+   "desc": " Eleições em Presidente Prudente (SP): veja a apuração do 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZVJQLWphTk1QeTFjWVF6d00zV216aVlRRkV1eW9vLUJRbmpkUnJNdHptOWhIS05pNk1KbGpqV0poOHBuYy1EdEtsSVlENGdJRllDTjhfcWNCY0NZemc1eXRiRjZNNzM1UFczZE0yYkVaMWd0aTBlWVJKM1RPQVFoaTViWTNaNlNUak9qdHlDMi1FRnkzNV9OUzBLOHVmRVZrd2VIUHJjUFdnblNoTjcwSFdJMkd5bEV2SEN3OXRwVmYyVGhmcUZra2NjZU9QNXPSAd4BQVVfeXFMT19BTDJkdWhHZXBqeENfZm9PczlfbHZveXBlLWkyTTQ0alpUVzh6ci1wWkxRRnRvNUdVMGFZVkh3bUtSVzRmeXFFbURxaVpZVUh4d0JpRWRtRml3WGthd211ZFU1ZDVwVTd2eXpRSlRsdGh2Z09DSng2MDIxWVZ1YWlRbTN4V0RRNkprU2daSkRZejlyV1c3QjhfR0ZYZ2lqVlVZMXlCeElzZzFFMjlNY2xoMGFuYVRNZFBxREk4dmR4UHFQSkVZZV9ZSVhjRVQ1aVVNeVE3OXRBZGw0YThn?oc=5"
+  },
   {
    "title": "Eleições 2026: Lula vence Flávio Bolsonaro no Ceará com 68,93% e amplia vantagem no 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-lula-vence-flavio-bolsonaro-no-ceara-com-6893percent-e-amplia-vantagem-no-2o-turno.ghtml",
@@ -25,45 +41,29 @@
    "published": "2026-10-26T02:17:44+00:00",
    "desc": " Eleições 2026: quem ganhou em Manacapuru (AM) no 2º turno    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUJsZVdNSVdlM19Bb0ZrLTFWc1lSeGs1d0QwQzAtT1c4ZlRRcnVaakd3VkFCT0d6X2ZEMmI4NFdQZFFJWVBzMWFpbWtlQk9WdGxjX01MYXVpcm03dy1EbGpyblUyZnZZYjZ6dTc1MjRZZFFtZVJpSWtvcU1BNWdlZEFrZFVIR0VCZm9IVUptZ053NS1QMU8tcEFHMVJzR1VDZmFLU3QtOTBJZjc0MTczR0RsN1Y4X19RZFdhV1VrQ3Z1NllT0gHTAUFVX3lxTE9wSExRS3cyYzgycU9xNHBHbVg0WjNjREZWQkxYRUdMNjBwMnBweFMxd2xRS09leGQ4V2NSUmY5dkZ2aFU2YlNwVXhORkZhTlYycDgwdnd0T1NzT1VTUzJIYlFXYjJtUU9aV2NTOVZ6MFVyVUg1VDEyRGpBS2h5YjdJcmctckdBYjJTTWY2M1BNU185bVJ1V3JiSmsxOXByTXJsd3lxOXRCM1FrQl9ITEZ5NW8zbVNfRVJhcUt5Rjk3SGFkRTl3Y25RMmlPUnJYUWltU2c?oc=5"
-  },
-  {
-   "title": "Eleições 2026: quem ganhou em São Mateus (ES) no 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-2026-quem-ganhou-em-sao-mateus-es-no-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T02:13:36+00:00",
-   "desc": " Eleições 2026: quem ganhou em São Mateus (ES) no 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWxRWlhxc01peEVzSHBKU21WTW5CenRLMGdtSUlybnR2LW9XQVU3MGozRV8wdkN5S0lLM0xzTWdtOUI3OHRraURhVjBsdU1acjlGbUpMMXBzNTFCOVFPSlBhdkQzTWFINU9EdEctcWhWTXNNbzdJSVdHR3Q2T3k5eVVyY0dwQ200WTM1RkQ5dzhseDItaFNJNk5WamVFZGU5ZUszdUxDWi1fVFpUNHFEajBmZk96WV82ZTd5V1haZHdUVjg50gHTAUFVX3lxTFByMWhWUVd1WXF5ck5RNllnMGc3UjEwOUdiTTVvdTc5cjVGdkJob3FTR1ZiNVVlLUVYdkhidHJYWl9STEZfVmh4NjdUdE5LbGIwTnVIczVWeFlTb0FCTDkzUXFkYWs1SnM4cXIxT1liX2h6Y0hwQm5HMnR4Ulc0WDhPWUZTSTk3RW9IWFJJT3IwekNxVVBBUVE4NjVfdTRZLVR4MVlBM3BRR094WWlIb0Rtb1NLZUUwaHk5RVFvcVluMEhtOUM1OEZJdmRXU3BtWkprYUk?oc=5"
-  },
-  {
-   "title": "Lula vira e fica à frente de Flavio Bolsonaro em Minas Gerais no 2º turno - CNN Brasil",
-   "link": "https://www.cnnbrasil.com.br/eleicoes/lula-vira-e-fica-a-frente-de-flavio-bolsonaro-em-minas-gerais-no-2o-turno/",
-   "source": "CNN Brasil",
-   "published": "2026-10-26T02:12:36+00:00",
-   "desc": " Lula vira e fica à frente de Flavio Bolsonaro em Minas Gerais no 2º turno    CNN Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3BTUFc3c0h2RldYXzY1djUxQ1diWDlYRGc1OFBfLUNMcEROYjdfR2tqMHdYTTc0MzFoaXp4VWQybEtsT2QwSlB3b3ZwSl9JZ0JRSF9HMDJLVlVlTDh2QXlnalJ6MzV2MnBiREE3UEsyaE5DZGdtRm91SnpZRUNZUmVlSVVIQVgzV3lwVkU3ZGQwVFhSMUJxOXA1aHd3ZjBDdWM3emlnTlZPalhzZVFGUkdR?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões de votos",
-  "why_it_matters": "A vitória garante a continuidade do governo de esquerda e define a agenda política e econômica do Brasil para os próximos quatro anos",
-  "big_picture": "Com 100% das seções apuradas, a margem de 4,43 milhões de votos reflete um país ainda dividido, mas com abstenção de 19,22% que indica cansaço eleitoral",
+  "headline": "Lula vence Flávio Bolsonaro no 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define o rumo político e econômico do Brasil pelos próximos quatro anos.",
+  "big_picture": "Com 100% das seções apuradas, Lula supera Flávio por 4,430,191 votos, mas a abstenção de 19,22% mostra que ainda há parcela significativa da população desengajada.",
   "details": [
-   "Lula alcança 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro",
-   "Ganhos expressivos no Nordeste: 68,93% no Ceará e 71,31% na Bahia ampliam sua vantagem regional",
-   "Recuperação estratégica em Minas Gerais, onde Lula ficou à frente, e consolidação de apoio em municípios como Manacapuru (AM) e São Mateus (ES)"
+   "Lula 51,79% vs Flávio 48,21% dos votos válidos, diferença de 4,430,191 votos",
+   "Abstenção em 19,22% do eleitorado, sinal de descontentamento ou cansaço",
+   "Lula consolida vitórias regionais: Ceará (68,93%), Bahia (71,31%) e mantém a maioria em municípios estratégicos como Rio Claro (SP), Presidente Prudente (SP) e Manacapuru (AM)"
   ],
-  "whats_next": "Lula iniciará a transição de governo e será empossado em 1º de janeiro de 2027"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
  },
  "brief_en": {
-  "headline": "Lula wins the 2nd round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million votes",
-  "why_it_matters": "The win secures a left‑leaning government and sets Brazil’s political and economic agenda for the next four years",
-  "big_picture": "With 100% of precincts counted, the 4,43‑million‑vote margin shows a still‑divided country, but a 19,22% abstention rate signals voter fatigue",
+  "headline": "Lula beats Flávio Bolsonaro in 2nd round with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left’s agenda alive and sets Brazil’s political and economic course for the next four years.",
+  "big_picture": "With all precincts counted, Lula leads Flávio by 4,430,191 votes, but a 19,22% abstention signals a sizable disengaged electorate.",
   "details": [
-   "Lula gets 51,79% of valid votes vs 48,21% for Flávio Bolsonaro",
-   "Strong gains in the Northeast: 68,93% in Ceará and 71,31% in Bahia widen his regional edge",
-   "Strategic rebound in Minas Gerais and solid support in towns like Manacapuru (AM) and São Mateus (ES)"
+   "Lula 51,79% vs Flávio 48,21% of valid votes, margin of 4,430,191 votes",
+   "Abstention at 19,22% of voters, a sign of discontent or fatigue",
+   "Lula cements regional wins: Ceará (68,93%), Bahia (71,31%) and holds majorities in key towns like Rio Claro (SP), Presidente Prudente (SP) and Manacapuru (AM)"
   ],
-  "whats_next": "Lula will start the transition and take office on Jan. 1, 2027"
+  "whats_next": "Lula will be sworn in on Jan 1, 2027, kicking off his second term."
  },
  "error": null
 }
