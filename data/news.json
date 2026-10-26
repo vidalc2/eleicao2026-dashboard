@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:43:34.799651-03:00",
+ "updated": "2026-10-26T08:45:33.279887-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuação da agenda do PT e mantém o Brasil sob liderança de esquerda por mais quatro anos, em meio a forte polarização política.",
-  "big_picture": "Com 4,43 milhões de votos de diferença, o resultado reforça a divisão entre os eleitores, enquanto a abstenção de 19,22% indica cansaço ou descrença no processo eleitoral.",
+  "why_it_matters": "A vitória garante a continuidade do governo PT por mais quatro anos, em meio a alta polarização e a abstenção de quase 20% dos eleitores.",
+  "big_picture": "Com 4,43 milhões de votos de diferença, o resultado reflete a divisão do país, mas confirma a liderança de Lula no cenário político nacional.",
   "details": [
-   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos, diferença de 4.430.191 votos",
-   "Abstenção de 19,22% significa que 80,78% dos eleitores compareceram às urnas",
-   "Presidente do TSE descartou anulação da eleição, confirmando a totalização final com 100% das seções apuradas"
+   "100% das seções apuradas confirmam 51,79% para Lula e 48,21% para Flávio Bolsonaro",
+   "Abstenção chegou a 19,22%, indicando descontentamento ou cansaço eleitoral",
+   "Segundo a CNN Brasil, 71% dos novos votos do segundo turno foram para Lula, reforçando a margem final"
   ],
-  "whats_next": "Lula assumirá a presidência em 1º de janeiro de 2027, enquanto o TSE monitora eventuais contestações judiciais."
+  "whats_next": "TSE iniciará a diplomação oficial e a posse está prevista para 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the PT agenda alive and leaves Brazil under left‑wing leadership for another four years amid deep political polarization.",
-  "big_picture": "A 4,43‑million‑vote gap underscores the split, while 19,22% abstention shows voter fatigue or distrust in the process.",
+  "headline": "Lula wins runoff with 51.79% of valid votes",
+  "why_it_matters": "The win extends the PT administration for another four years, amid sharp polarization and nearly 20% voter abstention.",
+  "big_picture": "A 4.43‑million‑vote gap shows the country’s split, but cements Lula’s lead on the national stage.",
   "details": [
-   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes, margin of 4.430.191 votes",
-   "19,22% abstention means 80,78% of voters turned out",
-   "TSE president ruled out annulling the election, confirming final tally with 100% of precincts counted"
+   "All counted precincts show 51.79% for Lula vs 48.21% for Flávio Bolsonaro",
+   "Abstention hit 19.22%, signalling voter fatigue or discontent",
+   "CNN Brazil reports 71% of runoff swing votes went to Lula, bolstering the final margin"
   ],
-  "whats_next": "Lula takes office on Jan. 1, 2027, as the TSE watches for any legal challenges."
+  "whats_next": "The TSE will certify the results and inauguration is set for Jan 1, 2027"
  },
  "error": null
 }
