@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:51:17.449953-03:00",
+ "updated": "2026-10-26T07:53:17.472267-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões de votos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda no Brasil e reflete um eleitorado ainda dividido, com 19,22% de abstenção",
-  "big_picture": "A eleição reforça a posição do Brasil no cenário internacional, com líderes mundiais já parabenizando o presidente eleito, enquanto o país encara desafios de coesão interna e legitimidade eleitoral",
+  "headline": "Lula vence segundo turno com 51,79% e vantagem de 4,43 mi de votos",
+  "why_it_matters": "A vitória consolida a agenda de esquerda e garante ao Brasil um aliado de peso nas relações internacionais.",
+  "big_picture": "Com 100 % das seções apuradas, a eleição foi plena; a abstenção recuou para 19,22%, sinalizando maior mobilização dos eleitores.",
   "details": [
-   "Líderes globais, incluindo chefes de Estado da UE e da América Latina, enviaram mensagens de apoio a Lula após a apuração completa (UOL Notícias)",
-   "Bahia registrou a maior queda na taxa de abstenção entre os turnos, indicando maior engajamento dos eleitores nesta região (G1)",
-   "O presidente do TSE confirmou que a apuração foi concluída sem irregularidades e que não houve retirada de fiscais do PL, assegurando a transparência do processo (Imprensa News Sul; Times Brasil | CNBC)",
-   "Resultados detalhados da 26ª zona eleitoral de Barreirinha (AM) foram divulgados, mostrando a distribuição dos votos por local de votação (G1)"
+   "Líderes mundiais já parabenizaram Lula, reforçando a projeção internacional do Brasil",
+   "Bahia registrou a maior queda na abstenção entre turnos, liderando a tendência nacional",
+   "Presidente do TSE fez balanço oficial do segundo turno, confirmando a totalização final",
+   "TSE refuta alegações de retirada de fiscais do PL durante a apuração",
+   "Resultados detalhados foram divulgados para a 26ª zona eleitoral de Barreirinha (AM)"
   ],
-  "whats_next": "Lula assumirá o cargo em 1º de janeiro de 2027, iniciando seu segundo mandato presidencial"
+  "whats_next": "Lula inicia a transição para assumir a presidência em 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million votes",
-  "why_it_matters": "The win secures a left‑leaning agenda in Brazil and shows a still‑split electorate, with 19,22% abstention",
-  "big_picture": "The result lifts Brazil’s global standing, with world leaders already congratulating the president‑elect, while the country wrestles with internal cohesion and electoral legitimacy",
+  "headline": "Lula wins runoff with 51,79% and a 4,43 mi vote lead",
+  "why_it_matters": "The win cements a left‑leaning agenda and gives Brazil a heavyweight ally on the world stage.",
+  "big_picture": "With 100 % of precincts counted, the vote was decisive; abstention fell to 19,22%, showing higher voter mobilisation.",
   "details": [
-   "Global leaders, including EU and Latin American heads of state, sent messages of support to Lula after the full count (UOL Notícias)",
-   "Bahia recorded the steepest drop in abstention between rounds, indicating higher voter engagement in the state (G1)",
-   "The TSE chief confirmed the count finished without irregularities and no removal of party poll watchers, underscoring transparency (Imprensa News Sul; Times Brasil | CNBC)",
-   "Detailed results from Barreirinha’s (AM) 26th electoral zone were released, showing vote distribution by polling place (G1)"
+   "World leaders have already congratulated Lula, boosting Brazil’s global profile.",
+   "Bahia recorded the biggest drop in abstention between rounds, leading the national trend.",
+   "The TSE chief delivered the official runoff recap, confirming the final tally.",
+   "TSE rejects claims that PL poll watchers were removed during counting.",
+   "Detailed results released for the 26ª electoral zone of Barreirinha (AM)."
   ],
-  "whats_next": "Lula will be sworn in on Jan. 1, 2027, beginning his second presidential term"
+  "whats_next": "Lula begins the transition to take office on Jan. 1, 2027"
  },
  "error": null
 }
