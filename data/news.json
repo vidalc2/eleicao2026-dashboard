@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:24:12.497151-03:00",
+ "updated": "2026-10-26T00:26:41.237809-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -11,6 +11,14 @@
    "gnews": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGF1WVB1a3NTWHp1X0JKRDY5Q1BvQ1pxSC1pTWZvQ2puMENnaVBkLW4taVByYUFBZ2dLa2JJUWNfZ2dZbnJEcC1xbHJrT2NUNmJkVkpyWEpaRTlZRHdEU0U2bndna0RNQklkWDZxczlnY3F0YktJeENkSkxablZ2bEUwOEpIY1BGWFJHejk3bGxJVENnbnQ4WnZBdUJFSHoxaU8wVzNVTkJsVU1RX1JDVURZU1dPVUJYXzVORkpTaDFtNGxyVGc?oc=5"
   },
   {
+   "title": "Eleições em Cubatão (SP): veja a apuração do 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-cubatao-sp-veja-a-apuracao-do-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T03:13:31+00:00",
+   "desc": " Eleições em Cubatão (SP): veja a apuração do 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcld0bHZfcnV6TXlFNnVwWDFXVDU2OHh6WWhkdjZ0NkVWREFaTlFrTmpuaFItaGxGazVFcDBET0pOVWlnUDlzNmY1dm5BV2czR1FMNG1FU0VBazNuX1h4OVZNdDVQVjd6V0tlTGFidEVFNkNHVXpJVkZBOVRONVRqZ09NbXdPMXFsLWl5SWc0MDBQUlNoZHhTMFZBSHNyd0lJczBVb3lFWTZfRzg1ZlVpaXQ0RFB3bnBmUE1zOXFWZw?oc=5"
+  },
+  {
    "title": "Eleições em Cotia (SP): veja a apuração do 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-cotia-sp-veja-a-apuracao-do-2-turno.ghtml",
    "source": "O GLOBO",
@@ -19,51 +27,43 @@
    "gnews": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXJwWW9pcDVlUnBucHM3MWtpbmtubmltR3VlSm1OQnBOMFZrU3hoZjloQ3M0VUlYUmpEbktxdXJNOEVvUFVZWmxWRVNkejlmVHVFVG9mTWZoWVFNbEltT3J5SzRNNnN3OEt2WlFuMF9YSEhGV19BT1RYVHduaGZwdGdqaVF5NlBvWmIza1hyeDY3bV93LXBRcXptdDdDVWZVT3djeE9tenUwbVNVazJfM01JVlBRY2tKZzVTdtIBywFBVV95cUxPa3hnSkVYMjJyR2FpYVZQMWtwQVAxUXdGcW8tLXhsdGllQTVMZ0MyUVQzR08wRnhXc2tPUWVTcHBHZFdFWG5zOUcyUmtTZTU2T21wNTc3emdZUGFlSTlYT0twcGw3WnVVYmxQLXJBY04yTVFUMUd3cjQ1NXIxLUh4Q3hMY2ZsdHN2Vzk4dy02cVo2c25ENkRRU1JXODJZX2U3VWViSlUwSFllSm9ZUHZVN2xzMThJZU5kcDdTYjU0V1F4TUVJaEVwakNHNA?oc=5"
   },
   {
+   "title": "Eleições em Caraguatatuba (SP): veja a apuração do 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-caraguatatuba-sp-veja-a-apuracao-do-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T03:12:30+00:00",
+   "desc": " Eleições em Caraguatatuba (SP): veja a apuração do 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQVQyOGdIZTZJUnhlWUxUclFsU01SV1QtNG5DMHZiUGlSOU9xSzg1OUJoT05jc05NZW5PamdmdDlGZkUzZ3l6d2E5WkxkcHU5SjNydktETVc1cVJhN19fUFd2MkJQbDVXRkxPbUdIQ1pBVG1pUHdVVWZsUF93OW5CT1RQcVEtWHBDNEZwRlA4cTJvazNLcm5SM3RiNzhSSFVRdkVBd29hNElOZTlHUGNNNmgtRWFYNE5Wc2tvVzQ2ZEtHQy1lVG5R0gHWAUFVX3lxTE1QSXpSVFlWWWhHZERxT1hWaUdhcU9OeklXTzljdnNxaXZnY1l2aDM4U1FKTzlISjNmV1c4OW9YNGtXQkVMSFB4dWhPTkFYU09GZzMtbGxuNDdGejA1VG1wOGZYZUhPMWM2VHFZd0NZVDR1Z1RjVldDd2ZhX3ZmS050TVdYc0w5TzlsUU9EaTN2dXZDYmFESzJqR2JFaUl2bFdNQk1ndXoxeGtvcUdRNGVQcW0tSkNmTEhEMXEzd0JEd1kyYjZFWWlVbnl3ejIyRFZlanlzNGc?oc=5"
+  },
+  {
    "title": "Eleições em São Cristóvão (SE): veja a apuração do 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-sao-cristovao-se-veja-a-apuracao-do-2-turno.ghtml",
    "source": "O GLOBO",
    "published": "2026-10-26T03:11:45+00:00",
    "desc": " Eleições em São Cristóvão (SE): veja a apuração do 2º turno    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeWJTRFFRbXUybDlIbzBuQUt1emcwX1NMcnUxTXpIZmJYcERrOENLUjBTbzlVaGVQbHpmaGVRaHdoMFMxZmxJaWgzYm5HUWpieWx2aVJlUkUycFBDdVg5b25lTU5qSFZwNFhHcE5iNDA5YU5XZGJEMzFGcXNkS3I2aTJUNEZuOVpWZ2R3SHRVY0lEUk9SWEl2TVhGVERfOXpMNWJJSUMzY1JPVVFBRzBkNkRvV1dNUDk5RjZyZnNVRnVKZmhHcWNj0gHWAUFVX3lxTFBoWmtLWUFmXzRGU2RoTEVCRlNDN1gzLXdGbmdDS2IwVHpfWThVdnhWUDJiM0lnUG5mWDJqQmlyMVEwakFIY0lVcTdHR1VhMDJBRmp3M2hzSzBXQ0xobW1uRWY0YkRqcjNtU2FsTW9OVjdMMFp5RnB5VlVfTUY2M3JBT0ducVJRNm9EYXRFcDFVRHIzWGx5VEFjbExLeUJ2OTdJekt3MFdVWW5PT3BjZG9JVmhYRURJMk00WXZOdDFfUkVSWlREaW1Cdmp6LVFscmhIUjJtRVE?oc=5"
-  },
-  {
-   "title": "Eleições em Lagarto (SE): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-lagarto-se-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T03:08:41+00:00",
-   "desc": " Eleições em Lagarto (SE): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNjczR2hRMHJZTk9QbE5lOThiSjJybTZiR0YtX05aeUlNWGw4VGQ4c1E3UndBV3p5bWlvWGxTNFYxT1U4YXJrdWhhNDNRMDdJUUhlNl9hZmVqN0k5SWRmX3RSSlJ3aWxsRzY2T014N0paaUZVUW9IUUhMTXgyU2ZXWVlqMGFVYVRNb3V2YndxVnVOVC1YeUFoTkFQbmM1NXdHUjh6V3JjRUpmblZnOFBRdEpwYk85UFhxbFdjbUZGa9IBzgFBVV95cUxNTkhuRy10cHFGRXcyazgwMUdaWUNObzhLQ21PUmNzclZTYkVnTzl5Wk04bWdqNUVwRGUtaXZqdVI5dUhCSTdmZ0xQcDhQYkJMWUdCODJlckhXUDVjN0tUUnZRYXYyM3hvYldLQzBrVWdIRV9DQ1FtR3Y2b1RTcGcwRmFvZk95TUlpa0lvRndzbENxOHBpWXRtUHdFRk15Q0hQSG1MVTJGSndNYy1UQ0xJN3NNQ1RJSnIyT2FCV1NtTFQ5TEVta1l6TWJydVA1dw?oc=5"
-  },
-  {
-   "title": "Eleições em Americana (SP): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-americana-sp-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T03:08:26+00:00",
-   "desc": " Eleições em Americana (SP): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObmZmN3hsU1d0Q1RJeEhkWmcwNnloNjBmYWV0bU9YTHNPcW5aYUxZR2xRTVd0S1YzbENuWk9GaG5iTmw2eE1zZUcyTGdhdExlNGRPZHVsRW5XVFlkRXFTTXdZZ3VqOE53aTVqOUM0YlU1ajhVR0F1WHRacHdCbnJCTHRsX3JoMjJYeTRRQjlxM19zbmJGYlRtalFudjdtNkdzVWpyNzJFT1RkeUVvZGNZaVFwQVNCUEZEOXRWYmxyQUV4Z9IB0AFBVV95cUxPOGR1UmpQUXl3UFB5UnlnVGtRNUFXSWc0MWtnN21hS0tYZ2c5WDNYdDVMY2dWRFN2QlFFeVFXMG02NDA5QWtzVUVwTVFESkt0OG5jQlRsM1ZibHdCSjZ3TjNmWkwtLTFtQnFlb3ZCTmt4N3V2aFBLUDBCMUs1d05jbWw4cWx6MjhiNGl4VE1rYWVuZXRTQVNuUWxwa3l1b1lTV1ZKSU9hUXlPaFAyaUQydy1aSEt3Z3pzR1N6d1NDTG51QXRYLXJ3ODdydExnU1lt?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% contra Flávio Bolsonaro, encerrando a tentativa de retorno do bolsonarismo ao poder",
-  "why_it_matters": "A vitória garante a continuidade do governo PT por mais quatro anos e impede a agenda de extrema‑direita que o candidato de Flávio buscava.",
-  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o pleito mostra a profunda polarização do país, mas confirma que a maioria dos eleitores optou por estabilidade e pelos projetos já em curso.",
+  "headline": "Lula vence no 2º turno com 51,79% dos votos válidos, encerrando a tentativa de retorno do bolsonarismo",
+  "why_it_matters": "A vitória garante a continuidade do governo de esquerda e impede que Flávio Bolsonaro, herdeiro do bolsonarismo, retome o poder",
+  "big_picture": "Com 80,78% de eleitores comparecendo, a eleição mostra que a maioria ainda busca estabilidade institucional, apesar da alta abstenção de 19,22%",
   "details": [
-   "100,0% das seções apuradas confirmam a vitória de Lula (51,79% dos votos válidos) sobre Flávio Bolsonaro (48,21%)",
-   "A margem de 4,430,191 votos supera o que seria necessário para reverter a tendência das pesquisas de última hora",
-   "Apurações locais – Cotia (SP), Americana (SP), São Cristóvão (SE) e Lagarto (SE) – refletiram o padrão nacional, com Lula à frente em todas as cidades"
+   "Lula recebeu 51,79% dos votos válidos, superando Flávio Bolsonaro por 4.430.191 votos",
+   "A apuração está completa (100% das seções), confirmando o resultado sem margem de erro",
+   "A taxa de abstenção ficou em 19,22%, indicando que quase um quinto dos eleitores não participou"
   ],
-  "whats_next": "O TSE oficializa a diplomação; Lula assume a presidência em 1º de janeiro de 2027."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51.79% against Flávio Bolsonaro, ending the bid to bring bolsonarism back to power",
-  "why_it_matters": "The win secures another four years for the PT government and blocks the far‑right agenda Flávio was pushing.",
-  "big_picture": "A 4,430,191‑vote gap and 19.22% abstention underline deep polarization, but most voters chose stability and existing projects.",
+  "headline": "Lula wins 2nd round with 51,79% of valid votes, ending bolsonarist comeback attempt",
+  "why_it_matters": "The win keeps the left‑leaning government in power and blocks Flávio Bolsonaro, bolsonarist heir, from returning",
+  "big_picture": "With 80,78% turnout, voters still favour institutional stability despite a 19,22% abstention rate",
   "details": [
-   "100.0% of counted precincts confirm Lula’s win (51.79% of valid votes) over Flávio Bolsonaro (48.21%)",
-   "A 4,430,191‑vote margin exceeds what’s needed to overturn late‑poll trends",
-   "Local tallies – Cotia (SP), Americana (SP), São Cristóvão (SE) and Lagarto (SE) – mirrored the national picture, with Lula ahead everywhere"
+   "Lula got 51,79% of valid votes, beating Flávio Bolsonaro by 4.430.191 votes",
+   "The count is complete (100% of precincts), confirming the result with no margin of error",
+   "Abstention sits at 19,22%, meaning almost one‑fifth of voters stayed home"
   ],
-  "whats_next": "The TSE will certify the result; Lula takes office on Jan. 1, 2027."
+  "whats_next": "Lula will be sworn in on Jan. 1, 2027, starting his second term"
  },
  "error": null
 }
