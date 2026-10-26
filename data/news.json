@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:05:34.402494-03:00",
+ "updated": "2026-10-26T03:07:33.735548-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "Com 4,43 milhões a mais que Flávio Bolsonaro, o resultado sela a volta do PT ao poder.",
-  "big_picture": "A vitória se consolida apesar de 19,22% de abstenção e de ganhos pontuais de Flávio em municípios como Pratinha.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos",
+  "why_it_matters": "A vitória garante a volta de Lula ao Palácio do Planalto, definindo a agenda política e econômica do Brasil para os próximos quatro anos.",
+  "big_picture": "Com 100% das seções apuradas e 19,22% de abstenção, o resultado reflete a polarização regional, mas confirma a maioria nacional a favor da esquerda tradicional.",
   "details": [
-   "Flávio Bolsonaro perdeu votos em seis estados, mas manteve apoio em alguns municípios, entre eles Pratinha, que o escolheu para presidente",
-   "Lula foi o candidato mais votado no segundo turno, liderando em cidades como Nova Esperança do Sudoeste",
-   "Em um município, Lula e Flávio empataram exatamente, evidenciando a polarização regional"
+   "Flávio Bolsonaro perdeu votos em seis estados entre o 1º e o 2º turno, reduzindo sua competitividade nacional",
+   "Lula foi o candidato mais votado no segundo turno, destacando-se em municípios como Nova Esperança do Sudoeste",
+   "Mesmo com a derrota, municípios como Pratinha mantiveram apoio a Flávio, e um município registrou empate exato entre os candidatos"
   ],
-  "whats_next": "Lula tomará posse em 1º de janeiro de 2027, enquanto Flávio Bolsonaro se prepara para liderar sua bancada no Congresso."
+  "whats_next": "Lula deve assumir a presidência em 1º de janeiro de 2027, iniciando a implementação de seu programa de governo."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "With 4,43 million more than Flávio Bolsonaro, the result seals PT’s return to power.",
-  "big_picture": "The win holds up despite a 19,22% abstention rate and isolated gains for Flávio in towns like Pratinha.",
+  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 mi votes",
+  "why_it_matters": "The win puts Lula back in the Planalto Palace, setting Brazil’s political and economic agenda for the next four years.",
+  "big_picture": "With 100% of precincts counted and 19,22% abstention, the result shows regional polarization but confirms a national majority for the traditional left.",
   "details": [
-   "Flávio Bolsonaro lost votes in six states but kept support in a few municipalities, including Pratinha, which voted him president",
-   "Lula was the top vote‑getter in the runoff, leading in places like Nova Esperança do Sudoeste",
-   "In one municipality, Lula and Flávio tied exactly, underscoring regional polarization"
+   "Flávio Bolsonaro lost votes in six states between round 1 and round 2, denting his national competitiveness.",
+   "Lula was the top vote‑getter in the runoff, standing out in places like Nova Esperança do Sudoeste.",
+   "Even in defeat, towns like Pratinha stuck with Flávio, and one municipality recorded an exact tie."
   ],
-  "whats_next": "Lula will be sworn in on Jan 1, 2027, while Flávio Bolsonaro gears up to lead his congressional caucus."
+  "whats_next": "Lula is set to take office on Jan 1, 2027, kicking off his government program."
  },
  "error": null
 }
