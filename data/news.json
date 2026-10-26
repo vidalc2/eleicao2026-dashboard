@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-26T07:19:07.198435-03:00",
+ "updated": "2026-10-26T07:21:07.757051-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "Líderes mundiais parabenizam Lula pela vitória nas eleições no Brasil - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/26/lideres-mundiais-parabenizam-lula-apos-vitoria-nas-eleicoes-no-brasil.ghtm",
-   "source": "UOL Notícias",
-   "published": "2026-10-26T10:10:50+00:00",
-   "desc": " Líderes mundiais parabenizam Lula pela vitória nas eleições no Brasil    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeS1YQlByZnZMdS14Z3ZmZ29xWEJSUFJSclNmMlEtUFFlcTNVb3B4NjdSVEZ6dzVILU8weGUzRXdMYnFHVEdKaVYtaUZEV2N0MkIwWnlGVTZUcmw0dmFjdVpzS3ZreXdlMnFWZHVZem9sb1ZZQXcxSFNGRkYtVkpvYXFYR2IybGEyLUU5YkowTnBkQUJXbkNnZ0kxdU5jZ1E3WWE1SUpJN2tCZnV1X09xTndXQkpZVl9Lb0JrZWRoSQ?oc=5"
-  },
   {
    "title": "26ª zona eleitoral de Barreirinha (AM): votos por local de votação no 2º turno - G1",
    "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/26a-zona-eleitoral-de-barreirinha-am-votos-por-local-de-votacao-no-2o-turno.ghtml",
@@ -41,31 +33,39 @@
    "published": "2026-10-26T10:12:35+00:00",
    "desc": " Barão de Antonina: Flávio Bolsonaro tem 55,70% e vence o segundo turno    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFFRdEg4NDFoYW9YaE5xS2ptU2luYjNkM3FPVEF1SU1jWkFQSUN4bGRpekpPOEEtVkRJQkFkaV9wZTdjQzZKVmNXTTJCeVgyYjBkTnlTYTVBVnBCMTlpNmVlMnVjbHgyUFJoM1haZnpTU2NsMGY3WHBaUUowcjRjQUptcTdleHJHNEwwR0cxMm1lYUxqUWU0RTk0Vk43N01ITi1KVXpEWnQyZDI4cWhUTlFRV1dvZ2hOekE?oc=5"
+  },
+  {
+   "title": "Flávio Bolsonaro vence em Pimenteiras do Oeste - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/128078/flavio-bolsonaro-vence-em-pimenteiras-do-oeste",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T10:12:31+00:00",
+   "desc": " Flávio Bolsonaro vence em Pimenteiras do Oeste    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0ZQb3hhUnNzWnk2akdZZW5mRGVPU0g4RWczNDVucG4zSXl2NVowNDlhT29FOVRNRkxXdzJ1SzVZVEdoTXhKV3IwYjNaWXBTTWl6NTc3b2VYMW41OXZyWF9tRFNodThwSWNhTWpIYmNQSUlEdUtPR3lBRWt5MFZiTmVtcS1PMVBRVTVNTGdJMXRuMEZVa21LWXlQVWE?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e reforça a posição do Brasil no cenário internacional.",
-  "big_picture": "Com 4,43 milhões de votos a mais que Flávio Bolsonaro, Lula supera a abstenção de 19,22% e consolida a maioria nacional, embora o candidato do centro‑direita ainda domine em municípios como Praia Grande e Barão de Antonina.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, mas Flávio Bolsonaro ainda triunfa em municípios-chave",
+  "why_it_matters": "A vitória de Lula garante a continuidade do governo de esquerda, enquanto os ganhos regionais de Flávio sinalizam forte base no interior e podem influenciar a agenda política.",
+  "big_picture": "Com 4,430,191 votos a mais, Lula supera Flávio, mas a abstenção de 19,22% destaca o desgaste do eleitorado e a polarização persistente.",
   "details": [
-   "100% das seções apuradas confirmam a vitória de Lula (51,79% x 48,21%);",
-   "Líderes mundiais enviam felicitações, destacando a estabilidade democrática do Brasil;",
-   "Lula celebra a vitória pedindo que o público cante o Hino da Independência;",
-   "Flávio Bolsonaro registra maioria em localidades específicas, como Praia Grande (65,98%) e Barão de Antonina (55,70%)."
+   "Resultado nacional oficial: Lula 51,79% vs Flávio 48,21% dos votos válidos, diferença de 4,430,191 votos.",
+   "Lula celebrou a vitória pedindo ao público que cantasse o Hino da Independência em evento público.",
+   "Flávio Bolsonaro venceu em municípios como Praia Grande (65,98%), Barão de Antonina (55,70%) e Pimenteiras do Oeste, mostrando apoio regional forte.",
+   "Apuração por local de votação em Barreirinha (AM) confirmou a tendência nacional a favor de Lula."
   ],
-  "whats_next": "Lula assume a presidência em 1º de janeiro de 2027, enquanto Flávio prepara sua atuação no Congresso."
+  "whats_next": "Lula assumirá em 1º de janeiro, enquanto Flávio Bolsonaro buscará consolidar sua base nos estados onde venceu."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win secures the left‑leaning agenda and bolsters Brazil’s standing globally.",
-  "big_picture": "With a 4,43 million‑vote lead over Flávio Bolsonaro, Lula outpaces the 19,22% abstention rate and clinches a national majority, though the centre‑right still holds sway in towns like Praia Grande and Barão de Antonina.",
+  "headline": "Lula wins runoff with 51,79% of the vote, but Flávio Bolsonaro still wins in key municipalities",
+  "why_it_matters": "Lula’s win keeps the left‑leaning government in power, while Flávio’s regional gains show a solid rural base that could shape the political agenda.",
+  "big_picture": "With a 4,430,191‑vote lead, Lula beats Flávio, but a 19,22% abstention rate underscores voter fatigue and ongoing polarization.",
   "details": [
-   "All counted precincts (100%) confirm Lula’s win (51,79% vs 48,21%).",
-   "World leaders send congratulations, praising Brazil’s democratic stability.",
-   "Lula celebrates, urging the crowd to sing the Independence Anthem.",
-   "Flávio Bolsonaro leads in specific locales, e.g., Praia Grande (65,98%) and Barão de Antonina (55,70%)."
+   "Official national result: Lula 51,79% vs Flávio 48,21% of valid votes, a margin of 4,430,191 votes.",
+   "Lula celebrated by urging the crowd to sing the Independence Anthem at a public event.",
+   "Flávio Bolsonaro won in towns such as Praia Grande (65,98%), Barão de Antonina (55,70%) and Pimenteiras do Oeste, showing strong regional support.",
+   "Vote count in Barreirinha (AM) confirmed the national trend in Lula’s favour."
   ],
-  "whats_next": "Lula takes office on Jan 1, 2027; Flávio gears up for a congressional role."
+  "whats_next": "Lula takes office on Jan. 1, while Flávio Bolsonaro will work to cement his base in the states he won."
  },
  "error": null
 }
