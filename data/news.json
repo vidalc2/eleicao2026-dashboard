@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:25:22.838243-03:00",
+ "updated": "2026-10-26T01:26:58.024393-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política externa do Brasil para os próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas e abstenção de 19,22%, o pleito foi concluído sem atrasos, apesar de alegações de irregularidades que o TSE refutou.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a proposta conservadora de Flávio Bolsonaro de assumir a Presidência.",
+  "big_picture": "Com 100 % das seções apuradas, Lula supera Flávio por 4 430 191 votos, enquanto a abstenção recua para 19,22 % – a menor taxa de não‑voto das eleições recentes.",
   "details": [
-   "1.551 urnas foram substituídas em todo o país, mas o TSE assegurou que não afetaram a contagem.",
-   "O tribunal desmentiu as acusações de Flávio Bolsonaro de que fiscais do PL foram retirados da \"sala‑cofre\".",
-   "Nas 10 cidades com maior queda de abstenção entre turnos, a votação favoreceu Lula, reforçando a mobilização urbana."
+   "1 551 urnas foram substituídas em todo o país, mas não alteraram o resultado final",
+   "O TSE desmentiu as alegações de Flávio de que fiscais do PL foram retirados da ‘sala‑cofre’",
+   "Nas 10 cidades com maior queda de abstenção, a votação favoreceu intensamente Lula",
+   "Mapas estaduais mostram a maioria dos estados – incluindo os tradicionais bastiões do PT – votando em Lula"
   ],
-  "whats_next": "A diplomação oficial de Lula ocorrerá em 30 de outubro, seguida da posse em 1º de janeiro de 2027."
+  "whats_next": "O TSE iniciará a diplomação oficial nos próximos dias, preparando a posse de Lula em 1 de janeiro de 2027."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "The win secures the left‑leaning agenda and sets Brazil’s foreign policy for the next four years.",
-  "big_picture": "With 100% of precincts counted and abstention at 19,22%, the vote wrapped up on time despite fraud claims the TSE dismissed.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro’s conservative bid for the presidency.",
+  "big_picture": "With 100% of precincts counted, Lula beats Flávio by 4 430 191 votes, and abstention falls to 19,22% – the lowest non‑vote rate in recent elections.",
   "details": [
-   "1,551 voting machines were swapped nationwide, but the TSE says it didn’t affect the tally.",
-   "The court debunked Flávio Bolsonaro’s claim that PL poll watchers were pulled from the “vault room.”",
-   "In the 10 cities with the biggest drop in abstention between rounds, votes swung to Lula, underscoring urban mobilisation."
+   "1 551 ballot boxes were swapped nationwide, but didn’t change the outcome.",
+   "The TSE debunked Flávio’s claim that PL poll watchers were pulled from the ‘vault room’.",
+   "In the 10 cities with the biggest drop in abstention, votes heavily favored Lula.",
+   "State maps show most provinces – including PT’s traditional strongholds – backing Lula."
   ],
-  "whats_next": "Lula’s official swearing‑in is set for Oct 30, with the inauguration on Jan 1, 2027."
+  "whats_next": "The TSE will start the official certification in the coming days, setting the stage for Lula’s inauguration on Jan 1, 2027."
  },
  "error": null
 }
