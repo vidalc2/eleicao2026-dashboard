@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:31:31.818695-03:00",
+ "updated": "2026-10-26T08:33:32.142748-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -11,12 +11,12 @@
    "gnews": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWhKSld1ekF1Vk92QUFzeW9JRHl0NEdSamJUejVQNFpzQlZSb3lyRm54SE0xWWlXVWpEbkZLaHZxXzhFc3M1TVFXdjdsR2I1ampNQk5WVldnWDlGREE5NVN4ZFFXZ1VyenVCT2RvX3Q5YnRkaWU5WHVXMnJMMHZ2ekZrTkpLOExVNFplVzk2QXdWaDVtQU1MZTByUjNHS0k?oc=5"
   },
   {
-   "title": "Rio Tinto (PB): resultado do local de votação por zonas eleitorais no 2º turno - G1",
-   "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/26/rio-tinto-pb-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+   "title": "Teixeira (PB): resultado do local de votação por zonas eleitorais no 2º turno - G1",
+   "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/26/teixeira-pb-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
    "source": "G1",
-   "published": "2026-10-26T11:18:45+00:00",
-   "desc": " Rio Tinto (PB): resultado do local de votação por zonas eleitorais no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaWNiSmU4ckxiZzJ3XzhveXpmdWNMVW81R2IzTm0tNDMzOE1UWW0xMldXN28weW9SQXpaNkxsTTY5WkJJb1VwZzhvN3NUVzhVTHNiZmFRYVBaZmdISjhSZk9hYkxXRmp3X1JPaXNXampvYWRPZURhdjJnX3BNdllXT2lzTk9HYmVsYkVyUy10UWxtNkN5MXpFSllyVXRxRXhRc1ZNaVRKdTlFYTUtOEZaNDFIZXpFbjFOR1RGVy05ODVkdF9sMTRNNUFuRjVvWDUtelJUMHlReVJGejVDQWQ40gHuAUFVX3lxTE5UeUw5RUJoZUo1R1kyYUVYWjdDZ2ZTcXozNlgxeFVpQlU2aTl1TGkwdktLLUtCQmtvdER1QzN6SmUyQURsR3Z5MkloNVh0UVVaT0ItRms0T3JZMjczaVpLRUxVR21xbUg4UGlmRUQtRXR5SjgzemFJOWhSaXRiLTc2dzVqSERWRlNOQkp6TlpsZkpyWVF4YmVNLTBkeXpsWTBkVjBiZm9lVFRyaThpM3JwbERic1lqUTVtbTNHSktZQ0RSb05QU2xaVVZyZHZIU0pNaUprWFVPSnpockNUaHpyUnhYbFJZX196TmFNZ2c?oc=5"
+   "published": "2026-10-26T11:18:43+00:00",
+   "desc": " Teixeira (PB): resultado do local de votação por zonas eleitorais no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdl92SU1ibkdvQjlSZWlUbFBNaTNRYjZzYThmeXktMVB1S0dPdEN2V04tOEZKdjYxa3c4d0NJYTI1ZW4tU1ZMWmloT1dBeHhTdnpPdGo0QU5oWU5HVmFkYU0tRDF0M3NtSU8zUVdtYVlOQ0hWWFM0YV9QX3ZSc3hvbkYzOFdHSEtLQjZ0dExVVUpRS0I4X3lXT09GdG9mdnpsdzZSR0V3MDNkV2wwMXBBMDBndzZfYldISWFaeTFFVE9fd1NjUnZJdDRieDRqTS1ieFY0eDN5b3VVcHdwS0HSAewBQVVfeXFMTmFJbExsUHZhTG15eVYzQVRNRDFhcFRCUTFBMV9fRVJrcU9faXloRGwyMGJ2eTVCcXdzSGJfZ3RQVGQ0SHE5MEEtUXhQWmNKS0wzeXJQMlVBLV92cFo2cFVEeUxOU3ZCYlpCWWJpSjFNYTdLTGlkQXRWM2M2QjJWZG9ERU82clVyNmVXTWswUzl0R2JLUnlwWmVOb1A0RGtWeVJNS2tYdExQVDVsVlBob2QtREhQemJ3OG1UeHlIZmJ2c1FlRDg3Q2FBaWNFTGxVYjJ6Q0x0a2hsWUpuM09PUThJeV9QTEw3X2gyOXo?oc=5"
   },
   {
    "title": "Flávio chama resultado do segundo turno de 'sacanagem', diz ser 'impossível' reconhecer derrota e que tentará anulação - G1",
@@ -44,28 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mi de votos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de governo de esquerda e impede a ascensão de Flávio Bolsonaro, mantendo a estabilidade política e institucional do país.",
-  "big_picture": "Com 100 % das seções apuradas, a eleição terminou com abstenção de 19,22 %, refletindo descontentamento, mas confirmando a preferência da maioria dos eleitores válidos.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e encerra a disputa que dividiu o país.",
+  "big_picture": "Com 100% das seções apuradas, a margem de 4,43 milhões de votos reforça a legitimidade do resultado, apesar das alegações de fraude do candidato derrotado.",
   "details": [
-   "71 % dos novos votos do segundo turno foram para Lula, reforçando sua vantagem",
-   "Flávio Bolsonaro classificou o resultado de ‘sacanagem’ e anunciou que vai tentar anular a eleição",
-   "O TSE rebateu as alegações de fraude e negou a retirada de fiscais do PL durante a apuração",
-   "Renan Santos, do PT, afirmou que não houve fraude e que a campanha do petismo foi colossal"
+   "71% dos novos votos do segundo turno foram para Lula, impulsionando sua vantagem (CNN Brasil)",
+   "Flávio Bolsonaro classificou o resultado de “sacanagem” e prometeu buscar anulação nas cortes (G1)",
+   "O TSE refutou as acusações, afirmando que não houve retirada de fiscais nem irregularidades (Rádio Itatiaia)",
+   "Líderes do PT, como Renan Santos, celebraram a vitória e descartaram fraudes, destacando a força da campanha (G1)",
+   "Abstenção ficou em 19,22% e a totalização final confirma os números oficiais (TSE)"
   ],
-  "whats_next": "Flávio Bolsonaro deve entrar com pedido de anulação nos tribunais, enquanto Lula se prepara para a posse em janeiro"
+  "whats_next": "Flávio Bolsonaro deve entrar com recurso ao TSE e, possivelmente, ao STF para contestar o resultado."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mi votes",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro’s rise, preserving the country’s political and institutional stability.",
-  "big_picture": "With 100 % of precincts counted, turnout was down 19,22 %, showing discontent but confirming the majority of valid voters favoured Lula.",
+  "headline": "Lula wins runoff with 51.79% of the vote, beating Flávio Bolsonaro by 4.43 million",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and ends a nation‑splitting contest.",
+  "big_picture": "With 100% of precincts counted, a 4.43 million‑vote margin bolsters the result’s legitimacy, despite the loser’s fraud claims.",
   "details": [
-   "71 % of new runoff votes went to Lula, widening his lead.",
-   "Flávio Bolsonaro called the result ‘rigged’ and said he’ll try to overturn the election.",
-   "The TSE dismissed fraud claims and denied pulling PL observers during the count.",
-   "Renan Santos of the PT said there was no fraud and the left‑wing campaign was massive."
+   "71% of the runoff’s new votes went to Lula, widening his lead (CNN Brasil)",
+   "Flávio Bolsonaro called the outcome “rigged” and vowed to seek annulment in the courts (G1)",
+   "The TSE rejected the accusations, saying no poll watchers were removed and no irregularities occurred (Rádio Itatiaia)",
+   "PT leaders like Renan Santos celebrated and dismissed fraud allegations, pointing to the campaign’s strength (G1)",
+   "Abstention sat at 19.22% and the final tally matches the official TSE numbers (TSE)"
   ],
-  "whats_next": "Flávio Bolsonaro is expected to file an annulment suit, while Lula gears up for a January inauguration."
+  "whats_next": "Flávio Bolsonaro is expected to file an appeal with the TSE and possibly the Supreme Court to challenge the result."
  },
  "error": null
 }
