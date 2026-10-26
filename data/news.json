@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:55:44.410268-03:00",
+ "updated": "2026-10-26T08:56:31.682669-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,27 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política externa do Brasil para os próximos quatro anos.",
-  "big_picture": "Com 4,43 milhões de votos de diferença e 19,22% de abstenção, o pleito reflete ainda uma sociedade polarizada.",
+  "why_it_matters": "A vitória garante a continuidade do governo de esquerda e define a agenda política para os próximos quatro anos.",
+  "big_picture": "Com 4,43 milhões de votos a mais que Flávio Bolsonaro, o resultado reflete a preferência da maioria dos eleitores, apesar de 19,22% de abstenção.",
   "details": [
-   "Apuração completa: 100% das seções declaradas pelo TSE.",
-   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos.",
-   "Mapa de resultados mostra vitória de Lula nas regiões Norte e Nordeste, enquanto Flávio liderou no Sul e Centro-Oeste."
+   "100% das seções apuradas confirmam o placar final",
+   "Flávio Bolsonaro ficou com 48,21% dos votos válidos",
+   "Mapas do G1 mostram a vitória de Lula em quase todas as regiões, com exceções pontuais",
+   "Resultados locais – como na zona 89 (PI) e em Campina Grande – seguem a tendência nacional"
   ],
-  "whats_next": "A diplomação oficial ocorrerá em 30 de outubro, seguida da posse em 1º de janeiro de 2027."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu próximo mandato."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win secures the left‑leaning agenda and sets Brazil’s foreign policy for the next four years.",
-  "big_picture": "A 4,43‑million vote gap and 19,22% abstention show a still‑polarized society.",
+  "headline": "Lula wins runoff with 51.79% of valid votes",
+  "why_it_matters": "The win keeps the left‑leaning government in power and sets the policy agenda for the next four years.",
+  "big_picture": "With a 4.43 million‑vote lead over Flávio Bolsonaro, the result shows most voters’ preference despite a 19.22% abstention.",
   "details": [
-   "Full count: 100% of precincts reported by TSE.",
-   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes.",
-   "Results map: Lula won the North and Northeast, while Flávio led the South and Central‑West."
+   "All counted precincts confirm the final tally",
+   "Flávio Bolsonaro got 48.21% of valid votes",
+   "G1 maps show Lula winning almost every region, with a few outliers",
+   "Local results – like zone 89 (PI) and Campina Grande – mirror the national trend"
   ],
-  "whats_next": "Official certification on Oct. 30, followed by inauguration on Jan. 1, 2027."
+  "whats_next": "Lula will be sworn in on Jan. 1, 2027, kicking off his next term."
  },
  "error": null
 }
