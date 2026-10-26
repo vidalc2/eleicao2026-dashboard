@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:11:56.095438-03:00",
+ "updated": "2026-10-26T04:13:56.591875-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,29 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro, que ainda contava com apoio em regiões-chave.",
-  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete a polarização do país, mas confirma a preferência nacional por Lula.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro",
+  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete um país ainda dividido, mas com maioria clara para Lula",
   "details": [
-   "100% das seções apuradas confirmam Lula com 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro",
-   "Diferença de 4,430,191 votos garante a vitória de Lula",
-   "Abstenção ficou em 19,22%, indicando alto nível de desinteresse ou cansaço eleitoral",
-   "Municípios como Santos Dumont e Buriticupu declararam apoio a Lula, enquanto Assis e o governador Jorge Teixeira apoiaram Flávio, evidenciando divisões regionais",
-   "A ampliação do horário de votação, anunciada pela Justiça Eleitoral, foi implementada sem incidentes e não alterou o resultado final"
+   "100% das seções apuradas confirmam 51,79% para Lula e 48,21% para Flávio Bolsonaro",
+   "A extensão do horário de votação, anunciada pela Justiça Eleitoral, foi decisiva para garantir plena participação",
+   "Municípios como Santos Dumont e Buriticupu declararam apoio a Lula, enquanto Assis e o governador Jorge Teixeira apoiaram Flávio Bolsonaro, evidenciando a polarização regional"
   ],
-  "whats_next": "Lula inicia a transição para assumir a presidência em 1º de janeiro de 2027"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial"
  },
  "brief_en": {
   "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro, who still had footholds in key regions.",
-  "big_picture": "A 4,430,191‑vote gap and 19,22% abstention show deep polarization, but the nation still leans toward Lula.",
+  "why_it_matters": "The win secures the left’s agenda and blocks Flávio Bolsonaro’s conservative push",
+  "big_picture": "A margin of 4,430,191 votes and 19,22% abstention shows a still‑divided country, but a clear majority for Lula",
   "details": [
-   "All counted precincts (100%) show Lula at 51,79% of valid votes vs 48,21% for Flávio Bolsonaro",
-   "A margin of 4,430,191 votes secures Lula’s win",
-   "Abstention sat at 19,22%, signalling voter fatigue or disengagement",
-   "Municipalities like Santos Dumont and Buriticupu backed Lula; Assis and Governor Jorge Teixeira backed Flávio, highlighting regional splits",
-   "Extended voting hours, approved by the Electoral Court, ran smoothly and didn’t affect the outcome"
+   "100% of counted precincts confirm 51,79% for Lula and 48,21% for Flávio Bolsonaro",
+   "Extended voting hours, ordered by the Electoral Court, were decisive for full participation",
+   "Municipalities like Santos Dumont and Buriticupu backed Lula, while Assis and Governor Jorge Teixeira backed Flávio Bolsonaro, underscoring regional polarization"
   ],
-  "whats_next": "Lula begins transition to take office on Jan. 1, 2027"
+  "whats_next": "Lula will be sworn in on Jan. 1, 2027, as Flávio Bolsonaro readies a legal challenge"
  },
  "error": null
 }
