@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:09:56.389464-03:00",
+ "updated": "2026-10-26T04:11:56.095438-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -9,6 +9,14 @@
    "published": "2026-10-26T07:01:35+00:00",
    "desc": " Leia a cronologia da ampliação do horário de votação no 2º turno    Poder360 ",
    "gnews": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUV2R012YXppRHhyb0FteXQxM1VEY2ZUR0FKejJLM2Mxc2RxNGc5TmlwRG9CQWxFWFhZYVJPaHl6WEdNTkhMeUdScWZKMlhaZ0ExcmhtZU9QR05XR3RUSnBTbXlFbHVwN2JHVGxmbXZaMWtVUnNjYldWdU9aSS0xY28tVURwWTVyTm1QeFo3UmJ4cklwemFnZ2U1SW04VkNDNmNxWExDS1RIenBoUThPbU9Ebw?oc=5"
+  },
+  {
+   "title": "Santos Dumont escolhe Lula para presidente no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/126367/santos-dumont-escolhe-lula-para-presidente-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T07:07:06+00:00",
+   "desc": " Santos Dumont escolhe Lula para presidente no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNmRXb3l3LXhaSHdVSWtCU2QtX3NDZWowcXBUTU9fS2trNHB0bEtaVzk1cFdrN0VsLUtWRm5JaGJrSThIWUlhWU5zSS0zTFh6SVYtN2hEOGtXTXNTazVTaVRZQmdtZnBDN1B6dFJETkFZMFdGbExrdUZSblJlS09ocDdsOW1lbzBkY1RtV2JoSmJodUxJaFRySkQzWjJ0TVNIVlpob0dxWmRJSDczYnc?oc=5"
   },
   {
    "title": "Buriticupu escolhe Lula para presidente no segundo turno - Congresso em Foco",
@@ -33,41 +41,33 @@
    "published": "2026-10-26T07:03:24+00:00",
    "desc": " Governador Jorge Teixeira escolhe Flávio Bolsonaro no segundo turno    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMzRVc3NsbEdvbVF1QTdsRjdkdm5zcVdGcVdjWm5Vc3ZWVUYwdHZNbmRrel9ub2RnVUNWZi1DSFNJSnZySzZVbTFjUVphM3c4OEJLTFVtYVFmdnZIbHNYT3U2ZjJhVGQzVmVWalNPRXREbGpsV3d2QmxGZVNhaEstQ3g1cVRPUW1IR3hzMU1ibjhWaXQ3TThPVXJEQWdSWXJfd1ZfYktaWDN3RVpGaTJST1J0MVNCRHNp?oc=5"
-  },
-  {
-   "title": "Em São Vicente Ferrer, Lula vence com 83,39% dos votos válidos - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/126322/em-sao-vicente-ferrer-lula-vence-com-83-39-dos-votos-validos",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T07:03:00+00:00",
-   "desc": " Em São Vicente Ferrer, Lula vence com 83,39% dos votos válidos    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUENSNmIxem53Ym5rM1lpaHlxM3VxWUVmSjdwR2FtNU9FSm0yNk15UkVDaUJSaWFMTkxKUDJEVXg3bTE5U2hFcGszX0s4Tk1vTVUtWElQREpoNFZ0bXFWR1B4dGZDOThYUmw0dWJUdWhZRndXOTBoQVB1Q0htT1pkcmJUdUZsakxJd3ZCTGl4SjZOenRNYnRFSXBWOHgxckt2MGVZUUR3dHo3a1RPaG04?oc=5"
   }
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro.",
-  "big_picture": "Com 4,43 milhões de votos a mais e 19,22% de abstenção, Lula supera Flávio Bolsonaro e consolida apoio em municípios-chave, embora o adversário ainda tenha triunfos regionais.",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro, que ainda contava com apoio em regiões-chave.",
+  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete a polarização do país, mas confirma a preferência nacional por Lula.",
   "details": [
-   "Expansão do horário de votação foi adotada para acomodar alta demanda, conforme cronologia do Poder360",
-   "Buriticupu (MA) escolheu Lula, reforçando sua força no Nordeste",
-   "Assis (SP) registrou vitória de Flávio Bolsonaro, evidenciando resistência no interior paulista",
-   "Governador Jorge Teixeira endossou Flávio Bolsonaro, sinalizando alianças regionais",
-   "Lula obteve 83,39% dos votos válidos em São Vicente Ferrer (MA), destaque de apoio massivo"
+   "100% das seções apuradas confirmam Lula com 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro",
+   "Diferença de 4,430,191 votos garante a vitória de Lula",
+   "Abstenção ficou em 19,22%, indicando alto nível de desinteresse ou cansaço eleitoral",
+   "Municípios como Santos Dumont e Buriticupu declararam apoio a Lula, enquanto Assis e o governador Jorge Teixeira apoiaram Flávio, evidenciando divisões regionais",
+   "A ampliação do horário de votação, anunciada pela Justiça Eleitoral, foi implementada sem incidentes e não alterou o resultado final"
   ],
-  "whats_next": "Lula assume a presidência em 1º de janeiro de 2027, enquanto Flávio Bolsonaro se prepara para liderar sua bancada no Congresso"
+  "whats_next": "Lula inicia a transição para assumir a presidência em 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro’s conservative push.",
-  "big_picture": "With 4,43 milhões more votes and 19,22% abstention, Lula outpaces Flávio Bolsonaro and cements support in key municipalities, though the opponent still pockets regional wins.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro, who still had footholds in key regions.",
+  "big_picture": "A 4,430,191‑vote gap and 19,22% abstention show deep polarization, but the nation still leans toward Lula.",
   "details": [
-   "Voting hours were extended to meet high demand, per Power360 timeline",
-   "Buriticupu (MA) voted for Lula, bolstering his Northeast strength",
-   "Assis (SP) went for Flávio Bolsonaro, showing resistance in São Paulo’s interior",
-   "Governor Jorge Teixeira backed Flávio Bolsonaro, flagging regional alliances",
-   "Lula captured 83,39% of valid votes in São Vicente Ferrer (MA), a massive show of support"
+   "All counted precincts (100%) show Lula at 51,79% of valid votes vs 48,21% for Flávio Bolsonaro",
+   "A margin of 4,430,191 votes secures Lula’s win",
+   "Abstention sat at 19,22%, signalling voter fatigue or disengagement",
+   "Municipalities like Santos Dumont and Buriticupu backed Lula; Assis and Governor Jorge Teixeira backed Flávio, highlighting regional splits",
+   "Extended voting hours, approved by the Electoral Court, ran smoothly and didn’t affect the outcome"
   ],
-  "whats_next": "Lula takes office on Jan. 1, 2027, while Flávio Bolsonaro readies to lead his congressional caucus"
+  "whats_next": "Lula begins transition to take office on Jan. 1, 2027"
  },
  "error": null
 }
