@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:29:07.646565-03:00",
+ "updated": "2026-10-26T07:31:14.850961-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define o rumo político e econômico do Brasil para os próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas, a margem de 4,43 milhões de votos refuta rumores de fraude e mostra que a maioria dos eleitores (80,78% da população apta) optou por Lula.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "Define a direção política do Brasil pelos próximos quatro anos e consolida a coalizão de esquerda, enquanto a forte votação de Flávio Bolsonaro sinaliza a persistência da direita.",
+  "big_picture": "Com 100% das seções apuradas, a margem de 4,430,191 votos reflete um país ainda profundamente polarizado, mas com participação de 80,78% (abstenção 19,22%).",
   "details": [
-   "Resultado nacional oficial: Lula 51,79% vs Flávio 48,21% dos votos válidos",
-   "Abstenção em 19,22% dos eleitores",
-   "Lula venceu em municípios como Peri Mirim (83,63%) e celebrou com canto do Hino da Independência; Flávio ainda ganhou em localidades isoladas como Lavínia",
-   "Zonas eleitorais de Barreirinha (AM) e Primeira Cruz (MA) ilustram a diversidade regional do pleito"
+   "Lula 51,79% x Flávio Bolsonaro 48,21% nos votos válidos; diferença de 4,430,191 votos",
+   "Abstenção de 19,22% indica alta mobilização eleitoral",
+   "Lula celebrou a vitória pedindo que o público cante o Hino da Independência",
+   "Flávio Bolsonaro venceu em Lavínia, mostrando apoio regional",
+   "Lula alcançou 83,63% em Peri Mirim; resultados locais como Barreirinha (AM) e Primeira Cruz (MA) foram divulgados"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando a transição de governo."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51.79% of the vote, beating Flávio Bolsonaro by 4.43 million",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and sets Brazil’s political and economic direction for the next four years.",
-  "big_picture": "With 100% of precincts counted, the 4.43 million‑vote margin quashes fraud claims and shows most voters (80.78% of eligible adults) chose Lula.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "Sets Brazil’s political direction for the next four years and cements the left‑wing coalition, while Flávio Bolsonaro’s strong showing signals the right’s staying power.",
+  "big_picture": "With all precincts counted, a 4,430,191‑vote margin shows a still‑deeply polarized country, but turnout was 80,78% (abstention 19,22%).",
   "details": [
-   "Official national result: Lula 51.79% vs Flávio 48.21% of valid votes",
-   "Abstention at 19.22% of voters",
-   "Lula swept towns like Peri Mirim (83.63%) and celebrated with the Independence Hymn; Flávio still carried isolated spots such as Lavínia",
-   "Barreirinha (AM) and Primeira Cruz (MA) precincts highlight the election’s regional diversity"
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes; margin of 4,430,191 votes",
+   "19,22% abstention points to high voter mobilisation",
+   "Lula celebrated by urging the crowd to sing the Independence Anthem",
+   "Flávio Bolsonaro won in Lavínia, showing regional support",
+   "Lula hit 83,63% in Peri Mirim; local results from Barreirinha (AM) and Primeira Cruz (MA) released"
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, kicking off his second term"
+  "whats_next": "Lula will be sworn in on Jan 1, 2027, kicking off the transition."
  },
  "error": null
 }
