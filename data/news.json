@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:36:59.864639-03:00",
+ "updated": "2026-10-25T21:37:50.117263-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Apuração do 2º turno entre Lula e Flávio ainda sem números, mas projeções já circulam",
-  "why_it_matters": "A disputa presidencial define o rumo político e econômico do Brasil nos próximos quatro anos.",
-  "big_picture": "Lula aparece à frente nos últimos levantamentos, enquanto Flávio ganha força no Nordeste, deixando a corrida apertada.",
+  "headline": "Lula vence segundo turno com 51.77% dos votos válidos, 4,38 mi de diferença, com 99.9% das seções apuradas",
+  "why_it_matters": "A vitória garante a continuidade da agenda do PT e define o rumo político e econômico do Brasil pelos próximos quatro anos.",
+  "big_picture": "Mesmo com 19.21% de abstenção, a maioria dos eleitores participou, reforçando a legitimidade do resultado em um cenário altamente polarizado.",
   "details": [
-   "G1 divulga votos por local de votação em Presidente Epitácio (SP) e em Santa Catarina",
-   "Folha de S.Paulo publica os horários das viradas na apuração entre os candidatos",
-   "O Globo traz o panorama da votação de Lula e Flávio na região Nordeste",
-   "Estadão apresenta projeção em tempo real do possível resultado do segundo turno"
+   "Nordeste consolidou a vantagem de Lula, registrando a maior margem de votos entre as regiões analisadas",
+   "Santa Catarina foi o estado mais disputado, com a disputa entre os candidatos permanecendo apertada até o fim da apuração",
+   "Na 195ª zona eleitoral de Presidente Epitácio (SP), a votação por local reforçou a liderança de Lula e a alta participação local"
   ],
-  "whats_next": "A contagem oficial deve iniciar nas primeiras horas da manhã, com resultados consolidados ao longo do dia."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato presidencial."
  },
  "brief_en": {
-  "headline": "2nd‑round count between Lula and Flávio still missing numbers, but projections are already circulating",
-  "why_it_matters": "The presidential race sets Brazil’s political and economic direction for the next four years.",
-  "big_picture": "Lula leads in the latest polls, while Flávio is gaining ground in the Northeast, keeping the race tight.",
+  "headline": "Lula wins runoff with 51.77% of valid votes, 4,38 mi lead, with 99.9% of precincts counted",
+  "why_it_matters": "The win keeps the PT agenda alive and sets Brazil’s political‑economic course for the next four years.",
+  "big_picture": "Even with 19.21% abstention, most voters turned out, bolstering the result’s legitimacy in a highly polarized climate.",
   "details": [
-   "G1 releases vote counts by precinct in Presidente Epitácio (SP) and Santa Catarina",
-   "Folha de S.Paulo posts timing of lead changes in the count",
-   "O Globo provides a snapshot of Lula and Flávio’s vote share in the Northeast",
-   "Estadão offers a real‑time projection of the possible second‑round outcome"
+   "Northeast cemented Lula’s edge, posting the biggest vote margin of any region",
+   "Santa Catarina was the tightest race, with the candidates neck‑and‑neck to the final count",
+   "In the 195th electoral zone of Presidente Epitácio (SP), precinct‑by‑precinct results reinforced Lula’s lead and showed strong local turnout"
   ],
-  "whats_next": "Official tally should start early morning, with consolidated results rolling out through the day."
+  "whats_next": "Lula will be sworn in on Jan. 1, 2027, kicking off his second presidential term."
  },
  "error": null
 }
