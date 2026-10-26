@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:19:39.879465-03:00",
+ "updated": "2026-10-25T23:21:40.703863-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,29 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade das políticas de esquerda e afasta a agenda conservadora de Flávio Bolsonaro.",
-  "big_picture": "Com 100% das seções apuradas, a margem de 4,43 milhões de votos reforça a legitimidade do resultado em meio a 19,22% de abstenção.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a direção política do Brasil para os próximos quatro anos.",
+  "big_picture": "Com 100% das seções apuradas, o candidato do PT supera Flávio Bolsonaro por 4,43 milhões de votos, apesar de 19,22% de abstenção.",
   "details": [
    "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos",
    "Diferença de 4.429.967 votos a favor de Lula",
-   "Abstenção nacional ficou em 19,22%, indicando participação ainda abaixo da maioria dos eleitores elegíveis"
+   "Abstenção registra 19,22% do eleitorado",
+   "Resultados de municípios-chave – Santana (AP), Manaus (AM), Palmas (TO) e Rio Branco (AC) – já divulgados pelos veículos",
+   "STF interveio e prorrogou o prazo de apuração em 2 horas, mas o TSE concluiu a contagem"
   ],
-  "whats_next": "A posse de Lula está marcada para 1º de janeiro de 2027, enquanto o STF avalia pedidos de contestação"
+  "whats_next": "Lula se prepara para a posse em 1º de janeiro de 2027, enquanto a oposição avalia possíveis recursos judiciais."
  },
  "brief_en": {
   "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win secures left‑wing policies and blocks Flávio Bolsonaro’s conservative agenda.",
-  "big_picture": "With 100% of precincts counted, a margin of 4,43 million votes bolsters legitimacy amid 19,22% abstention.",
+  "why_it_matters": "The win secures the left‑leaning agenda and sets Brazil’s political course for the next four years.",
+  "big_picture": "With every precinct counted, the PT candidate beats Flávio Bolsonaro by 4.43 million votes, despite a 19.22% abstention rate.",
   "details": [
    "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes",
-   "Margin of 4.429.967 votes for Lula",
-   "National abstention at 19,22%, still below a majority of eligible voters"
+   "Lula leads by 4.429.967 votes",
+   "Abstention sits at 19,22% of the electorate",
+   "Key municipalities – Santana (AP), Manaus (AM), Palmas (TO) and Rio Branco (AC) – already reported",
+   "STF stepped in, extending the count by 2 hours, but TSE wrapped it up"
   ],
-  "whats_next": "Lula’s inauguration is set for Jan. 1, 2027, as the Supreme Court reviews challenges"
+  "whats_next": "Lula gears up for a Jan 1, 2027 inauguration as the opposition weighs legal challenges."
  },
  "error": null
 }
