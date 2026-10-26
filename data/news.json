@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-26T02:19:15.063206-03:00",
+ "updated": "2026-10-26T02:21:16.651860-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Flávio diz que vai pedir a anulação da eleição presidencial: 'Sacanagem' - UOL Notícias",
+   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/flavio-bolsonaro-discurso-eleicao-presidente-presidenciais.ghtm",
+   "source": "UOL Notícias",
+   "published": "2026-10-26T04:52:35+00:00",
+   "desc": " Flávio diz que vai pedir a anulação da eleição presidencial: 'Sacanagem'    UOL Notícias ",
+   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkJCeDRyd1MzWjMzUTBzRWpuOTdXeE9DQkt1NExoUjMzWWtnLTRidGNkWFdoSWVyS2dpbE5qdU56QjZXU2VtZElYbnJUTXBLT1Y1Q3NQUTRWR19DU3ZCdUN0MnQ1Vmphc2hBcVUwbXlPVWpBY2Q3U1h4TmVxcENfTGdVZXJhS3Z2MVdVYlptRGswaDVOeHJ0dVd4cWlkYUZRTGdJQUJNcDk4cFZTdDNGQg?oc=5"
+  },
   {
    "title": "Demora de Kassio e decisão de Zanin provocam críticas nos tribunais e reunião de emergência no TSE - G1",
    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/demora-de-kassio-e-decisao-de-zanin-provocam-criticas-nos-tribunais-e-reuniao-de-emergencia-no-tse.ghtml",
@@ -33,37 +41,31 @@
    "published": "2026-10-26T05:10:38+00:00",
    "desc": " Flávio Bolsonaro ganha em Campo Alegre; veja como a cidade votou    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjVYQlZsalhzc0VZNktCazJHSjdycjZQUTc3UUZycXlhcFIzVjNzSFZVdDdEenlVNWx1V0FEeUxYcEM3LTlHekpvbVc5QUdBN2cwLXRhSUVsT29TdmRMeW5KUzdBaEwtNHNzWU4wWEhHeWtiNzV0OTdOVktkSUJPanBDZlBYVGhaWDV4UUItM3JRN1ZObXQyMktGdlZmQ1pwU3NqcFVMaVF3S3I3OXpYX3FhQQ?oc=5"
-  },
-  {
-   "title": "Lula vence a eleição presidencial em Três Pontas - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/125152/lula-vence-a-eleicao-presidencial-em-tres-pontas",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T05:10:00+00:00",
-   "desc": " Lula vence a eleição presidencial em Três Pontas    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN01DdlJPSEItOVRhem9QaTRFWEFTNWhKV251aVZpUnhsWmtWVG5mUHh4enRHYmk5cXpxdDNOd3d0ZE9CaS0tSTVyNG8zVTJtUjR4ZEpYbUdSdDZsOENvN3lFdGEyNmRTR2Y4aFhJX3ZzczBJNG96NnBodVBRZElOeUtrV0h4UFEyYzNpVERnQVlReXFnQmdKWV9oZ1VrSFU?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos, mas Flávio Bolsonaro lidera em municípios-chave",
-  "why_it_matters": "A vitória assegura a continuidade do governo de esquerda, enquanto a forte performance de Flávio em regiões estratégicas evidencia a polarização política que o novo mandato terá de enfrentar.",
-  "big_picture": "Com diferença de 4,430,191 votos e 19,22% de abstenção, o pleito demonstra um Brasil dividido e coloca o TSE sob pressão após críticas por atrasos e decisões controversas.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, mas Flávio Bolsonaro já anuncia pedido de anulação",
+  "why_it_matters": "A vitória assegura a continuidade do governo de esquerda; a contestação de Flávio pode gerar turbulência institucional e judicial",
+  "big_picture": "Com 4.430.191 votos de diferença e 19,22% de abstenção, o resultado confirma a maioria dos eleitores nas urnas, mas evidencia profunda polarização",
   "details": [
-   "Lula recebeu 51,79% dos votos válidos; Flávio Bolsonaro, 48,21%; totalização 100% das seções apuradas",
-   "Flávio Bolsonaro foi o mais votado no Vale do Sol, Guará e Campo Alegre, enquanto Lula venceu em Três Pontas",
-   "A demora do relator Kassio e a decisão do presidente do TSE, Zanin, geraram críticas nos tribunais e levaram a uma reunião de emergência no TSE"
+   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos, 100% das seções apuradas",
+   "Flávio Bolsonaro declara que vai pedir a anulação da eleição, chamando‑a de ‘sacanagem’",
+   "Tribunais criticam a demora de Kassio e a decisão de Zanin, gerando reunião de emergência no TSE",
+   "Flávio lidera em municípios como Vale do Sol, Guará e Campo Alegre, reforçando sua base regional"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto o TSE enfrenta processos judiciais e a oposição prepara contestação dos resultados."
+  "whats_next": "O TSE avaliará o pedido de anulação enquanto prepara a diplomação oficial de Lula"
  },
  "brief_en": {
-  "headline": "Lula wins 2nd round with 51,79% of valid votes, but Flávio Bolsonaro leads in key municipalities",
-  "why_it_matters": "The win secures a left‑wing government, while Flávio’s strong showing in strategic regions highlights the political polarization the new term will face.",
-  "big_picture": "A margin of 4,430,191 votes and 19,22% abstention show a divided Brazil and put the TSE under fire after criticism for delays and controversial rulings.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, but Flávio Bolsonaro already calls for annulment",
+  "why_it_matters": "The win secures a left‑leaning government’s continuity; Flávio’s challenge could spark institutional and judicial turbulence",
+  "big_picture": "With a 4.430.191‑vote margin and 19,22% abstention, the result shows a clear voter majority but deep polarization",
   "details": [
-   "Lula got 51,79% of valid votes; Flávio Bolsonaro, 48,21%; 100% of counted precincts",
-   "Flávio Bolsonaro topped the vote in Vale do Sol, Guará and Campo Alegre, while Lula won in Três Pontas",
-   "Reporter Kassio’s delay and TSE president Zanin’s decision drew court criticism and triggered an emergency TSE meeting"
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes, 100% of precincts counted",
+   "Flávio Bolsonaro says he’ll seek to annul the election, calling it a ‘sacanagem’",
+   "Courts slam Kassio’s delay and Zanin’s ruling, prompting an emergency TSE meeting",
+   "Flávio leads in towns like Vale do Sol, Guará and Campo Alegre, cementing his regional base"
   ],
-  "whats_next": "Lula will be inaugurated on Jan. 1, 2027, as the TSE battles lawsuits and the opposition readies a challenge to the results."
+  "whats_next": "The TSE will review the annulment request while prepping Lula’s official swearing‑in"
  },
  "error": null
 }
