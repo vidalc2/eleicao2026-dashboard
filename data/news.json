@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-26T04:50:10.404549-03:00",
+ "updated": "2026-10-26T04:52:13.054414-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "MAPA: veja como cada cidade votou para presidente no 2º turno - G1",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/mapa-veja-como-cada-cidade-votou-para-presidente-no-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T07:14:02+00:00",
+   "desc": " MAPA: veja como cada cidade votou para presidente no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzBURUJ6R3RQMnV1Z0h5eVQ2V00yai1OWVVsck9sQ0R6U3FFTzZCelpHb3hUWERtZnFSVjN1ZjJUM2QtY2RGY21fQUtzcHgwVE9rX0RFMFI2ZVlMNkE1WkxEcGJlclB3cm1ZU2NnTWJuNzFyZzEwc2gzV2doMnZ3d3dtRFNBZ3djQUZBYlB3c0NKd1U3ZTNEQWtQNlFDWVpWOWRKY3dJbTFsNWlWZ3h6SEVYMW1ReGFESGFtaGwwYmRYZW1vQU9VUNIB1wFBVV95cUxQTXlGeE8tZ1BGeVpQUGV3djJiWFp0OGUzdkI4dkpIM2xKTGRZNEhFdE1uQmRoUU93eThxZ1hWYXk0RHhXUWVnRmNlNWdvR0c4Nmpod3Q3Y0JUQndHSUJVQW1RTUo5QmV0Rlo4S0c5d21mQVRsNXhZMVpaczM1dEx5NXlaRjNuM2x0bmxKTzR0d1BjbkJFU1g4Q2c4WGVLc3ZDN2xpeDBYeXhxenFINktYbGhZRXhjMzlLZ1hkeXdxMGd3ZFJ1SWxPaFE4YWs5ajV3TXJISGJGZw?oc=5"
+  },
   {
    "title": "Capitão Poço (PA): resultado do local de votação por zonas eleitorais no 2º turno - G1",
    "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/26/capitao-poco-pa-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
@@ -33,39 +41,31 @@
    "published": "2026-10-26T07:31:19+00:00",
    "desc": " Irauçuba escolhe Lula para presidente no segundo turno    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWUlhTWhyYi15YXhfSVdzSlZMMHRiWkdsYzNaR2x4SWNkTW1Qd3h4VENBMFV4ci1ZV0dnX29CY0dhWHhWbG5DN0djRUZLY0ZjRDZMVEhCb3VyQ2tsajRoRUlXd1l6U0tmYnlDa3p5eC1tdXpoSFlxR0Z1bmhnczdnRURGeTJQbUVILVFTSlFWZ2FfbDBoM3puVWIzRVlRZTcyWDZsMExJNA?oc=5"
-  },
-  {
-   "title": "Paranatama: Lula é o mais votado no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/126608/paranatama-lula-e-o-mais-votado-no-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T07:31:16+00:00",
-   "desc": " Paranatama: Lula é o mais votado no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmJSRnBWWXdwOVJwYlZPQnJOZnlnbzZhcDREeFVlRXloWXcwVTh0TlpnUDdGczd1WkxQczZ2UEotY29FblMzT3ZJTW9kd1RCZFZiWFUxN3BmQXZTbFpyLXh5aFVUbzlqVmVxQVlheUhPMFJja1NXWVVFZjAyTXlZaEk3UXM4d3N1MU8zemNWTlFZZnE0THhHcDlLMVloWjQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões",
-  "why_it_matters": "A vitória garante a continuidade do governo PT e define a agenda política e econômica para os próximos quatro anos.",
-  "big_picture": "Com 100 % das seções apuradas, a margem de 4,43 mihões de votos mostra um país ainda dividido, mas com abstenção de 19,22 % que evidencia descontentamento de quase um quinto dos eleitores.",
+  "headline": "Lula vence no 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política interna e externa do Brasil para os próximos quatro anos.",
+  "big_picture": "Com 4,43 milhões de votos a mais que Flávio Bolsonaro, Lula supera a abstenção de 19,22% e consolida apoio em municípios de todo o país, como Campos Belos (GO) e Irauçuba (CE).",
   "details": [
-   "Capitão Poço (PA) registra vitória de Lula no segundo turno",
-   "Soure (PA) confirma a liderança de Lula",
-   "Campos Belos, Irauçuba e Paranatama também dão maioria a Lula",
-   "Abstenção permanece alta, indicando descontentamento de quase um quinto dos eleitores"
+   "Resultado nacional: 51,79% a 48,21% nos votos válidos",
+   "Abstenção alta: 19,22% dos eleitores não compareceram",
+   "Mapas de G1 mostram maioria de municípios favoráveis a Lula, inclusive em áreas tradicionalmente conservadoras",
+   "Cidades como Campos Belos e Irauçuba registraram vitória clara para Lula"
   ],
-  "whats_next": "Lula assume a presidência em 1 de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial"
+  "whats_next": "O TSE deve validar oficialmente o resultado nos próximos dias, antes da posse de Lula em 1º de janeiro de 2027."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mihões",
-  "why_it_matters": "The win secures a PT government and sets the political‑economic agenda for the next four years.",
-  "big_picture": "With 100 % of precincts counted, a margin of 4,43 mihões shows a still‑split country, while a 19,22 % abstention signals discontent from nearly a fifth of voters.",
+  "headline": "Lula wins 2nd round with 51,79% of valid votes",
+  "why_it_matters": "The win secures the left agenda and sets Brazil’s domestic and foreign policy for the next four years.",
+  "big_picture": "With 4,43 million more votes than Flávio Bolsonaro, Lula outpaces a 19,22% abstention rate and cements support in towns across the country, from Campos Belos (GO) to Irauçuba (CE).",
   "details": [
-   "Capitão Poço (PA) reports Lula’s second‑round win",
-   "Soure (PA) confirms Lula in lead",
-   "Campos Belos, Irauçuba and Paranatama also go Lula",
-   "Abstention stays high, echoing voter discontent"
+   "National result: 51,79% to 48,21% of valid votes",
+   "High abstention: 19,22% of voters stayed home",
+   "G1 maps show most municipalities backing Lula, even in traditionally conservative areas",
+   "Cities like Campos Belos and Irauçuba posted clear wins for Lula"
   ],
-  "whats_next": "Lula takes office on Jan 1 2027; Flávio Bolsonaro is gearing up for a court challenge"
+  "whats_next": "The TSE will officially certify the result in the coming days, before Lula’s inauguration on Jan. 1, 2027."
  },
  "error": null
 }
