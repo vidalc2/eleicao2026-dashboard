@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:36:27.833539-03:00",
+ "updated": "2026-10-26T05:38:28.400287-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos, mas mapa revela bolsões de apoio a Flávio",
-  "why_it_matters": "Com 4,430,191 votos a mais, Lula garante a presidência, porém a vitória de Flávio em municípios como Areal evidencia divisão regional que pode influenciar políticas futuras.",
-  "big_picture": "A abstenção de 19,22% mostra que quase um quinto do eleitorado ficou à margem, reforçando a polarização do país.",
+  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória mantém o PT no poder e define a agenda econômica e externa do Brasil para os próximos quatro anos.",
+  "big_picture": "Com margem de 4,43 milhões de votos, a eleição foi a mais apertada da história recente, refletindo profunda polarização regional.",
   "details": [
-   "Resultado nacional oficial: Lula 51,79% vs Flávio 48,21% (diferença de 4,430,191 votos).",
-   "Flávio Bolsonaro venceu a eleição em Areal, segundo o Congresso em Foco.",
-   "Lula venceu em Bom Jesus do Galho e obteve 67,49% em Santo Antônio de Jesus, consolidando apoio no Nordeste.",
-   "G1 divulgou o detalhamento por zonas eleitorais em São Domingos (SC), evidenciando variações locais.",
-   "UOL analisou como o voto de cada região pesou no resultado final, destacando a importância dos grandes centros urbanos."
+   "100,0% das seções apuradas confirmam o resultado final",
+   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos",
+   "Abstenção registrou 19,22% do eleitorado",
+   "Flávio Bolsonaro venceu em Areal, enquanto Lula venceu em Bom Jesus do Galho e dominou Santo Antônio de Jesus com 67,49%",
+   "Análises regionais mostram que o voto em São Domingos (SC) seguiu a tendência sulista de apoio a Lula"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara recursos judiciais em municípios onde venceu."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of votes, but map shows pockets of support for Flávio",
-  "why_it_matters": "With a 4,430,191‑vote edge, Lula clinches the presidency, but Flávio’s win in towns like Areal highlights a regional split that could shape future policy.",
-  "big_picture": "A 19,22% abstention rate means nearly a fifth of voters stayed home, underscoring the country’s polarization.",
+  "headline": "Lula wins 2nd round with 51,79% of valid votes",
+  "why_it_matters": "The win keeps PT in power and sets Brazil’s economic and foreign agenda for the next four years.",
+  "big_picture": "With a 4,43 million‑vote margin, the race was the tightest in recent history, reflecting deep regional polarization.",
   "details": [
-   "Official national tally: Lula 51,79% vs Flávio 48,21% (margin of 4,430,191 votes).",
-   "Flávio Bolsonaro won in Areal, per Congresso em Foco.",
-   "Lula carried Bom Jesus do Galho and hit 67,49% in Santo Antônio de Jesus, cementing Northeast backing.",
-   "G1 released zone‑by‑zone results for São Domingos (SC), showing local swings.",
-   "UOL broke down each region’s weight in the final count, flagging the pull of major urban centres."
+   "100,0% of counted precincts confirm the final result",
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes",
+   "Abstention hit 19,22% of voters",
+   "Flávio Bolsonaro won in Areal; Lula won in Bom Jesus do Galho and dominated Santo Antônio de Jesus with 67,49%",
+   "Regional analysis shows São Domingos (SC) followed the southern trend backing Lula"
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, while Flávio Bolsonaro gears up for legal challenges in the municipalities he won."
+  "whats_next": "Lula will be sworn in on Jan 1, 2027, kicking off his second term."
  },
  "error": null
 }
