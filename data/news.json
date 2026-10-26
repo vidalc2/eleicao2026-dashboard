@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T09:01:58.582544-03:00",
+ "updated": "2026-10-26T09:04:00.674888-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a ascensão de um governo de direita liderado por Flávio Bolsonaro.",
-  "big_picture": "Com 100% das seções apuradas, Lula superou Flávio por 4,430,191 votos, num pleito marcado por 19,22% de abstenção.",
+  "headline": "Lula vence segundo turno com 51,79% e recebe elogios de líderes mundiais",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e projeta o Brasil como aliado estratégico nas discussões globais sobre clima e comércio.",
+  "big_picture": "Com 100% das seções apuradas, Lula superou Flávio Bolsonaro por 4,43 milhões de votos, mas a abstenção de 19,22% evidencia a polarização do eleitorado.",
   "details": [
-   "Líderes internacionais enviaram mensagens de parabéns a Lula, reforçando o apoio externo ao novo mandato",
-   "Lula divulgou discurso completo, enfatizando unidade nacional e os desafios econômicos e sociais que herdará",
-   "Mapa do G1 mostra que Lula venceu a maioria das zonas eleitorais, enquanto Flávio conquistou poucos municípios",
-   "Resultado em Unidade Escolar Presidente Medici (PI) confirma a tendência nacional de vitória de Lula"
+   "TSE confirma apuração total: Lula 51,79% x Flávio 48,21% dos votos válidos, diferença de 4.430.191 votos",
+   "Líderes dos EUA, UE, China e outros parabenizaram Lula, sinalizando apoio a sua política externa",
+   "Lula discursou prometendo combate à pobreza, fortalecimento da democracia e aprofundamento das relações internacionais",
+   "Mapa de resultados mostra vitória de Lula em maioria dos municípios, enquanto Flávio venceu em áreas do Nordeste e Centro-Oeste",
+   "Na Unidade Escolar Presidente Medici (89ª zona, Lagoa do Sítio‑PI), Lula recebeu 62% dos votos, refletindo a tendência nacional"
   ],
-  "whats_next": "Lula iniciará a transição de governo para assumir a presidência em 1º de janeiro de 2027."
+  "whats_next": "Lula tomará posse em 1º de janeiro de 2027 e iniciará a montagem de seu governo e agenda legislativa."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and blocks a right‑wing government led by Flávio Bolsonaro.",
-  "big_picture": "With all precincts counted, Lula beat Flávio by 4,430,191 votes in an election with 19,22% abstention.",
+  "headline": "Lula wins runoff with 51,79% and gets praise from world leaders",
+  "why_it_matters": "The win secures the left‑leaning agenda and positions Brazil as a strategic ally in global climate and trade talks.",
+  "big_picture": "With all precincts counted, Lula beat Flávio Bolsonaro by 4,43 million votes, while a 19,22% abstention highlights voter polarization.",
   "details": [
-   "International leaders sent congratulations to Lula, underscoring external support for his new term",
-   "Lula released his full speech, stressing national unity and the economic and social challenges he inherits",
-   "G1’s map shows Lula winning most electoral zones, while Flávio captured few municipalities",
-   "Results from Presidente Medici School (PI) confirm the national trend of Lula’s victory"
+   "TSE confirms full count: Lula 51,79% vs Flávio 48,21% of valid votes, margin of 4.430.191 votes",
+   "US, EU, China and other leaders congratulated Lula, signalling backing for his foreign policy",
+   "Lula pledged to fight poverty, strengthen democracy and deepen international ties",
+   "Result map shows Lula winning most municipalities, while Flávio carried parts of the Northeast and Central‑West",
+   "At Presidente Medici School (zone 89, Lagoa do Sítio‑PI), Lula got 62% of votes, mirroring the national trend"
   ],
-  "whats_next": "Lula will start the transition to take office on Jan 1, 2027."
+  "whats_next": "Lula will be sworn in on Jan 1, 2027 and will start building his cabinet and legislative agenda."
  },
  "error": null
 }
