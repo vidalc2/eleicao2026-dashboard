@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:23:39.236269-03:00",
+ "updated": "2026-10-26T03:25:39.536574-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões de votos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política brasileira para os próximos quatro anos. Também consolida a liderança do PT em um cenário de alta polarização.",
-  "big_picture": "Com 100 % das seções apuradas e abstência de 19,22%, o resultado reflete maior engajamento dos eleitores e a virada de mais de 200 cidades que antes apoiavam Bolsonaro.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória assegura a continuidade do governo e impede a ascensão de Flávio Bolsonaro, que ficou com 48,21% dos votos.",
+  "big_picture": "Com 100% das seções apuradas, a margem de 4.430.191 votos reflete maior participação, queda nos brancos e nulos e viradas em mais de 200 cidades.",
   "details": [
-   "Lula obteve maioria em zonas decisivas de Paraná (71ª, 107ª e 61ª) e no Rio Grande do Sul (Três Coroas), conforme apurações locais do G1",
-   "A combinação de maior comparecimento, queda nos votos em branco e nulo e a reversão de municípios-chave ampliou a margem de 4,430,191 votos",
-   "A vitória de Lula foi impulsionada por uma virada em mais de 200 cidades que votaram em Bolsonaro em 2022, reforçando a tendência de mudança de voto urbano",
-   "O resultado final confirma a tendência de crescimento da participação eleitoral, que superou a marca de 80 % de comparecimento nas urnas"
+   "71ª zona eleitoral (Presidente Castelo Branco, PR) confirmou a maioria para Lula",
+   "107ª zona eleitoral (Capanema, PR) também registrou vitória de Lula",
+   "Três Coroas (RS) e Arapongas (PR) seguiram a tendência de apoio ao candidato da esquerda",
+   "Mais eleitores nas urnas e menos votos brancos/nulos foram decisivos para a vitória"
   ],
-  "whats_next": "Lula será empossado em 1 de janeiro de 2027, enquanto a campanha de Flávio Bolsonaro prepara recursos judiciais contra o resultado."
+  "whats_next": "Lula tomará posse em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos judiciais."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, edging out Flávio Bolsonaro by 4,43 mihões of votes",
-  "why_it_matters": "The win locks in a left‑leaning agenda and sets Brazil’s direction for the next four years, cementing PT’s lead amid deep polarization.",
-  "big_picture": "With 100 % of precincts counted and turnout at 19,22%, the result shows higher voter engagement and flips in over 200 towns that previously backed Bolsonaro.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the administration in place and blocks Flávio Bolsonaro, who got 48,21% of the vote.",
+  "big_picture": "With 100% of precincts counted, a margin of 4.430.191 votes shows higher turnout, fewer blanks/nulls and flips in over 200 cities.",
   "details": [
-   "Lula secured majorities in key zones of Paraná (71ª, 107ª, 61ª) and Rio Grande do Sul (Três Coroas), per G1 local tallies",
-   "Higher turnout, fewer blank/null votes and a swing in pivotal municipalities widened the margin to 4,430,191 votes",
-   "Lula’s surge came from flipping more than 200 cities that voted for Bolsonaro in 2022, underscoring an urban vote shift",
-   "The final tally confirms a rising participation trend, topping 80 % voter turnout"
+   "71st precinct (Presidente Castelo Branco, PR) confirmed a Lula majority",
+   "107th precinct (Capanema, PR) also recorded a Lula win",
+   "Três Coroas (RS) and Arapongas (PR) followed the left‑candidate trend",
+   "More voters and fewer blank/null votes were decisive"
   ],
-  "whats_next": "Lula will be inaugurated on Jan 1, 2027, while Flávio Bolsonaro’s team readies legal challenges to the outcome."
+  "whats_next": "Lula is sworn in on January 1, 2027, while Flávio Bolsonaro weighs legal appeals."
  },
  "error": null
 }
