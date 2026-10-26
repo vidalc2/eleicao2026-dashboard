@@ -1,23 +1,7 @@
 {
- "updated": "2026-10-25T23:29:42.837138-03:00",
+ "updated": "2026-10-25T23:31:44.077030-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "Eleições em Ilhéus (BA): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-ilheus-ba-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T02:21:19+00:00",
-   "desc": " Eleições em Ilhéus (BA): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaE9vUDdMR0h1WGFOV3lMT1ZvYWFkUzlkRjBxVk40dXBzTklJbFphei1iN2NPUUluaUEzbnNyekFqMnNkM1k5SEtYQlo3eC1ERUh2SFFyOElDQWwtdnJxV0xJVG1CSE9JSWVhUkVOaUxWNFRmQVZUb0pienBBb2lac1A5czI4RE1NdklRY1ZVSkdwX1YybnZpMzYyTHlvaFdlWmgtbERyOF9UN1dJZnJaVmJ6anMzb1dNcjNIU1B30gHMAUFVX3lxTE5wVWhTQUw2bkRLVDMwUGFKUVJZZW9KVkh3TDNJYzRTQUI5Ung2MGtYLUcybHJ6X1dfRExpRFd5RDJxejF1ckZMX3ZPWEx2Sk85aG4zekhBN1BGcGN4UnhKcXVkajRuX3plTXA5Rm45QzJQamt3aHVJQ3ZyX0FmOU95NjlHRnQ0eDNWVW9ibzFXb0E1R3VRVDl4ZXpTbGw0OFhFWkNJSDhwQndpX2VyQlczWC0wZC0yMEY5VjFPamc4cVdjVGRpdk1aSmpaUg?oc=5"
-  },
-  {
-   "title": "Eleições em São Lourenço da Mata (PE): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-sao-lourenco-da-mata-pe-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T02:21:04+00:00",
-   "desc": " Eleições em São Lourenço da Mata (PE): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNjhLS2RvSThaZGJmSjQ0U0VNSFZibG5zc0FJSlUwV2ZXSjFNWWk5VjBUc1FfdWtjRmtIYzhJLWJvQkE5NTdVT0h1N2xmd1I3dllWemtVMUxXUWFDaFhtQXM0d1VKNzVJRGkxclA0UlBZWVdwY0h6QkJCSnowOXBQWkRZRlJIaEJPOUNSOENXOWp6c3hGci05eGxPbEYzODJYTVk1Q1FEazRhUjVTczRoM2U1X1pvVmh2QlRrclJZQlc3ME1pM1JDejhHNEZmWVA50gHfAUFVX3lxTFBNaTdleHBtME54V01fdG5jeXM1T1libFZibjhrWWlXUUVNZEZqX05scFJBUGdOZVRTNU94bEhwa0VhSlVwRUc5M21NLTlRcjRuNHdDUlM1UC02dlJsdEpaekh2R2pYT0lLT1hVT3hQSWhJN25MUEpBdnRvazFrVHdEbWF4cTFacmU4d0pxdmpVRFdJR0JWOEcyRS1walBMUVp2ZW81anhNLXVNZ3k2RUxISFdWUUdjTXJ3SFJYZFZocm0yU2N6UnZvNlljUmRzZXVuT0x0NjhrZ3Rja21fc0U?oc=5"
-  },
   {
    "title": "Eleições 2026: Lula vence Flávio Bolsonaro na Bahia com 71,31% e amplia vantagem no 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/eleicoes-2026-lula-vence-flavio-bolsonaro-na-bahia-com-7131percent-e-amplia-vantagem-no-2o-turno.ghtml",
@@ -27,43 +11,59 @@
    "gnews": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQnBLWE41OHZCbXItX3Y1anE0d1hkc0xBREFfV2UzbmNJVDlTV3ZsWjdmV0l6YWxJY2lnQkx1VVFwNlFwQ085VmNTQ0tGaUdPSUMyZXhWOVVzLTZIVGlDUGVrLWlRM2dnbDVueHQycnBxNHF0b1RTbzh0TlQwTmZVNUkxcUxjODdIU1A2Zl9OOVJWLVI1V1dzX1BUbVhmdjkyU2tNODFoeDA0eHJZcnF1QXFnVkt4TF9rTC1JQ1ZhMTFuOUtDSUJfSmN1b19uYzU0Ykc3QWJabTZfR3MtT2w0ZFFhMmNjUDgzbXVOUTRYWDNGaHhYV2RzaDlsUG9DUdIBjAJBVV95cUxPTU5MYlY0dmstcFc1SWVIN3JqRlhJVi1jUVlaUWZQdDZ0LUtKSldxZnJtdXU3VUNtakFOMlItOGszd2t6TG5GY2R1YnpYOHJWSnNuVEJ4ejR3UmRzanU2bFNBbVJOTjdmeEhtSlFXN3M2MlZlSGxrWDhFMjFsdEFvQzNpWXBwdXpZSXpMRmI4SWl1YW0xUFRXd3lxLXliRVJyZjk5Zm1xSExSazRRLWthQm4yUWtwSTFqSldzREFxaUJxTEszeElkeGtST1lfaDAxUkVXVzNqX19YbXJDQXAtQmczbkVXa1pza3hwMmwxM1M3bktKaWhUVEp4eXNuQ2ZZeXpvbFhucmVYWWpE?oc=5"
   },
   {
-   "title": "Eleições em Barreiras (BA): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-barreiras-ba-veja-a-apuracao-do-2-turno.ghtml",
+   "title": "Eleições 2026: quem ganhou em Parintins (AM) no 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-2026-quem-ganhou-em-parintins-am-no-2-turno.ghtml",
    "source": "O GLOBO",
-   "published": "2026-10-26T02:18:44+00:00",
-   "desc": " Eleições em Barreiras (BA): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRF96ZXBlUGxxcTlXN2VhNFZYS2NtS3hzV1JTUjd1SWxKeGZjTlVWOUExNkdGVnRlbGJ2a3FyNElUQ0l4VVJJUy1oQjRrbGpLaWJDaHFUbXFnZDJUVkwzUThXaTkwdWRrb3FEZkR5ZVFOOFIyTkdJOTZvdm54UzNQTXNzZ0Ewak9USm1HdjZfZW5kbUFhSXVveEl2WndId0FTYjVFeXZkMC1Zc0FCX1dqYW5NQmVmWURGb3dYNGphTnZrQdIB0AFBVV95cUxOT3pDRUxYb1Exb2tZc01ia2ZxS2ZOREU5dFdweHBzbENmU1NVTkxZcURKalg2VFI5SmdfdlRMUDMtNGUyNHNKLUhXTF93OV9wR1lYd1Y5SjlfV3AtYldDZWJDMHBoTEZ4T1lMOFh1TWJPa0M2YTNRNUlWLWVQaTJMbFpkTlBicVNCeUduMldRQi1iYUd3dFUzVFMyNW50OVBaQ1dQVFlwdUM0a2MzU3k5ZGVRU2ZqX2lrSWVwTmV5WlJZMkE1bm5DOVlEQmNRbm9W?oc=5"
+   "published": "2026-10-26T02:18:14+00:00",
+   "desc": " Eleições 2026: quem ganhou em Parintins (AM) no 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1JZM3B0ak14LUNQei02dHcwZGhfZkVTSERsTDBIRjdPZml0WThvUGk2Mmc0bWpTYjFSM194cTIzVE5aR21RWGhleFgyaHNyNVFSWHRndzJkSV85MVVzc1B1TzBKanFSZXlHWEJzZDRtWVJmYXd4TVhORDh1NXo1V3UzekNCLW9OVjhfbDZXZGNMMUFPTXlhX2lBQWprLWVaVVA0ZkVMSXRnUTNqMUVCYUFBa0JqSG9fME1GVnNZdlBES1XSAdIBQVVfeXFMTW9UNGN3XzdqRzhIRUtlb2I3Q25qMXctQnVVQXZfbS1PbWozVEttam1nYXlIV2c2UmNadXdPTnVVdnBuYTJsX2RkZjU4SnpKTHkwUzRQcFlLLTBIY1RuandlbElQcDBwSWdpZExyV09PTjgyblFfaTA2MnotNmRjV3BjWVZTcU1YemNIR19BcnFMMS1HTDZ3SlBrbDQyS01iUzE1b1NxVTF5RGpxSnV1VGc3ZXphc0xiNDllYnFGWnJyQWROTndsWkRPdXd5MTBfZGF3?oc=5"
   },
   {
-   "title": "Eleições em Camaragibe (PE): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-camaragibe-pe-veja-a-apuracao-do-2-turno.ghtml",
+   "title": "Eleições 2026: quem ganhou em Manacapuru (AM) no 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-2026-quem-ganhou-em-manacapuru-am-no-2-turno.ghtml",
    "source": "O GLOBO",
-   "published": "2026-10-26T02:18:29+00:00",
-   "desc": " Eleições em Camaragibe (PE): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2hxWVJoX0JKT2k4a2VXSHIwbmFBc1I4MzFBWXNrWmhwRUlkYS1mYW9rU2dval9QU3QyelNWdmJfeWpvS3lqYkZ2cjRHc2x3dEI2Q1I0ZDFUc0VReGYwcEZxcE90bUhyR1VxVnUyNThla2NNR1RKWld6VTl2bUdsVVZ6NnJRbEhJdlJ5a094UWp6cDViRFJ4UGtLRDh0cHY4N2ctS3F5aHJOcUkwdmRleTVObDFCUWR1S2ZBYU1kaGRNSVnSAdIBQVVfeXFMTTBIMUJPdW9FVDZaMGUzVjJGV0ZnMTA3NGwyUG9ZdG1NazJ2RmZXdmpnZFZNT0lMTTVUMDZMdGtWcE4yRUV3YlRCWWZpMDJBMTQwRWhOak5NTUEyWkdXWGd3QXR2c1pqbnpWbVhUR3FaMmlPaHRwMWd1aFdHRmpoR2ZObU9mSVFVVmVES2phQ2JseTRuMS1kY0I1RHhYV2hxOVZwYWd4eTNXd1loZ3ZZakdXaC1OWjV4bDN1SGlqY1VmMzlwT3RTQlpUOVdPamtoRjFR?oc=5"
+   "published": "2026-10-26T02:17:44+00:00",
+   "desc": " Eleições 2026: quem ganhou em Manacapuru (AM) no 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUJsZVdNSVdlM19Bb0ZrLTFWc1lSeGs1d0QwQzAtT1c4ZlRRcnVaakd3VkFCT0d6X2ZEMmI4NFdQZFFJWVBzMWFpbWtlQk9WdGxjX01MYXVpcm03dy1EbGpyblUyZnZZYjZ6dTc1MjRZZFFtZVJpSWtvcU1BNWdlZEFrZFVIR0VCZm9IVUptZ053NS1QMU8tcEFHMVJzR1VDZmFLU3QtOTBJZjc0MTczR0RsN1Y4X19RZFdhV1VrQ3Z1NllT0gHTAUFVX3lxTE9wSExRS3cyYzgycU9xNHBHbVg0WjNjREZWQkxYRUdMNjBwMnBweFMxd2xRS09leGQ4V2NSUmY5dkZ2aFU2YlNwVXhORkZhTlYycDgwdnd0T1NzT1VTUzJIYlFXYjJtUU9aV2NTOVZ6MFVyVUg1VDEyRGpBS2h5YjdJcmctckdBYjJTTWY2M1BNU185bVJ1V3JiSmsxOXByTXJsd3lxOXRCM1FrQl9ITEZ5NW8zbVNfRVJhcUt5Rjk3SGFkRTl3Y25RMmlPUnJYUWltU2c?oc=5"
+  },
+  {
+   "title": "Eleições 2026: quem ganhou em São Mateus (ES) no 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-2026-quem-ganhou-em-sao-mateus-es-no-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T02:13:36+00:00",
+   "desc": " Eleições 2026: quem ganhou em São Mateus (ES) no 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWxRWlhxc01peEVzSHBKU21WTW5CenRLMGdtSUlybnR2LW9XQVU3MGozRV8wdkN5S0lLM0xzTWdtOUI3OHRraURhVjBsdU1acjlGbUpMMXBzNTFCOVFPSlBhdkQzTWFINU9EdEctcWhWTXNNbzdJSVdHR3Q2T3k5eVVyY0dwQ200WTM1RkQ5dzhseDItaFNJNk5WamVFZGU5ZUszdUxDWi1fVFpUNHFEajBmZk96WV82ZTd5V1haZHdUVjg50gHTAUFVX3lxTFByMWhWUVd1WXF5ck5RNllnMGc3UjEwOUdiTTVvdTc5cjVGdkJob3FTR1ZiNVVlLUVYdkhidHJYWl9STEZfVmh4NjdUdE5LbGIwTnVIczVWeFlTb0FCTDkzUXFkYWs1SnM4cXIxT1liX2h6Y0hwQm5HMnR4Ulc0WDhPWUZTSTk3RW9IWFJJT3IwekNxVVBBUVE4NjVfdTRZLVR4MVlBM3BRR094WWlIb0Rtb1NLZUUwaHk5RVFvcVluMEhtOUM1OEZJdmRXU3BtWkprYUk?oc=5"
+  },
+  {
+   "title": "Eleições 2026: quem ganhou em Manaus (AM) no 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-2026-quem-ganhou-em-manaus-am-no-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T02:10:23+00:00",
+   "desc": " Eleições 2026: quem ganhou em Manaus (AM) no 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVB3UjFWMWR4LUNqeWpUQzZ3OXZwUzlRSjg5MWpzcVlkYkZvZGFBcFhOZzRhaDJSbm5PVFpVUkhYT3RVNEhZSmdKOGx2OU1IUld1RjBJd1JBX3R1NF9kemR3UGtsdEQ4UmpsS2dlM0xNX21LRFlNb3VSN0RoYkdOTTdKcTFEUExPRkx5ZUZqNF9wY2kwWC1HMTdrLWIzNFR6d0J5RE10RDZZaTRMeEhtQ3lKZ3hiVDFvM1JLSXFFRdIBzgFBVV95cUxNT2UxeHhfMkxVMjY2bHlkZW5NRkVvVHpfUmF5emxScF93djlhX1hlWjR2UVNRM0dVckdDeE83V1FwRm94LUpIcUVteVFWTkNmUG1GUkRsMjJWTWtuQ2NHUks2b1BjZDNtd1UwckUza0J1RmV4dGxFeFNsdWd1QWRvUjBkUEtrSzhvZC0xOUlMMDV5ajZPWlJ1RXlya18tdGl2bEpfdjA0VWN6QTlJZWJDZ2hXYjY0TW5ZM0hleEswUFpLaTh3WlR6ay1jOUpIUQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence Flávio Bolsonaro no 2º turno com 51,79% a 48,21% dos votos válidos",
-  "why_it_matters": "A vitória garante a reeleição de Lula, mantendo a agenda de esquerda e a estabilidade institucional para os próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas, a disputa mostrou forte polarização, mas a maioria dos eleitores ainda optou pelo PT.",
+  "headline": "Lula vence Flávio Bolsonaro no 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de um governo de direita liderado por Flávio Bolsonaro.",
+  "big_picture": "Com 4,43 milhões de votos a mais, Lula supera a margem necessária e consolida apoio em regiões‑chave como Bahia e Amazonas.",
   "details": [
-   "Diferença de 4.430.191 votos entre os candidatos",
-   "Abstenção de 19,22% aponta descontentamento de parte do eleitorado",
-   "Resultados regionais, como a vitória expressiva na Bahia, reforçaram a liderança de Lula"
+   "Resultado final: Lula 51,79% x Flávio 48,21% (diferença de 4.430.191 votos).",
+   "Abstenção foi de 19,22%, indicando participação de 80,78% dos eleitores.",
+   "Lula obteve 71,31% na Bahia e venceu em municípios estratégicos: Parintins, Manacapuru, Manaus (AM) e São Mateus (ES)."
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027 para seu segundo mandato."
+  "whats_next": "A posse de Lula está marcada para 1º de janeiro de 2027, iniciando seu segundo mandato."
  },
  "brief_en": {
-  "headline": "Lula beats Flávio Bolsonaro in 2nd round with 51,79% to 48,21% of valid votes",
-  "why_it_matters": "The win locks in Lula’s re‑election, preserving the left agenda and institutional stability for the next four years.",
-  "big_picture": "All precincts reported; the contest was highly polarized, yet most voters still chose the PT.",
+  "headline": "Lula beats Flávio Bolsonaro in 2nd round with 51.79% of valid votes",
+  "why_it_matters": "The win secures the left‑leaning agenda and blocks a right‑wing government under Flávio Bolsonaro.",
+  "big_picture": "With a 4.43 million‑vote edge, Lula clears the threshold and solidifies support in key regions like Bahia and Amazonas.",
   "details": [
-   "Margin of 4.430.191 votes between the candidates",
-   "Abstention at 19,22% signals voter discontent",
-   "Regional outcomes, like a strong win in Bahia, reinforced Lula’s lead"
+   "Final tally: Lula 51.79% vs Flávio 48.21% (margin of 4,430,191 votes).",
+   "Abstention was 19.22%, meaning 80.78% voter turnout.",
+   "Lula got 71.31% in Bahia and won in swing towns: Parintins, Manacapuru, Manaus (AM) and São Mateus (ES)."
   ],
-  "whats_next": "Lula will be sworn in on Jan 1, 2027 for his second term."
+  "whats_next": "Lula’s inauguration is set for Jan 1, 2027, kicking off his second term."
  },
  "error": null
 }
