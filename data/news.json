@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-26T06:48:54.221702-03:00",
+ "updated": "2026-10-26T06:50:57.517870-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "TSE afirma ter imagens de fiscais do PL durante apuração - Poder360",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-afirma-ter-imagens-de-fiscais-do-pl-durante-apuracao/",
+   "source": "Poder360",
+   "published": "2026-10-26T09:46:41+00:00",
+   "desc": " TSE afirma ter imagens de fiscais do PL durante apuração    Poder360 ",
+   "gnews": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWhvcG1YQVVJOUJlX0RSQ3V5U2VKZXFMNHBlaUtoT2g4Mm1sUEFYMWNzcGpRMExWZWtuUzUxNFU0a0NmUDl2N2w4SDZSM0J1VjUzQnYyaWZCTVo4azNfM01sbzVJR1c1ak5kZGVMQjR6c1c0SzU0WDhvcTY2SkhWWmVSV3VQMzNIM0tXSl9EOEZGdFNIMTZwM0JIV0cxLURhZi14WDRkWW0?oc=5"
+  },
   {
    "title": "Mapa da virada: onde Lula avançou e como mudou a votação de Flávio Bolsonaro entre o 1º e o 2º turno - G1",
    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/mapa-virada-lula-flavio-bolsonaro-votos-primeiro-segundo-turno.ghtml",
@@ -33,37 +41,31 @@
    "published": "2026-10-26T09:29:09+00:00",
    "desc": " Gararu escolhe Lula para presidente no segundo turno    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQclBnX2M0UGhManE0Nl91c3JQQXV0My1LZ253dmJmbGpvanQteUpKN2tzOGxMTjlGTWM0NDYtZkkyazkwYjNaOHltQ0RJbE0xUElWVEJKUjRteEtYMkRRVFhkQ2pLVXFUZVVrUDFxVkRfSlREc0Q3TUwyWG82a0lOQWR6QTJIeGxqOWJLeE1UYmFQdTZBYzlKZFUzOVkyMlcwQXhDTg?oc=5"
-  },
-  {
-   "title": "Lula vence a eleição presidencial em Ibiaí - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/127704/lula-vence-a-eleicao-presidencial-em-ibiai",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T09:27:25+00:00",
-   "desc": " Lula vence a eleição presidencial em Ibiaí    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdURZeG9OS3lIT1ZpSnZQYlBqdFFLNUQ2dlM0bW8tZWViMkhnR1lNRjd1VFVyQWdvQ3pKXy1HWHEwZFBxc1kxdndHM09ibmtWOTBxMGFjRllzaVVuQm9HZHF4TUJ6dk43Y1lhdDlKRlVOcy1KQzZOZmJGQjRNTHdNMFg5X3l3bXdZZ2V3Ukdia0QtUzhGdm9z?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio da Alvorada.",
-  "big_picture": "Com 4,43 milhões de votos de diferença e 19,22% de abstenção, o resultado reflete a polarização regional, mas consolida a maioria nacional.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política brasileira para os próximos quatro anos.",
+  "big_picture": "Com 100% das seções apuradas e abstenção de 19,22%, o resultado reflete uma disputa acirrada, mas decisiva, em todo o país.",
   "details": [
-   "Mapa da virada mostra que Lula avançou em estados‑chave, revertendo o apoio de Flávio entre o 1º e o 2º turno",
-   "Em municípios como Gararu (SE) e Ibiaí (MG) Lula venceu, reforçando a força nas regiões Nordeste e Sudeste",
-   "Resultados de Iporá (GO) e da 8ª zona eleitoral de Três Ranchos (GO) confirmam a margem de Lula nas áreas rurais"
+   "TSE confirma a apuração completa: Lula 51,79% x Flávio 48,21%, diferença de 4,430,191 votos.",
+   "Mapa de virada mostra ganhos críticos de Lula em regiões‑chave, revertendo a vantagem inicial de Flávio.",
+   "Resultados locais, como em Gararu (SE) e nas zonas eleitorais de Iporá e Três Ranchos (GO), confirmam a tendência nacional de apoio ao candidato petista.",
+   "Imagens de fiscais do PL foram registradas pelo TSE durante a apuração, reforçando a transparência do processo."
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial."
+  "whats_next": "Lula assumirá o cargo em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara recurso em tribunais eleitorais."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes",
-  "why_it_matters": "The win secures the left’s agenda and blocks Flávio Bolsonaro from the Alvorada Palace",
-  "big_picture": "With a 4,43 million vote gap and 19,22% abstention, the result shows regional polarization but cements a national majority",
+  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win secures the left‑leaning agenda and sets Brazil’s policy direction for the next four years.",
+  "big_picture": "With 100% of precincts counted and 19,22% abstention, the result shows a tight but decisive nationwide battle.",
   "details": [
-   "Turnout map shows Lula gaining in key states, flipping Flávio’s support between round 1 and round 2",
-   "In towns like Gararu (SE) and Ibiaí (MG) Lula won, bolstering strength in the Northeast and Southeast",
-   "Results from Iporá (GO) and the 8th electoral zone of Três Ranchos (GO) confirm Lula’s edge in rural areas"
+   "TSE confirms full count: Lula 51,79% vs Flávio 48,21%, margin of 4,430,191 votes.",
+   "Turn‑around map shows Lula’s critical gains in key regions, flipping Flávio’s early lead.",
+   "Local results in Gararu (SE) and the Iporá and Três Ranchos (GO) districts echo the national swing toward the PT candidate.",
+   "Footage of PL poll watchers was logged by TSE during the count, underscoring process transparency."
   ],
-  "whats_next": "Lula will be inaugurated on Jan 1 2027, while Flávio Bolsonaro readies a legal challenge."
+  "whats_next": "Lula takes office on Jan 1, 2027; Flávio Bolsonaro is gearing up for an electoral‑court appeal."
  },
  "error": null
 }
