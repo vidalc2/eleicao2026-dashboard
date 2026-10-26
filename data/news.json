@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:28:24.854386-03:00",
+ "updated": "2026-10-26T05:30:31.126511-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -27,43 +27,49 @@
    "gnews": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZDN1NDN3SWU0bnZGd255U2ZaMm9kUFUyWnkzSHdJd01fWXZIdDhlMkRGOGh2NjEwTFcyYjZLQnlwWVNiMXNnQ2xXb3F6aFloSmpFVS1FbG9vWjNhMzB4NXdGQm9CVUZneHF4THp5dXNlYWpWVWxwMm5ZYkFYaElWRjl2RnhGUVE1clZCM3lNeVlNZGNMazIzbEs3U3M5T2lJSm1VNk54YkFWUmtmYkM4TkVxLVg4RVlLVWpRTGNVTWhVMHhwcDExSWxoWG1OTVZ5OGdxY1FLblJXbHhoWmFiR0I0RjduRzNCNFFjMmYzOXNlbVBy?oc=5"
   },
   {
+   "title": "Água Boa: Lula é o mais votado no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127146/agua-boa-lula-e-o-mais-votado-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T08:24:43+00:00",
+   "desc": " Água Boa: Lula é o mais votado no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN05FRUZxQzdvR3hFUXJvVDJaWjUxemdBQWJzVDl3THp0MlEtWTNzeVZqTTNyM24yNVNQa3l4M2xxbzk0R1VqalFWQTdXTWd6NGhMakhXZDlXcU04bHpJR25UYzFzcmFYQWtMelNRN3BNS3FEUy1Fa1ctaWJvajVOR09PTFZHdGtTdFdhMWVqeHZXY2owQU9aMWJ6RFA?oc=5"
+  },
+  {
    "title": "Campo Florido: Flávio Bolsonaro tem 52,34% e vence o segundo turno - Congresso em Foco",
    "link": "https://www.congressoemfoco.com.br/noticia/127144/campo-florido-flavio-bolsonaro-tem-52-34-e-vence-o-segundo-turno",
    "source": "Congresso em Foco",
    "published": "2026-10-26T08:24:20+00:00",
    "desc": " Campo Florido: Flávio Bolsonaro tem 52,34% e vence o segundo turno    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWhISWhSd1RnWVRiV2xOemlZZzMwa21ZcVVLNE1tb2N1MDBOamR4V1NlazNtaExmN05NbUFJUnRXZl9CalhWaXdzc1AxOVVsbUNSVFA2d3JwTEJqVktnZV9sa3FZWkwzYlloeXdPOFRSWE1yOGpEbmIxVjlURHVRcl9SZ1lLZnJENXhnZ1Z0dWY5Y29vMjJJNXpIWl9rcU1pNFVvdGJUZ3RHeVk1SWZBdWpNMG0?oc=5"
-  },
-  {
-   "title": "Lula vence eleição presidencial em Pescador - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/127142/lula-vence-eleicao-presidencial-em-pescador",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T08:24:17+00:00",
-   "desc": " Lula vence eleição presidencial em Pescador    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWJDUlBLdm50LUVYamZyYmVacjJzc0lONGh4MTNQaUR5OGpaekJjM3Q4TTZYR3lfVWtPVmpmQXlpTUtncXpWZmJBRmVPeTE3TUR0cnBydlh3WFQtVjlNbFhIckxWaGZqeVZlUGktNGNDVjBCRlUtWmFsU2NIdnc4Q1JwVVR2R1hrc0tOYnBaeTFTMGIyODRmNg?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política externa e econômica do Brasil para os próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas, Lula superou Flávio Bolsonaro por 4,43 milhões de votos, a margem mais estreita da história recente.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, mas Flávio Bolsonaro ainda lidera em municípios estratégicos",
+  "why_it_matters": "A vitória garante a terceira consecutiva de Lula, mas a margem estreita e os ganhos regionais de Flávio sinalizam forte polarização política",
+  "big_picture": "Com 100% das seções apuradas, a disputa mostra um Brasil dividido: 19,22% de eleitores se abstiveram, e o diferencial de 4,430,191 votos pode influenciar a agenda legislativa",
   "details": [
-   "Abstenção chegou a 19,22%, indicando desgaste do eleitorado.",
-   "Flávio Bolsonaro venceu em Campo Florido (52,34%), mostrando força regional.",
-   "Lula venceu em Pescador, reforçando apoio em áreas tradicionais do PT."
+   "Lula recebeu 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro",
+   "Diferença de 4,430,191 votos confirma vitória nacional",
+   "Abstenção chegou a 19,22%, indicando descontentamento ou cansaço eleitoral",
+   "Lula foi o mais votado em municípios como Água Boa (SC)",
+   "Flávio Bolsonaro venceu em Campo Florido (MG) e manteve vantagem em zonas de Bonfinópolis (GO) e em áreas de Piracicaba e Limeira (SP)",
+   "Os resultados locais revelam um padrão de apoio urbano vs rural que pode moldar a coalizão no Congresso"
   ],
-  "whats_next": "A diplomação oficial será feita pelo TSE nas próximas semanas, preparando a posse em 1º de janeiro de 2027."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto o Congresso se prepara para negociações com a bancada de Flávio Bolsonaro"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and sets Brazil’s foreign and economic policy for the next four years.",
-  "big_picture": "With 100% of precincts counted, Lula beat Flávio Bolsonaro by 4,43 milhões of votes – the tightest margin in recent history.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, but Flávio Bolsonaro still leads in strategic municipalities",
+  "why_it_matters": "The win secures Lula’s third straight term, but the slim margin and Flávio’s regional gains signal deep political polarization.",
+  "big_picture": "With all precincts counted, the race shows a split Brazil: 19,22% abstention, and a 4,430,191‑vote gap that could shape the legislative agenda.",
   "details": [
-   "Turnout hit 19,22%, signaling voter fatigue.",
-   "Flávio Bolsonaro won in Campo Florido (52,34%), showing regional strength.",
-   "Lula won in Pescador, cementing support in PT strongholds."
+   "Lula got 51,79% of valid votes vs 48,21% for Flávio Bolsonaro",
+   "A 4,430,191‑vote gap confirms a national win",
+   "Abstention hit 19,22%, pointing to voter discontent or fatigue",
+   "Lula topped the vote in places like Água Boa (SC)",
+   "Flávio Bolsonaro won in Campo Florido (MG) and kept an edge in Bonfinópolis (GO) and the Piracicaba‑Limeira area (SP)",
+   "Local results reveal an urban‑rural split that could shape the congressional coalition"
   ],
-  "whats_next": "The TSE will certify the result in the coming weeks, paving the way for a Jan. 1, 2027 inauguration."
+  "whats_next": "Lula is sworn in on Jan. 1, 2027, as Parliament gears up for talks with Flávio Bolsonaro’s bench"
  },
  "error": null
 }
