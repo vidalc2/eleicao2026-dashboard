@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:00:48.224719-03:00",
+ "updated": "2026-10-25T21:03:05.828623-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Datafolha projeta vitória de Lula sobre Flávio Bolsonaro no 2º turno",
-  "why_it_matters": "Se confirmada, Lula garantiria um histórico quarto mandato, enquanto Flávio Bolsonaro ficaria fora da Presidência.",
-  "big_picture": "A disputa evidencia a profunda polarização entre o legado de Lula e a nova geração Bolsonaro, com impactos nas políticas econômicas e nas alianças internacionais do Brasil.",
+  "headline": "Lula projeta vitória sobre Flávio Bolsonaro no 2º turno, mas a apuração ainda não começou",
+  "why_it_matters": "Um possível quarto mandato de Lula marcaria um recorde histórico e definirá a direção política e econômica do Brasil nos próximos quatro anos.",
+  "big_picture": "A disputa entre o presidente de esquerda Lula e o candidato de direita Flávio Bolsonaro evidencia a profunda polarização do país e tem repercussões nos mercados, nas relações exteriores e nas políticas sociais.",
   "details": [
-   "Datafolha é a única fonte de projeção nas manchetes, indicando vitória de Lula",
-   "Nenhum resultado oficial divulgado ainda; as apurações em Minas Gerais, Rio de Janeiro e São Vicente ainda estão em tempo real",
-   "O Globo destaca a diferença de votos no primeiro turno, reforçando a competitividade da corrida"
+   "Datafolha projeta Lula à frente de Flávio Bolsonaro (13 x 22) no segundo turno",
+   "Globo destaca a diferença entre Lula e Flávio no primeiro turno, mas não divulga números nas manchetes",
+   "Portais do UOL e do Globo já exibem apurações em tempo real para Minas Gerais, Rio de Janeiro e São Vicente, indicando início da contagem local",
+   "A apuração nacional ainda não começou; o Tribunal Superior Eleitoral deve iniciar a contagem oficial após 22h00"
   ],
-  "whats_next": "Os resultados oficiais começam a ser divulgados nas próximas horas, à medida que as urnas são totalizadas"
+  "whats_next": "Os resultados finais serão divulgados ao longo da madrugada, com a certificação oficial prevista para as primeiras horas da manhã."
  },
  "brief_en": {
-  "headline": "Datafolha projects Lula beating Flávio Bolsonaro in the 2nd round",
-  "why_it_matters": "If confirmed, Lula would lock in a historic fourth term, while Flávio Bolsonaro stays out of the Oval Office.",
-  "big_picture": "The race underscores deep polarization between Lula’s legacy and the new Bolsonaro generation, shaping Brazil’s economic policy and global alliances.",
+  "headline": "Lula projects win over Flávio Bolsonaro in runoff, but count hasn’t started",
+  "why_it_matters": "A possible fourth term for Lula would set a historic record and shape Brazil’s political‑economic course for the next four years.",
+  "big_picture": "The left‑wing President Lula vs. right‑wing Flávio Bolsonaro showdown underscores Brazil’s deep split and ripples through markets, foreign policy and social programs.",
   "details": [
-   "Datafolha is the sole poll cited in headlines, showing Lula ahead",
-   "No official results yet; counts in Minas Gerais, Rio de Janeiro and São Vicente still coming in real‑time",
-   "O Globo notes the first‑round vote gap, highlighting the race’s competitiveness"
+   "Datafolha projects Lula ahead of Flávio Bolsonaro (13 x 22) in the runoff",
+   "Globo highlights the Lula‑Flávio gap from the first round, but omits numbers in headlines",
+   "UOL and Globo portals already show live tallies for Minas Gerais, Rio de Janeiro and São Vicente, signalling local counts have begun",
+   "National tally hasn’t started; the Superior Electoral Court will kick off the official count after 22h00"
   ],
-  "whats_next": "Official results will start rolling out over the next few hours as ballots are tallied"
+  "whats_next": "Final results will roll out through the night, with official certification expected in the early morning."
  },
  "error": null
 }
