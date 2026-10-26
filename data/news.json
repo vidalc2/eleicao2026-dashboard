@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-26T06:38:53.789618-03:00",
+ "updated": "2026-10-26T06:40:50.421439-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "Mapa da virada: onde Lula avançou e como mudou a votação de Flávio Bolsonaro entre o 1º e o 2º turno - G1",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/mapa-virada-lula-flavio-bolsonaro-votos-primeiro-segundo-turno.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T09:27:09+00:00",
-   "desc": " Mapa da virada: onde Lula avançou e como mudou a votação de Flávio Bolsonaro entre o 1º e o 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOby16QW9TNkFiMDQwUGtuTEctYmVIZjZFWmtTZVMxM1NtNzBPVXp2Qi1NRjNEQUpXcDFLYkNlbWhZcUZuLWc3dktFWTVyY3ZrSWhseTJNZDFuNGhmYWFqYmsxSldNd240VVJBejNfSjZXU2REUmd5QXBZMTZtRV9GdWs4QlpTZm1OX1p6OXI4a1NPcXdpX0dFMFdudFhCZ2RBT3N0LVVYMlRDUDFnZnMzNU1NSThQa1RyZVlqc3F0bHBiOTB3ZnhvSnI3b9IB2gFBVV95cUxQUGFBZlRMTmV6dmZVOHlsUTFzUFBZc3p4NE5udjFWUkVlRlY5eW44YXFLbjFtUEQwVEljODJxbHVCY0ZKcnBnaGNiWUJQa3RJd0psY2V5d1Q0UUhNUHgzcVpiRE1JRVZIUWpHZ2x0VjQwM0UyNGpfRk55YU5jTlJZbUJPVzJjdmRmbVoyenduLUhjbWxrbkl2d181ZWhnel9JY0M5cmJ4cHQwUDlXUXdfMmQwMmVGV3NSSmtiWDc5elpwRDBRYVFKMy1CY0N3OUpvamdYd1pNY3Nxdw?oc=5"
-  },
   {
    "title": "Iporá (GO): resultado do local de votação por zonas eleitorais no 2º turno - G1",
    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/ipora-go-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
@@ -41,29 +33,41 @@
    "published": "2026-10-26T09:27:25+00:00",
    "desc": " Lula vence a eleição presidencial em Ibiaí    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdURZeG9OS3lIT1ZpSnZQYlBqdFFLNUQ2dlM0bW8tZWViMkhnR1lNRjd1VFVyQWdvQ3pKXy1HWHEwZFBxc1kxdndHM09ibmtWOTBxMGFjRllzaVVuQm9HZHF4TUJ6dk43Y1lhdDlKRlVOcy1KQzZOZmJGQjRNTHdNMFg5X3l3bXdZZ2V3Ukdia0QtUzhGdm9z?oc=5"
+  },
+  {
+   "title": "Serra dos Aimorés: Lula tem 62,29% e vence o segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127672/serra-dos-aimores-lula-tem-62-29-e-vence-o-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T09:23:18+00:00",
+   "desc": " Serra dos Aimorés: Lula tem 62,29% e vence o segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX2wwakoyNi1TTkdzRFQ4dGxxNzZzRkV6Z2s2MWVEUi1XSnRkMVZjSV9FdW9fbWU0YjV3bmYtNVZHQi1YN3BRRnF5RVFvQXZ4NG9XQ0t5VUsxNmZ3V3JHZjJOODV6RTNNc0wyWXFkempRdk5iNXlEWmFYMDlBNXl0TkFfRl9NQVFzbDBrVzk2aDcyek9oa04xd2ZBNjBSUVdLRkxXVWlfOEdXQQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões de votos",
-  "why_it_matters": "A vitória garante a continuidade do governo de esquerda após quatro anos de gestão de Lula, enquanto impede a ascensão de Flávio Bolsonaro, candidato de direita. O resultado também reflete a rejeição de quase um quinto dos eleitores, que se abstiveram.",
-  "big_picture": "O mapa da virada mostra que Lula reconquistou territórios perdidos no primeiro turno, especialmente no Nordeste e Centro-Oeste, enquanto Flávio perdeu apoio em municípios-chave de Goiás. O padrão de voto indica uma polarização regional ainda acentuada.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mi de votos",
+  "why_it_matters": "A vitória garante a continuidade das políticas de esquerda e define o rumo político e econômico do Brasil para os próximos quatro anos.",
+  "big_picture": "Com 19,22% de abstenção, a eleição mostrou alta polarização, mas a maioria dos eleitores ainda optou por Lula, consolidando sua liderança nacional.",
   "details": [
-   "100,0% das seções apuradas confirmam a vitória de Lula (51,79% x 48,21%); diferença de 4.430.191 votos",
-   "Municípios decisivos como Gararu (SE) e Ibiaí (MG) escolheram Lula, reforçando sua base no interior",
-   "Resultados locais em Goiás – Iporá e a 8ª zona de Três Ranchos – evidenciam a reversão de Flávio Bolsonaro entre o 1.º e 2.º turnos"
+   "100,0% das seções apuradas confirmam a vitória de Lula (51,79% x 48,21%).",
+   "Diferença de 4.430.191 votos a favor de Lula sobre Flávio Bolsonaro.",
+   "Resultados locais reforçam a tendência: Gararu (BA), Ibiaí (MG) e Serra dos Aimorés (MG) registram vitória clara de Lula.",
+   "Municípios de Iporá (GO) e Três Ranchos (GO) também mostram a maioria dos votos para Lula nas zonas eleitorais.",
+   "Abstenção de 19,22% indica que quase um quinto dos eleitores não participou da decisão final."
   ],
-  "whats_next": "A transição de governo será formalizada até 31 de dezembro, com a posse de Lula prevista para 1º de janeiro de 2027."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mihões of votes",
-  "why_it_matters": "The win secures a left‑leaning government after four years under Lula, while blocking right‑wing candidate Flávio Bolsonaro. It also shows almost a fifth of voters stayed home.",
-  "big_picture": "The swing map shows Lula clawed back lost ground in the Northeast and Central‑West, while Flávio lost traction in key Goiás towns. The vote pattern underscores sharp regional polarization.",
+  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mi votes",
+  "why_it_matters": "The win secures left‑wing policies and sets Brazil’s political and economic course for the next four years.",
+  "big_picture": "With 19,22% abstention, the vote was sharply divided, but most voters chose Lula, cementing his national lead.",
   "details": [
-   "100,0% of precincts counted confirm Lula’s win (51,79% vs 48,21%); margin of 4.430.191 votes",
-   "Key towns like Gararu (SE) and Ibiaí (MG) went for Lula, bolstering his rural base",
-   "Local results in Goiás – Iporá and the 8th zone of Três Ranchos – show Flávio Bolsonaro’s support flipped between rounds"
+   "100.0% of precincts counted confirm Lula’s win (51,79% vs 48,21%).",
+   "Margin of 4.430.191 votes in Lula’s favour over Flávio Bolsonaro.",
+   "Local results echo the trend: Gararu (BA), Ibiaí (MG) and Serra dos Aimorés (MG) all show clear Lula victories.",
+   "Iporá (GO) and Três Ranchos (GO) also delivered Lula majorities in their voting zones.",
+   "19,22% abstention means almost one‑fifth of voters sat out the final decision."
   ],
-  "whats_next": "The transition wraps up by Dec 31, with Lula’s inauguration set for Jan 1, 2027."
+  "whats_next": "Lula is sworn in on Jan 1, 2027, while Flávio Bolsonaro gears up for a legal challenge."
  },
  "error": null
 }
