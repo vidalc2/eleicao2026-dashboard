@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:27:19.454165-03:00",
+ "updated": "2026-10-25T22:29:20.918530-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,78% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política externa e econômica do Brasil para os próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas, a margem de 4,4 milhões de votos mostra um país ainda polarizado, enquanto 19,22% dos eleitores permaneceram abstentes.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro.",
+  "big_picture": "Com 4,428,034 votos de diferença e 19,22% de abstenção, o resultado reflete a profunda divisão política do país.",
   "details": [
-   "Lula 51,78% x Flávio Bolsonaro 48,22% dos votos válidos",
-   "Diferença de 4,427,997 votos",
-   "Abstenção em 19,22% dos eleitores"
+   "Apuração completa: 100% das seções já contabilizadas",
+   "Lula lidera com 51,78% contra 48,22% de Flávio Bolsonaro",
+   "Cobertura local em Campos dos Goytacazes, Belford Roxo, Contagem, Campo Grande e João Pessoa confirma a tendência nacional"
   ],
-  "whats_next": "A diplomação oficial será concluída nos próximos dias, preparando a posse de Lula em janeiro de 2027."
+  "whats_next": "Diplomação oficial em 30 de outubro, seguida da posse em 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,78% of valid votes",
-  "why_it_matters": "The win secures the left agenda and sets Brazil’s foreign and economic policy for the next four years.",
-  "big_picture": "With 100% of precincts counted, a 4,4‑million‑vote margin shows a still‑polarized country, while 19,22% of voters stayed home.",
+  "headline": "Lula wins runoff with 51,78% of valid votes",
+  "why_it_matters": "The win secures the left‑leaning agenda and blocks Flávio Bolsonaro’s conservative push.",
+  "big_picture": "A 4,428,034‑vote margin and 19,22% abstention underline the country’s deep political split.",
   "details": [
-   "Lula 51,78% vs Flávio Bolsonaro 48,22% of valid votes",
-   "Margin of 4,427,997 votes",
-   "Abstention at 19,22% of voters"
+   "Count complete: 100% of precincts tallied",
+   "Lula leads 51,78% to 48,22% for Flávio Bolsonaro",
+   "Local coverage in Campos dos Goytacazes, Belford Roxo, Contagem, Campo Grande and João Pessoa mirrors the national trend"
   ],
-  "whats_next": "Official certification will be completed in the next few days, setting the stage for Lula’s inauguration in January 2027."
+  "whats_next": "Official certification on Oct. 30, followed by inauguration on Jan. 1, 2027"
  },
  "error": null
 }
