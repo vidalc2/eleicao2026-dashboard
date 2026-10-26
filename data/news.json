@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:51:06.791331-03:00",
+ "updated": "2026-10-26T01:53:06.717407-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, mas Flávio Bolsonaro já pede anulação",
-  "why_it_matters": "A vitória garante o terceiro mandato de Lula, enquanto a contestação de Flávio pode gerar instabilidade institucional e atrasar a transição de poder.",
-  "big_picture": "Com 100% das seções apuradas, a diferença de 4,430,191 votos supera margens históricas, mas a abstenção de 19,22% revela cansaço do eleitorado.",
+  "headline": "Lula vence segundo turno com 51,79% contra Flávio Bolsonaro, diferença de 4,43 mi de votos",
+  "why_it_matters": "A vitória garante a continuidade do governo de esquerda e impede a agenda conservadora de Flávio Bolsonaro.",
+  "big_picture": "Com 19,22% de abstenção, a eleição mostra alta polarização, mas a margem de 4,43 mi reforça a legitimidade do resultado.",
   "details": [
-   "Resultado final: Lula 51,79% (≈13,5 mi votos) x Flávio Bolsonaro 48,21% (≈9,1 mi votos), diferença de 4,430,191 votos.",
-   "Flávio Bolsonaro apresentou pedido de anulação alegando irregularidades; especialistas apontam baixa probabilidade de sucesso.",
-   "Apurações locais em Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra e Ourinhos confirmam a tendência nacional a favor de Lula."
+   "Resultado oficial do TSE com 100% das seções apuradas",
+   "Flávio Bolsonaro já anuncia pedido de anulação, citando supostas irregularidades",
+   "Especialistas dizem que o pedido tem pouca chance de sucesso jurídico",
+   "Apurações em Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra e Ourinhos confirmam a tendência nacional"
   ],
-  "whats_next": "O TSE analisará o pedido de anulação nos próximos dias, enquanto a posse de Lula está marcada para 1º de janeiro de 2027."
+  "whats_next": "Tribunais analisarão o pedido de anulação nos próximos dias, enquanto o governo Lula inicia a transição."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, but Flávio Bolsonaro already seeks annulment",
-  "why_it_matters": "The win secures Lula’s third term, while Flávio’s challenge could spark institutional instability and delay the power transition.",
-  "big_picture": "With 100% of precincts counted, the 4,430,191‑vote gap tops historic margins, but a 19,22% abstention shows voter fatigue.",
+  "headline": "Lula wins runoff with 51,79% against Flávio Bolsonaro, margin of 4,43 mi votes",
+  "why_it_matters": "The win keeps the left‑leaning government in power and blocks Flávio Bolsonaro’s conservative agenda.",
+  "big_picture": "With 19,22% abstention, the vote shows sharp polarization, yet the 4,43 mi margin underlines the result’s legitimacy.",
   "details": [
-   "Final tally: Lula 51,79% (≈13,5 m votes) vs Flávio Bolsonaro 48,21% (≈9,1 m votes), margin of 4,430,191 votes.",
-   "Flávio Bolsonaro filed an annulment request citing irregularities; experts see low odds of success.",
-   "Local counts in Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra and Ourinhos echo the national tilt favour Lula."
+   "Official TSE count with 100% of precincts reported",
+   "Flávio Bolsonaro already files a nullification request, citing alleged irregularities",
+   "Experts say the challenge has slim legal odds",
+   "Counts in Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra and Ourinhos echo the national trend"
   ],
-  "whats_next": "The TSE will review the annulment request in the coming days, while Lula’s inauguration is set for Jan 1, 2027."
+  "whats_next": "Courts will review the nullification bid in the coming days as Lula’s team begins the transition."
  },
  "error": null
 }
