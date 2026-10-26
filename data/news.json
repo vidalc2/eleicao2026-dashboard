@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T09:04:00.674888-03:00",
+ "updated": "2026-10-26T09:06:01.143099-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% e recebe elogios de líderes mundiais",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e projeta o Brasil como aliado estratégico nas discussões globais sobre clima e comércio.",
-  "big_picture": "Com 100% das seções apuradas, Lula superou Flávio Bolsonaro por 4,43 milhões de votos, mas a abstenção de 19,22% evidencia a polarização do eleitorado.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "Com 4,43 mi de votos de diferença, a vitória reafirma a liderança de Lula num país ainda polarizado, enquanto a abstenção de 19,22% evidencia cansaço eleitoral.",
+  "big_picture": "O retorno de Lula ao Palácio do Planalto sinaliza continuidade das políticas de esquerda e abre caminho para alianças internacionais, contrastando com a agenda conservadora de Flávio Bolsonaro.",
   "details": [
-   "TSE confirma apuração total: Lula 51,79% x Flávio 48,21% dos votos válidos, diferença de 4.430.191 votos",
-   "Líderes dos EUA, UE, China e outros parabenizaram Lula, sinalizando apoio a sua política externa",
-   "Lula discursou prometendo combate à pobreza, fortalecimento da democracia e aprofundamento das relações internacionais",
-   "Mapa de resultados mostra vitória de Lula em maioria dos municípios, enquanto Flávio venceu em áreas do Nordeste e Centro-Oeste",
-   "Na Unidade Escolar Presidente Medici (89ª zona, Lagoa do Sítio‑PI), Lula recebeu 62% dos votos, refletindo a tendência nacional"
+   "TSE concluiu a apuração: 100 % das seções, Lula 51,79 % x Flávio Bolsonaro 48,21 % dos votos válidos; margem de 4,430,191 votos.",
+   "Líderes de EUA, UE e outros países enviaram mensagens de parabéns, reforçando a importância geopolítica da eleição.",
+   "Lula divulgou discurso completo, destacando unidade nacional, democracia e planos de investimento social.",
+   "Mapa de resultados mostra Lula vencedor na maioria dos estados, enquanto Flávio manteve apoio em regiões do Norte.",
+   "Na Unidade Escolar Presidente Medici, 89ª zona eleitoral (Lagoa do Sítio, PI), o resultado confirmou a vitória de Lula."
   ],
-  "whats_next": "Lula tomará posse em 1º de janeiro de 2027 e iniciará a montagem de seu governo e agenda legislativa."
+  "whats_next": "Lula deve assumir a presidência em 1 de janeiro de 2027 e iniciar a formação de seu governo."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% and gets praise from world leaders",
-  "why_it_matters": "The win secures the left‑leaning agenda and positions Brazil as a strategic ally in global climate and trade talks.",
-  "big_picture": "With all precincts counted, Lula beat Flávio Bolsonaro by 4,43 million votes, while a 19,22% abstention highlights voter polarization.",
+  "headline": "Lula wins second round with 51,79% of valid votes",
+  "why_it_matters": "A 4,43 mi‑vote margin re‑asserts Lula’s lead in a still‑polarised country, while 19,22% abstention shows voter fatigue.",
+  "big_picture": "Lula’s return to the Planalto Palace signals continuity of left‑wing policies and opens doors for international alliances, a stark contrast to Flávio Bolsonaro’s conservative agenda.",
   "details": [
-   "TSE confirms full count: Lula 51,79% vs Flávio 48,21% of valid votes, margin of 4.430.191 votes",
-   "US, EU, China and other leaders congratulated Lula, signalling backing for his foreign policy",
-   "Lula pledged to fight poverty, strengthen democracy and deepen international ties",
-   "Result map shows Lula winning most municipalities, while Flávio carried parts of the Northeast and Central‑West",
-   "At Presidente Medici School (zone 89, Lagoa do Sítio‑PI), Lula got 62% of votes, mirroring the national trend"
+   "TSE completed the count: 100 % of precincts, Lula 51,79 % vs Flávio Bolsonaro 48,21 % of valid votes; margin of 4,430,191 votes.",
+   "U.S., EU and other leaders sent congratulations, underscoring the election’s geopolitical weight.",
+   "Lula released his full speech, stressing national unity, democracy and social‑investment plans.",
+   "Result map shows Lula winning most states, while Flávio held on in parts of the North.",
+   "At Unidade Escolar Presidente Medici, 89th voting zone (Lagoa do Sítio, PI), the count confirmed Lula’s win."
   ],
-  "whats_next": "Lula will be sworn in on Jan 1, 2027 and will start building his cabinet and legislative agenda."
+  "whats_next": "Lula is set to take office on Jan 1 2027 and start building his cabinet."
  },
  "error": null
 }
