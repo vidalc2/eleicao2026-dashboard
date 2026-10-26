@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:39:00.446057-03:00",
+ "updated": "2026-10-26T01:41:24.094074-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -16,7 +16,7 @@
    "source": "O GLOBO",
    "published": "2026-10-26T04:22:24+00:00",
    "desc": " Eleições em Foz do Iguaçu (PR): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1JGSmZuRzJQUzF0Tkp0dnF2UUQwM3BiMExsY3EtZy05RW5lMm52cHJ5ZldTWlVFV2tRUTRKS0RhMzFzZkMyaE1xN3c4NW00TXVHazV4VTItQzdzeHE0c0pnR0QzM0w0NDBualA5SFdRVE9TbTFKWkdoa1lUeU1FQmJ5NlJQRmFsRmFyQzV2cHJMdVZ0SWUtTW5TQTR4WXdnTGRFQWhGa2JUZVdmYk83LXdSbWRxN2lQNHpFbi1aN01TNG9wOEo00gHWAUFVX3lxTE5mNl9tS3RmM3RtRWo4RVpBM3RORWJzRnhXcWVaSFNCeTc5SW5XVDlHeEJsWTExa0N1bGltRUtkRlV5NF9lM0laVk5mYVZoTldMUXVSdWtVVkYzVEtWaE15Z3B2R2pKQXYzNGkxTWZEYWxmenBfVEx3SVpOTENLOUl1azE3dHN0Y1F6Y2FYRXg2cUR6clI0R0tfUHlHNUhZRkV0WnNBUlNrVDB2b0U3QThLZldMY1NRYXBiTjZRcXNQREVwQTZ4b2JYMDljN2U1T1p2RVhBelE?oc=5"
+   "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1JGSmZuRzJQUzF0Tkp0dnF2UUQwM3BiMExsY3EtZy05RW5lMm52cHJ5ZldTWlVFV2tRUTRKS0RhMzFzZkMyaE1xN3c4NW00TXVHazV4VTItQzdzeHE0c0pnR0QzM0w0NDBualA5SFdRVE9TbTFKWkdoa1lUeU1FQmJ5NlJQRmFsRmFyQzV2cHJMdVZ0SWUtTW5TQTR4WXdnTGRFQWhGa2JUZVdmYk83LXdSbWRxN2lQNHpFbi1aN01TNG9wOEo0?oc=5"
   },
   {
    "title": "Eleições em Ourinhos (SP): veja a apuração do 2º turno - O GLOBO",
@@ -45,25 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade do PT no poder e define a agenda política para os próximos quatro anos.",
-  "big_picture": "Com 4,43 milhões de votos a mais, Lula supera Flávio Bolsonaro em um pleito marcado por alta abstenção (19,22%).",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
+  "big_picture": "Com 4,43 milhões de votos a mais, o resultado reflete um país ainda dividido, mas com maioria clara para o PT.",
   "details": [
-   "100% das seções apuradas confirmam o resultado final",
-   "Diferença de 4,430,191 votos entre os candidatos",
-   "Abstenção chegou a 19,22%, indicando cansaço ou descontentamento dos eleitores"
+   "100,0% das seções foram apuradas, confirmando a totalização final",
+   "Abstenção ficou em 19,22% do eleitorado",
+   "Lula obteve 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro"
   ],
-  "whats_next": "A diplomação oficial deve ocorrer nas próximas semanas, iniciando a transição de governo"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51.79% of valid votes",
-  "why_it_matters": "The win keeps PT in power and sets the policy agenda for the next four years.",
-  "big_picture": "With a 4.43‑million‑vote edge, Lula beats Flávio Bolsonaro in a race marked by high abstention (19.22%).",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro from the Planalto Palace.",
+  "big_picture": "With a 4,43‑million vote margin, the result shows a still‑split country but a clear PT majority.",
   "details": [
-   "100% of counted precincts confirm the final result",
-   "Margin of 4,430,191 votes between the candidates",
-   "Abstention hit 19.22%, signaling voter fatigue or discontent"
+   "100,0% of precincts reported, confirming the final tally",
+   "Abstention was 19,22% of voters",
+   "Lula got 51,79% of valid votes vs 48,21% for Flávio Bolsonaro"
   ],
-  "whats_next": "Official certification should happen in the coming weeks, kicking off the government transition"
+  "whats_next": "Lula will be inaugurated on Jan 1, 2027"
  },
  "error": null
 }
