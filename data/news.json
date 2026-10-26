@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:05:11.388685-03:00",
+ "updated": "2026-10-26T02:07:08.971992-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória assegura a continuidade do PT na Casa Branca e define a agenda nacional para os próximos quatro anos.",
-  "big_picture": "Mesmo com 19,22% de abstenção, a margem de 4.430.191 votos confirma a legitimidade do pleito em um eleitorado ainda polarizado.",
+  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória garante a continuidade do governo de esquerda e impede a agenda conservadora de Flávio Bolsonaro.",
+  "big_picture": "Com 19,22% de abstenção, a eleição demonstra alta participação e reforça a polarização política no país.",
   "details": [
-   "Resultado oficial do TSE com 100 % das seções apuradas",
-   "Lula 51,79 % x Flávio Bolsonaro 48,21 % dos votos válidos",
-   "Diferença de 4.430.191 votos; abstenção total de 19,22 %",
-   "Apurações locais (Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra) refletem a tendência nacional",
-   "Flávio Bolsonaro já anuncia pedido de anulação, citando supostas irregularidades"
+   "Resultado final: Lula 51,79% x Flávio 48,21% dos votos válidos",
+   "Diferença de 4.430.191 votos assegura margem confortável para o candidato do PT",
+   "Abstenção de 19,22% indica que quase 8 milhões de eleitores deixaram de votar"
   ],
-  "whats_next": "Flávio deve protocolar pedido de anulação no TSE nos próximos dias, enquanto o governo Lula inicia a fase de transição."
+  "whats_next": "Flávio Bolsonaro anuncia pedido de contestação judicial da eleição"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "The win keeps the PT in the White House and sets the national agenda for the next four years.",
-  "big_picture": "Even with 19,22% abstention, a margin of 4.430.191 votes underlines the election’s legitimacy in a still‑polarised electorate.",
+  "headline": "Lula wins 2nd round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win keeps the left‑leaning government in power and blocks Flávio Bolsonaro’s conservative agenda.",
+  "big_picture": "With 19,22% abstention, the vote shows strong turnout and underscores the country’s political polarization.",
   "details": [
-   "Official TSE result with 100 % of precincts counted",
-   "Lula 51,79 % vs Flávio Bolsonaro 48,21 % of valid votes",
-   "Margin of 4.430.191 votes; total abstention 19,22 %",
-   "Local tallies (Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra) mirror the national trend",
-   "Flávio Bolsonaro already announces a nullification request, citing alleged irregularities"
+   "Final tally: Lula 51,79% vs Flávio 48,21% of valid votes",
+   "Margin of 4.430.191 votes gives the PT candidate a comfortable lead",
+   "19,22% abstention means almost 8 million voters stayed home"
   ],
-  "whats_next": "Flávio is set to file a nullification request with the TSE in the coming days, while Lula’s team moves into transition."
+  "whats_next": "Flávio Bolsonaro says he’ll file a legal challenge to the election"
  },
  "error": null
 }
