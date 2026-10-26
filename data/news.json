@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:10:20.340738-03:00",
+ "updated": "2026-10-26T01:12:20.495482-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda do PT e impede a ascensão de Flávio Bolsonaro, ainda que o candidato mantenha apoio em algumas regiões",
-  "big_picture": "Com 100 % das seções apuradas, a eleição confirma a preferência nacional por Lula, apesar de 19,22 % de abstenção e de narrativas de fraude que o TSE já desmentiu",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A reeleição de Lula garante a continuidade das políticas de esquerda e define a agenda nacional para os próximos quatro anos.",
+  "big_picture": "Apesar da vitória, a disputa foi apertada e a abstenção chegou a 19,22%, indicando polarização e cansaço do eleitorado.",
   "details": [
-   "TSE desmente alegação de Flávio Bolsonaro de retirada de fiscais do ‘sala‑cofre’ do tribunal",
-   "Lula recebeu 64 mi de votos contra 59 mi de Flávio, ampliando a vantagem em relação ao 1º turno",
-   "Mesmo com municípios como Terra Rica e Riozinho optando por Flávio, eles representam exceções em um cenário nacional favorável a Lula"
+   "100,0% das seções apuradas confirmam 64 milhões de votos para Lula e 59 milhões para Flávio Bolsonaro",
+   "Diferença de 4.430.191 votos entre os candidatos",
+   "TSE desmente alegações de Flávio sobre retirada de fiscais e reafirma a lisura do processo",
+   "Municípios como Terra Rica e Riozinho ainda registram apoio a Flávio, mas não foram suficientes"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro pode apresentar recurso ao TSE"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027 para iniciar seu segundo mandato."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51.79% of the vote, beating Flávio Bolsonaro by 4.43 mi votes",
-  "why_it_matters": "The win keeps the PT agenda alive and blocks Flávio Bolsonaro’s rise, even though he still holds sway in some areas",
-  "big_picture": "With 100 % of precincts counted, the vote shows a national preference for Lula, despite a 19.22 % abstention rate and fraud claims the TSE has already debunked",
+  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "Lula’s re‑election keeps left‑wing policies on track and sets the national agenda for the next four years.",
+  "big_picture": "Even with the win, the race was tight and abstention hit 19,22%, signalling polarization and voter fatigue.",
   "details": [
-   "TSE refutes Flávio Bolsonaro’s claim that election‑court auditors were removed from the ‘vault’",
-   "Lula got 64 mi votes to Flávio’s 59 mi, widening the gap from the first round",
-   "Municipalities like Terra Rica and Riozinho backed Flávio, but they’re outliers in a nation‑wide Lula tilt"
+   "100,0% of precincts reporting confirm 64 million votes for Lula and 59 million for Flávio Bolsonaro",
+   "Margin of 4.430.191 votes between the candidates",
+   "TSE refutes Flávio’s claim of poll‑watcher removal and reaffirms the process’s integrity",
+   "Municipalities like Terra Rica and Riozinho still show support for Flávio, but not enough"
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, while Flávio Bolsonaro may appeal to the TSE"
+  "whats_next": "Lula will be sworn in on Jan. 1, 2027 to start his second term."
  },
  "error": null
 }
