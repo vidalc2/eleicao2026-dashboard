@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:13:56.591875-03:00",
+ "updated": "2026-10-26T04:15:59.590281-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro",
-  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete um país ainda dividido, mas com maioria clara para Lula",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
+  "big_picture": "Com 100 % das seções apuradas, a margem de 4,430,191 votos evidencia a profunda polarização, enquanto 19,22 % dos eleitores permaneceram ausentes.",
   "details": [
-   "100% das seções apuradas confirmam 51,79% para Lula e 48,21% para Flávio Bolsonaro",
-   "A extensão do horário de votação, anunciada pela Justiça Eleitoral, foi decisiva para garantir plena participação",
-   "Municípios como Santos Dumont e Buriticupu declararam apoio a Lula, enquanto Assis e o governador Jorge Teixeira apoiaram Flávio Bolsonaro, evidenciando a polarização regional"
+   "Resultado oficial: Lula 51,79 % x Flávio Bolsonaro 48,21 % dos votos válidos; diferença de 4,430,191 votos",
+   "Cronologia da ampliação do horário de votação, divulgada pelo Poder360, foi decisiva para a participação eleitoral",
+   "Municípios de Santos Dumont e Buriticupu, além do governador Jorge Teixeira, declararam apoio a Lula; Flávio Bolsonaro venceu em Assis"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
  },
  "brief_en": {
   "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win secures the left’s agenda and blocks Flávio Bolsonaro’s conservative push",
-  "big_picture": "A margin of 4,430,191 votes and 19,22% abstention shows a still‑divided country, but a clear majority for Lula",
+  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro from the Planalto Palace.",
+  "big_picture": "With 100 % of precincts counted, a 4,430,191‑vote margin shows deep polarization, while 19,22 % of voters stayed home.",
   "details": [
-   "100% of counted precincts confirm 51,79% for Lula and 48,21% for Flávio Bolsonaro",
-   "Extended voting hours, ordered by the Electoral Court, were decisive for full participation",
-   "Municipalities like Santos Dumont and Buriticupu backed Lula, while Assis and Governor Jorge Teixeira backed Flávio Bolsonaro, underscoring regional polarization"
+   "Official result: Lula 51,79 % vs Flávio Bolsonaro 48,21 % of valid votes; margin of 4,430,191 votes",
+   "Extension of voting hours, reported by Poder360, proved pivotal for turnout",
+   "Municipalities of Santos Dumont and Buriticupu, plus Governor Jorge Teixeira, backed Lula; Flávio Bolsonaro won in Assis"
   ],
-  "whats_next": "Lula will be sworn in on Jan. 1, 2027, as Flávio Bolsonaro readies a legal challenge"
+  "whats_next": "Lula will be inaugurated on Jan. 1, 2027, kicking off his second term."
  },
  "error": null
 }
