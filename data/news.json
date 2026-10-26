@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:03:09.962638-03:00",
+ "updated": "2026-10-26T02:05:11.388685-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos, mas Flávio Bolsonaro promete contestar o resultado",
-  "why_it_matters": "A vitória de Lula garante a continuidade do governo de esquerda por mais quatro anos, enquanto a contestação de Flávio pode gerar instabilidade institucional.",
-  "big_picture": "Com 100% das seções apuradas, a diferença de 4,43 milhões de votos demonstra um pleito apertado e uma abstenção de 19,22%, sinalizando desgaste do eleitorado.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória assegura a continuidade do PT na Casa Branca e define a agenda nacional para os próximos quatro anos.",
+  "big_picture": "Mesmo com 19,22% de abstenção, a margem de 4.430.191 votos confirma a legitimidade do pleito em um eleitorado ainda polarizado.",
   "details": [
-   "Lula: 51,79% dos votos válidos; Flávio Bolsonaro: 48,21%",
-   "Diferença de 4.430.191 votos em todo o país",
-   "Abstenção total chegou a 19,22% das eleitores habilitados",
-   "Flávio já apresentou argumentos para anular a eleição, citando supostas irregularidades; especialistas apontam baixa probabilidade de sucesso",
-   "Apurações locais – Valparaíso (GO), Foz do Iguaçu (PR) e Taboão da Serra (SP) – refletem variações regionais, mas confirmam a vitória nacional de Lula"
+   "Resultado oficial do TSE com 100 % das seções apuradas",
+   "Lula 51,79 % x Flávio Bolsonaro 48,21 % dos votos válidos",
+   "Diferença de 4.430.191 votos; abstenção total de 19,22 %",
+   "Apurações locais (Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra) refletem a tendência nacional",
+   "Flávio Bolsonaro já anuncia pedido de anulação, citando supostas irregularidades"
   ],
-  "whats_next": "O Tribunal Superior Eleitoral analisará os pedidos de anulação enquanto o novo governo se prepara para assumir em 1º de janeiro de 2027"
+  "whats_next": "Flávio deve protocolar pedido de anulação no TSE nos próximos dias, enquanto o governo Lula inicia a fase de transição."
  },
  "brief_en": {
-  "headline": "Lula wins the 2nd round with 51,79% of valid votes, but Flávio Bolsonaro vows to contest the result",
-  "why_it_matters": "Lula’s win extends the left‑leaning government for another four years, while Flávio’s challenge could spark institutional instability.",
-  "big_picture": "With 100% of precincts counted, a 4.43 million‑vote gap shows a tight race and a 19.22% abstention, hinting at voter fatigue.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win keeps the PT in the White House and sets the national agenda for the next four years.",
+  "big_picture": "Even with 19,22% abstention, a margin of 4.430.191 votes underlines the election’s legitimacy in a still‑polarised electorate.",
   "details": [
-   "Lula: 51,79% of valid votes; Flávio Bolsonaro: 48,21%",
-   "Margin of 4.430.191 votes nationwide",
-   "Abstention hit 19,22% of eligible voters",
-   "Flávio has filed claims to void the election, citing alleged irregularities; experts see slim odds of success",
-   "Local tallies – Valparaíso (GO), Foz do Iguaçu (PR) and Taboão da Serra (SP) – show regional swings but confirm Lula’s national win"
+   "Official TSE result with 100 % of precincts counted",
+   "Lula 51,79 % vs Flávio Bolsonaro 48,21 % of valid votes",
+   "Margin of 4.430.191 votes; total abstention 19,22 %",
+   "Local tallies (Valparaíso de Goiás, Foz do Iguaçu, Taboão da Serra) mirror the national trend",
+   "Flávio Bolsonaro already announces a nullification request, citing alleged irregularities"
   ],
-  "whats_next": "The Superior Electoral Court will review the annulment requests as the new administration gears up to take office on Jan 1, 2027"
+  "whats_next": "Flávio is set to file a nullification request with the TSE in the coming days, while Lula’s team moves into transition."
  },
  "error": null
 }
