@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-26T01:57:07.582682-03:00",
+ "updated": "2026-10-26T01:59:08.221932-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "Flávio diz que vai pedir a anulação da eleição presidencial: 'Sacanagem' - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/flavio-bolsonaro-discurso-eleicao-presidente-presidenciais.ghtm",
-   "source": "UOL Notícias",
-   "published": "2026-10-26T04:52:35+00:00",
-   "desc": " Flávio diz que vai pedir a anulação da eleição presidencial: 'Sacanagem'    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkJCeDRyd1MzWjMzUTBzRWpuOTdXeE9DQkt1NExoUjMzWWtnLTRidGNkWFdoSWVyS2dpbE5qdU56QjZXU2VtZElYbnJUTXBLT1Y1Q3NQUTRWR19DU3ZCdUN0MnQ1Vmphc2hBcVUwbXlPVWpBY2Q3U1h4TmVxcENfTGdVZXJhS3Z2MVdVYlptRGswaDVOeHJ0dVd4cWlkYUZRTGdJQUJNcDk4cFZTdDNGQg?oc=5"
-  },
   {
    "title": "Resultado das eleições 2026: como foi a votação na sua cidade no 2º turno; consulte por estado - G1",
    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/resultado-das-eleicoes-2026-como-foi-a-votacao-na-sua-cidade-no-2o-turno-consulte-por-estado.ghtml",
@@ -41,31 +33,39 @@
    "published": "2026-10-26T04:22:24+00:00",
    "desc": " Eleições em Foz do Iguaçu (PR): veja a apuração do 2º turno    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1JGSmZuRzJQUzF0Tkp0dnF2UUQwM3BiMExsY3EtZy05RW5lMm52cHJ5ZldTWlVFV2tRUTRKS0RhMzFzZkMyaE1xN3c4NW00TXVHazV4VTItQzdzeHE0c0pnR0QzM0w0NDBualA5SFdRVE9TbTFKWkdoa1lUeU1FQmJ5NlJQRmFsRmFyQzV2cHJMdVZ0SWUtTW5TQTR4WXdnTGRFQWhGa2JUZVdmYk83LXdSbWRxN2lQNHpFbi1aN01TNG9wOEo0?oc=5"
+  },
+  {
+   "title": "Eleições em Taboão da Serra (SP): veja a apuração do 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/eleicoes-em-taboao-da-serra-sp-veja-a-apuracao-do-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T04:22:14+00:00",
+   "desc": " Eleições em Taboão da Serra (SP): veja a apuração do 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWM0R2NlaHJHZ0UzaW5fdk5wRDY0T3Y0NHptOFU0dDJab1Rsdmd6Z2NwaTU1ZV9FZzNPTTBOSXRwTkFaVUl5Qk1yMDhKS1FlVVhCNnBLel9JV2w3YmNXaldlUF9KTGJ4YlJ5Nkg2UDNBV05LRzFic0ZibVA3dWdNckxjc1NfdWN0cnc3cDg4V1YzaTdzY0FMcnEycWN2NmlVcTZ4bzZtanNJM1VtZE1iU0puYXc1QXdGcVc4U2NLeTFENnQ5NnV3VkVR0gHYAUFVX3lxTE4zbkRDN25JV1VzTU1sWUJpM1F5OHk1SGhYejRSSTgzbHlINUF4NnZ4bmtudWtOODluc2lZWlcxWmUtaHF1OG1hM3Vjc09yWno3czJrMmpmUGNjTFBqcE1rUHNhc3ZfYWZhWEVhNm5RTkFwTjdGaTNFcy15bE1HNUlHT1pBYkxPcVVRcS1KY2V4LV9KX0ZVV0d4STR2QzRwbGU1eHBaeVpCUkQxRTRBRHIydWlCWnZQTDZlYS12bGd4WHZJS1A3QzBYaEJ2UzRRc1ZnQm9WQTlfWQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% e Flávio Bolsonaro promete contestar resultado",
-  "why_it_matters": "A vitória garante o terceiro mandato de Lula, mas a promessa de anulação por Flávio pode gerar instabilidade política e judicial.",
-  "big_picture": "Com 100% das seções apuradas, a margem foi de 4,430,191 votos em um pleito com 19,22% de abstenção, refletindo um país ainda dividido.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória garante a continuidade do PT no poder e define a agenda política para os próximos quatro anos.",
+  "big_picture": "Com 19,22% de abstenção, a eleição mostra alta polarização, mas a margem de 4,43 milhões de votos confere a Lula um mandato sólido.",
   "details": [
-   "Resultado oficial do TSE: Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos",
-   "Flávio Bolsonaro declarou que vai pedir a anulação da eleição, chamando o processo de \"sacanagem\"",
-   "Especialistas apontam que os argumentos de Flávio têm pouca base jurídica, mas o pedido pode atrasar a transição",
-   "Apurações locais mostram Lula liderando em cidades estratégicas como Valparaíso de Goiás (GO) e Foz do Iguaçu (PR)"
+   "Apuração completa: 100% das seções declaradas",
+   "Diferença de votos: 4.430.191 a favor de Lula",
+   "Abstenção em nível de quase um quinto dos eleitores (19,22%)",
+   "Resultados confirmados em municípios-chave como Valparaíso de Goiás, Foz do Iguaçu e Taboão da Serra"
   ],
-  "whats_next": "O TSE analisará o pedido de anulação enquanto a posse de Lula segue prevista para 1º de janeiro de 2027."
+  "whats_next": "Flávio Bolsonaro anuncia pedido de anulação e recurso ao TSE"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% as Flávio Bolsonaro vows to contest result",
-  "why_it_matters": "The win secures Lula’s third term, but Flávio’s challenge could spark political and legal turbulence.",
-  "big_picture": "With every precinct counted, the margin was 4,430,191 votes in a race with 19,22% abstention, underscoring a still‑divided nation.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win secures a PT second term and sets the policy agenda for the next four years.",
+  "big_picture": "With 19,22% abstention, the election shows deep polarization, but a 4,43‑million vote margin gives Lula a solid mandate.",
   "details": [
-   "Official TSE count: Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes",
-   "Flávio Bolsonaro says he’ll seek to nullify the election, calling the process a “sacanagem”",
-   "Experts say Flávio’s legal footing is thin, but the challenge could delay the transition",
-   "Local tallies show Lula ahead in key cities like Valparaíso de Goiás (GO) and Foz do Iguaçu (PR)"
+   "Count complete: 100% of precincts reported",
+   "Vote gap: 4.430.191 for Lula",
+   "Abstention just under one‑fifth of voters (19,22%)",
+   "Key municipalities confirmed: Valparaíso de Goiás, Foz do Iguaçu and Taboão da Serra"
   ],
-  "whats_next": "The TSE will review the nullification request as Lula’s inauguration stays set for Jan 1, 2027."
+  "whats_next": "Flávio Bolsonaro announces request for annulment and appeal to the TSE"
  },
  "error": null
 }
