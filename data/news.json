@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:55:49.961508-03:00",
+ "updated": "2026-10-26T03:57:51.495904-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% contra Flávio Bolsonaro, diferença de 4,43 mi de votos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de governo de Lula e impede a tomada do Palácio do Planalto pela direita.",
-  "big_picture": "Com 80,78% de comparecimento (abstenção de 19,22%), o pleito confirma a polarização, mas mostra que a maioria dos eleitores ainda prefere o modelo de governo de Lula.",
+  "headline": "Lula vence segundo turno com 51,79% contra Flávio Bolsonaro, margem de 4,43 mi de votos",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de governo de Lula e impede a ascensão da candidatura de Flávio Bolsonaro, líder da direita.",
+  "big_picture": "Com 19,22% de abstenção, quase 81% dos eleitores participaram, evidenciando alta mobilização em um pleito altamente polarizado.",
   "details": [
-   "Lula ampliou sua vantagem em relação ao primeiro turno, passando de 2,5 pontos para 3,58 pontos de diferença",
-   "Em todos os estados, a margem de Lula foi positiva, reforçando a abrangência nacional da vitória",
-   "A composição da bancada que apoiou Lula em 2022 se manteve, com os mesmos aliados presentes nos discursos de vitória de 2022 e 2026"
+   "Lula ampliou a vantagem obtida no primeiro turno, superando Flávio em praticamente todos os estados",
+   "Os resultados estaduais confirmam a força da base de Lula no Norte, Nordeste e Centro‑Oeste, enquanto Flávio manteve desempenho maior em partes do Sul",
+   "Comparado às sete eleições presidenciais desde 2002, o padrão de voto de 2026 reforça a consolidação da coalizão de esquerda liderada por Lula"
   ],
-  "whats_next": "Lula será empossado em 1 de janeiro de 2027, enquanto Flávio Bolsonaro liderará a oposição no Congresso."
+  "whats_next": "Lula assume a presidência em 1º de janeiro de 2027, iniciando seu segundo mandato."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% against Flávio Bolsonaro, margin of 4,43 mi votes",
-  "why_it_matters": "The win keeps Lula’s agenda on track and blocks the right from seizing the Planalto Palace.",
-  "big_picture": "Turnout was 80,78% (abstention 19,22%). The vote underscores polarization but shows most voters still back Lula’s model.",
+  "headline": "Lula wins runoff with 51.79% against Flávio Bolsonaro, margin of 4.43 m votes",
+  "why_it_matters": "The win secures Lula’s agenda staying on track and blocks the rise of right‑wing candidate Flávio Bolsonaro.",
+  "big_picture": "Turnout just under 81% (19.22% abstention), showing strong mobilisation in a highly polarised race.",
   "details": [
-   "Lula widened his lead from the first round, moving from 2,5 to 3,58 points.",
-   "He posted a positive margin in every province, underscoring a nationwide win.",
-   "The 2022‑supporting bench stayed intact, with the same allies featuring in the 2022 and 2026 victory speeches."
+   "Lula widened his first‑round lead, beating Flávio in almost every province",
+   "State results confirm Lula’s base in the North, Northeast and Central‑West, while Flávio held on in parts of the South",
+   "Compared with the seven presidential elections since 2002, the 2026 vote pattern cements Lula‑led left coalition"
   ],
-  "whats_next": "Lula is sworn in on Jan 1 2027; Flávio Bolsonaro will head the opposition in Parliament."
+  "whats_next": "Lula is sworn in on Jan. 1, 2027, kicking off his second term."
  },
  "error": null
 }
