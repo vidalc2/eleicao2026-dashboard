@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:15:04.862041-03:00",
+ "updated": "2026-10-26T07:17:14.767201-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -19,6 +19,14 @@
    "gnews": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaVNndkZUOHhuZlRrRjZJazlEaTY0SHBJQnd4SnljMmR4NGw0YnF4bF92YnJPZUlTTndxY0RQc1NFRl9aQ0RvRkZXcHJycnZvd2FOUWJod1cxMjRiekF2N3hRU0lyRUI0ZXZfMmtoaVpoWXRuZFIzWHo0Z3NlZjU3dC0wN2ZlTGFseGJEYVR6UUk3aHlHVjdXczh0LW8xeDM1NDRxSG52b1djYTZhUEtHbERqNmo0UXIwMXVxRWNzNDhaazNyMkE?oc=5"
   },
   {
+   "title": "Barão de Antonina: Flávio Bolsonaro tem 55,70% e vence o segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/128079/barao-de-antonina-flavio-bolsonaro-tem-55-70-e-vence-o-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T10:12:35+00:00",
+   "desc": " Barão de Antonina: Flávio Bolsonaro tem 55,70% e vence o segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFFRdEg4NDFoYW9YaE5xS2ptU2luYjNkM3FPVEF1SU1jWkFQSUN4bGRpekpPOEEtVkRJQkFkaV9wZTdjQzZKVmNXTTJCeVgyYjBkTnlTYTVBVnBCMTlpNmVlMnVjbHgyUFJoM1haZnpTU2NsMGY3WHBaUUowcjRjQUptcTdleHJHNEwwR0cxMm1lYUxqUWU0RTk0Vk43N01ITi1KVXpEWnQyZDI4cWhUTlFRV1dvZ2hOekE?oc=5"
+  },
+  {
    "title": "Como Janones montou um exército digital na campanha de Lula — e qual espaço pode ter no novo governo - BBC",
    "link": "https://www.bbc.com/portuguese/articles/c678pegn3krmo",
    "source": "BBC",
@@ -33,41 +41,33 @@
    "published": "2026-10-26T09:46:41+00:00",
    "desc": " TSE afirma ter imagens de fiscais do PL durante apuração    Poder360 ",
    "gnews": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWhvcG1YQVVJOUJlX0RSQ3V5U2VKZXFMNHBlaUtoT2g4Mm1sUEFYMWNzcGpRMExWZWtuUzUxNFU0a0NmUDl2N2w4SDZSM0J1VjUzQnYyaWZCTVo4azNfM01sbzVJR1c1ak5kZGVMQjR6c1c0SzU0WDhvcTY2SkhWWmVSV3VQMzNIM0tXSl9EOEZGdFNIMTZwM0JIV0cxLURhZi14WDRkWW0?oc=5"
-  },
-  {
-   "title": "Glória d'Oeste: Flávio Bolsonaro é o mais votado no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/128055/gloria-d-oeste-flavio-bolsonaro-e-o-mais-votado-no-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T10:09:35+00:00",
-   "desc": " Glória d'Oeste: Flávio Bolsonaro é o mais votado no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuTG5Eb3k1d3ZRX0xGY3VveVN3dEFsRGZPZE5FVlJPTDJpU1gzRktCTkdpaWdiZHpZRGEzbWJ6M1BiZ3dha0ljWHY0M0xGNGlSX0NXR05LdzNPdU9leXBVTmtHbDRTLVIzcjNFbWlSbGYyRTdBMW1sOXZ4ZEZWV21NZzF0QzB5WDNPRGtaZVF5ejY5Z0RLczZDZFo2Vm92R25JZDA1R042RGJMSnlHWGxJbG0?oc=5"
   }
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mi de votos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e define a direção política do Brasil pelos próximos quatro anos.",
-  "big_picture": "Com 19,22% de abstenção, a eleição mostra alta polarização, mas a maioria dos eleitores que compareceram às urnas optou por Lula.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda no Executivo e define a direção política e econômica do Brasil para os próximos quatro anos.",
+  "big_picture": "Apesar da vitória nacional de Lula, o mapa eleitoral revela bolsões de apoio a Flávio Bolsonaro, como Barão de Antonina, e destaca o papel de estratégias digitais e a vigilância sobre a integridade do processo eleitoral.",
   "details": [
-   "TSE concluiu a apuração com 100 % das seções, confirmando a margem de 4.430.191 votos a favor de Lula",
-   "Lula celebrou a vitória pedindo ao público que cantasse o Hino da Independência",
-   "Flávio Bolsonaro foi o candidato mais votado em Glória d’Oeste, apesar da derrota nacional",
-   "Janones montou um exército digital que impulsionou a campanha de Lula e pode ter espaço no novo governo",
-   "TSE divulgou imagens de fiscais do PL acompanhando a apuração, reforçando a transparência do processo"
+   "Barreirinha (AM) divulgou os resultados por local de votação, confirmando a tendência nacional a favor de Lula",
+   "Lula celebrou a vitória pedindo ao público que cantasse o Hino da Independência, simbolizando unidade nacional",
+   "Em Barão de Antonina, Flávio Bolsonaro liderou com 55,70% dos votos, evidenciando resistência regional ao PT",
+   "A BBC destacou como o ex‑militar Janones mobilizou um exército digital que ajudou a impulsionar a campanha de Lula",
+   "O Poder360 informou que o TSE possui imagens de fiscais do PL durante a apuração, reforçando a transparência do processo"
   ],
-  "whats_next": "Lula tomará posse em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara recursos judiciais contra o resultado"
+  "whats_next": "A equipe de transição de Lula começará a se organizar para a posse em 1º de janeiro de 2027."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mi votes",
-  "why_it_matters": "The win secures the left‑leaning agenda and sets Brazil’s political direction for the next four years.",
-  "big_picture": "With 19,22% abstention, the vote shows deep polarization, yet most voters who turned out chose Lula.",
+  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mi votes",
+  "why_it_matters": "The win keeps a left‑leaning agenda in the executive and sets Brazil’s political‑economic direction for the next four years.",
+  "big_picture": "Even with Lula’s national win, the map shows pockets of support for Flávio Bolsonaro, like Barão de Antonina, and highlights digital tactics and election‑integrity monitoring.",
   "details": [
-   "TSE finished counting 100 % of precincts, confirming Lula’s margin of 4.430.191 votes",
-   "Lula celebrated, urging the crowd to sing the Independence Anthem",
-   "Flávio Bolsonaro was top vote‑getter in Glória d’Oeste despite his national loss",
-   "Janones built a digital army that boosted Lula’s campaign and could earn a spot in the new government",
-   "TSE released footage of PL poll watchers monitoring the count, underscoring process transparency"
+   "Barreirinha (AM) posted results by voting location, confirming the national trend for Lula.",
+   "Lula celebrated by urging the crowd to sing the Independence Anthem, a nod to national unity.",
+   "In Barão de Antonina, Flávio Bolsonaro led with 55,70% of the vote, showing regional PT resistance.",
+   "The BBC noted ex‑military Janones ran a digital army that boosted Lula’s campaign.",
+   "Poder360 reported the TSE has footage of PL poll watchers during the count, underscoring process transparency."
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, while Flávio Bolsonaro readies legal challenges to the result"
+  "whats_next": "Lula’s transition team will start gearing up for the Jan 1, 2027 inauguration."
  },
  "error": null
 }
