@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:07:22.396684-03:00",
+ "updated": "2026-10-26T08:09:23.831268-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, enquanto Flávio Bolsonaro questiona resultado",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de governo e a posição do Brasil no cenário internacional; a contestação de Flávio pode gerar instabilidade institucional",
-  "big_picture": "Com 100% das seções apuradas, a diferença de 4,430,191 votos supera margens típicas de recontagem, mas a abstenção ainda alta (19,22%) revela descontentamento de parte do eleitorado",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos, mas candidato questiona resultado",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de governo de Lula e define a política externa do Brasil; a contestação de Flávio pode gerar turbulência jurídica e institucional",
+  "big_picture": "Com 100 % das seções apuradas, a eleição foi concluída, embora a abstenção ainda esteja em 19,22%, indicando que quase um quinto dos eleitores não participou",
   "details": [
-   "Flávio Bolsonaro classificou o resultado de 'sacanagem' e prometeu tentar anular a eleição",
-   "Líderes mundiais enviaram mensagens de parabéns a Lula, reforçando a importância da vitória para a diplomacia brasileira",
-   "Bahia registrou a maior queda na taxa de abstenção entre os turnos, sinalizando maior engajamento local",
-   "Presidente do TSE fez balanço positivo do processo de apuração, destacando a transparência total",
-   "TSE negou alegações de retirada de fiscais do PL durante a apuração, reafirmando a lisura do pleito"
+   "Resultado oficial: Lula 51,79 % x Flávio Bolsonaro 48,21 % – diferença de 4.430.191 votos",
+   "Flávio Bolsonaro chama o resultado de ‘sacanagem’ e anuncia que buscará anulação judicial",
+   "Líderes mundiais enviam mensagens de parabéns a Lula, reforçando a importância internacional da eleição",
+   "Bahia registra a maior queda de abstenção entre os turnos, sinalizando maior engajamento regional",
+   "Presidente do TSE faz balanço do segundo turno e nega qualquer retirada de fiscais do PL durante a apuração"
   ],
-  "whats_next": "Flávio Bolsonaro deve entrar com pedido judicial de anulação enquanto o TSE prepara a diplomação oficial de Lula"
+  "whats_next": "Flávio deve apresentar recurso ao TSE e ao STF enquanto o Tribunal prepara a diplomação oficial de Lula"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes as Flávio Bolsonaro questions result",
-  "why_it_matters": "The win locks in the government’s agenda and Brazil’s global standing; Flávio’s challenge could spark institutional instability",
-  "big_picture": "With 100% of precincts counted, a 4,430,191‑vote lead exceeds typical recount margins, yet a 19,22% abstention gap shows voter discontent",
+  "headline": "Lula wins runoff with 51,79% of votes, beating Flávio Bolsonaro by 4,43 mi votes, but candidate challenges result",
+  "why_it_matters": "The win locks in Lula’s agenda and sets Brazil’s foreign policy; Flávio’s challenge could spark legal and institutional turbulence.",
+  "big_picture": "With 100 % of precincts counted, the election is done, but turnout sits at 19,22% abstention, meaning almost one‑fifth of voters stayed home.",
   "details": [
-   "Flávio Bolsonaro called the result a ‘scam’ and vowed to try to overturn the election",
-   "World leaders sent congratulations to Lula, underscoring the win’s diplomatic weight for Brazil",
-   "Bahia saw the biggest drop in abstention between rounds, signalling higher local engagement",
-   "TSE chief gave a positive assessment of the count, highlighting full transparency",
-   "TSE denied claims of poll‑watcher removal during the count, reaffirming the election’s integrity"
+   "Official result: Lula 51,79 % vs Flávio Bolsonaro 48,21 % – margin of 4.430.191 votes",
+   "Flávio Bolsonaro calls the result ‘sacanagem’ and says he’ll seek a court annulment.",
+   "World leaders send congratulations to Lula, underscoring the election’s global significance.",
+   "Bahia posts the biggest drop in abstention between rounds, signalling higher regional engagement.",
+   "TSE president reviews the runoff and denies any removal of PL poll watchers during counting."
   ],
-  "whats_next": "Flávio Bolsonaro will file a court petition to nullify the vote as the TSE readies Lula’s official swearing‑in"
+  "whats_next": "Flávio will file appeals to the TSE and STF as the court readies Lula’s official swearing‑in."
  },
  "error": null
 }
