@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:50:34.478759-03:00",
+ "updated": "2026-10-26T05:52:35.233888-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -27,45 +27,47 @@
    "gnews": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQWI2M0VPdlg2RHBWMFlKMG1pY2wwcEVHUXgxemtlYWFGTF9ORzBfNThMcExCcW8tWW1xSnRYRHdoS1NnMUlGdGxBZmVsVkdETzkwa2pYb2d1TmMwN3JZNUx0MTN0dEtWejhWWUE0LVhOZzJsMzRHQWNMeF9MUWFteGdEQnJlUQ?oc=5"
   },
   {
-   "title": "Escola Municipal Cilineu Peixoto dos Santos, 36ª zona eleitoral: resultado da votação em Cristalina (GO) no 2º turno - G1",
-   "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/escola-municipal-cilineu-peixoto-dos-santos-36a-zona-eleitoral-resultado-da-votacao-em-cristalina-go-no-2o-turno.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T08:06:57+00:00",
-   "desc": " Escola Municipal Cilineu Peixoto dos Santos, 36ª zona eleitoral: resultado da votação em Cristalina (GO) no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZXMxZllxVl9rNGNJelJvaEplbjdBMXVieGNsYjIxckhJSkQyZUs1UFRBYzBWVGp4RUZzMmVLX29ZWWRRMXRPMmVjN2VCR3hja3RMM1k1WkhJQUNCTThPbHo2Z1hRR3YtYVVQbmNiZEVtVTNYY3FLU3BBN2kwM1F0SmZaNUN1dF95NzBjaXRKc1NnQS1MN051b3YyaXIyMklHWTdBVTNRdFpnTTR4amV6T1ZBM3J5azlNeGxVV001MmVDZmwyd29zaGRTVEY4ai1zRndNeldOcWpCaDlVclVXVHZhdHZIa2ZzdG14SnY0Y3hwVExvZDFkRTYwY0Z2Ny1zak5LZXRCZmlpVEN4RlHSAZwCQVVfeXFMT0x2X1BUdVdhdGF4OXVxdEQ2M3pmNmttb3RuZmJJSlAyenY4aVFWMlkxVkR1RVFmSXBubXlXTno1VWRSbDUySlYwXzJDbENMb3BDb2pfUjY5eDhjOFVPeUJJOC1JSHRCajRjVExGeFBUZHAxNFY1Tkt3ZWxLUjE4bVR3dUZFVU4xM0FqTDZpNld0empuQzR2LXlVVGtGcGNqU3FFaU1KREVNVXo1OG0xcU9jaC1XYVlYUkNmWnJhTk1reC1RMGQ2dDJhejBadnJ1a0V0TkZERC05QTVVWWVibGxIWXRac2RHSVo2MTNpYzh2cTliazhNLWpvbE1aMDloZWhpY3hTWkJVczJKVkU5UEdZV2hJakNiV3B3dXY?oc=5"
-  },
-  {
    "title": "Flávio Bolsonaro vence a eleição presidencial em Areal - Congresso em Foco",
    "link": "https://www.congressoemfoco.com.br/noticia/127200/flavio-bolsonaro-vence-a-eleicao-presidencial-em-areal",
    "source": "Congresso em Foco",
    "published": "2026-10-26T08:30:47+00:00",
    "desc": " Flávio Bolsonaro vence a eleição presidencial em Areal    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkFqd2pBNlpqdmMxT0V4aUV4ak8wRGZWdTFHakVXQmQtbnlydEJlM0xVZnlUbzNFejJQSEFtTW94YXl6TmxyeG5RSTVPVmNGV002RjRNa0VCWXRwb0l0am5tT1NmT2g5WmtPc1FiRExsVXh2T1M1ZG1wbGZVU3FNMXpNdUFFeU91VFVTUzRhck9DaHY5c0VCdF9RdGJockZvVGdpclVDcw?oc=5"
+  },
+  {
+   "title": "Bom Jesus do Galho escolhe Lula para presidente no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127199/bom-jesus-do-galho-escolhe-lula-para-presidente-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T08:30:47+00:00",
+   "desc": " Bom Jesus do Galho escolhe Lula para presidente no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQlJsNXB1WDFYSHhOVkJtbDFnbmVSckhFajBqdWh1cEVDRUZoekl5RjNRd1RNVmNXRzVrN2d2Vk5KTmxTaTNRZ0xlNk1iNVNyNW5iVkVydnpUNXBFVlkyYmZQdzlNeW5uQTZENDVtdlN4MEh3THFpNURRLWtsalVCQkt5Ml9XWHB2ODd4V3RJYzY2d0FpNkFQb1pfQWJRZ0o0b2RtMHNndXdKVHBZU1NzWGN2dEc?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a implementação da proposta conservadora de Flávio Bolsonaro.",
-  "big_picture": "Com 4,430,191 votos de diferença e 100% das seções apuradas, Lula supera a maioria simples apesar de 19,22% de abstenção.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, mas mapa eleitoral revela fissuras regionais",
+  "why_it_matters": "A vitória garante a continuidade das políticas do governo, porém a margem estreita e a divisão por municípios sinalizam desafios de governabilidade.",
+  "big_picture": "Com 19,22% de abstenção, quase um quinto do eleitorado ficou à margem, refletindo desgaste e polarização que deverão influenciar o debate legislativo nos próximos meses.",
   "details": [
-   "Resultado final: Lula 51,79% x Flávio 48,21% dos votos válidos; diferença de 4,43 mi de votos",
-   "Voto casado Lula‑Tarcísio dobrou em SP, passando de 33 para 66 cidades, reforçando a aliança regional",
-   "UOL destaca que o peso de cada região foi decisivo, com Norte e Nordeste favorecendo Lula",
-   "Flávio Bolsonaro venceu apenas em municípios isolados, como Areal, mas a manchete do Congresso em Foco foi contestada pelos dados oficiais"
+   "TSE confirma 100% das seções apuradas; diferença de 4.430.191 votos a favor de Lula (51,79% x 48,21%);",
+   "Em São Paulo, cidades com voto casado Lula‑Tarcísio dobraram de 33 para 66, mostrando aliança regional que ajudou na vitória nacional;",
+   "Municípios divergentes: Flávio Bolsonaro venceu em Areal (MG) enquanto Bom Jesus do Galho (MG) escolheu Lula, evidenciando fragmentação local;",
+   "UOL destaca o peso diferencial das regiões – Norte e Nordeste foram decisivos para Lula, Sul e Centro‑Oeste favoreceram Flávio;",
+   "Resultados por zona eleitoral em São Domingos (SC) confirmam a competitividade no sul, com margens apertadas."
   ],
-  "whats_next": "Lula tomará posse em 1º de janeiro de 2027 e iniciará a formação de seu governo."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027; Congresso iniciará negociações para alinhar a agenda legislativa ao novo mandato."
  },
  "brief_en": {
-  "headline": "Lula wins 2nd round with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro’s conservative proposal.",
-  "big_picture": "With a 4,430,191‑vote margin and 100% of precincts counted, Lula tops a simple majority despite 19,22% abstention.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, but electoral map shows regional cracks",
+  "why_it_matters": "The win secures the government’s policy agenda, but a slim margin and municipal split flag governing challenges.",
+  "big_picture": "With 19,22% abstention, nearly a fifth of voters stayed home, reflecting fatigue and polarization that will shape legislative debate in the coming months.",
   "details": [
-   "Final tally: Lula 51,79% vs Flávio 48,21% of valid votes; 4,43 mi‑vote gap",
-   "Lula‑Tarcísio ticket doubled in SP, jumping from 33 to 66 cities, bolstering the regional alliance",
-   "UOL notes each region’s weight was decisive, with North and Northeast favoring Lula",
-   "Flávio Bolsonaro won only in isolated towns like Areal, but the Congress in Focus headline was challenged by official data"
+   "TSE confirms 100% of precincts counted; Lula leads by 4.430.191 votes (51,79% vs 48,21%).",
+   "In São Paulo, Lula‑Tarcísio paired cities jumped from 33 to 66, showing a regional alliance that boosted the national win.",
+   "Divergent towns: Flávio Bolsonaro won in Areal (MG) while Bom Jesus do Galho (MG) chose Lula, highlighting local fragmentation.",
+   "UOL notes regional weight – North and Northeast tipped the scale for Lula; South and Centre‑West favored Flávio.",
+   "Results by electoral zone in São Domingos (SC) confirm southern competitiveness, with tight margins."
   ],
-  "whats_next": "Lula will be sworn in on Jan 1, 2027 and will start building his cabinet."
+  "whats_next": "Lula will be inaugurated on Jan 1, 2027; Congress will start talks to align the legislative agenda with the new term."
  },
  "error": null
 }
