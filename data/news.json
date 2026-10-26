@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:57:17.528012-03:00",
+ "updated": "2026-10-26T07:59:20.573069-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% e derrota Flávio Bolsonaro por 4,43 mi de votos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e evita uma crise institucional após alegações de fraude.",
-  "big_picture": "Com 100 % das seções apuradas, a margem de 4,430,191 votos supera qualquer dúvida estatística, mas o candidato derrotado já tenta contestar o resultado.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos e margem de 4,43 milhões",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede que Flávio Bolsonaro tente anular o pleito, apesar de suas alegações de fraude.",
+  "big_picture": "Com 100% das seções apuradas e abstência de 19,22%, o resultado reflete a profunda polarização, mas também a mobilização de eleitores, sobretudo em estados como a Bahia, que reduziu a abstenção entre turnos.",
   "details": [
-   "Flávio Bolsonaro rotulou o resultado de “sacanagem” e prometeu buscar anulação nos tribunais",
-   "Líderes globais enviaram mensagens de parabéns a Lula após a vitória",
-   "Abstenção caiu para 19,22% no segundo turno, com a Bahia liderando a redução entre os estados",
-   "Presidente do TSE fez balanço destacando a lisura da apuração; TSE nega retirada de fiscais do PL",
-   "Diferença de 4,430,191 votos coloca a vitória fora de qualquer dúvida estatística"
+   "Flávio Bolsonaro classificou o resultado de ‘sacanagem’ e prometeu buscar anulação, apesar da certificação total do TSE",
+   "Líderes mundiais enviaram mensagens de parabéns a Lula, reforçando sua legitimidade internacional",
+   "Bahia liderou a queda da abstência entre os turnos, indicando maior engajamento nas regiões favoráveis ao candidato da esquerda",
+   "Presidente do TSE fez balanço destacando transparência e negou retirada de fiscais do PL durante a apuração",
+   "Diferença de 4.430.191 votos supera margens históricas, consolidando a vitória de Lula"
   ],
-  "whats_next": "Flávio Bolsonaro deve ingressar com recurso ao TSE nas próximas 48 horas, enquanto Lula se prepara para assumir em 1º de janeiro"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio prepara recursos legais contra o resultado"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% and defeats Flávio Bolsonaro by 4,43 mi votes",
-  "why_it_matters": "The win secures the left‑leaning agenda and averts an institutional crisis amid fraud claims.",
-  "big_picture": "With 100 % of precincts counted, the 4,430,191‑vote margin leaves no statistical doubt, yet the loser is already challenging the result.",
+  "headline": "Lula wins second round with 51,79% of the vote and a 4,43‑million margin",
+  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro from trying to overturn the election, despite his fraud claims.",
+  "big_picture": "With 100% of precincts counted and abstention at 19,22%, the result shows deep polarization but also strong voter mobilisation, especially in states like Bahia, which cut abstention between rounds.",
   "details": [
-   "Flávio Bolsonaro called the result “sacanagem” and vowed to seek annulment in court",
-   "World leaders sent congratulations to Lula after the win",
-   "Turnout fell to 19,22% in the runoff, with Bahia posting the biggest drop among states",
-   "TSE chief praised the clean count; TSE denies removing PL poll watchers",
-   "A 4,430,191‑vote gap puts the win beyond any statistical doubt"
+   "Flávio Bolsonaro called the result a ‘scam’ and vowed to seek an annulment, even though the TSE has fully certified it",
+   "World leaders sent congratulations to Lula, bolstering his international legitimacy",
+   "Bahia led the drop in abstention between rounds, signalling higher engagement in left‑leaning areas",
+   "The TSE chief highlighted transparency and denied any removal of PL poll watchers during counting",
+   "A 4,430,191‑vote gap eclipses historic margins, cementing Lula’s victory"
   ],
-  "whats_next": "Flávio Bolsonaro is expected to file a TSE appeal within 48 hours, while Lula gears up to take office on Jan. 1"
+  "whats_next": "Lula will be inaugurated on Jan. 1, 2027, while Flávio gears up for legal challenges"
  },
  "error": null
 }
