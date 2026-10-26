@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:43:40.623744-03:00",
+ "updated": "2026-10-25T21:46:03.319211-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -35,39 +35,35 @@
    "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakVUeG9Gc05ER1NmWmZXZ2Y5TnNVNzhrZU1SOS1xU3V5cURPMGpib3pBMHAxZHJnaWZvbFNiUzh5QTIxMGdIamFRVTFUbmUxakx1WTJydFBadlhNTkdWQkVZNW1Kd0dkNExLZUhoQkdaVXdLTnRaZXhZM1NpX21HVFB5TEE2eTlpSWxjaTU5NkFIdDFZRUYwWjBZaWpYV2luYVpVRWZxb2FidDA?oc=5"
   },
   {
-   "title": "Lula fica à frente de Flavio Bolsonaro em Porto Alegre no 2º turno - CNN Brasil",
-   "link": "https://www.cnnbrasil.com.br/eleicoes/lula-fica-a-frente-de-flavio-bolsonaro-em-porto-alegre-no-2o-turno/",
-   "source": "CNN Brasil",
-   "published": "2026-10-26T00:22:36+00:00",
-   "desc": " Lula fica à frente de Flavio Bolsonaro em Porto Alegre no 2º turno    CNN Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDZEWGZlUE1QVXZwQTVHOUl2NTA3OHlUVWtvT0lTVS1QRDNPRnU1YjlFakdra1M5ZFhPWTU1WmNTNEJvd1NVNW9zUlJDbmRkSWt1blNCM2FUbjlIQWtDQXY5WkswOHFzSTFJakdKdnJLTjMtd2hXOFdHaXQ4blJWYl9ZSkhzYTc3eHFXSkJMVUFqVnM5U3FlM05EN1dJUS1NZnVpNF9MUTY?oc=5"
+   "title": "Eleições 2026: de Nossa Senhora aos 'soldados' digitais, veja temas que marcaram a campanha - G1",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-de-nossa-senhora-aos-soldados-digitais-veja-temas-que-marcaram-a-campanha.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T00:27:50+00:00",
+   "desc": " Eleições 2026: de Nossa Senhora aos 'soldados' digitais, veja temas que marcaram a campanha    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWW9INjhHU3lKNU9wa2pwNGNNQU1TdnBBTkRNQjlwb2JkWWUxOHQ2eUs0STVkaXpOOTRTb0ZHelp1RTVRc1RZUU1YMzFuS29faE5IQnVWVVRJai05SmQ1STJ1RVYyZWJZNDBvMjJZT25OdGdSQ3N5UVRJc28zOGdWenJaSC1tLUZ5WENaVTdVS0hESk1QcEtIN2FueVBSN0plRjQ1N1JEMTBnZlJjdGtOdlJ4YmlsTWFZc2xyaHMxN25Na3otNXRVRTlGalFFOUVnOXlrNTl4M0tleG5ZYXd3LWI4V05Xdm5XbFhHVtIB-wFBVV95cUxPc1lyQTh1MnN2MjJZNDlEcEVNVTBaWHVWTkhRMWw1ZkpReWtURHVQd0ZNMDM4NnBCcmdrZ3MzMHZQdjZQWUx5YkpqQ1A5Z19FU2kwbGVEY1FHWEdaRWNQTy10U1h6N0ptMklIdkNlQ3BxVFpmUHhHbE0zb1ZSeDJzWTA2c3FuUDhhWWNFRkVCLXdQNW03SGxZMGVBS0lkUmQ4VWhkbVR5U2ctSUNiUFE1MHp0eVpkdE5HMWZiYTdQS1dodmMybzVqem5fYmhlMFhCaFQ5Nk1oRlVNSWlSQkwyOFV2MzlMRWZiWUd4MFZuNWZBRG1lZjF0Y0JSdw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,77% dos votos válidos",
-  "why_it_matters": "A vitória garante a volta de Lula à presidência e define a agenda política nacional para os próximos quatro anos.",
-  "big_picture": "Mesmo com triunfos de Flávio Bolsonaro em capitais como DF, Maceió e Belo Horizonte, a maioria dos eleitores ainda prefere Lula, evidenciando uma divisão regional acentuada.",
+  "headline": "Lula mantém vantagem nacional de 4,4 milhões de votos com 99,9% das seções apuradas",
+  "why_it_matters": "A vitória no 2º turno garante a continuidade do governo e define a agenda política para os próximos quatro anos.",
+  "big_picture": "Mesmo com Flávio Bolsonaro liderando em capitais como DF, Maceió e Belo Horizonte, o resultado agregado ainda favorece Lula.",
   "details": [
-   "99,9% das seções já foram apuradas",
-   "Lula lidera com 51,77% contra 48,23% de Flávio, diferença de 4.392.907 votos",
-   "Abstenção ficou em 19,21%",
-   "Flávio Bolsonaro venceu no Distrito Federal, em Maceió (52,01%) e em Belo Horizonte",
-   "Lula manteve vantagem em Porto Alegre e o Paraná mostrou reversão de tendência em relação ao primeiro turno"
+   "Lula 51,77% vs Flávio 48,23% dos votos válidos",
+   "Diferença de 4.399.179 votos a favor de Lula",
+   "Abstenção permanece alta em 19,21%"
   ],
-  "whats_next": "Lula inicia a transição para assumir o cargo em 1º de janeiro de 2027."
+  "whats_next": "A diplomação oficial será feita nos próximos dias, consolidando o segundo mandato de Lula."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,77% of valid votes",
-  "why_it_matters": "The win puts Lula back in the presidency and sets the national agenda for the next four years.",
-  "big_picture": "Even with Flávio Bolsonaro winning in places like the DF, Maceió and Belo Horizonte, most voters still chose Lula, underscoring a sharp regional split.",
+  "headline": "Lula keeps a 4,4 million‑vote national lead with 99.9% of precincts counted",
+  "why_it_matters": "A second‑round win secures the government’s continuity and sets the policy agenda for the next four years.",
+  "big_picture": "Even though Flávio Bolsonaro leads in capitals like DF, Maceió and Belo Horizonte, the overall tally still favors Lula.",
   "details": [
-   "99,9% of precincts have been counted",
-   "Lula leads with 51,77% against 48,23% for Flávio, a margin of 4.392.907 votes",
-   "Abstention at 19,21%",
-   "Flávio Bolsonaro won in the Federal District, in Maceió (52,01%) and in Belo Horizonte",
-   "Lula kept his edge in Porto Alegre and Paraná flipped from the first round"
+   "Lula 51,77% vs Flávio 48,23% of valid votes",
+   "Difference of 4.399.179 votes for Lula",
+   "Abstention remains high at 19,21%"
   ],
-  "whats_next": "Lula starts the transition to take office on Jan. 1, 2027."
+  "whats_next": "The official swearing‑in will happen in the next few days, cementing Lula’s second term."
  },
  "error": null
 }
