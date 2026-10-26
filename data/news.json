@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-26T02:33:21.000059-03:00",
+ "updated": "2026-10-26T02:35:21.647549-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Quantas eleições para presidente Lula venceu? Veja histórico do petista - UOL Notícias",
+   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/quantas-eleicoes-para-presidente-lula-venceu-veja-historico-do-petista.ghtm",
+   "source": "UOL Notícias",
+   "published": "2026-10-26T05:27:41+00:00",
+   "desc": " Quantas eleições para presidente Lula venceu? Veja histórico do petista    UOL Notícias ",
+   "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOU9DcGRmb1BFOVotcTVQRDBmcFBzclpfanNLSVM1bktPLWRrU3Bfd1otMWY2TWVvQ3FZYk1Cb1RzNHU5c1I4WlZUdzZ2TnlTTDFNb1lWekJUaWgzT0lrNFRjUTZyUk1SUV9heXd2b29LQXJ1RlJkWjd1YURmaGZIUFhSVzNVUTB0UktzQ182RElxVlZ5UGJfNVA3TVBJaGpFam9wenlpUEp0YWcxRVVGVUtHeWVzWFk0UFByQ1VNNGE?oc=5"
+  },
   {
    "title": "Os primeiros líderes mundiais a parabenizarem Lula pela vitória - BBC",
    "link": "https://www.bbc.com/portuguese/articles/c679prgnn48qo",
@@ -33,37 +41,31 @@
    "published": "2026-10-26T04:52:06+00:00",
    "desc": " Demora de Kassio e decisão de Zanin provocam críticas nos tribunais e reunião de emergência no TSE    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOXhtbWo5ektBLXVOUC10QXNiMm1GNHgzc0RsS3YyUnA2em5TZ1g3eUMtelBlUElBdXdOMFVVdTVvWmg1RUk0M3VPbjVTMTRCcDRvV0hFckNXZ1N4cWNMRGdLSFJOUFpRdjhlakdJTlQ4Qm9tTV8tWW9Zd19hdE9RLWxXX3hQRHIxWGRxNUNnVnVQWVdLTTNSZlZfWjJYbjlneDdHdkpQdlJKM0U3Yk1pNDRDSmNIOFlEODZEWFZ0bU9QdGlpbm5UbmZ6eXJHT1Jucmt2UlUyaTRibWtVZkZNSGk1bGlYcEIwWGJMNjQwX29GOUJKS1JtdWZFd9IBigJBVV95cUxQaUFWMjlad2hGUDRma21FNHZGc0xDOXF6cVRpamNYV2RmTFVQa2hNYUN3WllfUWhXLVdDeVVQSG01M0FIdFdidS1UVTFXSG5Mem40NmVMeG1PMk15Y3FpRGIyR0k5a3VSZmw4ZUFTcW1aTGRZLUhJNENCMFdZeG9WajNEVGo1blJFaEx6MS0xQy1wblg5Z1B3NjB1X3FBRnUzREdjaFVIc3dXUmNOU0tIT0ZoQmpSS3dYMUJZcTVndE1oOUxVYzdoRHNHanpyVU5OVHd1NVl2VTFNZDQtOUFiS2xiWm9Cd3hWbkh5YkktWS0yaHd6SVQ0b0FXOVBmbFV2VHhXLUh0MUQ4dw?oc=5"
-  },
-  {
-   "title": "Vale do Sol: Flávio Bolsonaro é o mais votado no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/125193/vale-do-sol-flavio-bolsonaro-e-o-mais-votado-no-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T05:14:47+00:00",
-   "desc": " Vale do Sol: Flávio Bolsonaro é o mais votado no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWFfazJqWHhfTTBTTmIwdkdoQjBvSEEyWGFqcEN2aDhUSmx6Tzh1WDJYWjgzQmJFME9sUFZRUmVLVzMwemdoNmxiSjhTWGVrSEtKMktDdl9lTFk1SmNlci05WjN0aTBYZDFjUExiUE9BUFpBWFlvWkYydV9wUHM5b0lULV9HWlZSSVlmbWpxOC1SYlh3OVlmeFVYbFkzRnRoOGd6Y0M0ZTIwTjhHV0F2Mw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "Com 4,430,191 votos a mais, o ex‑presidente retoma o cargo enquanto a abstenção atinge 19,22%, sinalizando cansaço eleitoral.",
-  "big_picture": "A vitória consolida a coalizão de esquerda, mas a margem estreita evidencia profunda polarização que deverá moldar o debate legislativo nos próximos meses.",
+  "headline": "Lula vence segunda volta com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e coloca o Brasil sob a liderança de Lula no cenário interno e internacional.",
+  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado evidencia a profunda polarização do eleitorado, mas também a capacidade de mobilização do PT.",
   "details": [
-   "Líderes mundiais, incluindo o presidente da França e o primeiro‑ministro da Inglaterra, já parabenizaram Lula pela vitória",
-   "Em Alto do Rodrigues, Lula foi o candidato mais votado, ao passo que Flávio Bolsonaro venceu em União Paulista e liderou no Vale do Sol",
-   "A demora de Kassio e a decisão de Zanin geraram críticas nos tribunais e forçaram reunião de emergência no TSE, embora a apuração já esteja concluída"
+   "100,0% das seções foram apuradas, confirmando a vitória de Lula (51,79% x 48,21%);",
+   "Alto do Rodrigues reforçou a vitória de Lula, enquanto União Paulista foi a única cidade onde Flávio Bolsonaro saiu vitorioso;",
+   "Líderes mundiais, incluindo presidentes da França e da Argentina, já parabenizaram Lula, sinalizando apoio internacional;",
+   "O TSE enfrentou críticas por atrasos e decisões controversas de Kassio e Zanin, gerando reunião de emergência."
   ],
-  "whats_next": "Lula tomará posse em 1º de janeiro de 2027, enquanto o Congresso inicia a transição e debate das prioridades de governo."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu terceiro mandato presidencial."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "With 4,430,191 more votes, the former president reclaims the office as turnout drops to 19,22%, signaling voter fatigue.",
-  "big_picture": "The win cements the left coalition, but the slim margin underscores deep polarization that will shape legislative debate in the coming months.",
+  "headline": "Lula wins second round with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left agenda alive and puts Brazil under Lula’s leadership at home and abroad.",
+  "big_picture": "A 4,430,191‑vote margin and 19,22% abstention show deep voter polarization, yet PT’s mobilisation power.",
   "details": [
-   "World leaders, including France’s president and the UK’s prime minister, have already congratulated Lula on the win",
-   "In Alto do Rodrigues, Lula was top‑vote‑getter, while Flávio Bolsonaro won in União Paulista and led in Vale do Sol",
-   "Kassio’s delay and Zanin’s ruling drew court criticism and forced an emergency TSE meeting, even though the count is already finished"
+   "100,0% of precincts reported, confirming Lula’s win (51,79% vs 48,21%).",
+   "Alto do Rodrigues cemented Lula’s lead; União Paulista was the only city where Flávio Bolsonaro won.",
+   "World leaders, including the presidents of France and Argentina, have already congratulated Lula, signalling international support.",
+   "The TSE drew criticism for delays and controversial rulings by Kassio and Zanin, prompting an emergency meeting."
   ],
-  "whats_next": "Lula will be sworn in on Jan 1, 2027 as Parliament kicks off the transition and debates government priorities."
+  "whats_next": "Lula will be inaugurated on Jan. 1, 2027, kicking off his third presidential term."
  },
  "error": null
 }
