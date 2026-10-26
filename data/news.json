@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:00:24.628024-03:00",
+ "updated": "2026-10-26T01:02:18.708152-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade do governo PT e impede a agenda de Flávio Bolsonaro, que ficou a 4,43 milhões de votos de distância.",
-  "big_picture": "Com 80,78% de comparecimento, a eleição demonstra alta mobilização e mantém o país sob liderança de centro‑esquerda.",
+  "headline": "Lula vence o 2º turno com 51,79% (64 mi) contra Flávio Bolsonaro 48,21% (59 mi)",
+  "why_it_matters": "A vitória garante a continuidade do governo do PT e impede a consolidação da agenda de Flávio Bolsonaro, que buscava ampliar a base da família Bolsonaro.",
+  "big_picture": "Com 100% das seções apuradas, a diferença de 4,430,191 votos reflete um eleitorado ainda dividido, mas com abstenção de 19,22% indicando cansaço ou desconfiança nas opções.",
   "details": [
-   "Lula recebeu 64 milhões de votos; Flávio Bolsonaro, 59 milhões – diferença de 4,43 milhões de votos",
-   "Abstenção ficou em 19,22% do eleitorado, indicando forte participação",
-   "100% das seções apuradas; municípios como Tubarão (SC), Viamão (RS), São José (SC) e Santa Maria (RS) já divulgaram resultados locais"
+   "Lula recebeu 64 milhões de votos; Flávio Bolsonaro, 59 milhões.",
+   "Abstenção totalizou 19,22% do eleitorado, o maior índice nas últimas duas décadas.",
+   "Apurações locais – Tubarão (SC), Viamão (RS), São José (SC) e Santa Maria (RS) – confirmam a tendência nacional de vitória de Lula.",
+   "A margem de 4,43 milhões de votos supera a diferença do 1º turno, mostrando ganho de Lula entre os indecisos."
   ],
-  "whats_next": "A posse de Lula está prevista para 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos judiciais."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato presidencial."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51.79% of valid votes",
-  "why_it_matters": "The win keeps the PT government in power and blocks Flávio Bolsonaro’s agenda, who trailed by 4.43 million votes.",
-  "big_picture": "Turnout hit 80.78%, showing strong mobilisation and keeping the country under centre‑left leadership.",
+  "headline": "Lula wins the 2nd round with 51,79% (64 mi) against Flávio Bolsonaro 48,21% (59 mi)",
+  "why_it_matters": "The win keeps the PT government in power and blocks Flávio Bolsonaro’s push to expand the Bolsonaro family agenda.",
+  "big_picture": "With 100% of precincts counted, a 4,430,191‑vote gap shows a still‑split electorate, while a 19,22% abstention signals voter fatigue or mistrust.",
   "details": [
-   "Lula got 64 million votes; Flávio Bolsonaro, 59 million – a 4.43 million‑vote gap",
-   "Abstention was 19.22% of the electorate, signalling high participation",
-   "All precincts counted; towns like Tubarão (SC), Viamão (RS), São José (SC) and Santa Maria (RS) have already posted local results"
+   "Lula got 64 million votes; Flávio Bolsonaro, 59 million.",
+   "Abstention hit 19,22% of voters, the highest in two decades.",
+   "Local counts – Tubarão (SC), Viamão (RS), São José (SC) and Santa Maria (RS) – echo the national Lula win trend.",
+   "The 4,43‑million‑vote margin tops the 1st‑round gap, showing Lula’s gain among swing voters."
   ],
-  "whats_next": "Lula’s inauguration is set for Jan. 1, 2027, while Flávio Bolsonaro eyes legal appeals."
+  "whats_next": "Lula will be sworn in on Jan 1, 2027, kicking off his second presidential term."
  },
  "error": null
 }
