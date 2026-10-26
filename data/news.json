@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:08:21.609761-03:00",
+ "updated": "2026-10-26T05:10:25.680772-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -11,59 +11,63 @@
    "gnews": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZVZfVjJ6NEFrQUdGQlpIZFNIOEEwX0JlMzdkZ0tPdTRlYkFsRThoMndtOEF6WTJydFE2UzNUeDlFSUZxOGJCbzdnVGdpTGJsMlB2eDdEc2hMWnc4UHRPM1VhbHVrRlY5QXYwaHVsb21QcjJzdEMtc0tlS01aNFVKS2ZsODYxR3FUajNybTRPODRBNGo2U3RDbk9fT2lYTjE4R1ZUVWFSbDdoeVBGODE2SWFTYnU3RkU0d04zTUFJencyWTE2alFFbjNtSFY0c0puSGpJXzJsN2dTUUllM1prY21EbVluOVZ60gH3AUFVX3lxTE53X3ZOWHltbXNtYnhZcW1tWU9NS2pCRmx0Y2gxc0FnZ0psTnZyb2xoZnUteGtSM0VBdkRfMkl4b0tLZEM4V19vWmNPUEdoZElwS0w4ZlNaUnVzZ3pGRUNYZGU5X0FTU0pUS09tZG9WSVF2Q0dVZy1pS1ZBWTgwdXRGQk1YWlo4Y3IyUW40dC0zcTJ4OU4wYjVacEJjWHhBWmdmLWNDSklVdm5oM0tkUy1qSFBwVk4zTm5tUzRKZm5vUHVuMzI0amJKbDhFY2dvaS1qblBXNmNINkZHNWxGTVhPdVJqRFdoUEcya1lvMGJSQ1lUSURZTVU?oc=5"
   },
   {
+   "title": "Palmas de Monte Alto escolhe Lula para presidente no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/126936/palmas-de-monte-alto-escolhe-lula-para-presidente-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T08:03:42+00:00",
+   "desc": " Palmas de Monte Alto escolhe Lula para presidente no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaU1lalI3RUgwZ3hZWnVPbnBick5xMjRQVGh2a19PbkpyQk1ITFpNYlF3M1h4R1RvdG1YZjYzNU5rckVFRXVzUkJIWHRQemtWeDkyNmstWGFfbmo2eWotZVEwRzhiR1llOWx4UEtXV2VSeDdWVWNIRFlPZkM5Uk1SNVMyVVV0Y09UcDgzN3ZRLTFKT2Jfeks2aHA4dHItRmhPQWFPTXNhVm81THpxRW5tekhpZ3p3UW8?oc=5"
+  },
+  {
+   "title": "Lula vence a eleição presidencial em Tartarugalzinho - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/126932/lula-vence-a-eleicao-presidencial-em-tartarugalzinho",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T08:03:27+00:00",
+   "desc": " Lula vence a eleição presidencial em Tartarugalzinho    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDlBNFlkbl9pWFFBTXo3Nm5LcWlxTVVEZVRYbDJMQVpwS05McjJZODBpTmZQenVPNV9vQTRFbW5yREluWjJRY0dMUkwtMmZfaWFWcWNpRzR2ZjhhaUF3Sm5vMUZwQ3JnV3d4WWMta2lHQmozX2J2dC1wc0M1ZEQxRlB4SmJ2eW55bElkdVFjSWZfbks4V2JFM29OLTZiVUFOV1BPVA?oc=5"
+  },
+  {
+   "title": "Itacuruba escolhe Lula para presidente no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/126929/itacuruba-escolhe-lula-para-presidente-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T08:02:58+00:00",
+   "desc": " Itacuruba escolhe Lula para presidente no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGVXS0J5S0Rna0U5azI0b004bll0SV90ejU1bzRUMC1GMTVoT2tRd0s2LUhIcDVxY3VEcURNZmNxU3VOSXNqZUdCS3RGb1p6bG1EVlVhWFYzNS1QU05MTTFuQW1ES1VTNF8wSk5jLWhzVGN2eDh4Qlp6c1FnQV91QmIwekp6WFBnZnN4U2I1QWU4Z2tfbW9kemF6T2tzbDVoelc4N2NJOVo?oc=5"
+  },
+  {
    "title": "Flávio Bolsonaro vence a eleição presidencial em Atibaia - Congresso em Foco",
    "link": "https://www.congressoemfoco.com.br/noticia/126927/flavio-bolsonaro-vence-a-eleicao-presidencial-em-atibaia",
    "source": "Congresso em Foco",
    "published": "2026-10-26T08:02:55+00:00",
    "desc": " Flávio Bolsonaro vence a eleição presidencial em Atibaia    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMWpGU1ZlbEZVdFRaRVlpUlYtSTVGd0t5SHFkN2dDdVltU0tKdnYzU29vSzB2U1ZQaEpSRU1uQUZWR2ZUU0JudF9KaWJKdkZLMUZqNkItamV2TEN4bUhnRHVEdU1zMG9mQ3drSnkwT3o3b0JQWHdEZVR5cmZIV1d6b25QaDhSNnhrbWx0Z0hSSXNpX2Z3QzR3SFROWHdTZ3psRUR3dU1oaFhUdw?oc=5"
-  },
-  {
-   "title": "Cantagalo escolhe Flávio Bolsonaro para presidente no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/126925/cantagalo-escolhe-flavio-bolsonaro-para-presidente-no-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T08:02:35+00:00",
-   "desc": " Cantagalo escolhe Flávio Bolsonaro para presidente no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3ZuZkl0QzdWWjNtaHNnaHZxN1lucTdobkxGYVhDbF9KZWJaR2NmeWtqSEFIeHlSUUNhTWxIX0gtOC1EbTQ2T202c3NRSDhnaDd6LVRrczVJdHFMcXdjVVdLdDZjS1JJbmJBblpaNzNFYzdwbk5SZXh5RS05QzRWOVpvQ1BuZ0RpOEEwRzJPVDFIT3A4anRLUU1xSmJNc1hyNTFXZlJWdlRnMkJNV2o2QVM3aFNCN2N3?oc=5"
-  },
-  {
-   "title": "Lula ganha em Maracás; veja como a cidade votou - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/126875/lula-ganha-em-maracas-veja-como-a-cidade-votou",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T07:57:13+00:00",
-   "desc": " Lula ganha em Maracás; veja como a cidade votou    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUlBRREM4YkpCUjlDcUZzWl9PaW5MOWVsY3pZWXA2WjFiZkFzRFo2YVh3ZktkOG44UW9ZRVhrX0c4YXJ0U0pKYVI1NUwzMEJFRndUY3BrMjloaXI5M2h1N2RSeTFuamRLblRpQ1RLRTFHQ01RUUlNbVBYS2hUU19fbzl0a0swbnBaMWFESkZSUkQ0c2NNRG5KY0t2NkI?oc=5"
-  },
-  {
-   "title": "Nossa Senhora Aparecida escolhe Lula para presidente no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/126874/nossa-senhora-aparecida-escolhe-lula-para-presidente-no-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T07:57:10+00:00",
-   "desc": " Nossa Senhora Aparecida escolhe Lula para presidente no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXhUR3pORmlBcGtVT3VsVE5JZmRCTURPeUY5T29Ydk9zbXhmbk1DaWxscXpKSUhSZHlCRk4wbjdPZUFEcVpXUVoydFZ6ZDh5TzBXbTF6bWJ5ckUxMHozaGc5SnpHTVpqcEtVSzRiY0ZkYkNaajlEeTRaTWk4RW1iTjJfcWRkbGF2WTJqaDZ2Mjd2cnpBUjRrRGVJX2RXQ2Job0VfOTFRTU5ZMmsyX0RKbkVwUU8tb0hlSTdr?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
-  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete a polarização regional, mas consolida a liderança de Lula no Nordeste e em Minas Gerais.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro, que buscava romper o bipartidarismo no Brasil.",
+  "big_picture": "Com 100% das seções apuradas, a margem de 4,430,191 votos reflete a força do Nordeste e de Minas Gerais, enquanto a disputa em São Paulo ficou mais apertada.",
   "details": [
-   "Lula reduziu a vantagem de Flávio em São Paulo, mas ainda perdeu o estado; venceu em Minas Gerais e ampliou folga no Nordeste",
-   "Flávio Bolsonaro conquistou municípios como Atibaia (SP) e Cantagalo (RJ), mas não conseguiu reverter a tendência nacional",
-   "Municípios de Maracás (BA) e Nossa Senhora Aparecida (MG) registraram apoio decisivo a Lula, reforçando sua base no interior"
+   "Lula recebeu 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro",
+   "Diferença total de 4,430,191 votos",
+   "Abstenção foi de 19,22% dos eleitores",
+   "Lula ampliou folga no Nordeste, venceu em Minas Gerais e reduziu vantagem em São Paulo",
+   "Municípios como Palmas de Monte Alto, Tartarugalzinho e Itacuruba escolheram Lula; Atibaia foi a única a optar por Flávio"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu terceiro mandato."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato presidencial."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro from the Planalto Palace.",
-  "big_picture": "With a 4,430,191‑vote margin and 19,22% abstention, the result shows regional polarization but cements Lula’s lead in the Northeast and Minas Gerais.",
+  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win locks in a left‑leaning agenda and blocks Flávio Bolsonaro’s bid to break Brazil’s two‑party system.",
+  "big_picture": "With 100% of precincts counted, the 4,430,191‑vote margin underscores the Northeast and Minas Gerais strength, while São Paulo was a tighter race.",
   "details": [
-   "Lula cut Flávio’s lead in São Paulo but still lost the state; won Minas Gerais and widened the gap in the Northeast",
-   "Flávio Bolsonaro took towns like Atibaia (SP) and Cantagalo (RJ), but couldn’t flip the national trend",
-   "Maracás (BA) and Nossa Senhora Aparecida (MG) gave decisive Lula support, bolstering his rural base"
+   "Lula got 51,79% of valid votes versus 48,21% for Flávio Bolsonaro",
+   "Total margin: 4,430,191 votes",
+   "Abstention rate: 19,22% of voters",
+   "Lula widened his lead in the Northeast, won Minas Gerais and narrowed the gap in São Paulo",
+   "Municipalities like Palmas de Monte Alto, Tartarugalzinho and Itacuruba voted for Lula; Atibaia was the only one for Flávio"
   ],
-  "whats_next": "Lula will be sworn in on Jan. 1, 2027, kicking off his third term."
+  "whats_next": "Lula will be inaugurated on Jan 1, 2027, kicking off his second presidential term."
  },
  "error": null
 }
