@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:01:54.824886-03:00",
+ "updated": "2026-10-26T00:03:56.357595-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,28 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% e margem de 4,43 mi de votos, mas Flávio Bolsonaro nega derrota e promete contestar",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda, porém a recusa do candidato derrotado pode gerar instabilidade institucional e prolongar a disputa judicial.",
-  "big_picture": "Eleição mais apertada desde 2018, com 19,22% de abstenção, revela profunda polarização e destaca a importância dos resultados locais, como os das cidades capixabas.",
+  "headline": "Lula vence segundo turno com 51,79% contra Flávio Bolsonaro, mas candidato contestará resultado",
+  "why_it_matters": "A vitória garante a continuidade do governo de esquerda, mas a recusa de Flávio de aceitar o resultado pode gerar instabilidade política.",
+  "big_picture": "Com 100% das seções apuradas, a margem de 4,430,191 votos reflete um país ainda profundamente dividido, enquanto 19,22% dos eleitores se abstiveram.",
   "details": [
-   "Lula 51,79% x Flávio 48,21% dos votos válidos, diferença de 4.430.191 votos",
-   "Abstenção totalizou 19,22% do eleitorado",
-   "Resultados detalhados já chegam de Guarapari, Colatina, Cachoeiro de Itapemirim e Aracruz (ES)",
-   "Flávio Bolsonaro declarou que não reconhece a vitória e vai buscar anulação do pleito no TSE"
+   "Lula alcançou 51,79% dos votos válidos, superando Flávio Bolsonaro (48,21%).",
+   "A diferença de 4,430,191 votos foi confirmada em todo o país.",
+   "Em Espírito Santo, o PT venceu nas cidades de Guarapari, Colatina, Cachoeiro de Itapemirim e Aracruz.",
+   "Flávio Bolsonaro anunciou que não reconhecerá a vitória e pretende pedir anulação do pleito.",
+   "A abstenção ficou em 19,22%, indicando descontentamento de quase um quinto do eleitorado."
   ],
-  "whats_next": "Flávio apresentará recurso ao TSE nas próximas 48 horas, enquanto o governo Lula se prepara para iniciar seu segundo mandato."
+  "whats_next": "Flávio Bolsonaro deve entrar com recurso ao TSE nas próximas horas, enquanto a posse de Lula segue prevista para 1º de janeiro."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51.79% and a margin of 4.43 mi votes, but Flávio Bolsonaro denies defeat and vows to contest",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive, but the loser’s refusal could spark institutional instability and stretch the legal battle.",
-  "big_picture": "Tightest race since 2018, with 19.22% abstention, underscoring deep polarization and the weight of local outcomes in Espírito Santo’s cities.",
+  "headline": "Lula wins runoff with 51,79% against Flávio Bolsonaro, but candidate will contest result",
+  "why_it_matters": "The win secures a left‑leaning government’s continuity, but Flávio’s refusal to accept the outcome could spark political instability.",
+  "big_picture": "With 100% of precincts counted, a 4,430,191‑vote margin shows a deeply split nation, while 19,22% of voters stayed home.",
   "details": [
-   "Lula 51.79% vs Flávio 48.21% of valid votes, a gap of 4,430,191 votes",
-   "Abstention hit 19.22% of the electorate",
-   "Detailed results are coming in from Guarapari, Colatina, Cachoeiro de Itapemirim and Aracruz (ES)",
-   "Flávio Bolsonaro says he won’t accept the result and will seek to overturn the election at the TSE"
+   "Lula got 51,79% of valid votes, edging out Flávio Bolsonaro (48,21%).",
+   "The 4,430,191‑vote gap was confirmed nationwide.",
+   "In Espírito Santo, PT won in Guarapari, Colatina, Cachoeiro de Itapemirim and Aracruz.",
+   "Flávio Bolsonaro says he won’t recognize the win and will seek to void the election.",
+   "Abstention sat at 19,22%, signalling discontent from nearly a fifth of voters."
   ],
-  "whats_next": "Flávio will file an appeal with the TSE within 48 hours, as Lula’s team gears up for the start of his second term."
+  "whats_next": "Flávio Bolsonaro is expected to file a TSE appeal in hours, while Lula’s inauguration stays set for Jan 1."
  },
  "error": null
 }
