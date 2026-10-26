@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:09:35.273263-03:00",
+ "updated": "2026-10-25T23:11:37.732754-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos",
-  "why_it_matters": "A vitória garante ao PT o retorno ao Palácio do Planalto e encerra a disputa mais polarizada da última década; as cidades paulistas que acompanharam a apuração confirmaram a tendência nacional.",
-  "big_picture": "Com 100% das seções apuradas, Lula lidera 51,79% a 48,21% num pleito marcado por 19,22% de abstenção, sinalizando um eleitorado ainda dividido, mas inclinado ao centro‑esquerda.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade do projeto de governo e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
+  "big_picture": "Com 100% das seções apuradas, o candidato do PT supera Flávio Bolsonaro por quase 4,5 milhões de votos, apesar de 19,22% de abstenção.",
   "details": [
-   "Lula 51,79% dos votos válidos; Flávio Bolsonaro 48,21%",
-   "Diferença de 4.429.907 votos a favor de Lula",
-   "Abstenção nacional em 19,22%",
-   "Todas as seções eleitorais já foram contabilizadas",
-   "Municipios de Sorocaba, Santos, Santo André, Ribeirão Preto e Praia Grande registraram resultados alinhados ao panorama nacional"
+   "Lula: 51,79% vs Flávio Bolsonaro: 48,21% dos votos válidos",
+   "Diferença de 4.429.967 votos em favor de Lula",
+   "Abstenção registra 19,22%, indicando alta desilusão dos eleitores",
+   "Os resultados em cidades‑chave de SP – Sorocaba, Santos, Santo André, Ribeirão Preto e Praia Grande – seguiram a tendência nacional a favor de Lula"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro pode recorrer ao Judiciário para contestar o resultado."
+  "whats_next": "O TSE deve proclamar oficialmente o resultado e iniciar o período de possíveis recursos até 31 de outubro."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 mi votes",
-  "why_it_matters": "The win puts PT back in the Palácio do Planalto and ends the most polarised contest of the past decade; the São Paulo cities that reported early confirmed the national trend.",
-  "big_picture": "With 100% of precincts counted, Lula leads 51,79% to 48,21% in an election with 19,22% turnout, showing a still‑split electorate but one leaning centre‑left.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the government agenda alive and blocks Flávio Bolsonaro from the Planalto Palace.",
+  "big_picture": "With 100% of precincts counted, the PT candidate beats Flávio Bolsonaro by nearly 4.5 million votes, despite a 19,22% abstention rate.",
   "details": [
-   "Lula 51,79% of valid votes; Flávio Bolsonaro 48,21%",
-   "Margin of 4.429.907 votes for Lula",
-   "National turnout at 19,22%",
-   "All precincts tallied",
-   "Sorocaba, Santos, Santo André, Ribeirão Preto and Praia Grande results matched the national picture"
+   "Lula: 51,79% vs Flávio Bolsonaro: 48,21% of valid votes",
+   "Margin: 4.429.967 votes for Lula",
+   "Abstention at 19,22%, signalling voter disillusionment",
+   "Key SP cities – Sorocaba, Santos, Santo André, Ribeirão Preto, Praia Grande – all mirrored the national Lula tilt"
   ],
-  "whats_next": "Lula is sworn in on Jan. 1, 2027, while Flávio Bolsonaro may take the result to the courts."
+  "whats_next": "The TSE will certify the result and open a filing window until Oct 31."
  },
  "error": null
 }
