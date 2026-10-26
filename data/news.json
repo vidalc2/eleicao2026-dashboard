@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:39:23.952226-03:00",
+ "updated": "2026-10-26T02:41:24.082613-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -35,37 +35,35 @@
    "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTVSbFppYVRybUhoZmhaLTdwRFItUm9wblBmeERZN21OeG9pbzBzQWo2a1lzU2ZGNWJ3TUxoc1ZVanJHUFFKd3VzUDlPeXJ5ZFNYZmVUV09rbHQyTUwwZ0JOaktOYzR1YlplWE5qdWpnY3RXcS1WTkRQM0ZFdEc5Uno5bDVLdDBzWE5xSVpmdDVpVnBsc1JNMU05QXFsdFcwVGh4ek4yelh1Zw?oc=5"
   },
   {
-   "title": "Disputa entre Lula e Flávio Bolsonaro tem virada em 19 cidades do RS - G1",
-   "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/26/disputa-lula-flavio-bolsonaro-virada-cidades-do-rs.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T05:00:00+00:00",
-   "desc": " Disputa entre Lula e Flávio Bolsonaro tem virada em 19 cidades do RS    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalpLZUZJZ1pCMl9xbUs5aHktS2JlN0VPdTB0MVNEZ3ZWSFRKeHNFN2NockdsaEt1c3BsRmRtQVpWYnpYcEpLTUhNSDloa202NU8wY1FOZC1DUmFDd1F5NDVQVkNDdUIyM0V2WmhUZFBtdzRTYWZ1UEdxXzlnaWVYY19nSXAxazRyMnVzSVdSSTkxdjcxVXJOeWxPdDAyaW5zeXIxakZ5WmFMdDhMeWNrR01FTnZvd3Bp0gHHAUFVX3lxTE40MGotd256czJTTXBkalRoOFYzdDhmek1MT0trUWdZQ2s5VnhQVEVnVnMzdDFfRGFCYzZUQXNyVld5a0VFQVBKTTA1MGQxMFh2NTdWelRkLXBIcllkRjZkdEt0OXFQZ2szLUtabUxSc181d3Z2LU94cFdNNldkd3pZaFhGeGtyaWgtSWJ6WDJDWkVVd0dOLXZrNXB6M29Sa2FnNzZQYVRMSmZudkxIVzZXZFU3V1R4d09NZ1lGZEE0MXRzQ3RjTTg?oc=5"
+   "title": "Flávio Bolsonaro vence eleição presidencial em União Paulista - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/125305/flavio-bolsonaro-vence-eleicao-presidencial-em-uniao-paulista",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T05:24:55+00:00",
+   "desc": " Flávio Bolsonaro vence eleição presidencial em União Paulista    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGxPVlJPcjRNck9tZS1scnFhVnhBYVIzcjJfREhaRmFlSThlbFlUNlNKQTMwY2RtSVNFWE9rMlNUaXB4Y29WZGRYWkdMUWlUY194MHhZODRIQjh5ZmdzbzVOTXFiSXFKUG1xTHh3bXdSaVJZOGltcGNCSVpWWEtsZDlRY2tIUFFud1ROWjA3ck9jVmt2a3J4cE0yS0duLWwwWlNMdGdkWmZLUGFTSGk4RQ?oc=5"
   }
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuação da agenda de esquerda e marca a segunda eleição presidencial consecutiva do petista.",
-  "big_picture": "Com 4,43 milhões de votos de diferença e 19,22% de abstenção, o resultado reflete um Brasil ainda polarizado, mas com maioria clara para o PT.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
+  "big_picture": "Com 4,430,191 votos a mais, Lula supera a margem necessária e consolida seu terceiro mandato, enquanto a abstenção de 19,22% indica cansaço eleitoral.",
   "details": [
-   "100,0% das seções apuradas confirmam 51,79% para Lula e 48,21% para Flávio Bolsonaro.",
-   "Lula supera Flávio em 19 cidades do Rio Grande do Sul e mantém a maioria em Alto do Rodrigues.",
-   "Líderes globais, incluindo presidentes da França e da Argentina, já parabenizaram Lula pela vitória.",
-   "Candói (PL) alegou erroneamente que Flávio teria 51,06% – informação desacreditada pelos dados oficiais."
+   "TSE confirma 100% das seções apuradas, resultando em 51,79% para Lula e 48,21% para Flávio Bolsonaro",
+   "Líderes mundiais já enviaram felicitações a Lula, sinalizando apoio diplomático",
+   "Manchetes locais apontam vitória de Flávio em municípios como União Paulista, mas a totalização nacional demonstra o contrário"
   ],
-  "whats_next": "Lula assumirá o cargo em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial limitada."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu terceiro mandato"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and marks the PT’s second straight presidential victory.",
-  "big_picture": "A 4,43‑million‑vote margin and 19,22% abstention show Brazil still split, but the PT has a clear majority.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro from the Planalto Palace.",
+  "big_picture": "With a 4,430,191‑vote lead, Lula clears the threshold for a third term, while a 19,22% abstention signals voter fatigue.",
   "details": [
-   "100,0% of precincts counted confirm 51,79% for Lula and 48,21% for Flávio Bolsonaro.",
-   "Lula beats Flávio in 19 Rio Grande do Sul towns and holds the lead in Alto do Rodrigues.",
-   "World leaders, including the presidents of France and Argentina, have already congratulated Lula.",
-   "Candói (PL) mistakenly claimed Flávio had 51,06% – a figure debunked by official data."
+   "TSE reports 100% of precincts counted, giving Lula 51,79% and Flávio Bolsonaro 48,21%",
+   "World leaders have already sent congratulations, signalling diplomatic support",
+   "Local headlines note Flávio wins in towns like União Paulista, but the national tally tells a different story"
   ],
-  "whats_next": "Lula takes office on Jan. 1, 2027, while Flávio Bolsonaro readies a limited court challenge."
+  "whats_next": "Lula will be sworn in on Jan 1, 2027 to start his third term"
  },
  "error": null
 }
