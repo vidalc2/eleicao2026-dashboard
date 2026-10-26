@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:57:30.566406-03:00",
+ "updated": "2026-10-26T02:59:30.214754-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -9,14 +9,6 @@
    "published": "2026-10-26T05:33:48+00:00",
    "desc": " Lula e Flávio Bolsonaro receberam o mesmo número de votos em 1 município no 2º turno    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXEzVHJWQVdCUWwzZ0tKT01YUFlTT2JkLTNhYVkyX1NSdUtVeEhOdU1VQi1CTXFobDFlYjhpcVJLREg0SkNMYndLV3UyY3YzX1RfSkpDLTBJamtUd0FubVIwVGRlSmM0a1hJTHJfREVOWXVqZUtxNEtFdllqcWxfQ2dXNjlod1VYZkp5Uk4zWElqS3ZXMHJGVzF5ZVVEMHVNZXJ2emhzT1RMRjhfZUpSWVoxRkpOcHMtcE90WDVuWDlTeE1aQnFwM3Nxald1NEItc0hzQkl5X1lPZVI4RmJjStIB7wFBVV95cUxPNFl6UUEzWHd1TkxuUUVxZ2poTWt5WEJGcHBTUXBURmpMelQ0Q0J5bnl1NGpBQ25yTE4wVDViM0pYWnFoR0NBWWFRd2NVak5zbk4tLUYxS2tuWnJxQkduU2pHN0toOEI0QmlZamlndFJ1YjBBT2RjNVRNdndzRkhaYjZhWk14X3hHSVlkd2FEUXZLbEpRU2doWTRXV0dUTlpFVEU0MHVTWFQ1c1VSN3BYZy0tN1BSb3FBWTlPUl80dUhwWEJrVjRydElqdlhoZWg3SjR3Wm5lMHJfNFd4alJhNkp4T2kzSzZ5U0l6T1VaMA?oc=5"
-  },
-  {
-   "title": "Lula vira em mais de 200 cidades no segundo turno; consulte - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/lula-flavio-cidades-vira-voto.htm",
-   "source": "UOL Notícias",
-   "published": "2026-10-26T05:31:17+00:00",
-   "desc": " Lula vira em mais de 200 cidades no segundo turno; consulte    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUM0aGlKWnF3cU9pUTJXM2kyWXQzbXY4NWtjN25Ma2xpRmVVR19VY0l2WWdBaUV4cE9fODdsaWN5WkdlX2h0WWg0dHhzWWFlaW14cHZKMFB5MUw1cGotSV9kSnVHMWZpaDhpcTJHQmE4OUV6SjZfQ01KUkRzSld3TmNRU3pjTHhE?oc=5"
   },
   {
    "title": "Lula ganhou votos em todos os estados do 1º para o 2º turno; veja onde mais cresceu - G1",
@@ -41,35 +33,41 @@
    "published": "2026-10-26T05:31:11+00:00",
    "desc": " Candói: Flávio Bolsonaro tem 51,06% e vence o segundo turno    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVczRXZYNkQyaEVZNGVnOWtIMUx2VHBPRjFuZnk4eWpqb3VYaUVPZ3FncHVsa3hudV8tbTgwbzJQS2RFT2VzalY0enBOYjJNNHJSb2N4UWxMSXRWbEtZay1pT3NTRzhLOGpMMHZRRkpfQUxzb0NiZksyYWh4UUNKeXB1MjdiSkFQbGJwdWtUREhtSHlqSjVJYWpFdFYxSnYzWFRJQjU2N1RHck0?oc=5"
+  },
+  {
+   "title": "Lula ganha em Alto do Rodrigues; veja como a cidade votou - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/125311/lula-ganha-em-alto-do-rodrigues-veja-como-a-cidade-votou",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T05:25:43+00:00",
+   "desc": " Lula ganha em Alto do Rodrigues; veja como a cidade votou    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTVSbFppYVRybUhoZmhaLTdwRFItUm9wblBmeERZN21OeG9pbzBzQWo2a1lzU2ZGNWJ3TUxoc1ZVanJHUFFKd3VzUDlPeXJ5ZFNYZmVUV09rbHQyTUwwZ0JOaktOYzR1YlplWE5qdWpnY3RXcS1WTkRQM0ZFdEc5Uno5bDVLdDBzWE5xSVpmdDVpVnBsc1JNMU05QXFsdFcwVGh4ek4yelh1Zw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuação da agenda de esquerda e define o rumo político e econômico do Brasil para os próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas, Lula superou Flávio Bolsonaro por 4,43 milhões de votos, conquistando a maioria em todos os estados e revertendo mais de 200 municípios.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "Com 4,430,191 votos a mais, o petista assegura um quarto mandato e consolida a coalizão de centro‑esquerda.",
+  "big_picture": "A vitória, confirmada em 100% das seções, refuta a desinformação que anunciava vitória de Flávio Bolsonaro e demonstra crescimento em todos os estados desde o primeiro turno.",
   "details": [
-   "Lula: 51,79% dos votos válidos; Flávio Bolsonaro: 48,21%",
-   "Diferença de 4.430.191 votos a favor de Lula",
-   "Abstenção nacional de 19,22%",
-   "Lula venceu em todos os 27 estados, com destaque para ganhos expressivos nas regiões Norte e Nordeste",
-   "Mais de 200 municípios mudaram de bandeira para o petista",
-   "Em apenas um município, os candidatos empataram em número de votos"
+   "Lula e Flávio Bolsonaro empataram em apenas um município, evidenciando a ampla diferença de votos ao nível nacional",
+   "Lula aumentou sua votação em todos os estados, com os maiores ganhos nas regiões Norte e Nordeste",
+   "Histórico: Lula já venceu três eleições presidenciais; esta é a quarta vitória consecutiva",
+   "Candói (Flávio) alegou ter 51,06% e vitória no segundo turno – informação contradita pelos dados oficiais",
+   "Lula venceu em Alto do Rodrigues, reforçando seu desempenho em municípios pequenos"
   ],
-  "whats_next": "A equipe de transição inicia a preparação para a posse em 1º de janeiro de 2027, enquanto o Congresso se prepara para a nova bancada governista."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara recurso judicial."
  },
  "brief_en": {
-  "headline": "Lula wins 2nd round with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and sets Brazil’s political and economic course for the next four years.",
-  "big_picture": "With 100% of precincts counted, Lula beat Flávio Bolsonaro by 4,43 million votes, winning a majority in every state and flipping over 200 municipalities.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "With 4,430,191 more votes, the leftist secures a fourth term and solidifies the centre‑left coalition.",
+  "big_picture": "The win, confirmed in 100% of precincts, debunks false claims of a Flávio Bolsonaro victory and shows gains across every province since the first round.",
   "details": [
-   "Lula: 51,79% of valid votes; Flávio Bolsonaro: 48,21%",
-   "Margin: 4.430.191 votes for Lula",
-   "National abstention: 19,22%",
-   "Lula won all 27 states, with big gains in the North and Northeast",
-   "Over 200 municipalities switched to the left‑wing side",
-   "Only one municipality saw a tie"
+   "Lula and Flávio Bolsonaro tied in just one municipality, highlighting the huge national vote gap.",
+   "Lula improved his vote share in every province, with the biggest jumps in the North and Northeast.",
+   "History: Lula has won three presidential elections; this is his fourth straight win.",
+   "Candói (Flávio) claimed 51,06% and a second‑round win – official data says otherwise.",
+   "Lula won in Alto do Rodrigues, underscoring his strength in small towns."
   ],
-  "whats_next": "The transition team starts gearing up for a Jan 1, 2027 inauguration as Parliament readies for a new governing bench."
+  "whats_next": "Lula will be inaugurated on Jan 1, 2027, while Flávio Bolsonaro readies a court challenge."
  },
  "error": null
 }
