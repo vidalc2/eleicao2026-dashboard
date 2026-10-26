@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:03:10.153427-03:00",
+ "updated": "2026-10-25T22:05:11.349400-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -11,6 +11,14 @@
    "gnews": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWhvMHRVZWwyX2RaRkN2elpHc0tVX0l2cHRqZVB1T3R4Vkc0UUw2Nlp5aDhFaUdjc1gwbklBQ0ZiaTV3V0FNcjVyenMxSXpZdm9qWFVqc1FZR0V1ZlllcldCSG1NUURmUHpuUzhPTFRWMi1PRlNiV3g3LU9ObmxLVDk1T2NlTUtGVUlEdXpjUE1iQ1BLcGt4YUc0MFJKdTlXLVRuYm1n?oc=5"
   },
   {
+   "title": "Lula aos 80 anos: a 'última dança' do presidente com virada histórica e vitória para quarto mandato - BBC",
+   "link": "https://www.bbc.com/portuguese/articles/cx240l916lneo",
+   "source": "BBC",
+   "published": "2026-10-26T00:56:15+00:00",
+   "desc": " Lula aos 80 anos: a 'última dança' do presidente com virada histórica e vitória para quarto mandato    BBC ",
+   "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XRjloYmpFUVhJTy1vZEgzamdMUFRLT3ItZ3ZtU3ZCMjlTNHhqeXNfVkRHR20wM1pUeEV4WW9tQWFfVnI4RnhKWnIwb0tvTFZidkdrdnpjR3RzVFVVaW13MTF6Yw?oc=5"
+  },
+  {
    "title": "Lula conquista virada inédita e terá quarto mandato como presidente do Brasil - BBC",
    "link": "https://www.bbc.com/portuguese/articles/cx8dzrgq569go",
    "source": "BBC",
@@ -19,53 +27,47 @@
    "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoLWFxT3RLMXRuM0N6dzFzUzlDaDFzYnBKQW5zWGxqX01oVDU3QXJ2UkdjTk5MeW9YbVJwWmZKamluUmVlZVlaTGVZUjRvWEpCbjZKVFFDbmxTck9GWmJXdm1nRQ?oc=5"
   },
   {
+   "title": "Em virada histórica, Lula é reeleito e governará Brasil pela quarta vez - UOL Notícias",
+   "link": "https://noticias.uol.com.br/eleicoes/2026/10/25/em-virada-historica-lula-e-eleito-presidente-do-brasil-pela-quarta-vez.htm",
+   "source": "UOL Notícias",
+   "published": "2026-10-26T00:49:24+00:00",
+   "desc": " Em virada histórica, Lula é reeleito e governará Brasil pela quarta vez    UOL Notícias ",
+   "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkk2THN1bWFJeEZZLUxjUUdZQXljOUxWSkc3dGhOWmpOamxpVXVZaUNxOWtoSzhaVWpNajNBZDBGUW1Kb09EZGJJOEhFb18wN1Y1OGJzRnNvOTgzU05waHBLWkhtSGVsS2Z0dTdFMjJHZm5QbHdELUNnd1J0YnNZbWNQWFpVR3BfM3MwRjBsUkNvX3JhR29FanhRODViNkxmLXAxZTVFdjMxdEhVZnNWUURMMmFiWmlIOWMxVEpiNA?oc=5"
+  },
+  {
    "title": "Lula conquistou mais de 10 milhões de novos votos no 2º turno; Flávio cresceu apenas 3,6 milhões - O GLOBO",
    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/lula-conquistou-mais-de-10-milhoes-de-novos-votos-no-2o-turno-e-flavio-cresceu-apenas-36-milhoes.ghtml",
    "source": "O GLOBO",
    "published": "2026-10-26T00:44:28+00:00",
    "desc": " Lula conquistou mais de 10 milhões de novos votos no 2º turno; Flávio cresceu apenas 3,6 milhões    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSGdNLV9seUtDaXBzelU1aWxnVktCdE5DNGRxdUxEQlc4b2Y2aHBkbEs3TEVzY0dmTmNyRmhiaWFqaFJ0UTJpMXBwMW9pVEdKYkFSUF9YLVl4OGJJUVJMX2U0SW44UHBwN3BaLVdudm84NUtudVd3NENnTEtRbFRuaTl5aUlOVG5wQzN5TFNDSTRTUXRuTmF0Vy15eXczT29DdGp0aFdROWJpdlpoTm9mX0ZTVGRoTUVreTFDOTNNWTN1dTcyNmMzblJhM3pfaG9VZFJGRi04U01lOUxIVkhEY2hpdmFLUUVRN1RSWERaUVFHWWtaeENIUkFhdkVDUdIBjAJBVV95cUxNXzZKd3RfMjZjYkNiZ21OYm90YjlGb2QxZWRlc1B4RHhndzlVbUFvQ2ZGY3FmUVU2S0daQUttVlAzQjd3WEYyb04yX0R5aS0yRjFJUjhWTUxUR2YtLTRWOG5nbVY3b2ZjcDJZTmgzWk56S1R5ZEFfQXZkM2hSOXBPQ1lycURtRVp2UTlXZ2FDN3Q4c21hUmVwNHN5NzFSNmxwb3RtaGQxNlkxVjJ6dUZybWpkanpuZ2Z2MFdOQXY1MHF2YlJTSmRScjN0ajUwZzFxYmprYzRTSFhoUzVtbkJLMkdheS1OQVJOTFZmSkxZWW1jMDBnSXZId2pobXdtYldRS09BRXltc3hJeVZ5?oc=5"
-  },
-  {
-   "title": "Lula tem 64 milhões de votos, e Flávio Bolsonaro, 59 milhões; compare com a votação deles no 1º turno - G1",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-resultado-segundo-primeiro-turno-2026.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T00:40:49+00:00",
-   "desc": " Lula tem 64 milhões de votos, e Flávio Bolsonaro, 59 milhões; compare com a votação deles no 1º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDBDclExTmpEemdnaTFtMEFKems2cExxSDhHTlVBVURWRWJMVkVHUlpBbWhMSDJuMUdDQl9SWjVwbXpVSXZWZXJUQkR1Q3o0R3hJQXEyLVlXWVBFWEtFc1lZaXp0dkhuZGZNQlZxN2RuZ2FBVnI0blozSmxPNHVUNlBfMVRrc1JQWkNiQ1NKcEZ4bE5Cd010ZjhuU0pWeW9WR1drR1NBT0FjM09zMmgzT0VwY0g5d19zMFFSMGlrR2RneFlYaEZJ0gHWAUFVX3lxTE9lc0hUTG9fSnl2WG0xRWNlNGNrMDFjejlsM0VlRlFYMmF0emkxVlZUWDVzUG1sLXlzSjVhRzEtYkpMcEhWZ2VpUEdlUGRnRnRTZnJVZVF5ZEhIRjFRQ2FYd3B5Y2tLazh5UkdlV3RnYzR6VkFwX3VfZTR2UHl1SVA1RVdLY1lxNkQyanFMTFBMd1BsYzJiMUE2eVBhUVZrWDZPY1ZUSlFxZy1NMkxaMV82ZHBQVkNwWWpJRzNwS29QRTFrbW9PMF90SDRGVC1ZMWJ1Mi1vdHc?oc=5"
-  },
-  {
-   "title": "Aliados de Flávio relatam clima de tensão durante apuração e reunião reservada de senador com advogados após virada de Lula - O GLOBO",
-   "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/aliados-de-flavio-relatam-clima-de-tensao-durante-apuracao-e-reuniao-reservada-com-advogados-apos-virada-de-lula.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T00:39:21+00:00",
-   "desc": " Aliados de Flávio relatam clima de tensão durante apuração e reunião reservada de senador com advogados após virada de Lula    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPVVMxcldPWlJuMVo4MkZKX1lEd1dpZnNaVXFldmZsRWFZOFBFZURKNHB4VURUazFIaGlXbW95N2xhS2c3d3N0TnpPVWJsMnppdjRPUnZuZEZYVV9DT3RWSDRhUXhheGRSUFhnV1RLMzNrTkd1ZHc0OGlGV2lYelYyaVVKSEE4SXc4RDZrb0dXWDdpd0Y1Z3FBOGxkQ3FieWl4M2pCa1E5dWNSeUtOYXpCR3hOUkVsWEU1RFlERHFNeExMS3k5djJLVjljSUtkSFNrQ29XRVJOUlE3dFBLY2JldDliT1hMMzdUblZvUmpVT3JuMm9qaDdBR3R3M2dBOWpFMVNEYUtrcnhENTZ1UXJyN0RGb9IBogJBVV95cUxNc3hadDI0WDZQVmh3dFI0WDhVRE9tdVNKeUdpX2lLNF95SlBVTnBzLTVBZWVWZHlrS0RhZnJrdjN6czBJREs1Y3VDQm9HVVpaT3J5XzRrTUx4b3U0RlZJQVIyMUJEZjRFY0tqVmVXOG5pQmZHNUZEbW51TmtPbG5UbTBJVnRYYXlNbWFZYkV1ZUhhbUljQl8xWXByRWlYaWVaSmdDU2FWTXJtMUU5OHY2ZnhrWUY0MUdIckx2WXRIcGc5MTBqMmdGRDl0cmgzNUZNbmJzLXRFamhYck1oS0V0Wlk1QzJseVh3NXZkY2kwRnM5Q1BnMUp2aU1wdXNzNUtQMHhROU4td1FSczd2cFF3NGJ5Qk51SWdicld3bjkzSHdTdw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,78% dos votos válidos",
-  "why_it_matters": "A vitória garante ao ex‑presidente um quarto mandato, marcando a primeira virada inédita nas urnas brasileiras.",
-  "big_picture": "Com 100% das seções apuradas, Lula supera Flávio Bolsonaro por 4.421.943 votos, enquanto 19,22% dos eleitores se abstiveram.",
+  "headline": "Lula vence 2º turno com 51,78% e garante quarto mandato",
+  "why_it_matters": "A vitória sela a primeira reeleição de um presidente à esquerda em décadas e define a agenda política do Brasil até 2030.",
+  "big_picture": "Com 4,422,330 votos de diferença, Lula consolida uma coalizão de centro‑esquerda em meio a forte polarização regional.",
   "details": [
-   "Lula: 51,78% dos votos válidos; Flávio Bolsonaro: 48,22%",
-   "Diferença de 4,421,943 votos entre os candidatos",
-   "Abstenção elevada: 19,22% dos eleitores não votaram",
-   "Aliados de Flávio relataram clima de tensão e reunião reservada com advogados após a virada"
+   "100,0% das seções apuradas confirmam a vitória de Lula (51,78% x 48,22%);",
+   "Abstenção ficou em 19,22% do eleitorado, indicando cansaço ou descrença de parte da população;",
+   "Lula ganhou mais de 10 milhões de novos votos no segundo turno, enquanto Flávio Bolsonaro acrescentou apenas 3,6 milhões, segundo o O Globo;",
+   "Nunes Marques, presidente do TSE, declarou que o resultado reflete a vontade clara dos eleitores;",
+   "Aos 80 anos, Lula celebra o que a BBC chama de ‘última dança’ antes de iniciar seu quarto mandato."
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027 e iniciará a formação de seu novo governo"
+  "whats_next": "Lula assume a presidência em 1º de janeiro de 2027 e inicia a montagem de seu governo."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,78% of valid votes",
-  "why_it_matters": "The win locks the ex‑president into a fourth term, Brazil’s first ever electoral swing.",
-  "big_picture": "With 100% of precincts counted, Lula beats Flávio Bolsonaro by 4,421,943 votes, while 19,22% of voters abstained.",
+  "headline": "Lula wins 2nd round with 51,78% and secures fourth term",
+  "why_it_matters": "The win marks the first left‑wing president’s re‑election in decades and sets Brazil’s political agenda through 2030.",
+  "big_picture": "With a 4,422,330‑vote margin, Lula cements a centre‑left coalition amid sharp regional polarization.",
   "details": [
-   "Lula: 51,78% of valid votes; Flávio Bolsonaro: 48,22%",
-   "Margin: 4,421,943 votes",
-   "High abstention: 19,22% of voters stayed home",
-   "Flávio’s allies reported tension and a closed‑door lawyer meeting after the swing"
+   "100.0% of counted precincts confirm Lula’s win (51,78% vs 48,22%).",
+   "Abstention sat at 19,22% of voters, hinting at fatigue or disillusionment.",
+   "Lula added over 10 million new votes in the runoff, while Flávio Bolsonaro added just 3,6 million, per O Globo.",
+   "TSE chief Nunes Marques said the result reflects a clear voter will.",
+   "At 80, Lula celebrates what the BBC calls a ‘final dance’ before his fourth term."
   ],
-  "whats_next": "Lula will be inaugurated on Jan 1, 2027 and will start building his new cabinet"
+  "whats_next": "Lula takes office on Jan 1, 2027 and begins building his cabinet."
  },
  "error": null
 }
