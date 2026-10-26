@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:12:20.495482-03:00",
+ "updated": "2026-10-26T01:14:21.350833-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -11,6 +11,14 @@
    "gnews": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdmVvRXhVdlZBOEYyMXpLOWRITmJON05GNDVMSnQwSTEweHJ2a3J6ZkxqWVlWQ0U5dmRxNHozU0syX2h4U2pBWVZSN2NnVEZJQWVwdFhDeU5JVldLYVY0cE94UWVndUVKZDh5UEZ4VkltVUJULVVwWTB0dDVSYklhWEZLVFRaSE9KV2huQk9kUVZhSjlfVTd6NDFvMDEzZU5Vd0U5WGptU2xRbF9CM2s0MVpFa1d2Z0FuQVhILUptbWtRMjZFZjJDdENfaHlzTUNIRGhWbHJOd2lIdk5JbkY2bUoyNFlZaGZxbW9UemtfRU9lUVZiQ1J5aHUzTnPSAYsCQVVfeXFMTXY0ekhIbmIyRG5NdVFzV1lRZDBqM2o2dmZDQUdfdmZCXzhRQWp6ZW8yRm1kOFNVZGtnY0JNX0FxS2NweFRsYl9lTkhtd29HLWQ0RmRITzFtbkk3cURRTDRkR3NFUWdXemtUUXBJVmVXOTJ5dW4xdjZLTnQ5OWFsa1VLVEI3dkJnSUhXTGN0bEN4NG9tVGgxY1lSUlB4WnJsWnBJTnVWQ01MZ3A5bExzSWVUclZUeFhWMkVlTUVtM3lGR29zc05ManVaLXFMVmtJcUhtTHRIeHFsa2JyTXMxVTU2YU8zbExhNXlOWFBmTDlCZ1Y0dk52dE5mQkdUU1l2TFpMMnhfVWdpUHAw?oc=5"
   },
   {
+   "title": "MAPAS: veja como os estados votaram para presidente no 2º turno - G1",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/mapas-votacao-presidente-estados-segundo-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T03:52:45+00:00",
+   "desc": " MAPAS: veja como os estados votaram para presidente no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1B3aUw1NFA3a2NZekJqa2xzaFAwdk4tYzVVaGU3ZVBGRVBzTU00ekhLcmVEN3g0WUZ0eGdDejQ2UDF2RW1kZnpBR0VpOThVNUlXVWlqSVFCeDBUSDNpUTRac1laMG5GZkhhY3I4Y0FYMTVfdFU1YVhnaHV1U1lxRW4wZWpHZWEwRnFmSHJkaUhoY05LUkp1X0hRUC1MVDFoYTI2YTY4dldmUTdOOXk4UjFRdElnQdIBxAFBVV95cUxPa3ktY0UzSDlvTW9laWVxbC1VMnRlWDRDTFhIMGplX1BqQVl5ZUNVNk84OGRxVnM5RnpYQVcxYlJIc1ZOVS1aOEVIRXhGemluUk5CMnZzU1JKZmF4dVIwNEVnbDRFV0pEMUZqRWFES2EwTmJRT3VSR0U1bmdmM0ZEeHlydEtXcTFqUThVOVJ6UEp2bVhYY2hhNmVXY3kxVmZvbkJOMk1uOWhKT0ZqUVNxMU5ybjFMbDhoN0NYSDFDTkxKWWtf?oc=5"
+  },
+  {
    "title": "Lula tem 64 milhões de votos, e Flávio Bolsonaro, 59 milhões; compare com a votação deles no 1º turno - G1",
    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/lula-flavio-bolsonaro-resultado-segundo-primeiro-turno-2026.ghtml",
    "source": "G1",
@@ -19,53 +27,45 @@
    "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDBDclExTmpEemdnaTFtMEFKems2cExxSDhHTlVBVURWRWJMVkVHUlpBbWhMSDJuMUdDQl9SWjVwbXpVSXZWZXJUQkR1Q3o0R3hJQXEyLVlXWVBFWEtFc1lZaXp0dkhuZGZNQlZxN2RuZ2FBVnI0blozSmxPNHVUNlBfMVRrc1JQWkNiQ1NKcEZ4bE5Cd010ZjhuU0pWeW9WR1drR1NBT0FjM09zMmgzT0VwY0g5d19zMFFSMGlrR2RneFlYaEZJ0gHWAUFVX3lxTE9lc0hUTG9fSnl2WG0xRWNlNGNrMDFjejlsM0VlRlFYMmF0emkxVlZUWDVzUG1sLXlzSjVhRzEtYkpMcEhWZ2VpUEdlUGRnRnRTZnJVZVF5ZEhIRjFRQ2FYd3B5Y2tLazh5UkdlV3RnYzR6VkFwX3VfZTR2UHl1SVA1RVdLY1lxNkQyanFMTFBMd1BsYzJiMUE2eVBhUVZrWDZPY1ZUSlFxZy1NMkxaMV82ZHBQVkNwWWpJRzNwS29QRTFrbW9PMF90SDRGVC1ZMWJ1Mi1vdHc?oc=5"
   },
   {
+   "title": "Flávio Bolsonaro teve menos votos em 939 cidades na comparação com o 1º turno; veja lista - G1",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/flavio-bolsonaro-votos-comparacao-1o-e-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T03:41:08+00:00",
+   "desc": " Flávio Bolsonaro teve menos votos em 939 cidades na comparação com o 1º turno; veja lista    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMmx1eEFiVHhjSmFmWDQ3SHlPRzY1Rm1sNGVzNVFyb1JZNWhRdm1YSHhWRnNnZGlxdVIzX29DVHB2a0tWNWhoMVNzcmxIbllUNG4zZnFGaDlORkpuV1EwaXJhTDhfd2R6cExfUWNLVm9OWGE1ZmNfY3RULTY3U1U4aWVMeC1yLXIxdEx1em8wWkliN1Q1T3VMVG1haFdCLUpwSkFINmJPRUJTcE1yYTZWREpmTmZxdGPSAcYBQVVfeXFMUGRETmlwNlRTVkVJU3NFZEYybEpqaHB0a0lYSlhCWFc4VC1yN2k4WlpwZWdqTjlGczdlM0tlZl9vZ094LUpWM0E0aFBjTVJySS1JTmo3UUVuZEVuUnBDX2I2dU1NT2R5eUt4SjB3UFVQc2wybG5ZbGxNei1ZWDNBUDlUekE4QW1kQkJxZHVVWWs1TW5Kb1p1QlY4WWdRR2E0NDZxS0Z4VnV0Nl9mRkZTQmFHeDdMN09COFdRZGJnNVVXbk1LVlln?oc=5"
+  },
+  {
    "title": "Lula reeleito: compare evolução da apuração do 2º turno e do 1º turno - G1",
    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-reeleito-compare-evolucao-da-apuracao-do-2o-turno-e-do-1o-turno.ghtml",
    "source": "G1",
    "published": "2026-10-26T03:40:05+00:00",
    "desc": " Lula reeleito: compare evolução da apuração do 2º turno e do 1º turno    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0puRkRVUWpqUTVpMGNGWWdMNnRMdGR3Y2dDbnl0RTN4ZHhleUpqNTdDRElya21sWml3MXRTeVlWNTE0NDA5MkUyYVZXdkdVRTNMYkw3dlVJd1Z5amdKNlRLdHpXWmU2bGJyVWtQU0NMeVg4bVhEVFU3YnJwc3pMdGxMeTlDbXNqb3ZHU3VvNjBKLUpBOFZrT1g2Tm41X0RGVFZlbXNIc3VMOVRyQVIweDJUTlZ4ekFuQWZhRG5JWEt4Uk5rU1UzY29oY2tXTVFwakVZ0gHiAUFVX3lxTFBwRlpWbFVuM2pOSjlyamZSZDFfdXpTZm5ITUZSMTBtLWtDOUtxVnZpQndtdGVHRTdoeVp5U3NnRWxFM2R1SGNjeG03elhNZjd3RUZ5b1Bfd3paenMwUkpteWtycTNSM0cwTExoSnJnR1JoOVR5RVhTVDRpOU1mNllZRXBCX2ItSlJ3ak9Ud1ZQRmZLejdVVU04Mi1ONU5HdzI0ZXFCSEJWLWVNNTdLLUprQlpZbmFXVFRHNi02TXVWakM4MDNEZVNvS1RRRks3c0VwMzBncHFCSnV2d2dLeXF4c0E?oc=5"
-  },
-  {
-   "title": "Terra Rica escolhe Flávio Bolsonaro para presidente no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/124523/terra-rica-escolhe-flavio-bolsonaro-para-presidente-no-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T04:04:12+00:00",
-   "desc": " Terra Rica escolhe Flávio Bolsonaro para presidente no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSWV0VlhudlpFWHlfYUhXejdVWi1GSXVnQ2JESFU3SHhJU3dOeWFLQ0Z3UzIwbjRNLWUwV3BnRlFCdktRbGY2c25BNDNYb213N1hMNlJ1WkhLM0g3TGYxaUJWYUozVUtVUDkyRE5uYnN3d05pcGhQN1RqY19sTmpiMWM1RkFSME1MQWhobTVTMTREamlhVDN4QWlfenRZdTZaNWpZSExsU0ZVbHBJMldKdnp6cmFzb3pkamc?oc=5"
-  },
-  {
-   "title": "Riozinho escolhe Flávio Bolsonaro para presidente no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/124522/riozinho-escolhe-flavio-bolsonaro-para-presidente-no-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T04:04:03+00:00",
-   "desc": " Riozinho escolhe Flávio Bolsonaro para presidente no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkVLR1VzY1d5b1pGSXlOd3djWHJvX3VZYVJBSUMzLXM4aEM3Sk0wNmFieUc3TlhrbWo0YUg1Q1NmSWRtT2ZNbmRjQUo3cE5MaGZoUXhlRkhZMTlfSFRzNV8tLVJINkVDSFFMTGRCcmhjR3ktXy1uZ0xuTjQ3QmFKdTZrYkI5akU3b0t5TC00QV9faXk0aXk3M2k5Q2tid3lfWW5SaVByYWFtRnExZTlLMnRIQ0o3aVU?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A reeleição de Lula garante a continuidade das políticas de esquerda e define a agenda nacional para os próximos quatro anos.",
-  "big_picture": "Apesar da vitória, a disputa foi apertada e a abstenção chegou a 19,22%, indicando polarização e cansaço do eleitorado.",
+  "headline": "Lula é reeleito com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda no Brasil e define a política interna e externa para os próximos quatro anos.",
+  "big_picture": "Com 100% das seções apuradas, a margem de 4,43 milhões de votos confirma a vitória de Lula, apesar de uma abstenção de 19,22% que indica desgaste do eleitorado.",
   "details": [
-   "100,0% das seções apuradas confirmam 64 milhões de votos para Lula e 59 milhões para Flávio Bolsonaro",
-   "Diferença de 4.430.191 votos entre os candidatos",
-   "TSE desmente alegações de Flávio sobre retirada de fiscais e reafirma a lisura do processo",
-   "Municípios como Terra Rica e Riozinho ainda registram apoio a Flávio, mas não foram suficientes"
+   "Lula recebeu 64 milhões de votos contra 59 milhões de Flávio Bolsonaro, conforme a totalização final do TSE",
+   "Flávio Bolsonaro perdeu votos em 939 municípios em relação ao primeiro turno, reforçando a tendência de retração regional",
+   "O TSE desmentiu a alegação de Flávio de que fiscais do PL foram retirados da ‘sala‑cofre’, mantendo a integridade do processo eleitoral",
+   "Mapas de votação mostram que Lula venceu nos estados estratégicos do Sudeste e Nordeste, enquanto Flávio manteve apoio em partes do Sul e Centro‑Oeste"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027 para iniciar seu segundo mandato."
+  "whats_next": "A posse de Lula está marcada para 1º de janeiro de 2027, enquanto Flávio Bolsonaro pode contestar o resultado nos tribunais eleitorais."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "Lula’s re‑election keeps left‑wing policies on track and sets the national agenda for the next four years.",
-  "big_picture": "Even with the win, the race was tight and abstention hit 19,22%, signalling polarization and voter fatigue.",
+  "headline": "Lula re‑elected with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
+  "why_it_matters": "The win keeps Brazil’s left agenda on track and shapes domestic and foreign policy for the next four years.",
+  "big_picture": "With 100% of precincts counted, a 4,43‑million margin confirms Lula’s victory, despite a 19,22% abstention that hints at voter fatigue.",
   "details": [
-   "100,0% of precincts reporting confirm 64 million votes for Lula and 59 million for Flávio Bolsonaro",
-   "Margin of 4.430.191 votes between the candidates",
-   "TSE refutes Flávio’s claim of poll‑watcher removal and reaffirms the process’s integrity",
-   "Municipalities like Terra Rica and Riozinho still show support for Flávio, but not enough"
+   "Lula got 64 million votes to Flávio Bolsonaro’s 59 million, per the TSE’s final count",
+   "Flávio Bolsonaro lost votes in 939 municipalities versus the first round, underscoring a regional pullback",
+   "The TSE debunked Flávio’s claim PL poll watchers were pulled from the ‘vault’, affirming election integrity",
+   "Vote maps show Lula winning key Southeast and Northeast states, while Flávio held on in parts of the South and Central‑West"
   ],
-  "whats_next": "Lula will be sworn in on Jan. 1, 2027 to start his second term."
+  "whats_next": "Lula’s inauguration is set for Jan 1, 2027; Flávio Bolsonaro may challenge the result in electoral courts."
  },
  "error": null
 }
