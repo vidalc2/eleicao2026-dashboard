@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:11:23.344833-03:00",
+ "updated": "2026-10-26T08:13:25.323195-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -9,6 +9,14 @@
    "published": "2026-10-26T10:47:14+00:00",
    "desc": " Flávio chama resultado do segundo turno de 'sacanagem', diz ser 'impossível' reconhecer derrota e que tentará anulação    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1dKdV9yeml1MWhPeFVwMHBSMlN0RE51V0M0eno4b2ZOaGY5STg4YmluM0lHNDBzN2c1a1E2V1pkaHBfaVZYNVl0ZFRNRzdTTTZ2T19SbkxpS0V4RHBMU0xSRFZZbmhxVGxHTndtTkIwam5nNGRjZURFVXlPTHFQU3ZsQ01EZ2lRU0JWNmF6TWRfZUtENVBMczVTRkl6U1hl0gGvAUFVX3lxTE9KZDZsS1pERzZkaVhCZVlOLTM0cUotM3kzNmxEYmpOU281c1ZiaE5FZzRkUmc0aG10dU1WVDlCMGtYcnZkeDdQTDNmdlpzdW55TkZqOFdZYTRXb09MRHRTZkxxeEhIc081OWFjRzdWZzhJc3UxMGdTY1ZLWkpfNG5abi1tdnhFZExUeTA1aGlsQ21qb2Y1RWJBQ3RuOHgtT2N1NzlEdkY2VnFBZkZhTnM?oc=5"
+  },
+  {
+   "title": "TSE rebate Flávio Bolsonaro e nega retirada de fiscais do PL durante apuração - Rádio Itatiaia",
+   "link": "https://www.itatiaia.com.br/politica/tse-rebate-flavio-bolsonaro-e-nega-retirada-de-fiscais-do-pl-durante-apuracao/",
+   "source": "Rádio Itatiaia",
+   "published": "2026-10-26T11:06:46+00:00",
+   "desc": " TSE rebate Flávio Bolsonaro e nega retirada de fiscais do PL durante apuração    Rádio Itatiaia ",
+   "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3B4ZUpURlpCWUJ5ZnpuQnNuLXNwQ005VThJRl9aMjlrTFktY3psOEtBQUsxX3BvNy1vSnprdGxLNzU1dUJnVEJYMXI5S0F3SUVWTFVfZ2Y0S1psR1BRVlpUM2N1cUhuUmZDOVN2WWV4eUd1SGRoenlMVjRDQlBUWVNGYklDaE5KUHpCSTVQcU1qUDFNcG5DcHE1MDQ4TDVNcVlmUXlZSW9adWs4QnNZLVVnbW5JUQ?oc=5"
   },
   {
    "title": "Líderes mundiais parabenizam Lula pela vitória nas eleições no Brasil - UOL Notícias",
@@ -33,41 +41,31 @@
    "published": "2026-10-26T10:41:15+00:00",
    "desc": " Presidente do TSE faz balanço do 2º turno das Eleições 2026    Imprensa News Sul ",
    "gnews": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUUpwclVGSlZjWEtTZ0pib3BhejZnUWNPLTJoV29TMjNLUkpDZjZxZGpGS1FqYkFCb2kzbk9Md19KM2RpTG9CQ1ZXTXZKcV9VdlJtX24xM3Nha1lYa2tMd3R2bjJVaS1QR3R6N0FzdGxzVGFkRklsaEpmWGk1bXZ2N0l2eEJ6S3I5YW9xX2JBTXMxd1V3ZFE?oc=5"
-  },
-  {
-   "title": "TSE nega retirada de fiscais do PL durante apuração - Times Brasil | CNBC",
-   "link": "https://timesbrasil.com.br/brasil/tse-nega-retirada-de-fiscais-do-pl-durante-apuracao/",
-   "source": "Times Brasil | CNBC",
-   "published": "2026-10-26T10:37:00+00:00",
-   "desc": " TSE nega retirada de fiscais do PL durante apuração    Times Brasil | CNBC ",
-   "gnews": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWduc28xdy0tZFk5Mlhvd0tRWDVwdVpSVlNCdHVKYUhmSUNXYWNleVNmUFFON1JUTDgxQ0JjZzhBb2I5WURpalNhV05ZNmdOTGk5aGxzTVJkUFNKMkRxOFpQMUtWTGMteEJCaWJ1U0RXTWRXdDhYbmoyYWo0dTZPXzRKWlJhLXgteGdJTnREbw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos",
-  "why_it_matters": "A vitória garante a volta de Lula ao Palácio do Planalto e determina a agenda política e econômica do Brasil até 2030.",
-  "big_picture": "Com 100 % das seções apuradas, abstenção de 19,22 % e diferença de 4,430,191 votos, o resultado tem ampla legitimidade, ainda que Flávio Bolsonaro questione a contagem.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, mas candidato derrotado questiona resultado",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda no Brasil; a contestação de Flávio Bolsonaro pode gerar tensões institucionais e mobilizar a Justiça Eleitoral.",
+  "big_picture": "Com 19,22% de abstenção, a participação foi alta e a diferença de 4,430,191 votos demonstra margem clara, embora o discurso de fraude alimente a polarização política.",
   "details": [
-   "Flávio Bolsonaro classifica o resultado de ‘sacanagem’ e anuncia que vai tentar anular a eleição",
-   "Líderes mundiais enviam mensagens de parabéns a Lula, reforçando apoio internacional",
-   "Bahia registra a maior queda na taxa de abstenção entre os turnos, indicando maior engajamento local",
-   "Presidente do TSE faz balanço do segundo turno, destacando a transparência e a conclusão da apuração",
-   "TSE nega alegações de retirada de fiscais do PL durante a apuração, confirmando a regularidade do processo"
+   "Resultado oficial do TSE com 100% das seções apuradas: Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos, diferença de 4,430,191 votos.",
+   "Flávio Bolsonaro chama o resultado de ‘sacanagem’, afirma ser ‘impossível’ reconhecer derrota e promete tentar anulação; TSE rebate e nega retirada de fiscais do PL durante a apuração.",
+   "Líderes mundiais parabenizam Lula pela vitória; Bahia lidera queda na abstenção entre turnos, indicando maior engajamento regional.",
+   "Presidente do TSE faz balanço do segundo turno, destacando transparência, integridade do processo e a plena validade dos números divulgados."
   ],
-  "whats_next": "Flávio Bolsonaro deve apresentar recurso ao TSE enquanto Lula se prepara para a posse em 1º de janeiro de 2027"
+  "whats_next": "Flávio Bolsonaro deve entrar com recursos ao TSE e, possivelmente, ao STF, enquanto o governo Lula se prepara para assumir em 1º de janeiro."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 mi votes",
-  "why_it_matters": "The win puts Lula back in the Planalto Palace and sets Brazil’s political and economic agenda through 2030.",
-  "big_picture": "With 100 % of precincts counted, abstention at 19,22 % and a margin of 4,430,191 votes, the result is broadly legit, even as Flávio Bolsonaro questions the count.",
+  "headline": "Lula wins runoff with 51.79% of valid votes, but defeated candidate questions result",
+  "why_it_matters": "The win keeps Brazil’s left‑leaning agenda on track; Flávio Bolsonaro’s challenge could spark institutional tension and mobilise the election court.",
+  "big_picture": "Turnout was high with 19.22% abstention; a 4,430,191‑vote gap shows a clear margin, though fraud claims stoke political polarization.",
   "details": [
-   "Flávio Bolsonaro calls the result a ‘scam’ and says he’ll try to overturn the election",
-   "World leaders send congratulations to Lula, underscoring international support",
-   "Bahia logs the biggest drop in abstention between rounds, signalling higher local engagement",
-   "TSE chief reviews the runoff, highlighting transparency and the finish of the count",
-   "TSE denies claims of PL poll‑watcher removals during the count, confirming the process was regular"
+   "TSE’s official count, 100% of precincts reported: Lula 51.79% vs Flávio Bolsonaro 48.21% of valid votes, a 4,430,191‑vote gap.",
+   "Flávio Bolsonaro dubs the result ‘sacanagem’, says it’s ‘impossible’ to accept defeat and vows to seek annulment; TSE pushes back, denying any removal of PL poll watchers during tally.",
+   "World leaders congratulate Lula; Bahia leads the drop in abstention between rounds, signalling higher regional engagement.",
+   "TSE president reviews the runoff, highlighting transparency, process integrity and the full validity of the published numbers."
   ],
-  "whats_next": "Flávio Bolsonaro will file an appeal with the TSE as Lula gears up for inauguration on Jan 1, 2027"
+  "whats_next": "Flávio Bolsonaro is expected to file appeals with the TSE and possibly the Supreme Court, while Lula’s team gears up to take office on Jan. 1."
  },
  "error": null
 }
