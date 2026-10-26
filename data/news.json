@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:31:06.362214-03:00",
+ "updated": "2026-10-26T01:33:01.680365-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
-  "big_picture": "Com diferença de 4,430,191 votos e 19,22% de abstenção, o resultado reflete a profunda polarização que ainda marca o eleitorado brasileiro.",
+  "why_it_matters": "A vitória garante a continuidade do governo PT e impede a agenda de Flávio Bolsonaro, que buscava romper a coalizão de centro‑esquerda.",
+  "big_picture": "Com 4,43 milhões de votos a mais, Lula supera a margem necessária e consolida o retorno da esquerda ao poder em um cenário de alta abstenção (19,22%).",
   "details": [
-   "Apuração completa: 100% das seções já contabilizadas pelo TSE",
-   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos",
-   "Municípios como Valparaíso (GO), Foz do Iguaçu (PR) e cidades do interior de SP confirmaram a tendência nacional"
+   "Apuração completa: 100 % das seções confirmam o resultado.",
+   "Abstenção chegou a 19,22%, indicando desgaste do eleitorado.",
+   "Municípios como Valparaíso (GO), Foz do Iguaçu (PR) e cidades do interior de SP refletiram a tendência nacional a favor de Lula."
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos limitados."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro from the Planalto Palace.",
-  "big_picture": "A margin of 4,430,191 votes and 19,22% abstention shows Brazil’s deep political divide.",
+  "headline": "Lula wins runoff with 51.79% of valid votes",
+  "why_it_matters": "The win keeps the PT government in power and blocks Flávio Bolsonaro’s bid to tear up the centre‑left coalition.",
+  "big_picture": "With a 4.43 million‑vote cushion, Lula clears the needed margin and cements the left’s return amid high abstention (19.22%).",
   "details": [
-   "Full count: 100% of precincts tallied by the TSE.",
-   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes.",
-   "Municipalities like Valparaíso (GO), Foz do Iguaçu (PR) and interior towns in SP echoed the national trend."
+   "Full count: 100 % of precincts confirm the result.",
+   "Abstention hit 19.22%, showing voter fatigue.",
+   "Municipalities like Valparaíso (GO), Foz do Iguaçu (PR) and small towns in SP mirrored the national swing toward Lula."
   ],
-  "whats_next": "Lula takes office on Jan. 1, 2027."
+  "whats_next": "Lula is sworn in on Jan. 1, 2027, while Flávio Bolsonaro weighs limited legal options."
  },
  "error": null
 }
