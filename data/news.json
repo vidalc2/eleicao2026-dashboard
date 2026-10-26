@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T05:48:36.071008-03:00",
+ "updated": "2026-10-26T05:50:34.478759-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -19,14 +19,6 @@
    "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSzZCWkxrTW5NTWE3TnlPblcyUXpzM0lVU0p5UHZlSm5hWm5kZW9YYlJ3QXpHTmpqSFc2dDZQYS0zS1hFR3RqNWNwMExVWnRGdDVZMjVyUEEzeW1KTFdhRU53ekEwQnBxU3NpNlhTUXpiZktTQ0dmN0J2cUE3ck1mWndYTXFDTng1VTE3N3ViQXd0NXZJdXVFem5HVU04Uk9ta2Foc0lzZ0ZxQzVfN29mV3ZsdzRFeG5rcjBzSnpGNHlVbGRyQXdmbmhWekdEZ0VBWkd5enFEMjFyM0c1cjc3dlZPb0hUODRxWDFpM9IB-wFBVV95cUxNN2pISmd2cWpUYVQwSzNyOFVkUVdUX1k4X1ZqUHhxdVVScnVuUHBNSEV2dXpzSU5ZSjBVZmttbjZGMjUxNU0zMmQ4bDRnOWlWZHZkbU1sdEgtTEM1Zm1XeERZM01ZMDk3QVp6Wl9FSmNFcElpeEN3ajlWLU9iVldFaERIbEwxR0xNNTFnZHZHMHN2T3V2YzRrcVZ5dFZCVG5rdW1JWEltZ3ZBd2VDSldld3V0bDd5Z3pkUWoxbnpoUE9mXy1xQlJoLW1mVW90VTNOc0g4TEdCSXg3ZUFKSVJ4YmlqbWo3QmwyeUJHcHh6azZhQV9fNE4wS0JSWQ?oc=5"
   },
   {
-   "title": "São Lourenço do Oeste (SC): resultado do local de votação por zonas eleitorais no 2º turno - G1",
-   "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/26/sao-lourenco-do-oeste-sc-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T08:21:59+00:00",
-   "desc": " São Lourenço do Oeste (SC): resultado do local de votação por zonas eleitorais no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZVNabjZZZEdDUkZydGVNODZuYnpsS1R3NDE5a0ttRU85a0wzNkhIUmNpN2g3Vl9EblJpbjI2NFF5ZXdkYU9YRXlCdHBfQWttdWRRd0s3SVlZN1h0OFQ2QWRZYkxmbmhRbXJTMUFCeVJwZEpZX1pGY05ibElyYTYxZnFDbUZ1Zkw0a24xNnNqVVVXS3pQYmwxSklzVmo5TG5sTmQxSndVUmpYd2plSmtoc01BVjVjbVpPVk95UTZFeUpCb2RidjhwTTQ4b2pDY3ZrVFF5b2VkWGYtZmhEMjYwM2xfRHZmeFpUMUlaQnR5S3NiTjdacms1TtIBhwJBVV95cUxOZm45VGZ1bDR5RlAzVzg1cjMta2xVUFlYZWRORnkyX1pqYUQ1bjR2ZC02UkV2UHpncDFlTU1FWWM1dXBJcVpLUFJIM3ZZOVByQmRTWXpMUExzNHFIOXlUTGpsS2ZPRmlhMGltQ21nNUs2ZmJYQUIzdDlHMkcyN2Nlemp4Ul9YUTB0VWlleGRyV3kzeXZhR3F4ejZveERLSXJBMlE5MjZnc0lRTXpQaHBrUXBUdDNtUGkwZm5mcnJQbENSMVZuYk56Nm1KQ2htNmc1R0ZkR0NJZXBXSktaZTNaQmJ1LTdmODBtWUZUTWU1bDNoY1dQaFBJcjJLV2sxNXZRbE1PdkQtZw?oc=5"
-  },
-  {
    "title": "Lula x Flávio: como o voto de cada região pesou no resultado da eleição - UOL Notícias",
    "link": "https://noticias.uol.com.br/eleicoes/2026/10/26/eleicao-lula-flavio-regioes.htm",
    "source": "UOL Notícias",
@@ -41,33 +33,39 @@
    "published": "2026-10-26T08:06:57+00:00",
    "desc": " Escola Municipal Cilineu Peixoto dos Santos, 36ª zona eleitoral: resultado da votação em Cristalina (GO) no 2º turno    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZXMxZllxVl9rNGNJelJvaEplbjdBMXVieGNsYjIxckhJSkQyZUs1UFRBYzBWVGp4RUZzMmVLX29ZWWRRMXRPMmVjN2VCR3hja3RMM1k1WkhJQUNCTThPbHo2Z1hRR3YtYVVQbmNiZEVtVTNYY3FLU3BBN2kwM1F0SmZaNUN1dF95NzBjaXRKc1NnQS1MN051b3YyaXIyMklHWTdBVTNRdFpnTTR4amV6T1ZBM3J5azlNeGxVV001MmVDZmwyd29zaGRTVEY4ai1zRndNeldOcWpCaDlVclVXVHZhdHZIa2ZzdG14SnY0Y3hwVExvZDFkRTYwY0Z2Ny1zak5LZXRCZmlpVEN4RlHSAZwCQVVfeXFMT0x2X1BUdVdhdGF4OXVxdEQ2M3pmNmttb3RuZmJJSlAyenY4aVFWMlkxVkR1RVFmSXBubXlXTno1VWRSbDUySlYwXzJDbENMb3BDb2pfUjY5eDhjOFVPeUJJOC1JSHRCajRjVExGeFBUZHAxNFY1Tkt3ZWxLUjE4bVR3dUZFVU4xM0FqTDZpNld0empuQzR2LXlVVGtGcGNqU3FFaU1KREVNVXo1OG0xcU9jaC1XYVlYUkNmWnJhTk1reC1RMGQ2dDJhejBadnJ1a0V0TkZERC05QTVVWWVibGxIWXRac2RHSVo2MTNpYzh2cTliazhNLWpvbE1aMDloZWhpY3hTWkJVczJKVkU5UEdZV2hJakNiV3B3dXY?oc=5"
+  },
+  {
+   "title": "Flávio Bolsonaro vence a eleição presidencial em Areal - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127200/flavio-bolsonaro-vence-a-eleicao-presidencial-em-areal",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T08:30:47+00:00",
+   "desc": " Flávio Bolsonaro vence a eleição presidencial em Areal    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkFqd2pBNlpqdmMxT0V4aUV4ak8wRGZWdTFHakVXQmQtbnlydEJlM0xVZnlUbzNFejJQSEFtTW94YXl6TmxyeG5RSTVPVmNGV002RjRNa0VCWXRwb0l0am5tT1NmT2g5WmtPc1FiRExsVXh2T1M1ZG1wbGZVU3FNMXpNdUFFeU91VFVTUzRhck9DaHY5c0VCdF9RdGJockZvVGdpclVDcw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão da direita ao Palácio do Planalto.",
-  "big_picture": "Com 100% das seções apuradas e 19,22% de abstenção, o resultado reflete a polarização regional, destacando o papel decisivo do interior de São Paulo e das regiões Centro‑Oeste e Nordeste.",
+  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a implementação da proposta conservadora de Flávio Bolsonaro.",
+  "big_picture": "Com 4,430,191 votos de diferença e 100% das seções apuradas, Lula supera a maioria simples apesar de 19,22% de abstenção.",
   "details": [
-   "Lula obteve 51,79% dos votos válidos contra 48,21% de Flávio, diferença de 4.430.191 votos.",
-   "Em São Paulo, cidades com voto casado Lula‑Tarcísio dobraram, passando de 33 para 66, reforçando a aliança que beneficiou Lula.",
-   "Resultados em São Domingos (SC) e São Lourenço do Oeste (SC) mostram a competitividade no sul, mas não alteraram o panorama nacional.",
-   "Na 36ª zona eleitoral de Cristalina (GO), a votação na Escola Municipal Cilineu Peixoto dos Santos seguiu a tendência nacional a favor de Lula.",
-   "Análise da UOL destaca que o peso do voto nas regiões Nordeste e Centro‑Oeste foi crucial para a vitória de Lula."
+   "Resultado final: Lula 51,79% x Flávio 48,21% dos votos válidos; diferença de 4,43 mi de votos",
+   "Voto casado Lula‑Tarcísio dobrou em SP, passando de 33 para 66 cidades, reforçando a aliança regional",
+   "UOL destaca que o peso de cada região foi decisivo, com Norte e Nordeste favorecendo Lula",
+   "Flávio Bolsonaro venceu apenas em municípios isolados, como Areal, mas a manchete do Congresso em Foco foi contestada pelos dados oficiais"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
+  "whats_next": "Lula tomará posse em 1º de janeiro de 2027 e iniciará a formação de seu governo."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51.79% of valid votes, beating Flávio Bolsonaro by 4.43 million",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks a right‑wing takeover of the Planalto Palace.",
-  "big_picture": "With 100% of precincts counted and 19.22% abstention, the result shows regional polarization, underscoring the decisive role of São Paulo’s interior and the Centro‑Oeste and Nordeste regions.",
+  "headline": "Lula wins 2nd round with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro’s conservative proposal.",
+  "big_picture": "With a 4,430,191‑vote margin and 100% of precincts counted, Lula tops a simple majority despite 19,22% abstention.",
   "details": [
-   "Lula got 51.79% of valid votes vs 48.21% for Flávio, a margin of 4,430,191 votes.",
-   "In São Paulo, Lula‑Tarcísio paired cities doubled from 33 to 66, bolstering the alliance that helped Lula.",
-   "Results in São Domingos (SC) and São Lourenço do Oeste (SC) show southern competitiveness but didn’t shift the national picture.",
-   "In Cristalina’s 36th electoral zone (GO), voting at Escola Municipal Cilineu Peixoto dos Santos mirrored the national tilt toward Lula.",
-   "UOL analysis notes that votes from the Nordeste and Centro‑Oeste were pivotal to Lula’s win."
+   "Final tally: Lula 51,79% vs Flávio 48,21% of valid votes; 4,43 mi‑vote gap",
+   "Lula‑Tarcísio ticket doubled in SP, jumping from 33 to 66 cities, bolstering the regional alliance",
+   "UOL notes each region’s weight was decisive, with North and Northeast favoring Lula",
+   "Flávio Bolsonaro won only in isolated towns like Areal, but the Congress in Focus headline was challenged by official data"
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, kicking off his second term."
+  "whats_next": "Lula will be sworn in on Jan 1, 2027 and will start building his cabinet."
  },
  "error": null
 }
