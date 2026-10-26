@@ -1,15 +1,7 @@
 {
- "updated": "2026-10-26T05:20:23.082850-03:00",
+ "updated": "2026-10-26T05:22:24.500804-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
-  {
-   "title": "Lula x Flávio: como o voto de cada região pesou no resultado da eleição - UOL Notícias",
-   "link": "https://noticias.uol.com.br/eleicoes/2026/10/26/eleicao-lula-flavio-regioes.htm",
-   "source": "UOL Notícias",
-   "published": "2026-10-26T08:09:25+00:00",
-   "desc": " Lula x Flávio: como o voto de cada região pesou no resultado da eleição    UOL Notícias ",
-   "gnews": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQWI2M0VPdlg2RHBWMFlKMG1pY2wwcEVHUXgxemtlYWFGTF9ORzBfNThMcExCcW8tWW1xSnRYRHdoS1NnMUlGdGxBZmVsVkdETzkwa2pYb2d1TmMwN3JZNUx0MTN0dEtWejhWWUE0LVhOZzJsMzRHQWNMeF9MUWFteGdEQnJlUQ?oc=5"
-  },
   {
    "title": "Peritiba (SC): resultado do local de votação por zonas eleitorais no 2º turno - G1",
    "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/26/peritiba-sc-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
@@ -41,29 +33,39 @@
    "published": "2026-10-26T07:51:01+00:00",
    "desc": " Lula ganhou quase 3 milhões de votos no Nordeste do 1º para o 2º turno; Flávio avançou 398 mil    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUVPSnRELWpmTUJwbG9Fd2FDNkFiRFJhb19iTGJzSGVkU2FKcS04dVZjNmJORkk1bTZGTVJrWHJQNDR5dWxYdXdyM1hZS0VKbHdCeUVNT1BfZnN3TDRybGhUZHpVaVlLakROMU5rN3ZrX2pVRzI0VEw4bWNvX2xza0JyZ2pDVklDTkU1bTdKQnl0MUHSAaIBQVVfeXFMTUJHZFJmb1pacW00TzNCc0pqaUkxRFlvM1hLWFdnTnZ6NmxGLUJiRWNvVE1QbkNNV2RJSVVxU0hPelJTdndhM3htWTNOWm04MUt6WXJPWThVX3Z3Wm5mRF9TR1dCQzNtaDBjWVk3ZzFxVjhRRXRKUHN4LVhFQmdvWXYxNVFUZXJHcTFSanVPaTg1TEZLaEh0YUFHRXVqZV9wUjVB?oc=5"
+  },
+  {
+   "title": "Japaratuba escolhe Lula para presidente no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127038/japaratuba-escolhe-lula-para-presidente-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T08:14:25+00:00",
+   "desc": " Japaratuba escolhe Lula para presidente no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVNzbVFQMHFkdFhhWDNxTXZtT1k5SjZwNFNRYkRBRVhpT1FvUjNLSzBENWVHM0VOZDNhaTFoUXdlaHJBU0licjgzVUFKMnNEQkpJZ00wOUMxY2k2UHN6ckRld0Y3RXptdTNIX1lUV3hhOW8zbktQN1NuWXY3NmprRHdoYmNoc25vM2ctRDJaWHlSNlFISXdYTW1nVmZoRURzRDMyYk5kQVhtUQ?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória garante a continuidade do governo PT e impede a agenda conservadora de Flávio Bolsonaro, definindo a política nacional para os próximos quatro anos.",
-  "big_picture": "Com 80,78% de comparecimento (abstenção de 19,22%), Lula ampliou sua vantagem no Nordeste e manteve apoio nas regiões Sul e Centro-Oeste, consolidando a maioria nacional.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões de votos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de um candidato de direita ao Palácio da Alvorada.",
+  "big_picture": "Com 100 % das seções apuradas e 19,22 % de abstenção, a margem de 4,430,191 votos mostra que o pleito ainda foi decisivo apesar da baixa participação.",
   "details": [
-   "Lula ganhou quase 3 milhões de votos adicionais no Nordeste, enquanto Flávio avançou 398 mil na mesma região",
-   "Zonas eleitorais como Peritiba (SC) e a 141ª zona de Bonfinópolis (GO) registraram margens estreitas, mas contribuíram para a diferença final de 4,430,191 votos",
-   "A totalização foi concluída com 100,0% das seções apuradas, confirmando a vitória sem margem para dúvidas"
+   "Lula ganhou quase 3 milhões de votos no Nordeste, enquanto Flávio avançou 398 mil na mesma região",
+   "Cidades como Peritiba (SC), Bonfinópolis (GO) e Anicuns (GO) registraram vitória de Lula nas zonas eleitorais locais",
+   "Japaratuba (SC) também escolheu Lula, reforçando seu apoio no Sul",
+   "Abstenção ficou em 19,22 % do eleitorado, indicando cansaço ou descontentamento com a disputa"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro prepara recurso ao TSE."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avaliará possíveis recursos ao TSE."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "The win keeps the PT government in power and blocks Flávio Bolsonaro’s conservative agenda, shaping national politics for the next four years.",
-  "big_picture": "Turnout hit 80,78% (19,22% abstention). Lula widened his lead in the Northeast and held steady in the South and Central‑West, cementing a national majority.",
+  "headline": "Lula wins runoff with 51.79% of valid votes, beating Flávio Bolsonaro by 4.43 million votes",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks a right‑wing candidate from the Palácio da Alvorada.",
+  "big_picture": "With 100 % of precincts counted and 19.22 % turnout, a 4,430,191‑vote margin shows the race was still decisive despite low participation.",
   "details": [
-   "Lula added nearly 3 million votes in the Northeast, while Flávio gained 398 k there.",
-   "Precincts like Peritiba (SC) and the 141st zone in Bonfinópolis (GO) were tight but helped push the final gap to 4,430,191 votes.",
-   "Counting wrapped at 100.0% of sections, confirming the win beyond doubt."
+   "Lula netted just under 3 million votes in the Northeast, while Flávio added 398 k there",
+   "Cities like Peritiba (SC), Bonfinópolis (GO) and Anicuns (GO) recorded Lula wins in their local precincts",
+   "Japaratuba (SC) also chose Lula, bolstering his support in the South",
+   "Turnout sat at 19.22 % of voters, hinting at fatigue or discontent with the contest"
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, as Flávio Bolsonaro readies a TSE appeal."
+  "whats_next": "Lula will be inaugurated on Jan 1, 2027, while Flávio Bolsonaro weighs possible appeals to the TSE."
  },
  "error": null
 }
