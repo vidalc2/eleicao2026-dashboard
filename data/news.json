@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:01:10.529800-03:00",
+ "updated": "2026-10-26T02:03:09.962638-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,30 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória garante a continuidade do governo PT por mais quatro anos e impede a agenda de direita de Flávio Bolsonaro.",
-  "big_picture": "A eleição mostra um Brasil ainda polarizado, com quase 20% de abstenção, mas confirma que a coalizão de centro‑esquerda manteve a maioria nacional.",
+  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos, mas Flávio Bolsonaro promete contestar o resultado",
+  "why_it_matters": "A vitória de Lula garante a continuidade do governo de esquerda por mais quatro anos, enquanto a contestação de Flávio pode gerar instabilidade institucional.",
+  "big_picture": "Com 100% das seções apuradas, a diferença de 4,43 milhões de votos demonstra um pleito apertado e uma abstenção de 19,22%, sinalizando desgaste do eleitorado.",
   "details": [
-   "Resultado final: Lula 51,79% (4.430.191 votos a mais) vs Flávio Bolsonaro 48,21%.",
-   "Abstenção chegou a 19,22% do eleitorado, indicando cansaço ou descrença no processo.",
-   "Flávio Bolsonaro já anunciou pedido de anulação, alegando irregularidades; especialistas dizem que o recurso tem pouca chance de prosperar."
+   "Lula: 51,79% dos votos válidos; Flávio Bolsonaro: 48,21%",
+   "Diferença de 4.430.191 votos em todo o país",
+   "Abstenção total chegou a 19,22% das eleitores habilitados",
+   "Flávio já apresentou argumentos para anular a eleição, citando supostas irregularidades; especialistas apontam baixa probabilidade de sucesso",
+   "Apurações locais – Valparaíso (GO), Foz do Iguaçu (PR) e Taboão da Serra (SP) – refletem variações regionais, mas confirmam a vitória nacional de Lula"
   ],
-  "whats_next": "O TSE analisará o pedido de anulação nos próximos dias, enquanto a posse de Lula está marcada para 1º de janeiro de 2027."
+  "whats_next": "O Tribunal Superior Eleitoral analisará os pedidos de anulação enquanto o novo governo se prepara para assumir em 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "The win extends the PT government for another four years and blocks Flávio Bolsonaro’s right‑wing agenda.",
-  "big_picture": "The vote shows Brazil still split, with almost 20% abstention, but the centre‑left coalition kept its national majority.",
+  "headline": "Lula wins the 2nd round with 51,79% of valid votes, but Flávio Bolsonaro vows to contest the result",
+  "why_it_matters": "Lula’s win extends the left‑leaning government for another four years, while Flávio’s challenge could spark institutional instability.",
+  "big_picture": "With 100% of precincts counted, a 4.43 million‑vote gap shows a tight race and a 19.22% abstention, hinting at voter fatigue.",
   "details": [
-   "Final tally: Lula 51,79% (4.430.191‑vote lead) vs Flávio Bolsonaro 48,21%.",
-   "Abstention hit 19,22% of voters, signalling fatigue or distrust in the process.",
-   "Flávio Bolsonaro has filed an annulment request, citing irregularities; experts say the challenge has slim odds."
+   "Lula: 51,79% of valid votes; Flávio Bolsonaro: 48,21%",
+   "Margin of 4.430.191 votes nationwide",
+   "Abstention hit 19,22% of eligible voters",
+   "Flávio has filed claims to void the election, citing alleged irregularities; experts see slim odds of success",
+   "Local tallies – Valparaíso (GO), Foz do Iguaçu (PR) and Taboão da Serra (SP) – show regional swings but confirm Lula’s national win"
   ],
-  "whats_next": "The TSE will review the annulment request in the coming days, while Lula’s inauguration is set for Jan. 1, 2027."
+  "whats_next": "The Superior Electoral Court will review the annulment requests as the new administration gears up to take office on Jan 1, 2027"
  },
  "error": null
 }
