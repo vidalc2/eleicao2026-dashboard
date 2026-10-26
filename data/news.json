@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:31:20.099019-03:00",
+ "updated": "2026-10-26T02:33:21.000059-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade do PT no poder e já mobiliza a comunidade internacional, com os primeiros líderes mundiais parabenizando o presidente eleito.",
-  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete a profunda polarização do Brasil, mas também a solidez institucional ao concluir a apuração em 100% das seções.",
+  "why_it_matters": "Com 4,430,191 votos a mais, o ex‑presidente retoma o cargo enquanto a abstenção atinge 19,22%, sinalizando cansaço eleitoral.",
+  "big_picture": "A vitória consolida a coalizão de esquerda, mas a margem estreita evidencia profunda polarização que deverá moldar o debate legislativo nos próximos meses.",
   "details": [
-   "Lula liderou em cidades como Alto do Rodrigues, enquanto Flávio Bolsonaro venceu em municípios como União Paulista e Vale do Sol, mostrando disparidades regionais",
-   "Atrasos na diplomação de votos e a decisão do ministro Zanin geraram críticas e levaram a uma reunião de emergência no TSE",
-   "Líderes de países como EUA, França e China já enviaram mensagens de felicitações, sinalizando expectativas de estabilidade nas relações externas"
+   "Líderes mundiais, incluindo o presidente da França e o primeiro‑ministro da Inglaterra, já parabenizaram Lula pela vitória",
+   "Em Alto do Rodrigues, Lula foi o candidato mais votado, ao passo que Flávio Bolsonaro venceu em União Paulista e liderou no Vale do Sol",
+   "A demora de Kassio e a decisão de Zanin geraram críticas nos tribunais e forçaram reunião de emergência no TSE, embora a apuração já esteja concluída"
   ],
-  "whats_next": "O TSE deve homologar oficialmente o resultado nos próximos dias, preparando a transição para a posse de Lula em 1º de janeiro de 2027."
+  "whats_next": "Lula tomará posse em 1º de janeiro de 2027, enquanto o Congresso inicia a transição e debate das prioridades de governo."
  },
  "brief_en": {
   "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps PT in power and already has the world watching, with top leaders congratulating the president‑elect.",
-  "big_picture": "A 4,430,191‑vote margin and 19,22% abstention highlight Brazil’s deep split, yet also its institutional strength after 100% of precincts were counted.",
+  "why_it_matters": "With 4,430,191 more votes, the former president reclaims the office as turnout drops to 19,22%, signaling voter fatigue.",
+  "big_picture": "The win cements the left coalition, but the slim margin underscores deep polarization that will shape legislative debate in the coming months.",
   "details": [
-   "Lula led in towns like Alto do Rodrigues, while Flávio Bolsonaro won in municipalities such as União Paulista and Vale do Sol, showing regional disparities.",
-   "Delays in vote certification and Minister Zanin’s ruling sparked criticism and prompted an emergency TSE meeting.",
-   "Leaders from the US, France and China have already sent congratulations, signalling hopes for stable foreign relations."
+   "World leaders, including France’s president and the UK’s prime minister, have already congratulated Lula on the win",
+   "In Alto do Rodrigues, Lula was top‑vote‑getter, while Flávio Bolsonaro won in União Paulista and led in Vale do Sol",
+   "Kassio’s delay and Zanin’s ruling drew court criticism and forced an emergency TSE meeting, even though the count is already finished"
   ],
-  "whats_next": "The TSE is set to officially certify the result in the coming days, paving the way for Lula’s Jan. 1, 2027 inauguration."
+  "whats_next": "Lula will be sworn in on Jan 1, 2027 as Parliament kicks off the transition and debates government priorities."
  },
  "error": null
 }
