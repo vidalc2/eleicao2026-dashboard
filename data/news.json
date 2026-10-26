@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:39:01.958853-03:00",
+ "updated": "2026-10-25T21:41:02.321187-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -19,6 +19,14 @@
    "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakVUeG9Gc05ER1NmWmZXZ2Y5TnNVNzhrZU1SOS1xU3V5cURPMGpib3pBMHAxZHJnaWZvbFNiUzh5QTIxMGdIamFRVTFUbmUxakx1WTJydFBadlhNTkdWQkVZNW1Kd0dkNExLZUhoQkdaVXdLTnRaZXhZM1NpX21HVFB5TEE2eTlpSWxjaTU5NkFIdDFZRUYwWjBZaWpYV2luYVpVRWZxb2FidDA?oc=5"
   },
   {
+   "title": "Eleições 2026: de Nossa Senhora aos 'soldados' digitais, veja temas que marcaram a campanha - G1",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-de-nossa-senhora-aos-soldados-digitais-veja-temas-que-marcaram-a-campanha.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T00:27:50+00:00",
+   "desc": " Eleições 2026: de Nossa Senhora aos 'soldados' digitais, veja temas que marcaram a campanha    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWW9INjhHU3lKNU9wa2pwNGNNQU1TdnBBTkRNQjlwb2JkWWUxOHQ2eUs0STVkaXpOOTRTb0ZHelp1RTVRc1RZUU1YMzFuS29faE5IQnVWVVRJai05SmQ1STJ1RVYyZWJZNDBvMjJZT25OdGdSQ3N5UVRJc28zOGdWenJaSC1tLUZ5WENaVTdVS0hESk1QcEtIN2FueVBSN0plRjQ1N1JEMTBnZlJjdGtOdlJ4YmlsTWFZc2xyaHMxN25Na3otNXRVRTlGalFFOUVnOXlrNTl4M0tleG5ZYXd3LWI4V05Xdm5XbFhHVtIB-wFBVV95cUxPc1lyQTh1MnN2MjJZNDlEcEVNVTBaWHVWTkhRMWw1ZkpReWtURHVQd0ZNMDM4NnBCcmdrZ3MzMHZQdjZQWUx5YkpqQ1A5Z19FU2kwbGVEY1FHWEdaRWNQTy10U1h6N0ptMklIdkNlQ3BxVFpmUHhHbE0zb1ZSeDJzWTA2c3FuUDhhWWNFRkVCLXdQNW03SGxZMGVBS0lkUmQ4VWhkbVR5U2ctSUNiUFE1MHp0eVpkdE5HMWZiYTdQS1dodmMybzVqem5fYmhlMFhCaFQ5Nk1oRlVNSWlSQkwyOFV2MzlMRWZiWUd4MFZuNWZBRG1lZjF0Y0JSdw?oc=5"
+  },
+  {
    "title": "195ª zona eleitoral de Presidente Epitácio (SP): votos por local de votação no 2º turno - G1",
    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/195a-zona-eleitoral-de-presidente-epitacio-sp-votos-por-local-de-votacao-no-2o-turno.ghtml",
    "source": "G1",
@@ -33,45 +41,31 @@
    "published": "2026-10-26T00:22:36+00:00",
    "desc": " Lula fica à frente de Flavio Bolsonaro em Porto Alegre no 2º turno    CNN Brasil ",
    "gnews": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDZEWGZlUE1QVXZwQTVHOUl2NTA3OHlUVWtvT0lTVS1QRDNPRnU1YjlFakdra1M5ZFhPWTU1WmNTNEJvd1NVNW9zUlJDbmRkSWt1blNCM2FUbjlIQWtDQXY5WkswOHFzSTFJakdKdnJLTjMtd2hXOFdHaXQ4blJWYl9ZSkhzYTc3eHFXSkJMVUFqVnM5U3FlM05EN1dJUS1NZnVpNF9MUTY?oc=5"
-  },
-  {
-   "title": "Eleições 2026: veja como foi a votação no 2º turno em Santa Catarina - G1",
-   "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-veja-como-foi-a-votacao-2o-turno-santa-catarina.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T00:20:24+00:00",
-   "desc": " Eleições 2026: veja como foi a votação no 2º turno em Santa Catarina    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelVRaFNfVGREdWJtQklFWHp6QnBUOG4zWENmTHVaNU9MRFNoMURKVlR6YzI0QmQ5MXZnS3k5VnpXMFJRWVBoOEN1Z0JNWG5tM1FieTVyLTNnWk1sTnVwNk9lbUVxWFN2cXk3Y2tINlZpLWstWXFQSXBSa3pDZkZaSHJDTS02OFdNd2hyM1lWLUhkd2x1QUVTRXJLOENMbU5SRWdROVRWTGxEdk85R1hZWG1BWmItXzdUa2RZdzdJUkZvOU9KbHhyNVcyaV92Tm1LNnBva2Jn0gHkAUFVX3lxTE9vUmkyME1aSy1YMDBWOFhiU3dBRE05ck56TXdkbUhiYXVmeVBGREFfeDg4M01mVjhhbkhiSk1DMGtvYkR1X3hBQkYxSHVKYkRqMHJRY2NrdWZPODB6eHFKUzlFU0xUeVhOYlhuSnBWSnZOcW80SUM4VWIxU0hfbGt6V1ptVS1QTTB4ak5CazNua1JTeS0tYjJPZ2F5UkZUQlNlakI0VzZwSlNJUUJ1NnEtMDQ4dkozX0lpenB2eGxQYlRzMWpsOUJneUJNUXYxc3dSZlc3S2ltWUY4bnJzQjlkdEhMdw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula lidera nacionalmente com 51,77% contra 48,23% de Flávio Bolsonaro, mas disputa ainda é acirrada em grandes cidades",
-  "why_it_matters": "Com 99,9% das seções apuradas, a margem de 4,38 milhões de votos coloca Lula à frente, porém Flávio ainda comanda em Belo Horizonte, indicando polarização regional",
-  "big_picture": "A vitória de Lula ainda depende da homologação oficial, enquanto a abstenção de 19,21% mostra que quase um quinto dos eleitores ainda está fora do pleito",
+  "headline": "Lula vence segundo turno com 51,77% dos votos, mas Flávio Bolsonaro lidera em Belo Horizonte",
+  "why_it_matters": "A vitória de Lula mantém o PT no poder, porém a disputa ainda está acirrada em grandes centros urbanos, sinalizando polarização regional.",
+  "big_picture": "Com 99,9% das seções apuradas, Lula tem 4,387,448 votos a mais que Flávio, mas a abstenção de 19,21% indica cansaço do eleitorado.",
   "details": [
-   "99,9% das seções já foram contabilizadas pelo TSE",
-   "Lula tem 51,77% dos votos válidos, Flávio Bolsonaro 48,23%",
-   "Diferença de 4.381.689 votos a favor de Lula",
-   "Flávio Bolsonaro lidera em Belo Horizonte, segundo a CNN Brasil",
-   "Lula lidera em Porto Alegre e em todo o estado de Santa Catarina, conforme G1",
-   "No Paraná, a comparação entre 1º e 2º turnos mostra mudança de padrão de voto, segundo O Globo",
-   "Votos por local na 195ª zona eleitoral de Presidente Epitácio (SP) detalhados pelo G1"
+   "Lula 51,77% x Flávio Bolsonaro 48,23% dos votos válidos; diferença de 4,387,448 votos; 99,9% das seções apuradas",
+   "Flávio Bolsonaro está à frente de Lula em Belo Horizonte, mostrando força do candidato nas capitais do Sudeste",
+   "Lula lidera em Porto Alegre, reforçando apoio no Sul tradicionalmente progressista",
+   "Campanha foi marcada por temas que vão de devoções a Nossa Senhora a estratégias de ‘soldados digitais’, segundo análise do G1"
   ],
-  "whats_next": "O TSE deve proclamar oficialmente o presidente nas próximas horas"
+  "whats_next": "Apuração final será concluída nas próximas horas, preparando a transição para a posse em 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula leads nationally with 51,77% vs 48,23% for Flávio Bolsonaro, but the race stays tight in big cities",
-  "why_it_matters": "With 99,9% of precincts counted, a 4,38 million‑vote lead puts Lula ahead, yet Flávio still leads in Belo Horizonte, flagging regional polarization",
-  "big_picture": "Lula’s win still needs official certification, and a 19,21% abstention rate shows nearly a fifth of voters stayed home",
+  "headline": "Lula wins runoff with 51,77% of votes, but Flávio Bolsonaro leads in Belo Horizonte",
+  "why_it_matters": "Lula’s win keeps PT in power, yet the race stays tight in major cities, signaling regional polarization.",
+  "big_picture": "With 99,9% of precincts counted, Lula leads Flávio by 4,387,448 votes, but a 19,21% abstention shows voter fatigue.",
   "details": [
-   "99,9% of precincts already tallied by the TSE",
-   "Lula has 51,77% of valid votes, Flávio Bolsonaro 48,23%",
-   "Lula leads by 4.381.689 votes",
-   "Flávio Bolsonaro leads in Belo Horizonte, per CNN Brazil",
-   "Lula leads in Porto Alegre and across Santa Catarina, per G1",
-   "In Paraná, first‑ vs second‑round comparison shows a voting‑pattern shift, per O Globo",
-   "Precinct‑level results for the 195th electoral zone in Presidente Epitácio (SP) detailed by G1"
+   "Lula 51,77% vs Flávio Bolsonaro 48,23% of valid votes; margin of 4,387,448 votes; 99,9% of precincts counted",
+   "Flávio Bolsonaro ahead of Lula in Belo Horizonte, showing strength in Southeast capitals",
+   "Lula ahead in Porto Alegre, reinforcing support in the traditionally progressive South",
+   "Campaign spanned everything from Our Lady devotions to ‘digital soldier’ tactics, G1 analysis says"
   ],
-  "whats_next": "The TSE is set to officially proclaim the president within hours"
+  "whats_next": "Final count wraps up in hours, setting the stage for a Jan. 1, 2027 inauguration"
  },
  "error": null
 }
