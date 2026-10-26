@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:34:06.913911-03:00",
+ "updated": "2026-10-26T00:36:05.971286-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -46,24 +46,24 @@
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
   "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
-  "big_picture": "Com 100% das seções apuradas, a disputa terminou com diferença de 4,430,191 votos, enquanto 19,22% dos eleitores se abstiveram.",
+  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstenção, o resultado reflete a preferência dos eleitores nas áreas urbanas e a desilusão de quase um quinto do eleitorado.",
   "details": [
-   "Diferença de 4,430,191 votos entre os candidatos",
-   "Abstenção chegou a 19,22%, sinalizando descontentamento de parte do eleitorado",
-   "Cidades de SP como Várzea Paulista, São Carlos, São Caetano do Sul, Marília e Jandira refletiram a tendência nacional"
+   "Apuração completa: 100% das seções já contabilizadas",
+   "Abstenção chegou a 19,22%, o maior índice nas últimas eleições presidenciais",
+   "Municípios paulistas como Várzea Paulista, São Carlos, São Caetano do Sul, Marília e Jandira seguiram a tendência nacional a favor de Lula"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro tem até 15 dias para contestar o resultado"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia possíveis recursos limitados."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "headline": "Lula wins runoff with 51.79% of valid votes",
   "why_it_matters": "The win keeps the left agenda alive and blocks Flávio Bolsonaro from the Planalto Palace.",
-  "big_picture": "With 100% of precincts counted, the race ended with a 4,430,191‑vote margin, while 19,22% of voters stayed home.",
+  "big_picture": "A 4,430,191‑vote margin and 19.22% abstention show urban voters leaning left and nearly a fifth of the electorate staying home.",
   "details": [
-   "Margin of 4,430,191 votes between the candidates",
-   "Abstention hit 19,22%, showing voter discontent",
-   "SP cities like Várzea Paulista, São Carlos, São Caetano do Sul, Marília and Jandira mirrored the national trend"
+   "Full count: 100% of precincts reported",
+   "Abstention hit 19.22%, the highest in recent presidential races",
+   "São Paulo towns like Várzea Paulista, São Carlos, São Caetano do Sul, Marília and Jandira mirrored the national favour for Lula"
   ],
-  "whats_next": "Lula is sworn in on Jan. 1, 2027; Flávio Bolsonaro has 15 days to contest the result"
+  "whats_next": "Lula is sworn in on Jan. 1, 2027, while Flávio Bolsonaro weighs limited legal recourse."
  },
  "error": null
 }
