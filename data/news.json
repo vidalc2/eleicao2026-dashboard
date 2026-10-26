@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:41:34.862515-03:00",
+ "updated": "2026-10-26T08:43:34.799651-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -19,12 +19,12 @@
    "gnews": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWhKSld1ekF1Vk92QUFzeW9JRHl0NEdSamJUejVQNFpzQlZSb3lyRm54SE0xWWlXVWpEbkZLaHZxXzhFc3M1TVFXdjdsR2I1ampNQk5WVldnWDlGREE5NVN4ZFFXZ1VyenVCT2RvX3Q5YnRkaWU5WHVXMnJMMHZ2ekZrTkpLOExVNFplVzk2QXdWaDVtQU1MZTByUjNHS0k?oc=5"
   },
   {
-   "title": "Serraria (PB): resultado do local de votação por zonas eleitorais no 2º turno - G1",
-   "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/26/serraria-pb-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+   "title": "Pombal (PB): resultado do local de votação por zonas eleitorais no 2º turno - G1",
+   "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/26/pombal-pb-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
    "source": "G1",
-   "published": "2026-10-26T11:18:44+00:00",
-   "desc": " Serraria (PB): resultado do local de votação por zonas eleitorais no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM2YxYllJVTlyeTRRSEJpWG5nN2FWSW1aSHh5VWZxamlvLWhRR284UWRFVjFwVEM3eExERTlzZV8zVG5XZ1ZmVG1NRElhaEFaREc2WGpNbmY2RzRmMF8yLVhEQmxwb1V1M0pPbFZnRTBtOWllVWkyMXBSdnU3N2xZTm9oTks2VjBoOFkxaXBtVlR2U245bUJGdWo0MHpUZnV6QUhIb2R1NGdzemlab19EWUlSbVQ4MHNkQWNhZGQ2Wm4tVThMSFFZbTRvNXlEb2hidnRzRTVPMmxoWTAxM3fSAewBQVVfeXFMTVNiU2ZqMDNVaGZhSWtOZWJtMGtmV2tES21KWjNKWFN3WXhRWF9zbjMtbU0xTXVlNFNNZkNmY2ZnN05iOGlaemtWWlpuU0JoOGRHeEdVSWtGc014S3VwZUQ3MFZ4Q3VyRVNFSEc4X096dEhmMkUxeXlSZUxid1lWWFh2UDRvTG1sQ3k4LUp4V2R6Rmd1bDFrM1NEOUZZaGE2VXRZcUFGbEFBSlN0YTBZR0ZJbFljTlhJRjVqblFxY2hGanBQc2FVVFBuZ1FQQnJ4ZE9Id2NRcGpPck5YamRHbmxOakdDR0tSXzdhcC0?oc=5"
+   "published": "2026-10-26T11:18:10+00:00",
+   "desc": " Pombal (PB): resultado do local de votação por zonas eleitorais no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTDAzLTVHZTl2X3pOdXlNSTZtRkRyNzhjOWI5aDNNNHF0WWk5eDJINk1iTEFsVXJpcTRvMnNRMHFReG5GNkhvQWJjMFBaanpvN1RDN0dDUUM0OTY0cE5kR3h3enpJRlp2QXdXSm1kZ2JHT0x1MnlCMGdVWnJndW50bVEtWkZFTDJYclZTc0JpWElUS3dqSUhyaElnUzZPSU9OVjVnZlVGaW9DT2xoY0E1OWJQU0l3V211N2dDWnZUa3F2YVNVc1JFZ3VvYXU1YndTMVczbk01U3Y0d1XSAeoBQVVfeXFMT2VOb1JmS2EtblZvLUNBdE5IOERsd255MktrNXNfbXFfSFEyWjMtX2E2U21yd3Nqc0piaUo2cnRnYnhnSXpEbWhzek1pWXl3Z0VYV2tEUlh3cmZ2M19XZGpST3BrMVprdGdNbUkwY3FzM2ZpNFBXMS1td2FjNk5xdjNfRFZWdFBCV2h0c0d1NnI5OS1ndHVfVEd2aDFIVUdpS0hiMDVHS2NKakRmb3JiQ3d0SXlnVmswbFZwNjNlYUV2eXJMVVZEVktzSEZ5SjFZUmlFYjJFRmthaUIwOVpMd2xzdUxfNWZ0eUd3?oc=5"
   },
   {
    "title": "10ª zona eleitoral de Jardim de Angicos (RN): votos por local de votação no 2º turno - G1",
@@ -45,29 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "Com 4,43 milhões de votos a mais, o presidente garante seu terceiro mandato, enquanto Flávio Bolsonaro fica atrás.",
-  "big_picture": "A vitória sela a continuidade da agenda de esquerda e mantém o Brasil sob liderança do PT após quatro anos de governo.",
+  "why_it_matters": "A vitória garante a continuação da agenda do PT e mantém o Brasil sob liderança de esquerda por mais quatro anos, em meio a forte polarização política.",
+  "big_picture": "Com 4,43 milhões de votos de diferença, o resultado reforça a divisão entre os eleitores, enquanto a abstenção de 19,22% indica cansaço ou descrença no processo eleitoral.",
   "details": [
-   "Apuração completa: 100% das seções confirmam 51,79% a Lula e 48,21% a Flávio Bolsonaro.",
-   "Abstenção chegou a 19,22% dos eleitores, indicando alta taxa de não comparecimento.",
-   "Novos votos do segundo turno favoreceram Lula em 71%, conforme levantamento da CNN Brasil.",
-   "Resultados locais, como Serraria (PB) e Jardim de Angicos (RN), reforçam a vantagem nas zonas rurais.",
-   "Presidente do TSE descartou qualquer anulação da eleição, mesmo após prorrogação."
+   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos, diferença de 4.430.191 votos",
+   "Abstenção de 19,22% significa que 80,78% dos eleitores compareceram às urnas",
+   "Presidente do TSE descartou anulação da eleição, confirmando a totalização final com 100% das seções apuradas"
   ],
-  "whats_next": "Lula assume em 1º de janeiro de 2027, enquanto o Congresso prepara a transição de poder."
+  "whats_next": "Lula assumirá a presidência em 1º de janeiro de 2027, enquanto o TSE monitora eventuais contestações judiciais."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "With 4,43 million more votes, the president secures a third term, while Flávio Bolsonaro trails.",
-  "big_picture": "The win locks in a left‑leaning agenda and keeps Brazil under PT rule after four years.",
+  "headline": "Lula wins second round with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the PT agenda alive and leaves Brazil under left‑wing leadership for another four years amid deep political polarization.",
+  "big_picture": "A 4,43‑million‑vote gap underscores the split, while 19,22% abstention shows voter fatigue or distrust in the process.",
   "details": [
-   "Full count: 100% of precincts confirm 51,79% for Lula, 48,21% for Flávio Bolsonaro.",
-   "Abstention hit 19,22% of voters, showing a high non‑turnout rate.",
-   "Second‑round new votes favoured Lula by 71%, per CNN Brazil.",
-   "Local results – Serraria (PB) and Jardim de Angicos (RN) – underline the rural edge.",
-   "TSE chief ruled out any election nullification, even after the extension."
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes, margin of 4.430.191 votes",
+   "19,22% abstention means 80,78% of voters turned out",
+   "TSE president ruled out annulling the election, confirming final tally with 100% of precincts counted"
   ],
-  "whats_next": "Lula takes office Jan 1, 2027 as Parliament readies the power handover."
+  "whats_next": "Lula takes office on Jan. 1, 2027, as the TSE watches for any legal challenges."
  },
  "error": null
 }
