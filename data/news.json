@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:31:44.077030-03:00",
+ "updated": "2026-10-25T23:33:45.052204-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,25 @@
  ],
  "brief": {
   "headline": "Lula vence Flávio Bolsonaro no 2º turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de um governo de direita liderado por Flávio Bolsonaro.",
-  "big_picture": "Com 4,43 milhões de votos a mais, Lula supera a margem necessária e consolida apoio em regiões‑chave como Bahia e Amazonas.",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão da direita ao poder.",
+  "big_picture": "Com 4,430,191 votos a mais e 100% das seções apuradas, o resultado reflete a divisão do eleitorado, que ainda tem 19,22% de abstenção.",
   "details": [
-   "Resultado final: Lula 51,79% x Flávio 48,21% (diferença de 4.430.191 votos).",
-   "Abstenção foi de 19,22%, indicando participação de 80,78% dos eleitores.",
-   "Lula obteve 71,31% na Bahia e venceu em municípios estratégicos: Parintins, Manacapuru, Manaus (AM) e São Mateus (ES)."
+   "Lula conquistou 71,31% dos votos na Bahia, ampliando a vantagem nacional",
+   "Candidatos de Lula venceram nas capitais de Amazonas (Manaus) e nos municípios de Parintins, Manacapuru e São Mateus (ES)",
+   "Abstenção ficou em 19,22%, indicando que quase um quinto dos eleitores ainda não participou"
   ],
-  "whats_next": "A posse de Lula está marcada para 1º de janeiro de 2027, iniciando seu segundo mandato."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato"
  },
  "brief_en": {
-  "headline": "Lula beats Flávio Bolsonaro in 2nd round with 51.79% of valid votes",
-  "why_it_matters": "The win secures the left‑leaning agenda and blocks a right‑wing government under Flávio Bolsonaro.",
-  "big_picture": "With a 4.43 million‑vote edge, Lula clears the threshold and solidifies support in key regions like Bahia and Amazonas.",
+  "headline": "Lula beats Flávio Bolsonaro in runoff with 51.79% of valid votes",
+  "why_it_matters": "Win keeps the left agenda alive and blocks a right‑wing takeover.",
+  "big_picture": "With a 4,430,191‑vote margin and 100% of precincts counted, the split electorate still shows 19.22% abstention.",
   "details": [
-   "Final tally: Lula 51.79% vs Flávio 48.21% (margin of 4,430,191 votes).",
-   "Abstention was 19.22%, meaning 80.78% voter turnout.",
-   "Lula got 71.31% in Bahia and won in swing towns: Parintins, Manacapuru, Manaus (AM) and São Mateus (ES)."
+   "Lula captured 71.31% of the vote in Bahia, widening his national lead",
+   "Lula‑aligned candidates won in the Amazonas capital (Manaus) and the towns of Parintins, Manacapuru and São Mateus (ES)",
+   "Abstention sat at 19.22%, meaning almost one‑fifth of voters stayed home"
   ],
-  "whats_next": "Lula’s inauguration is set for Jan 1, 2027, kicking off his second term."
+  "whats_next": "Lula will be sworn in on Jan. 1, 2027, kicking off his second term"
  },
  "error": null
 }
