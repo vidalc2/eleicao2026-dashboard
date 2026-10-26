@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:07:33.735548-03:00",
+ "updated": "2026-10-26T03:09:35.129286-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -9,6 +9,22 @@
    "published": "2026-10-26T05:44:17+00:00",
    "desc": " Flávio Bolsonaro perdeu votos em seis estados do 1º para o 2º turno; veja onde ganhou e perdeu    G1 ",
    "gnews": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLU53YWg3M3pVaEVXYzhGbmRXdnRwUi0yN2k1YkNteUhGVXpJNGlVQ24wMVNJbGdRaWR2d2RvSlVzckhPa3pZYkVOQ1dJd2p5R3pfRU5EM0VoNzV5c3k0VkFiNmZHUkdacmZjS09PT0o4RWlER1JzaGpvaU9jMlJqTDU2RW5icVI1dzZPU0Z4VnpGNlFiSExlVTQweEZ4djhGMVZZQXRsRkoyWU1VM2VXdGoxcGdSVEVpSHJkV2N1TE4wcG03WlJGM25BaXoyRjBMcEHSAeABQVVfeXFMTVEzbE5lWVlVSVhteldWLWVOX2RYY2RnRFZQdzZkSkNTMGlmN1dCb2ZLa2tfaXhSVXZJcE52N3lKMkFNMzJuWnNjOHUwamJkSm5ucjFVcTduaFJ2RkRPS29UdHFpczhteEZqbzlSLVlHX1ZXVThSX0hCbEl5OElfNFllcnZDeDdXbkszLUoyVnFBS0xqS3QwRmxCMXZ5TWdPcmQyUHdIYjdtQUc4Y1Iya1hyemFmUXdELTZmT0NDeWpiWkF1eHhKdXIwNWZpRjVET040c09LN3JCSE40eUhuV0E?oc=5"
+  },
+  {
+   "title": "Tabira (PE): resultado do local de votação por zonas eleitorais no 2º turno - G1",
+   "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/26/tabira-pe-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T05:37:40+00:00",
+   "desc": " Tabira (PE): resultado do local de votação por zonas eleitorais no 2º turno    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXVycGFTQmdlWm5FT2V3WjFvNEtGWVlLQ2pHZ04wQjd4M0g0aXpWUW00anE5Z2JOVmFKUGJsaVFqN1RWVDJDQm95bllXb1hDZWFTN2Mzd19HanlGdU5FY3VoTXZLODFEVFpCd2VSQmNKN0VoeTRxYjgxVVVVLURuRDlFWV9DT3FFUW1UelRsTlZrdFluM2x3VC1Qb0xRcWM3OGhOdVVwUzVmUHdONlVod254S01sUWZWWXdxQ0VVZ3U4Tm9jeXNUSTlxVFA2U2RzZGlZSTkwRHZsdjFrS3dz0gHuAUFVX3lxTE5Cb2tKbGgzLTlEQTJCVjNlNUExZjhfRk1fRTVzZUNUUmlWRkpYQ0NtTXNNTjdySHpqMTMwUUNYemZtSzdjRGx3dmFIUEp2UDdERDFvTXJYYy1BSjZ5aldxUHVHaWpVUTBBWUxNT3JpdWh0NXJGQngxUFZwaDZHc1JZeG5Ta3dNREVTWkp6TDRNcEtBeHB1eWd1VkRfMTA3SkZCT2lqbkJwVWNwSW9mVEQ5bjNQUXVKMkF5WDlNWFBGbmZud3gyVmNVV1hkU25CejhRcUY3NDhKMS12Z2dOU0JjdF8xdWdUQWoxb2hQaUE?oc=5"
+  },
+  {
+   "title": "Jari: Flávio Bolsonaro é o mais votado no segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/125695/jari-flavio-bolsonaro-e-o-mais-votado-no-segundo-turno",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T06:02:28+00:00",
+   "desc": " Jari: Flávio Bolsonaro é o mais votado no segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWFtS1o0emQ4MVk1WXRWQmY5NUNlbU9EY1lhb2VYMlN1Z19jbGthMndfdk9VbXFPWlNibm1TQXlCQU1OUDhqdUZPTU1RdlN6ekRBRkdvRkhKXzZBZnVZQUlqdnZBNlBTdTVmcGQtb2xsSUx2TEU5djNZNUJ3T0I3V3lXbUhSbXZELUhybUw3bVRUWTNHTkdiUFU2aWwtYjFuQndEeUk3UQ?oc=5"
   },
   {
    "title": "Barro: Lula é o mais votado no segundo turno - Congresso em Foco",
@@ -25,45 +41,29 @@
    "published": "2026-10-26T06:00:13+00:00",
    "desc": " Pratinha escolhe Flávio Bolsonaro para presidente no segundo turno    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlVwMFRhLS0wWUQzQ1lFOFFGQVJ4SXZVdGtjSmRTVS15Wk1WNThMR2x3ejFpSEhXaDhtUzhDVmVMQUNEakk1NGIwZ0QwN05vb2FWVlh1VmhmRW5lRXZJeXNlS3pqTHV3R1I3QjRGSlFkMzF3WV9GcWYwaE05cjJNRkhQWTZWZjMza2FrUVdhd01fWnJlWTJwTDZZbjMwakRwOVE3MklEdEQ5SzZ3MkN0N2NNR2pueXM?oc=5"
-  },
-  {
-   "title": "Lula vence a eleição presidencial em Nova Esperança do Sudoeste - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/125674/lula-vence-a-eleicao-presidencial-em-nova-esperanca-do-sudoeste",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T05:59:53+00:00",
-   "desc": " Lula vence a eleição presidencial em Nova Esperança do Sudoeste    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUp3MmtjWHZNQkdaMXlmYmRzdS1HdTdWc0dBNHlWeVM0VlhabHFIWkU3Rnpzd2ZVbjBSdTNaZWF1TVZpNDh0cTcxUS10LU5iTmxaUnNqTGsxMEZCc2VneUFqNnNmNVIzaDhwNGVubnN6RHRKTU5Ea0VqbURxMGpTZ3FsMEVJbzFtRzhqYXNUVHk1SFdBZmp1SV9YSGVQQkVLcXljSm5BdnB5OXF4V242YlY2cw?oc=5"
-  },
-  {
-   "title": "Lula e Flávio Bolsonaro receberam o mesmo número de votos em 1 município no 2º turno - G1",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-e-flavio-bolsonaro-tem-o-mesmo-numero-de-votos-em-1-municipio-no-2o-turno.ghtml",
-   "source": "G1",
-   "published": "2026-10-26T05:33:48+00:00",
-   "desc": " Lula e Flávio Bolsonaro receberam o mesmo número de votos em 1 município no 2º turno    G1 ",
-   "gnews": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXEzVHJWQVdCUWwzZ0tKT01YUFlTT2JkLTNhYVkyX1NSdUtVeEhOdU1VQi1CTXFobDFlYjhpcVJLREg0SkNMYndLV3UyY3YzX1RfSkpDLTBJamtUd0FubVIwVGRlSmM0a1hJTHJfREVOWXVqZUtxNEtFdllqcWxfQ2dXNjlod1VYZkp5Uk4zWElqS3ZXMHJGVzF5ZVVEMHVNZXJ2emhzT1RMRjhfZUpSWVoxRkpOcHMtcE90WDVuWDlTeE1aQnFwM3Nxald1NEItc0hzQkl5X1lPZVI4RmJjStIB7wFBVV95cUxPNFl6UUEzWHd1TkxuUUVxZ2poTWt5WEJGcHBTUXBURmpMelQ0Q0J5bnl1NGpBQ25yTE4wVDViM0pYWnFoR0NBWWFRd2NVak5zbk4tLUYxS2tuWnJxQkduU2pHN0toOEI0QmlZamlndFJ1YjBBT2RjNVRNdndzRkhaYjZhWk14X3hHSVlkd2FEUXZLbEpRU2doWTRXV0dUTlpFVEU0MHVTWFQ1c1VSN3BYZy0tN1BSb3FBWTlPUl80dUhwWEJrVjRydElqdlhoZWg3SjR3Wm5lMHJfNFd4alJhNkp4T2kzSzZ5U0l6T1VaMA?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos",
-  "why_it_matters": "A vitória garante a volta de Lula ao Palácio do Planalto, definindo a agenda política e econômica do Brasil para os próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas e 19,22% de abstenção, o resultado reflete a polarização regional, mas confirma a maioria nacional a favor da esquerda tradicional.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e define a política brasileira para os próximos quatro anos.",
+  "big_picture": "Com 4,43 milhões de votos a mais, Lula supera Flávio Bolsonaro em um pleito marcado por alta abstenção (19,22%) e polarização regional.",
   "details": [
-   "Flávio Bolsonaro perdeu votos em seis estados entre o 1º e o 2º turno, reduzindo sua competitividade nacional",
-   "Lula foi o candidato mais votado no segundo turno, destacando-se em municípios como Nova Esperança do Sudoeste",
-   "Mesmo com a derrota, municípios como Pratinha mantiveram apoio a Flávio, e um município registrou empate exato entre os candidatos"
+   "Flávio Bolsonaro perdeu votos em seis estados entre o primeiro e o segundo turno, reduzindo sua margem nacional.",
+   "Em Jari (MG) Flávio foi o candidato mais votado, enquanto em Barro (MG) Lula liderou, mostrando divergências locais.",
+   "Municípios como Pratinha (MG) optaram por Flávio, ao passo que Tabira (PE) registrou resultados detalhados por zona eleitoral."
   ],
-  "whats_next": "Lula deve assumir a presidência em 1º de janeiro de 2027, iniciando a implementação de seu programa de governo."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 mi votes",
-  "why_it_matters": "The win puts Lula back in the Planalto Palace, setting Brazil’s political and economic agenda for the next four years.",
-  "big_picture": "With 100% of precincts counted and 19,22% abstention, the result shows regional polarization but confirms a national majority for the traditional left.",
+  "headline": "Lula wins runoff with 51,79% of valid votes",
+  "why_it_matters": "The win secures the left‑leaning agenda and sets Brazil’s policy course for the next four years.",
+  "big_picture": "With a 4,43‑million vote edge, Lula beats Flávio Bolsonaro in a race marked by high abstention (19,22%) and regional polarization.",
   "details": [
-   "Flávio Bolsonaro lost votes in six states between round 1 and round 2, denting his national competitiveness.",
-   "Lula was the top vote‑getter in the runoff, standing out in places like Nova Esperança do Sudoeste.",
-   "Even in defeat, towns like Pratinha stuck with Flávio, and one municipality recorded an exact tie."
+   "Flávio Bolsonaro shed votes in six states between rounds, shrinking his national margin.",
+   "In Jari (MG) Flávio topped the poll; in Barro (MG) Lula led, highlighting local splits.",
+   "Towns like Pratinha (MG) went for Flávio, while Tabira (PE) posted detailed precinct results."
   ],
-  "whats_next": "Lula is set to take office on Jan 1, 2027, kicking off his government program."
+  "whats_next": "Lula is sworn in on Jan 1, 2027, kicking off his second term."
  },
  "error": null
 }
