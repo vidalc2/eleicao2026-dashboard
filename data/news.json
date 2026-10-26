@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:26:03.902766-03:00",
+ "updated": "2026-10-26T04:28:02.244710-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória garante a continuidade do PT no poder e define a agenda política para os próximos quatro anos.",
-  "big_picture": "Com 19,22% de abstenção, a eleição reflete polarização, mas o resultado confirma a maioria dos eleitores que participaram.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
+  "why_it_matters": "A vitória garante a continuação do governo PT por mais quatro anos e define a agenda política e econômica do país.",
+  "big_picture": "Com 4,430,191 votos de diferença e 19,22% de abstência, Lula supera Flávio Bolsonaro e consolida apoio em regiões-chave, como Piracicaba, onde seu voto subiu 31%.",
   "details": [
-   "Apuração completa: 100% das seções declaradas",
-   "Diferença de 4.430.191 votos entre Lula e Flávio",
-   "Abstenção em 19,22% indica que quase um quinto dos eleitores não compareceu",
-   "Em Piracicaba, Lula registrou alta de 31% e Flávio aumento de 8% no segundo turno",
-   "A ampliação do horário de votação foi adotada para ampliar a participação"
+   "Apuração completa: 100% das seções confirmam 51,79% a 48,21% para Lula e Flávio, respectivamente",
+   "Diferença de 4,430,191 votos assegura vitória sem necessidade de recontagem",
+   "Tendências locais: em Piracicaba (SP) Lula ganha 31% e Flávio sobe 8%; resultados de zonas eleitorais em Pará (Capitão Poço, Primavera, Soure) mostram variações regionais",
+   "Ampliação do horário de votação, detalhada pelo Poder360, foi adotada para ampliar a participação dos eleitores"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando a transição de governo."
+  "whats_next": "A diplomacia brasileira se prepara para a posse em 1º de janeiro de 2027"
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "The win keeps PT in power and sets the policy agenda for the next four years.",
-  "big_picture": "With 19,22% abstention, the vote shows polarization, yet confirms the majority of voters who turned out.",
+  "headline": "Lula wins runoff with 51.79% of valid votes",
+  "why_it_matters": "The win extends the PT government for another four years and sets the country’s political and economic agenda.",
+  "big_picture": "A margin of 4,430,191 votes and 19.22% abstention sees Lula beat Flávio Bolsonaro and lock in support in key areas like Piracicaba, where his vote share jumped 31%.",
   "details": [
-   "Full count: 100% of precincts reported",
-   "Margin of 4.430.191 votes between Lula and Flávio",
-   "Abstention at 19,22% shows nearly one‑fifth of voters stayed home",
-   "In Piracicaba, Lula rose 31% and Flávio up 8% in the runoff",
-   "Extended voting hours were added to boost turnout"
+   "Full count: 100% of precincts confirm 51.79% for Lula vs 48.21% for Flávio.",
+   "Margin of 4,430,191 votes clinches victory, no recount needed.",
+   "Local trends: in Piracicaba (SP) Lula up 31% and Flávio up 8%; results from Pará zones (Capitão Poço, Primavera, Soure) show regional swings.",
+   "Extended voting hours, detailed by Poder360, were introduced to boost turnout."
   ],
-  "whats_next": "Lula will be sworn in on Jan 1, 2027, kicking off the transition."
+  "whats_next": "Brazil’s diplomacy is gearing up for the Jan. 1, 2027 inauguration."
  },
  "error": null
 }
