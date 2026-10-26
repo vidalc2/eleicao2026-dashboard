@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:07:35.064845-03:00",
+ "updated": "2026-10-25T23:09:35.273263-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -27,43 +27,47 @@
    "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXNPazl3VExYYkI3QjBXOS16djdxcG0tVF9PQVdMaElqbXU1cU9FUjBPS0xqa0RXTXZxNS1CVXN5QTFiUWxrdU9pLURxS1c3ZEZwUWZtVjI0Nk8yNWRxUk8yVHdYRVRpOUhKMHNBbXlqcl82LXVOeXVSbVRUdVVRT1plY1EzYUNVbTdwVTVJRUNBTWJULUs0MV9pVmswODVVQzZtZld4ZzVja19FMHRvd3ZwZ2pMWUtwUzhSdF9MRzBJNks50gHTAUFVX3lxTE1sZ3Z5YmlwRnBCZkdMVmk4NVpaanE3ZmZvWTRCSG93bXY4NTFlSy0zN3VET0FrRWZaTUlxbW4zVnQ0TjlQRVN1LVlOcUFsWHdnN244Tl9jN3JiaFlyOF93cnZ4TERXa3Z0c3NNdGd2ZEdLSVBMa3poWUdWX0hLeW5Lb19Oc0dLU1BsaFBWUVVPRFpObm9wcXJ2ZUdjYkczQlpPcTlZNHMtb0RrdmZVNlF1UGRoOHNvSXphLVJoQVVTWVd1ZjFVSnNEM0Y5MEd5Zi1qUm8?oc=5"
   },
   {
+   "title": "Eleições em Ribeirão Preto (SP): veja a apuração do 2º turno - O GLOBO",
+   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-ribeirao-preto-sp-veja-a-apuracao-do-2-turno.ghtml",
+   "source": "O GLOBO",
+   "published": "2026-10-26T01:59:57+00:00",
+   "desc": " Eleições em Ribeirão Preto (SP): veja a apuração do 2º turno    O GLOBO ",
+   "gnews": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPemF5SU9zRC1wVkQwT0JlamE0UEgtSVhTbUpyaVdKdG8wMERXOFBzU2doOEMzemhlZXgyb1ZVYU1Yd1RoNmZuTkhVZ3Z0ZzRzWE5GWHAweVVuczllNEw3Mlp1bHlWYS1pdjhnYkhsWk8tMFI1UVhrQV90aVFDQU9mNGFMRmI2S004bE54WTBjdU5jeml6S3pCckVqcXVSV3BMSXlnSUplZmp5c3hlS3lsU0F0Rk9Ia2l1NHdtazVMU19xRHNIc0NFStIB1wFBVV95cUxPNURneUp5WmNEeGIxYlQtSm53TXZWdFRnS25GbDhmVEltZ0NqWEFzczVzQWtQQmFXWmJ5Yl92eVhzcmFVSWItS3JyWjBfZlZxVkx5TjJmVjhFelhtbktPOHdsUnU5R1pzamtIaGctRWJYaUE0ZGhBcUNhRVdvUEVEaF80MUtMV05sQTZFcTlUY0ZwUmtqQkw2aVpqRE80ZHNQMHBNSjktb0ZPdFd1eU03TlFVSzF5Y2o4c1FoVGpUTnVaSHRUVC1neXBOWWpsZk9ValY5NktoRQ?oc=5"
+  },
+  {
    "title": "Eleições em Praia Grande (SP): veja a apuração do 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-praia-grande-sp-veja-a-apuracao-do-2-turno.ghtml",
    "source": "O GLOBO",
    "published": "2026-10-26T01:59:42+00:00",
    "desc": " Eleições em Praia Grande (SP): veja a apuração do 2º turno    O GLOBO ",
    "gnews": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQWVsVDhpSDRvVXVHOWhzT04wSTlKNWhHbWF3TmVwc2hDWmR2eG00WmdLUlZyQkVHUkFROXF0SDVTNmUzS2NvV2k0WHM2RERDb2RlOW5qWGZrSjgyWFVpX05iQzVmaV9mak1XejdMWXlLRFBZRTZUNG42clh3Y001VHJtQzNyV1JFTkZjeEZzRHM1OWN4LVIyTlZwSzJINXMwWjdEU0c1SnQtcGNZODhoNkFFZjZxaklEWWFXeC16UVJtOTFhNXfSAdQBQVVfeXFMTmdRNFJrREwxb25nNEpNcm1QelN6eHdtVG5NSklwV0lWemgwRXRNS1FOTmFzZDItMnoxOHdsLXdOSkg5ZTBCRWRqMkN0OVRyQlVjSWJGakNFVXYwZ29jaFdtN0doUW5aYmtGR0tfR0FWTnRDS04wRzJpX0FtWk1EcmFaUzNQdGZJNDFleU9KcG1kLVA0SkpBNjlFLWowSHlUUnFKenBzbFZUajhBMk51TExSbDN2TlE3TEJieG1od0dHNlZrNnBmdUJHWmJ3cFJZOW9ibEw?oc=5"
-  },
-  {
-   "title": "Eleições em Piracicaba (SP): veja a apuração do 2º turno - O GLOBO",
-   "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-em-piracicaba-sp-veja-a-apuracao-do-2-turno.ghtml",
-   "source": "O GLOBO",
-   "published": "2026-10-26T01:59:32+00:00",
-   "desc": " Eleições em Piracicaba (SP): veja a apuração do 2º turno    O GLOBO ",
-   "gnews": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTY5WE9TeGwzYTg1bFlsUWhzLTVITFRXc2h4S1ZBOURTbG5HcnpVbzFlWGp0bGRHbW8yTmM5VlFnNEpHOGowT2NVMy1DSVlBWEtnbVNsQjVaY2RFYzZFZ1ZEQmxSekpMZk1kRHZGUUU0dllibVQ1Wi1ERExmVGRXZDdFTEpOWjNDQXlPeFR4MjNxZ3Q0VFNUNG5qSXF2YlR6WmJ3eDc1Nlc1c0NPek1TUm5zOHNMSXoxX2hzS3dIUDBHSUHSAdIBQVVfeXFMTmdVMjNYT2dCd3RHU29raUFxb2NROFZvUFBtTTNlWHJnVDVrUUtEVTNqWDh3RUROTkJSYVotZ3hSTVNUXzdfNlJhd1lDR2Q0eXVVU3p0UjR3Z0hTYnFpQ1Q4QUpNRUdZYnVZS05xTkd4bFYyQUctZTY3NDNleWUyX0d6dGhUZnJqRDdKU1pOdjBnQVdrZkhheXJCdWhuMG0xUkRNLURjdmt1LTJxODBJbGhQcWhPWmtfYXZEckNqanNMOVJJVWRXZXFmYVR3c0tmOXdn?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de um candidato de direita ao Palácio do Planalto.",
-  "big_picture": "Com 100% das seções apuradas, a margem de quase 4,5 milhões de votos reflete um país ainda polarizado, mas com abstenção de 19,22%.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos",
+  "why_it_matters": "A vitória garante ao PT o retorno ao Palácio do Planalto e encerra a disputa mais polarizada da última década; as cidades paulistas que acompanharam a apuração confirmaram a tendência nacional.",
+  "big_picture": "Com 100% das seções apuradas, Lula lidera 51,79% a 48,21% num pleito marcado por 19,22% de abstenção, sinalizando um eleitorado ainda dividido, mas inclinado ao centro‑esquerda.",
   "details": [
-   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos em todo o país",
-   "Diferença de 4.429.907 votos assegura a vitória no segundo turno",
-   "Abstenção permanece alta, 19,22% dos eleitores não compareceram às urnas"
+   "Lula 51,79% dos votos válidos; Flávio Bolsonaro 48,21%",
+   "Diferença de 4.429.907 votos a favor de Lula",
+   "Abstenção nacional em 19,22%",
+   "Todas as seções eleitorais já foram contabilizadas",
+   "Municipios de Sorocaba, Santos, Santo André, Ribeirão Preto e Praia Grande registraram resultados alinhados ao panorama nacional"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu terceiro mandato."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro pode recorrer ao Judiciário para contestar o resultado."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million votes",
-  "why_it_matters": "The win keeps the left agenda alive and blocks a right‑wing candidate from the Planalto Palace.",
-  "big_picture": "With all precincts counted, a near‑4.5 million margin shows a still‑polarized country, but turnout was low at 19,22%.",
+  "headline": "Lula wins runoff with 51,79% of the vote, beating Flávio Bolsonaro by 4,43 mi votes",
+  "why_it_matters": "The win puts PT back in the Palácio do Planalto and ends the most polarised contest of the past decade; the São Paulo cities that reported early confirmed the national trend.",
+  "big_picture": "With 100% of precincts counted, Lula leads 51,79% to 48,21% in an election with 19,22% turnout, showing a still‑split electorate but one leaning centre‑left.",
   "details": [
-   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes nationwide",
-   "Margin of 4.429.907 votes secures the second‑round win",
-   "Turnout stays low, 19,22% of voters stayed home"
+   "Lula 51,79% of valid votes; Flávio Bolsonaro 48,21%",
+   "Margin of 4.429.907 votes for Lula",
+   "National turnout at 19,22%",
+   "All precincts tallied",
+   "Sorocaba, Santos, Santo André, Ribeirão Preto and Praia Grande results matched the national picture"
   ],
-  "whats_next": "Lula is sworn in on Jan 1, 2027, kicking off his third term."
+  "whats_next": "Lula is sworn in on Jan. 1, 2027, while Flávio Bolsonaro may take the result to the courts."
  },
  "error": null
 }
