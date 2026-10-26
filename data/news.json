@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:05:00.974842-03:00",
+ "updated": "2026-10-26T07:07:01.388902-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -35,37 +35,35 @@
    "gnews": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeWRKaWFHY21ROTIwZ1VaVGRvUnlBNl9aM3ZLcVZoU2JLX3hmWDluTERTQTQzUE9MTTN2cGRIZlA3S0I2MzB1d0ZlRF9BeS1Od1dmZnoyOFdQWE9DWU9uQlhhX2hIRFpfdno4N0tnbUNVZG1vVnduVWozVk4wZHRJRXQ1WVU4R0RfX1pLZEI5S2lvLXE0b2doSTMxNEdEclVaS3BDbGsxZkd6YUNLaklCZ1FFRDkzTGJXSHBDS3dNV2xsZUFFbnNmd09NbWU5b2tsYm5zSE05QTM0V2dKMDN4Nmt4TzYzcGNOcU9mVTJsNTlMNmdmUG1yYkJ30gGIAkFVX3lxTFBRcFBVOVNKTm45N0hWcTQyRGdjX0VPZmFHOEFURXZkTXUyRXBlZV92Q2l4bWNyTVBIb21mb000N0RJMzBUQjlmZ09PX1h2UlJULXlXeHZSYlVLR1B2aFphTVQ1ODlQSDlUX3dkeXltNnpJVEV3N0tJY0pkeFRDZ1I2TlZKeTJPU0pVOXBDT0pzZmZVUVlpbDdmaHZwb2sxQVlMS0lNMFhwMi16b1Fqb3FkVWh4UjBwVEpadmVsdWhnaVh3ZEZLUTdWNEx6RVgyRFMxd2MyZGNqbU5lLW9jSVJnWlMtUG1ONmtrTTB3S0lzdFdjZEN1Y2FSS1hENkdIWDJMb09SY1dNVA?oc=5"
   },
   {
-   "title": "Vinhedo escolhe Flávio Bolsonaro para presidente no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/127956/vinhedo-escolhe-flavio-bolsonaro-para-presidente-no-segundo-turno",
+   "title": "Goiás: Lula tem 54,58% e vence o segundo turno - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127974/goias-lula-tem-54-58-e-vence-o-segundo-turno",
    "source": "Congresso em Foco",
-   "published": "2026-10-26T09:56:49+00:00",
-   "desc": " Vinhedo escolhe Flávio Bolsonaro para presidente no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkZ2ZjUzR1RKS2g0RFUyX29waXFlRU9YODB0b21TN2plUTV6YUh1ejgxb3lvb2ZTeHdWbnRxdDZ6RXE0V3pGZnpVTVhDWDV5N2dtR0lwYUtkTkRrd09uVGpXUGFRdk5WQkFoLTIwYzRwSnVvUjNsSjMyRnpWRENJVUZwTVh0emFaV1Q1ZC1WLTJSZy1ObGxiMU1HcmwzNHU4cGdGc2tqMXNYT3NDUFhUNHNmRmtIQQ?oc=5"
+   "published": "2026-10-26T10:00:55+00:00",
+   "desc": " Goiás: Lula tem 54,58% e vence o segundo turno    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3FTZ054d3o3b2xfZGY1b0hHV3MydFQ5eHZ3Q3JYUm42VXJyVWo0aDJTeVN5RkUwa2pzbnNic0RXQkxyMk5mUXNSUGpmYXJNQ1lEdm01SlZib3R3bHJ3X2ttWnZZMHlkMkdiZHRneGpoQXctZEVzQU9zUE15eGtSdFI4OXYxNkFhRmp5cXdQSXp2SGpqaDFCdFNn?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade do governo e define a agenda política para os próximos quatro anos.",
-  "big_picture": "Com diferença de 4,430,191 votos e 19,22% de abstenção, o pleito evidencia polarização, mas consolida a liderança do PT.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mi de votos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de um candidato de direita ao Palácio do Planalto.",
+  "big_picture": "Com 100 % das seções apuradas e 19,22 % de abstenção, o resultado reflete a polarização ainda presente, mas confirma a preferência nacional por Lula.",
   "details": [
    "TSE divulgou imagens de fiscais do PL durante a apuração, reforçando a transparência do processo",
-   "Implicações da votação prorrogada, fruto de impasse entre STF e TSE, foram superadas com a totalização de 100% das seções",
-   "Resultados locais, como Pires do Rio (GO) e Escola Municipal Ipiranga em Imperatriz (MA), confirmam a tendência nacional a favor de Lula",
-   "Em Vinhedo, a maioria dos eleitores optou por Flávio Bolsonaro, mostrando resistência regional ao candidato do PT"
+   "STF e TSE tiveram impasse que levou à prorrogação da votação, mas a totalização final foi concluída sem alterações",
+   "Em Goiás, Lula alcançou 54,58% e venceu o segundo turno; resultados em Imperatriz (MA) também mostraram vantagem clara para o petista"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro avalia recursos judiciais."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu terceiro mandato."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win secures the government’s continuity and sets the policy agenda for the next four years.",
-  "big_picture": "Margin of 4,430,191 votes and 19,22% abstention shows polarization, but cements PT’s lead.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mi votes",
+  "why_it_matters": "The win keeps the left agenda alive and blocks a right‑wing candidate from the Planalto Palace.",
+  "big_picture": "With 100 % of precincts counted and 19,22 % abstention, the result shows lingering polarization but a clear national preference for Lula.",
   "details": [
-   "TSE released images of PL poll watchers during the count, underscoring process transparency",
-   "Issues from the delayed vote, stemming from a standoff between the STF and TSE, were cleared as all precincts reported",
-   "Local results, like Pires do Rio (GO) and Escola Municipal Ipiranga in Imperatriz (MA), mirror the national tilt toward Lula",
-   "In Vinhedo, most voters chose Flávio Bolsonaro, indicating regional resistance to the PT candidate"
+   "TSE released footage of PL poll watchers during the count, underscoring transparency",
+   "STF and TSE deadlocked, extending voting, but the final tally was unchanged",
+   "In Goiás, Lula hit 54,58% to clinch the runoff; results in Imperatriz (MA) also showed a solid lead for the leftist"
   ],
-  "whats_next": "Lula will be inaugurated on Jan. 1, 2027, while Flávio Bolsonaro weighs legal appeals."
+  "whats_next": "Lula will be sworn in on Jan 1 2027, kicking off his third term."
  },
  "error": null
 }
