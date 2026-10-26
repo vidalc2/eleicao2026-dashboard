@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:26:57.079520-03:00",
+ "updated": "2026-10-25T21:28:57.964480-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -27,43 +27,47 @@
    "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaUw1cUJYM2tWcmVWTlJuYng5bUZmcUdaekc4cVZMS1d3dkhFMFI3Z0p1NFJFWTdnbi10QkRsQTY4a2RLZ3FPLVVxYmotX0dCX2hEY0lLbWNwRl9rNTI5U2ZxektZQ05tNVRFdkk2SFU1UllzU3ZMWVg5czVCdGVTQ09RaXBBTzlkb1JqZFVNelNZT1VaazVSRk1GWGM4WHNDTHYyaGpfZXRwR1JydElfbGF2X2xNQkhMMmVoZ1JHQlR2c0NxUXlyQmM5dE1zQdIB0wFBVV95cUxNSE9nVlVlLTFRS0dkM2FJSFFFVmNxRmhrSS1haWdMT3VnNWxFTkxFeHJ5RmJCSFNobVgwSW01bENfMVdPYkdhUm03cEtZMjd1RTdnTHpiR1R2dnhWbXFVekRkLVVNXzljWkRtV05rLUFjc2RRM2Jxcl9FRHBpZHExLUdXSVNzeXdkT0xaNjd4SzItSHhsWmtSUExHR3B0ZE9IR2lRNHByelkwazdVSWNaWnN6MUZIQVBVSGJVcG95ZU9aelIwSUNVTU94S0xuWEJaZHkw?oc=5"
   },
   {
-   "title": "Em Belém, Lula é o mais votado no 2º turno, com 55,01% dos votos válidos - CNN Brasil",
-   "link": "https://www.cnnbrasil.com.br/eleicoes/em-belem-lula-e-o-mais-votado-no-2o-turno-com-5501-dos-votos-validos/",
+   "title": "Lula vira e fica à frente de Flavio Bolsonaro no México no 2º turno - CNN Brasil",
+   "link": "https://www.cnnbrasil.com.br/eleicoes/lula-vira-e-fica-a-frente-de-flavio-bolsonaro-no-mexico-no-2o-turno/",
    "source": "CNN Brasil",
-   "published": "2026-10-26T00:12:37+00:00",
-   "desc": " Em Belém, Lula é o mais votado no 2º turno, com 55,01% dos votos válidos    CNN Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYWplTFBXQ0xQQlFPbjM4dmNZaF95S0ZyYTdBVVlPZHJTckpZM3RsOHVWMXBPNTJiYXloXzZTOHcwajlKWUkwOTJxX2VyTHFIcG13X3ZzRF83RkdrMEFuOGNjSEI0SVdadFRRazRtZV9TN0JJZjBMcXdsR2VoR2tGcWlzbnVLei1PbFdORkphUzNtOFM4dlFtT0xKTEx3b1ZNZFpXLTUyTGkyUGM?oc=5"
+   "published": "2026-10-26T00:12:45+00:00",
+   "desc": " Lula vira e fica à frente de Flavio Bolsonaro no México no 2º turno    CNN Brasil ",
+   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemVfSmtneFFON2JuY3hSNUl4YXBkaVhHMWNsbzVFQkN4TVdIT0JPUTJUMWFKYmVLb29ITFA5ek1uWGk2T1RsTFBSZlR6THpGZUpDR3ZmeTRqbG5VT0hVMnhVZl9xVnpWN0c2R3BQeFNMV0FXRVhwcW1tc2x1LVdUV0FiTFhBM3pVazBqTkxEdzlTUUxDaHRBQlZaNFN4RGpGUnN3ZUdaSmljdw?oc=5"
   },
   {
-   "title": "Lula é reeleito presidente do Brasil em virada histórica - Agência Brasil",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-e-reeleito-presidente-do-brasil-em-virada-historica",
-   "source": "Agência Brasil",
-   "published": "2026-10-26T00:11:00+00:00",
-   "desc": " Lula é reeleito presidente do Brasil em virada histórica    Agência Brasil ",
-   "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3QyYXdNQW83dEU5RFRFNkRHZkZUS1lVbnp6bk5tU192dk9FVFJIZW1RTmthZWxqU3pMSGctQ0FMOVAyMFVxVldhOElKUk9GSEU2UXFCeXpWX1J0aGNIM3YtZDVvUGYtaEtqam5iZHVLUVQ2dzhtM19yY1lOdU5QSkd5bkJFVmVtNHhramwzaUV6bi14WDc5T1lEODZCSHNESzZZcnBORkp1MUt4bFBoMDlQRmU?oc=5"
+   "title": "Flavio Bolsonaro tem 69,61% dos votos válidos em Rondônia no 2º turno - CNN Brasil",
+   "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-tem-6961-dos-votos-validos-em-rondonia-no-2o-turno/",
+   "source": "CNN Brasil",
+   "published": "2026-10-26T00:12:40+00:00",
+   "desc": " Flavio Bolsonaro tem 69,61% dos votos válidos em Rondônia no 2º turno    CNN Brasil ",
+   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnJQdEx3VThnZmRLMWlPdGJNdXN2UnFJelE2Z3ZpY3RiLTBCcmExMXFkTHNsbXdQb3dnd3BvY2tESGdFZEt2cG9wOFg2RFlOV1FpZFZHYVRFeUtMMzBNNW5FV00wMnh0dnNzRF9obkhXYzhwcjI1M1dmSWtPUUlWR3g3dy1jWEFIU24zOG50cHctXzBCUWtSMmhRNzJKYnppUVVZa0Fva3ZmZw?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence Flávio Bolsonaro em virada histórica no 2º turno",
-  "why_it_matters": "A reeleição garante a continuidade das políticas do governo e reforça a posição da esquerda em um país profundamente polarizado.",
-  "big_picture": "O resultado, anunciado enquanto a apuração ainda está em curso, sinaliza uma mudança de momentum nas regiões norte e nordeste e pode remodelar alianças no Congresso.",
+  "headline": "Lula assume a dianteira em México enquanto Flávio Bolsonaro domina Rondônia; projeções mostram viradas decisivas",
+  "why_it_matters": "Com o 2º turno a poucos minutos de começar, os primeiros números regionais já indicam quem pode levar a disputa nacional.",
+  "big_picture": "A apuração ainda está nos estágios iniciais, mas os resultados fragmentados revelam forte polarização entre o Norte/Nordeste e o Centro-Oeste.",
   "details": [
-   "Em Belém, Lula lidera com 55,01% dos votos válidos, segundo a CNN Brasil",
-   "Agência Brasil declara Lula reeleito em virada histórica",
-   "Folha, O Globo e Estadão divulgam horários de viradas e projeções em tempo real, mostrando que a contagem avança rapidamente"
+   "Horários das viradas na apuração foram divulgados pela Folha de S.Paulo",
+   "Apuração no Nordeste ainda em andamento, segundo O Globo",
+   "Projeção em tempo real do Estadão indica possível resultado final do turno",
+   "CNN Brasil registra Lula à frente no México",
+   "Flávio Bolsonaro tem 69,61% dos votos válidos em Rondônia"
   ],
-  "whats_next": "A apuração nacional deve se concluir nas próximas horas, definindo o placar final do 2º turno."
+  "whats_next": "A contagem nacional deve iniciar nas primeiras horas de 26/10, com resultados consolidados ao longo do dia."
  },
  "brief_en": {
-  "headline": "Lula beats Flávio Bolsonaro in historic 2nd‑round comeback",
-  "why_it_matters": "Re‑election locks in the government’s agenda and boosts the left in a deeply divided country.",
-  "big_picture": "Announced as counting continues, the result flips momentum in the North and Northeast and could reshape congressional alliances.",
+  "headline": "Lula leads in Mexico while Flávio Bolsonaro dominates Rondônia; projections show decisive swings",
+  "why_it_matters": "With the 2nd round minutes away, early regional tallies already hint at who could win the national race.",
+  "big_picture": "Counting is in its early phase, but fragmented results show a sharp North/Northeast vs. Central‑West split.",
   "details": [
-   "In Belém, Lula leads with 55,01% of valid votes, per CNN Brazil",
-   "Agência Brasil declares Lula re‑elected in historic comeback",
-   "Folha, O Globo and Estadão post real‑time turn‑around times and projections, showing the count racing ahead"
+   "Folha de S.Paulo released the timing of count swings",
+   "O Globo says the Northeast count is still ongoing",
+   "Estadão’s real‑time projection points to a possible final outcome",
+   "CNN Brazil shows Lula ahead in Mexico",
+   "Flávio Bolsonaro has 69,61% of valid votes in Rondônia"
   ],
-  "whats_next": "National tally should finish in hours, delivering the final 2nd‑round score."
+  "whats_next": "National tally should kick off early on Oct 26, with consolidated results rolling out through the day."
  },
  "error": null
 }
