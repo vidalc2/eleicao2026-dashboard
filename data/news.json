@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:17:58.423571-03:00",
+ "updated": "2026-10-26T04:19:58.433458-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -35,12 +35,12 @@
    "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ0Iwa0lTRFNkN3Zhc0hIeDNUbUNIR2pNTXVpQXliNkphRTl5R3ROLXkxUU9CUk9NeXlKa3dqWUoybEVxVEliVm52eHpNWm1MSzQxYlpCZnFMRmdVY0xBWHBobjVsOVBNM21vNWdjdEtkbVJ2TXVSQnUtWmdJRjZXNTFaWmtjb3FOZzJ3cExRYjcyc09TVUIzUXBOSll4dElQQ2ZxbGw4Nm1UejlmTnRFc01GRzFUY2IwOG5SaXg0bkhWMEFvYm1zVTNsS2VXY0lHVU0wZXJnbDJNQl9RZXowZ3hIQnBmTWZzS0dpZtIB-wFBVV95cUxPTTlReW9oZDJmNXlHdUxLaWhid2ZObFBseGZuOGtkaEhfZnlaSF9mc0x1SS1JQUowV29UTzA1TTNPZ09qZFowY0pibE9DY0hlVkxmeTczb2Izc2VrdlJTUzZkNmRwRDV4RzdQd0hLS3FoUk9NcTFnYVhxbUFvWkI2NnFiNlo0TmYxZDQ0NzRZZm5FSlNqX2xjOVR3S1E3NDFuRkxwM0lnTHF5WUpnNjV6bnMyZk5OalRZOXE4b3h6aDlxNmdMRU9WdmZoSndNQzh0NFc2ZGxEOFdSaHUwV1hMZmtPbHBVZjVXYXV4YmZlUlMwN2dLVlNRTXV0cw?oc=5"
   },
   {
-   "title": "Lula vence a eleição presidencial em Bela Vista de Minas - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/126418/lula-vence-a-eleicao-presidencial-em-bela-vista-de-minas",
+   "title": "Flávio Bolsonaro vence a eleição presidencial em Áurea - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/126446/flavio-bolsonaro-vence-a-eleicao-presidencial-em-aurea",
    "source": "Congresso em Foco",
-   "published": "2026-10-26T07:12:33+00:00",
-   "desc": " Lula vence a eleição presidencial em Bela Vista de Minas    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkVPc3E5LWVZdHRoa19ZQnZuYTY1X0E1eVVOX3Q1VHdOdkcwWGJZWFphYlBPM1dvLVZzYW1tSHFYUHl3dnh0RmptU21YOVZhRWx0dms1clItTFI1blFROU9GcEstdHk0QlNJQnU0UUEtM3JpRlZLTGZfdG1Xd0ZPRW1CbVhhR3pYVGtTQjlOd0VjRUUyUkFRRnFpbWNOQkxjLVhyVVNFSjEtQQ?oc=5"
+   "published": "2026-10-26T07:14:59+00:00",
+   "desc": " Flávio Bolsonaro vence a eleição presidencial em Áurea    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUUxTWUhNMDlyUF9lOHdrTFFTaGY3LTNRMDJvbEladnVTQlJ5UTFTd19IdDBpX0xDU2lVVjZBdXB3Rm1DOVJIdnJxcGFkLWRnUk9rREtTamZsb2tBaTgxalVha3dtM3JaXzNMQXJRM2JKcnlSX3l1TjducnZ5bUxhNS1ndkVFOWpPZ1pKZHNPYkE1cUVjeVAtTk9SQnZqYkMtLU4wU3l4NA?oc=5"
   }
  ],
  "brief": {
@@ -65,5 +65,5 @@
   ],
   "whats_next": "Lula will be sworn in on 1st January 2027, kicking off his second term."
  },
- "error": null
+ "error": "Expecting ',' delimiter: line 1 column 833 (char 832)"
 }
