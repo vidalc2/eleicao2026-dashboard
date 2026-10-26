@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:03:24.047952-03:00",
+ "updated": "2026-10-26T08:05:23.587020-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,26 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de um governo de direita liderado por Flávio Bolsonaro.",
-  "big_picture": "Com margem de 4,430,191 votos e 19,22% de abstenção, o resultado reforça a estabilidade democrática apesar das alegações de fraude.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos e assume presidência; Flávio Bolsonaro questiona resultado",
+  "why_it_matters": "A vitória garante a continuidade da agenda de governo e evita uma ruptura institucional, enquanto a contestação de Flávio pode gerar instabilidade política.",
+  "big_picture": "Com 100% das seções apuradas, a margem de 4,430,191 votos supera a abstenção de 19,22%, reforçando a legitimidade do pleito.",
   "details": [
-   "TSE concluiu a apuração: 100% das seções, Lula 51,79% vs Flávio 48,21%, diferença de 4,430,191 votos.",
-   "Flávio Bolsonaro classificou o resultado de “sacanagem” e prometeu buscar anulação nos tribunais.",
-   "Líderes mundiais felicitaram Lula, sinalizando apoio internacional ao novo mandato.",
-   "TSE negou retirada de fiscais do PL e afirmou que a apuração foi transparente.",
-   "Bahia liderou a queda da abstenção entre turnos, mostrando maior engajamento local."
+   "Flávio Bolsonaro chamou o resultado de ‘sacanagem’ e anunciou que buscará anular a eleição no TSE",
+   "Líderes mundiais enviaram mensagens de parabéns a Lula, sinalizando apoio internacional ao novo governo",
+   "O TSE refutou alegações de retirada de fiscais do PL durante a apuração, afirmando que o processo foi transparente e íntegro"
   ],
-  "whats_next": "Flávio deve recorrer ao TSE e ao STF, enquanto Lula se prepara para assumir em 1º de janeiro."
+  "whats_next": "Flávio deve apresentar recursos ao TSE; a posse de Lula está marcada para 1º de janeiro de 2027."
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left agenda alive and blocks a right‑wing government led by Flávio Bolsonaro.",
-  "big_picture": "A margin of 4,430,191 votes and 19,22% abstention shows democratic stability despite fraud claims.",
+  "headline": "Lula wins runoff with 51,79% of valid votes and takes office; Flávio Bolsonaro challenges result",
+  "why_it_matters": "The win keeps the government agenda on track and averts an institutional rupture, while Flávio’s challenge could spark political instability.",
+  "big_picture": "With 100% of precincts counted, a margin of 4,430,191 votes outpaces the 19,22% abstention, underscoring the election’s legitimacy.",
   "details": [
-   "TSE finished counting: 100% of precincts, Lula 51,79% vs Flávio 48,21%, margin of 4,430,191 votes.",
-   "Flávio Bolsonaro called the result “sacanagem” and said he’ll seek to overturn it in court.",
-   "World leaders congratulated Lula, signalling international backing for the new term.",
-   "TSE denied removing PL observers and said the count was transparent.",
-   "Bahia led the drop in abstention between rounds, showing higher local engagement."
+   "Flávio Bolsonaro called the result ‘sacanagem’ and said he’ll seek to overturn the election at the TSE",
+   "World leaders sent congratulations to Lula, signaling international backing for the new administration",
+   "The TSE denied claims of poll‑watcher removal, saying the count was transparent and sound"
   ],
-  "whats_next": "Flávio is expected to appeal to the TSE and the Supreme Court, while Lula gears up to take office on Jan. 1."
+  "whats_next": "Flávio is expected to file appeals with the TSE; Lula’s inauguration is set for Jan. 1, 2027."
  },
  "error": null
 }
