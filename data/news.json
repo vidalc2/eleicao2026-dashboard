@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:02:40.921196-03:00",
+ "updated": "2026-10-26T06:04:38.525296-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -27,47 +27,43 @@
    "gnews": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTDZna1NUZDhMQXVFS3lwN1pwUTVSbXpQRVNwLXNaNndmSnAyRTdIOXJ5ZUNoNzN5UnEyZjFzQTFhMFF4NmtqMVQ4MUdsbDY4Mkx5NXFEVFUtZS13YVE2NzhCRjdma1BkXzhfZURxa2o2TV91bGRGWVJkeUF1dzJ1XzlGTkdFeFdoY3UxR1NaZW9PTXFZVjB1eFdwUEt2bk5fWV9tVTdFRC1reGUydmdxenlLaVNOTXlRa1JjUHVtLVU4RU5fbllYbGhQS1BzQ2Mwb2haYVl0Ui05YU94MmhWVk4xdFEzMmlr0gH3AUFVX3lxTE9RaW85YkZiZXRQWDYydjhDS0VYbzk3bVdDdVVCZ3BGZjNmajBnT3NhY1RjMmo5OXJrNzJYZ3VwLUt2dmpJR0pQRTdycnQtT1ZPZXZPZkRDa2thZXhtRUJXWVliX0htNTdaczZ4TVdST0J0RnRvaXN6cmZ4VWFjb3Q2c21WNTVJWVVScWNNRkhaT2NPU1oydFc5RTVUOV9nd0FvencyM200aWVZZ0RDcWg0cXY1bFM3SDEzb296bHMtMXV5cVdtTzNtNlJUX0xQTDVnTE5lUWhMR2owT0VmVkEzb3E0enVGU0IxUHpGbEUyUFcySWd4ODA?oc=5"
   },
   {
+   "title": "Lula ganha em Eusébio; veja como a cidade votou - Congresso em Foco",
+   "link": "https://www.congressoemfoco.com.br/noticia/127429/lula-ganha-em-eusebio-veja-como-a-cidade-votou",
+   "source": "Congresso em Foco",
+   "published": "2026-10-26T08:57:59+00:00",
+   "desc": " Lula ganha em Eusébio; veja como a cidade votou    Congresso em Foco ",
+   "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTNvNnVLa1RKYVpoRlBIQjVrWC03cnQtZG9fU0RMc1o4TFBvTHk2d0NyWGZOT3VCZ0hpeTVJemdyRXZlLUhmWTRQY3BLZnkyd2QxeWxrYzN4UUUxekhwaTZBM2w0dnZWX0pCWElMUWVDUF9Ud3lKZ1BSdldiRDFXMVl4S1pfeF9wYmtvaTgzd01QUWR1dEM1WFktcUY?oc=5"
+  },
+  {
    "title": "Quixeramobim escolhe Lula para presidente no segundo turno - Congresso em Foco",
    "link": "https://www.congressoemfoco.com.br/noticia/127427/quixeramobim-escolhe-lula-para-presidente-no-segundo-turno",
    "source": "Congresso em Foco",
    "published": "2026-10-26T08:57:22+00:00",
    "desc": " Quixeramobim escolhe Lula para presidente no segundo turno    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV05iVUdOREszdjl1RTF2elAyaEl4cE9SZG9TLTdMMmRrd1p6N0xtYTVTSWhoN25kdUZGTmxIaTVGaGcxVmV2WTE3cmphalBqRVIyaFdVU1pOVHhmcjdwMlBTZE5hckkwcmxtT3BXbnczR3NWeTNRU2pydzZuM1Nub1FpdEQ1VHJXNnhKVTcwUGw4Y094VW1Rdjg3SlljdVpHb3BINVNkLW9KWlJS?oc=5"
-  },
-  {
-   "title": "Flávio Bolsonaro vence a eleição presidencial em Ponte Alta - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/127420/flavio-bolsonaro-vence-a-eleicao-presidencial-em-ponte-alta",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T08:56:28+00:00",
-   "desc": " Flávio Bolsonaro vence a eleição presidencial em Ponte Alta    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnNpb0NWSUU5TDlxUHFKZWlja3dDWjFxVFlScWJmaDhmVG9waVVaWGlZVWdvRjJCTS1oS1pnUS1SZWVhdjJVMGltOUtfaG0zdi1JeTZqTXZYOFlfLVA4aENEcHNPT0VzWC1yMjUzVWhrNTZMZVczTjZDVGFiLWtrZ1NHR3BnOGpkaVE5WU1QQVotVjh4a0pwRUNQWWkzWUpLWGczNnY5eEZMRTljUXc?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence o 2º turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro.",
-  "big_picture": "Com 4,43 milhões de votos de diferença e 19,22% de abstenção, o resultado reflete a polarização regional do Brasil.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos, superando Flávio Bolsonaro por 4,43 mi de votos",
+  "why_it_matters": "A vitória assegura a continuidade das políticas de combate à pobreza e da agenda internacional de Brasil, enquanto a derrota encerra a tentativa de Flávio Bolsonaro de chegar à presidência.",
+  "big_picture": "Com 100% das seções apuradas e 19,22% de abstenção, o resultado revela um país ainda polarizado, mas com maioria clara para Lula.",
   "details": [
-   "Resultado nacional: Lula 51,79% × Flávio 48,21% (diferença de 4.430.191 votos).",
-   "Lula consolidou apoio no Nordeste, exemplificado por Quixeramobim que votou majoritariamente nele.",
-   "Flávio Bolsonaro venceu em municípios do Sul e Centro‑Oeste, como Ponte Alta (SC) e nas zonas de Vila Propício (GO) e Xavantina (SC).",
-   "Apuração completa: 100 % das seções apuradas, confirmando a margem.",
-   "Abstenção ficou em 19,22%, indicando que quase um quinto dos eleitores não participou."
+   "Resultado final: Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos;",
+   "Lula consolidou a liderança em municípios estratégicos do Nordeste, como Eusébio (CE) e Quixeramobim (CE);",
+   "Flávio Bolsonaro manteve força em áreas rurais de Goiás (Vila Propício) e Santa Catarina (Xavantina), mas não conseguiu virar a maré nacional"
   ],
-  "whats_next": "Lula iniciará a transição presidencial enquanto Flávio Bolsonaro prepara sua concessionária oficial."
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, enquanto Flávio Bolsonaro se prepara para sua atuação no Congresso."
  },
  "brief_en": {
-  "headline": "Lula wins 2nd round with 51,79% of valid votes",
-  "why_it_matters": "The win secures the left‑leaning agenda and blocks the conservative platform of Flávio Bolsonaro.",
-  "big_picture": "A 4,43 million‑vote gap and 19,22% abstention highlight Brazil’s regional polarization.",
+  "headline": "Lula wins runoff with 51.79% of the vote, beating Flávio Bolsonaro by 4.43 mi votes",
+  "why_it_matters": "The win secures the continuation of anti‑poverty policies and Brazil’s global agenda, while the loss ends Flávio Bolsonaro’s bid for the presidency.",
+  "big_picture": "With 100% of precincts counted and 19.22% abstention, the result shows a still‑polarized nation but a clear majority for Lula.",
   "details": [
-   "National result: Lula 51,79% × Flávio 48,21% (gap of 4.430.191 votes).",
-   "Lula consolidated support in the Northeast, exemplified by Quixeramobim voting overwhelmingly for him.",
-   "Flávio Bolsonaro won in Southern and Central‑West towns such as Ponte Alta (SC) and the Vila Propício (GO) and Xavantina (SC) zones.",
-   "Full count: 100% of precincts tallied, confirming the margin.",
-   "Abstention at 19,22%, meaning almost one‑fifth of voters stayed home."
+   "Final tally: Lula 51.79% vs Flávio Bolsonaro 48.21% of valid votes.",
+   "Lula cemented leads in key Northeast towns like Eusébio (CE) and Quixeramobim (CE).",
+   "Flávio Bolsonaro held on in rural Goiás (Vila Propício) and Santa Catarina (Xavantina) but couldn’t flip the national tide."
   ],
-  "whats_next": "Lula will begin the presidential transition while Flávio Bolsonaro prepares his official concession office."
+  "whats_next": "Lula is sworn in on Jan 1, 2027, while Flávio Bolsonaro gears up for his role in Parliament."
  },
  "error": null
 }
