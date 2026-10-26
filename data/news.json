@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:48:10.635516-03:00",
+ "updated": "2026-10-26T04:50:10.404549-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,26 +44,28 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade do governo PT e impede a ascensão de Flávio Bolsonaro, mantendo a agenda de políticas sociais e econômicas já em curso.",
-  "big_picture": "Com 100% das seções apuradas, a margem de 4,430,191 votos confirma a liderança de Lula em todo o país, apesar de 19,22% de abstenção.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mihões",
+  "why_it_matters": "A vitória garante a continuidade do governo PT e define a agenda política e econômica para os próximos quatro anos.",
+  "big_picture": "Com 100 % das seções apuradas, a margem de 4,43 mihões de votos mostra um país ainda dividido, mas com abstenção de 19,22 % que evidencia descontentamento de quase um quinto dos eleitores.",
   "details": [
-   "Lula foi o candidato mais votado em municípios como Campos Belos (GO), Irauçuba (CE) e Paranatama (PE), conforme reportagens locais",
-   "Zonas eleitorais de Capitão Poço (PA) e Soure (PA) registraram resultados que espelham a tendência nacional a favor de Lula",
-   "A taxa de abstenção de 19,22% indica que quase um quinto dos eleitores optou por não participar, um fator a ser observado nos próximos anos"
+   "Capitão Poço (PA) registra vitória de Lula no segundo turno",
+   "Soure (PA) confirma a liderança de Lula",
+   "Campos Belos, Irauçuba e Paranatama também dão maioria a Lula",
+   "Abstenção permanece alta, indicando descontentamento de quase um quinto dos eleitores"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu segundo mandato presidencial."
+  "whats_next": "Lula assume a presidência em 1 de janeiro de 2027, enquanto Flávio Bolsonaro prepara contestação judicial"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes",
-  "why_it_matters": "The win keeps a PT government in power and blocks Flávio Bolsonaro, preserving the current social and economic agenda.",
-  "big_picture": "With 100% of precincts counted, a 4,430,191‑vote margin cements Lula’s lead nationwide, despite a 19,22% abstention rate.",
+  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mihões",
+  "why_it_matters": "The win secures a PT government and sets the political‑economic agenda for the next four years.",
+  "big_picture": "With 100 % of precincts counted, a margin of 4,43 mihões shows a still‑split country, while a 19,22 % abstention signals discontent from nearly a fifth of voters.",
   "details": [
-   "Lula topped the vote in towns like Campos Belos (GO), Irauçuba (CE) and Paranatama (PE), per local reports.",
-   "Capitão Poço (PA) and Soure (PA) precincts mirrored the national swing toward Lula.",
-   "A 19,22% abstention rate shows almost one‑fifth of voters stayed home, a trend to watch."
+   "Capitão Poço (PA) reports Lula’s second‑round win",
+   "Soure (PA) confirms Lula in lead",
+   "Campos Belos, Irauçuba and Paranatama also go Lula",
+   "Abstention stays high, echoing voter discontent"
   ],
-  "whats_next": "Lula is sworn in on Jan. 1, 2027, kicking off his second presidential term."
+  "whats_next": "Lula takes office on Jan 1 2027; Flávio Bolsonaro is gearing up for a court challenge"
  },
  "error": null
 }
