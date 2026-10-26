@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:41:24.082613-03:00",
+ "updated": "2026-10-26T02:43:24.669221-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -45,25 +45,27 @@
  ],
  "brief": {
   "headline": "Lula vence segundo turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro ao Palácio do Planalto.",
-  "big_picture": "Com 4,430,191 votos a mais, Lula supera a margem necessária e consolida seu terceiro mandato, enquanto a abstenção de 19,22% indica cansaço eleitoral.",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e impede a ascensão de Flávio Bolsonaro, candidato de direita, ao Palácio do Planalto.",
+  "big_picture": "Com 4,430.191 votos de diferença, Lula supera a alta taxa de abstenção de 19,22% e consolida seu terceiro mandato presidencial.",
   "details": [
-   "TSE confirma 100% das seções apuradas, resultando em 51,79% para Lula e 48,21% para Flávio Bolsonaro",
-   "Líderes mundiais já enviaram felicitações a Lula, sinalizando apoio diplomático",
-   "Manchetes locais apontam vitória de Flávio em municípios como União Paulista, mas a totalização nacional demonstra o contrário"
+   "Apuração completa: 100% das seções já contabilizadas pelo TSE",
+   "Lula liderou em municípios estratégicos, como Alto do Rodrigues, reforçando sua base regional",
+   "Líderes mundiais foram os primeiros a parabenizar Lula pela vitória, segundo a BBC",
+   "Alguns veículos ainda divulgam informações equivocadas, como a alegação de vitória de Flávio em União Paulista"
   ],
-  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu terceiro mandato"
+  "whats_next": "Lula será empossado em 1º de janeiro de 2027, iniciando seu próximo governo."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes",
-  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks Flávio Bolsonaro from the Planalto Palace.",
-  "big_picture": "With a 4,430,191‑vote lead, Lula clears the threshold for a third term, while a 19,22% abstention signals voter fatigue.",
+  "headline": "Lula wins second round with 51,79% of valid votes",
+  "why_it_matters": "The win keeps the left agenda alive and blocks right‑wing candidate Flávio Bolsonaro from the Planalto Palace.",
+  "big_picture": "With a 4,430.191‑vote margin, Lula beats a 19,22% turnout gap and secures a third term.",
   "details": [
-   "TSE reports 100% of precincts counted, giving Lula 51,79% and Flávio Bolsonaro 48,21%",
-   "World leaders have already sent congratulations, signalling diplomatic support",
-   "Local headlines note Flávio wins in towns like União Paulista, but the national tally tells a different story"
+   "Full count: 100% of precincts tallied by TSE",
+   "Lula led in key towns like Alto do Rodrigues, bolstering his regional base",
+   "World leaders were first to congratulate Lula on the win, per BBC",
+   "Some outlets still spread false info, such as claiming Flávio won in União Paulista"
   ],
-  "whats_next": "Lula will be sworn in on Jan 1, 2027 to start his third term"
+  "whats_next": "Lula is sworn in on Jan 1, 2027, kicking off his next government."
  },
  "error": null
 }
