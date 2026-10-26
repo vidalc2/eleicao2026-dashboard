@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:19:26.386679-03:00",
+ "updated": "2026-10-26T08:21:28.025635-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
   {
@@ -44,30 +44,32 @@
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória assegura a continuidade da agenda de esquerda e define a política externa do Brasil pelos próximos quatro anos.",
-  "big_picture": "Com 80,78% de comparecimento, a eleição foi a mais participativa desde 2018, e a margem de 4,43 milhões reforça a legitimidade do resultado.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mi de votos",
+  "why_it_matters": "A vitória assegura a continuidade da agenda de governo de esquerda e impede a tomada de poder por um candidato de direita radical.",
+  "big_picture": "Com 19,22% de abstenção, a eleição demonstra alta participação e mantém o Brasil alinhado com líderes mundiais que já parabenizaram o resultado.",
   "details": [
-   "TSE concluiu a totalização com 100% das seções apuradas, confirmando 51,79% a 48,21% entre Lula e Flávio Bolsonaro",
-   "Flávio Bolsonaro classificou o resultado de ‘sacanagem’ e prometeu buscar anulação; o TSE rebateu alegações de retirada de fiscais",
-   "Líderes mundiais enviaram mensagens de parabéns a Lula, sinalizando apoio internacional ao novo governo",
-   "Bahia liderou a queda da abstenção entre turnos, indicando maior engajamento dos eleitores",
-   "Resultados por local de votação em Lagoa Seca (PB) seguiram a tendência nacional a favor de Lula"
+   "Lula 51,79% x Flávio Bolsonaro 48,21% – diferença de 4.430.191 votos; 100% das seções apuradas",
+   "Flávio Bolsonaro classificou o resultado de ‘sacanagem’ e prometeu tentar anular a eleição",
+   "O TSE rebate as alegações de fraude e nega retirada de fiscais do PL durante a apuração",
+   "Líderes internacionais enviaram mensagens de parabéns ao presidente eleito",
+   "Bahia registrou a maior queda na taxa de abstenção entre os turnos",
+   "Resultados por local, como na 13ª zona eleitoral de Lagoa Seca (PB), confirmam a vitória de Lula"
   ],
-  "whats_next": "Flávio Bolsonaro deve entrar com pedido de contestação ao TSE, enquanto Lula se prepara para assumir em 1º de janeiro"
+  "whats_next": "Flávio Bolsonaro deve apresentar recurso ao TSE, enquanto o governo de transição de Lula se prepara para assumir em 1º de janeiro"
  },
  "brief_en": {
-  "headline": "Lula wins second round with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "The win locks in a left‑leaning agenda and sets Brazil’s foreign policy for the next four years.",
-  "big_picture": "Turnout hit 80,78%, the highest since 2018, and a 4,43‑million margin bolsters the result’s legitimacy.",
+  "headline": "Lula wins second round with 51,79% of valid votes, edging Flávio Bolsonaro by 4,43 mi votes",
+  "why_it_matters": "The win keeps the left‑leaning agenda alive and blocks a radical right candidate from taking power.",
+  "big_picture": "With 19,22% abstention, turnout was strong and Brazil stays in step with world leaders who have already congratulated the result.",
   "details": [
-   "TSE completed the count with 100% of precincts reported, confirming 51,79% to 48,21% for Lula vs Flávio Bolsonaro",
-   "Flávio Bolsonaro called the outcome ‘rigged’ and said he’ll seek to overturn it; TSE rejected claims of poll‑watcher removal",
-   "World leaders sent congratulations to Lula, signalling international backing for the new administration",
-   "Bahia drove the drop in abstention between rounds, showing higher voter engagement",
-   "Vote totals in Lagoa Seca (PB) mirrored the national swing toward Lula"
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% – margin of 4.430.191 votes; 100% of precincts counted",
+   "Flávio Bolsonaro called the result ‘sacanagem’ and vowed to try to overturn the election",
+   "The TSE rebuts fraud claims and denies removing PL poll watchers during the count",
+   "International leaders sent congratulations to the president‑elect",
+   "Bahia saw the biggest drop in abstention between rounds",
+   "Local results, such as in the 13th electoral zone of Lagoa Seca (PB), confirm Lula’s win"
   ],
-  "whats_next": "Flávio Bolsonaro is expected to file a challenge with the TSE, while Lula gears up to take office on Jan. 1"
+  "whats_next": "Flávio Bolsonaro is expected to file an appeal with the TSE, while Lula’s transition team gears up to take office on Jan 1."
  },
  "error": null
 }
