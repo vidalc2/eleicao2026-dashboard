@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-26T05:44:32.362871-03:00",
+ "updated": "2026-10-26T05:46:32.863701-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Cidades com voto casado em Lula e Tarcísio passam de 33 para 66 no 2º turno em SP - G1",
+   "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/26/cidades-com-voto-casado-em-lula-e-tarcisio-passam-de-33-para-66-no-2o-turno-em-sp.ghtml",
+   "source": "G1",
+   "published": "2026-10-26T08:30:00+00:00",
+   "desc": " Cidades com voto casado em Lula e Tarcísio passam de 33 para 66 no 2º turno em SP    G1 ",
+   "gnews": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaXNjaXN6enVnMHRZUFVXaEl0dV9aZjFmalRIU1ktWW1ieW84NjRLZ25nSTEzaEIyMzVYYjhLdHRva0hEeDJQOHFOUTFXRDQ0dFdMUkxGenZkWmNMOUVheFNWc1kwY3VhRk1mWmVmSTJ5emE2TlJxcmlTT25FQkRJVlF1Xy16U20yUjZXR0U1ZjJUQ2dWSk5mekZabWQ1TnppNGZkdG9ZQTNDRTVjTVNRWlFQYThZQ2ljeXF1eFlfc1o1Sk51WDVEVWRKaWRaTDJrdVAwamp3OGI4Z0o5emUxWE91VU1Xd3YzcGfSAfgBQVVfeXFMTjJCbGgyTVBsTUVmYjcyRHFieHhBRk9BVHlyTDh2Y29weU50Zl9JRV9MZ3IzaVhoaVI2YzdRUmhxUlpvTGgtejhUbFMxLUhxTlFxLXczZFF3TDMzN3BSTms4Qjgwd0NQa19PRUV6Y3NnMndBdGRJbk15bGFIUTVPcmlnWEY2c29XcDhsWEZnRno2WnJGOVFpa2hUY0lkOS0yblVyaTFyYXF6Y0t2S2EwTkc4aG9SbTZsVDdjMWxQWERPT2dXeVhyX2JlRjBwWG93QjBVTjBPMHpvcjlOdXlZTkFkNl9LWGo0WF9WQk9adG5McGpxcHA1cWw?oc=5"
+  },
   {
    "title": "São Domingos (SC): resultado do local de votação por zonas eleitorais no 2º turno - G1",
    "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/10/26/sao-domingos-sc-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
@@ -33,39 +41,31 @@
    "published": "2026-10-26T08:30:47+00:00",
    "desc": " Flávio Bolsonaro vence a eleição presidencial em Areal    Congresso em Foco ",
    "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkFqd2pBNlpqdmMxT0V4aUV4ak8wRGZWdTFHakVXQmQtbnlydEJlM0xVZnlUbzNFejJQSEFtTW94YXl6TmxyeG5RSTVPVmNGV002RjRNa0VCWXRwb0l0am5tT1NmT2g5WmtPc1FiRExsVXh2T1M1ZG1wbGZVU3FNMXpNdUFFeU91VFVTUzRhck9DaHY5c0VCdF9RdGJockZvVGdpclVDcw?oc=5"
-  },
-  {
-   "title": "Bom Jesus do Galho escolhe Lula para presidente no segundo turno - Congresso em Foco",
-   "link": "https://www.congressoemfoco.com.br/noticia/127199/bom-jesus-do-galho-escolhe-lula-para-presidente-no-segundo-turno",
-   "source": "Congresso em Foco",
-   "published": "2026-10-26T08:30:47+00:00",
-   "desc": " Bom Jesus do Galho escolhe Lula para presidente no segundo turno    Congresso em Foco ",
-   "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQlJsNXB1WDFYSHhOVkJtbDFnbmVSckhFajBqdWh1cEVDRUZoekl5RjNRd1RNVmNXRzVrN2d2Vk5KTmxTaTNRZ0xlNk1iNVNyNW5iVkVydnpUNXBFVlkyYmZQdzlNeW5uQTZENDVtdlN4MEh3THFpNURRLWtsalVCQkt5Ml9XWHB2ODd4V3RJYzY2d0FpNkFQb1pfQWJRZ0o0b2RtMHNndXdKVHBZU1NzWGN2dEc?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 milhões",
-  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a ascensão de um governo de direita liderado por Flávio Bolsonaro.",
-  "big_picture": "Com 100% das seções apuradas e abstenção de 19,22%, o resultado reflete a polarização regional, mas confirma a preferência nacional por Lula.",
+  "headline": "Lula vence segundo turno com 51,79% dos votos válidos, superando Flávio Bolsonaro por 4,43 mi de votos",
+  "why_it_matters": "A vitória garante a continuidade da agenda do PT e evita uma guinada de direita liderada por Flávio Bolsonaro. O estreito intervalo evidencia a profunda divisão política do país.",
+  "big_picture": "O resultado reflete a força do voto casado Lula‑Tarcísio em São Paulo, que dobrou de 33 para 66 municípios, e a resistência de Bolsonaro em áreas como Areal, embora o placar nacional seja decisivo. A abstenção de 19,22% mostra cansaço eleitoral, mas não impediu a definição clara do vencedor.",
   "details": [
-   "Lula obteve 51,79% dos votos válidos, enquanto Flávio ficou com 48,21%.",
-   "A margem de 4.430.191 votos foi decisiva apesar da alta taxa de abstenção (19,22%).",
-   "Municípios como São Domingos e São Lourenço do Oeste (SC) registraram resultados alinhados ao padrão nacional.",
-   "Algumas cidades, como Areal, votaram em Flávio, enquanto outras, como Bom Jesus do Galho, escolheram Lula, ilustrando a divisão geográfica."
+   "Lula 51,79% x Flávio Bolsonaro 48,21% em 100 % das seções apuradas, diferença de 4.430.191 votos",
+   "Voto casado Lula‑Tarcísio aumentou de 33 para 66 municípios em SP, impulsionando a margem de Lula",
+   "Resultados locais em São Domingos (SC) e São Lourenço do Oeste (SC) seguiram a tendência nacional a favor de Lula",
+   "Cobertura equivocada de que Flávio venceu em Areal foi desmentida pelos dados oficiais, que confirmam a liderança de Lula"
   ],
-  "whats_next": "A diplomação oficial ocorrerá nas próximas semanas, seguida da posse em 1º de janeiro de 2027."
+  "whats_next": "Lula iniciará a transição de governo e será empossado em 1 de janeiro de 2027."
  },
  "brief_en": {
-  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 million",
-  "why_it_matters": "The win secures the left‑leaning agenda and blocks a right‑wing government under Flávio Bolsonaro.",
-  "big_picture": "With 100% of precincts counted and 19,22% abstention, the result shows regional polarization but confirms a national preference for Lula.",
+  "headline": "Lula wins runoff with 51,79% of valid votes, beating Flávio Bolsonaro by 4,43 mi votes",
+  "why_it_matters": "The win secures the PT agenda and blocks a right‑wing swing led by Flávio Bolsonaro. The tight margin underscores the country’s deep political split.",
+  "big_picture": "The outcome shows the Lula‑Tarcísio ticket’s surge in São Paulo – doubling from 33 to 66 municipalities – and Bolsonaro’s hold in places like Areal, though the national tally decides. A 19,22% abstention signals voter fatigue but didn’t blur the clear winner.",
   "details": [
-   "Lula got 51,79% of valid votes; Flávio had 48,21%.",
-   "A margin of 4.430.191 votes proved decisive despite a high abstention rate (19,22%).",
-   "Municipalities like São Domingos and São Lourenço do Oeste (SC) posted results in line with the national trend.",
-   "Some towns, such as Areal, voted for Flávio; others, like Bom Jesus do Galho, chose Lula, highlighting the geographic split."
+   "Lula 51,79% vs Flávio Bolsonaro 48,21% in 100 % of counted precincts, margin of 4.430.191 votes",
+   "Lula‑Tarcísio joint ticket rose from 33 to 66 municipalities in SP, boosting Lula’s margin",
+   "Local results in São Domingos (SC) and São Lourenço do Oeste (SC) mirrored the national tilt toward Lula",
+   "Erroneous reports that Flávio won in Areal were debunked by official data, confirming Lula’s lead"
   ],
-  "whats_next": "The official certification will happen in the coming weeks, with the inauguration on Jan 1, 2027."
+  "whats_next": "Lula will start the transition and be sworn in on Jan 1, 2027."
  },
  "error": null
 }
