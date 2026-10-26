@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-25T23:25:40.335813-03:00",
+ "updated": "2026-10-25T23:27:43.438054-03:00",
  "model": "gpt-oss:120b-cloud",
  "items": [
+  {
+   "title": "Lula virou sobre Flávio Bolsonaro no Norte, onde candidato do PL encolheu em 6 Estados - Estadão",
+   "link": "https://www.estadao.com.br/politica/eleicoes/lula-virou-sobre-flavio-bolsonaro-no-norte-onde-candidato-do-pl-encolheu-em-6-estados/",
+   "source": "Estadão",
+   "published": "2026-10-26T02:17:00+00:00",
+   "desc": " Lula virou sobre Flávio Bolsonaro no Norte, onde candidato do PL encolheu em 6 Estados    Estadão ",
+   "gnews": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSnV2SlFrTjRxekNUcHFfUUJGUktQQkNTWXRqWU5IZkN0eDhISzlJRkJMTE9ObUlyYUQ4ZllCZWZ6ZFdlN24tS1owUlphLU1UbDJLa3B4ZHN6NDdoT1FmRndSRkRjTjRuRHZ3WmJOXzYxRmxvaWVZTkNpMUlYODhZLU5OTlRicEI2YlJvVFpRV0o1LVFxUnRKOUJ2OEZDSWNQVTdLQ2RHRnhjTUFnVEhxV2Zib3FVX0pIelJJRE15RVRiU29MTjZiX2VWd9IB0AFBVV95cUxPZE1YWG0zOHh1YndxaHhicWZ2VUk1LXRNcXEyUmFGQ0lVaHY4ZlBzS1F6RFBFdE8xOVNVM1FzUGVYM2t5TWRjM0VVMkppNU1PZkVpbWJpLWMwX3BEUWQ2SU9FMDd3eno0LV9zeTZrem0yY0tJdUg0SmszQ1dZUnFka2FUMlB6alphbEhZc25yQVBsM0hpbE9VMzh2bExoMnc2YUVpS1RBQTJtbTdsT3FnMkdkNWp1dWNpRmxfNTF1YmJQUmZlVVJzbHRWV3E5aVh6?oc=5"
+  },
   {
    "title": "Eleições 2026: quem ganhou em São Mateus (ES) no 2º turno - O GLOBO",
    "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/eleicoes-2026-quem-ganhou-em-sao-mateus-es-no-2-turno.ghtml",
@@ -33,41 +41,29 @@
    "published": "2026-10-26T02:08:25+00:00",
    "desc": " STF atropela TSE e prorroga eleição em 2h    Poder360 ",
    "gnews": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG1PWDlkQWwtZkpPMnI3UDlaWS1xUDlkeUZ1c1ZVNnV6bGJtTE5DaGxFcWpvUTRmVnEzak5lQkd4Zk9Ycnk3NEVDblBwelRIQTY2TVA4czRJRTBTRDdLTmhFLWZNbnRsU2pWMHo4ZFFVNTFGV0dTeVVqX084bUVuNkYwSzBZaUQtQnhZRkdEVWQ1RW9XeUE?oc=5"
-  },
-  {
-   "title": "Veja mapa das cidades onde Lula e onde Flávio ganharam mais votos - Folha de S.Paulo",
-   "link": "https://www1.folha.uol.com.br/esporte/2026/10/veja-mapa-das-cidades-onde-lula-e-onde-flavio-ganharam-mais-votos.shtml",
-   "source": "Folha de S.Paulo",
-   "published": "2026-10-26T02:08:00+00:00",
-   "desc": " Veja mapa das cidades onde Lula e onde Flávio ganharam mais votos    Folha de S.Paulo ",
-   "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUC1TQ0tSWi1NT1R5LVRfVVYtTDZuejR4c09uUGluSzduWGthb094S0tLajZSeXVZZUJGMDNEbkozcGJ5cUxFSHU1RHRTVkd6dEh0ejk1WXNqaTVoMHU3ejFpYTlZUThlaXM0TFJ0Z2loTWRWNDR4Y3JLcEVod3VOQVh3Mmc4RV9SQTFtOTlQQmp5aXRuQTJtZEZkQnM1cTJzRGFjV1VXeTQ3SlF3b1V5SEJiMmQ0Wld1?oc=5"
   }
  ],
  "brief": {
-  "headline": "Lula vence no 2º turno com 51,79% dos votos válidos",
-  "why_it_matters": "A vitória de Lula garante a continuidade do governo e define a agenda política para os próximos quatro anos.",
-  "big_picture": "Com 100% das seções apuradas, o candidato do PT lidera por 4,43 milhões de votos, apesar de 19,22% de eleitores terem se abstido.",
+  "headline": "Lula vence Flávio Bolsonaro no 2º turno com 51,79% dos votos",
+  "why_it_matters": "A vitória garante a continuidade da agenda de esquerda e impede a agenda conservadora de Flávio Bolsonaro. O resultado reforça a força do PT em um cenário altamente polarizado.",
+  "big_picture": "Com 4,430,191 votos a mais, Lula assegura seu terceiro mandato, enquanto a abstenção de 19,22% evidencia o descontentamento de parte do eleitorado. O pleito redefine o mapa político nacional para os próximos quatro anos.",
   "details": [
-   "Lula 51,79% x Flávio Bolsonaro 48,21% dos votos válidos",
-   "Ganhos decisivos em São Mateus (ES), Manaus (AM) e Palmas (TO) consolidam a vitória",
-   "Mapa da Folha mostra concentração de apoio a Lula no Nordeste e Norte, enquanto Flávio domina no Sul e Sudeste",
-   "STF prorrogou o prazo de apuração em 2 horas, mas o TSE já havia concluído a contagem",
-   "Abstenção de quase um quinto dos eleitores indica cansaço ou descrença no processo"
+   "Lula virou o Norte, vencendo em 6 estados onde Flávio Bolsonaro recuou",
+   "Conquistas decisivas em cidades estratégicas: São Mateus (ES), Manaus (AM) e Palmas (TO)",
+   "STF prorrogou a apuração em 2 horas, mas o TSE já divulgou 100% das seções apuradas"
   ],
-  "whats_next": "A posse de Lula está marcada para 1º de janeiro de 2027, enquanto o STF deve analisar eventuais recursos de Flávio Bolsonaro."
+  "whats_next": "Lula tomará posse em 1º de janeiro de 2027, enquanto Flávio Bolsonaro pode recorrer ao Judiciário para contestar o resultado."
  },
  "brief_en": {
-  "headline": "Lula wins 2nd round with 51,79% of valid votes",
-  "why_it_matters": "Lula’s win secures the government’s continuity and sets the political agenda for the next four years.",
-  "big_picture": "With 100% of precincts counted, the PT candidate leads by 4.43 million votes, even as 19.22% of voters stayed home.",
+  "headline": "Lula beats Flávio Bolsonaro in 2nd round with 51,79% of the vote",
+  "why_it_matters": "The win locks in a left‑leaning agenda and blocks Flávio Bolsonaro’s conservative push. It also underlines the PT’s strength in a sharply divided climate.",
+  "big_picture": "With a margin of 4,430,191 votes, Lula clinches a third term, while a 19,22% abstention signals voter discontent. The result reshapes the national political map for the next four years.",
   "details": [
-   "Lula 51,79% vs Flávio Bolsonaro 48,21% of valid votes",
-   "Key gains in São Mateus (ES), Manaus (AM) and Palmas (TO) clinch the win",
-   "Folha map shows Lula strong in the Northeast and North, while Flávio leads in the South and Southeast",
-   "STF extended the counting deadline by 2 hours, though TSE had already finished tallying",
-   "Almost one‑fifth abstention hints at voter fatigue or distrust"
+   "Lula flipped the North, winning in six states where Flávio Bolsonaro fell back",
+   "Key wins in strategic cities: São Mateus (ES), Manaus (AM) and Palmas (TO)",
+   "The STF extended counting by 2 hours, but the TSE had already posted 100% of precincts"
   ],
-  "whats_next": "Lula’s inauguration is set for Jan 1, 2027, and the STF will review any appeals from Flávio Bolsonaro."
+  "whats_next": "Lula is sworn in on Jan. 1, 2027, while Flávio Bolsonaro may take the result to the courts."
  },
  "error": null
 }
